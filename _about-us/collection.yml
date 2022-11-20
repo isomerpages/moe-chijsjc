@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Accolades/Organisational Achievements.md
       - Accolades/Student Awards.md
       - Accolades/Alumni Achievements.md
       - Accolades/.keep

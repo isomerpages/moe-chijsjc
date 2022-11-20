@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Craft and Technology/.keep
       - Elements of Business Skills.md
       - English Language and English Literature.md
       - Humanities.md

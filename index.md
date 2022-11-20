@@ -8,4 +8,14 @@ notification: CHIJ St.  Joseph's Convent
 sections:
   - hero:
       background: /images/Homepage/HomepageGIF.gif
+      key_highlights:
+        - title: Announcements
+          description: ""
+          url: ""
+        - title: Useful Links
+          description: ""
+          url: ""
+        - title: News & Events
+          description: ""
+          url: ""
 ---

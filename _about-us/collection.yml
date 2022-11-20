@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Accolades/Alumni Achievements.md
       - Accolades/.keep
       - Admission/Direct School Information.md
       - Admission/.keep

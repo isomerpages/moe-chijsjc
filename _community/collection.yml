@@ -2,6 +2,7 @@ collections:
   community:
     output: true
     order:
+      - Parent Support Group/Mission, Objectives, Focus Areas.md
       - Parent Support Group/PSG ExCo.md
       - Parent Support Group/Parent School Collaboration.md
       - Parent Support Group/Join as Volunteer.md

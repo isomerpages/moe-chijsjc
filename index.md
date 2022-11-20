@@ -7,6 +7,5 @@ permalink: /
 notification: CHIJ St.  Joseph's Convent
 sections:
   - hero:
-      background: /images/hero-banner.png
+      background: /images/Homepage/HomepageGIF.gif
 ---
-

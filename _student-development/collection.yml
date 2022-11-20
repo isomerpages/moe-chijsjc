@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - CCE/Sexuality Education.md
       - CCE/National Education.md
       - CCE/.keep
       - R3 Development Programme/Overview.md

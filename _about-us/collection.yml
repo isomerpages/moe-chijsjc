@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Publications/80th Anniversary Publication.md
       - Our Publications/.keep
       - Accolades/Organisational Achievements.md
       - Accolades/Student Awards.md

@@ -2,6 +2,7 @@ collections:
   useful-links:
     output: true
     order:
+      - Teachers and Staff.md
       - Parents.md
       - Student Services.md
       - Financial Assistance.md

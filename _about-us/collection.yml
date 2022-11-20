@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - Our School Information/Our Vision, Mission, Motto & Values.md
       - Our School Information/Our School Facilities.md
       - Our School Information/.keep

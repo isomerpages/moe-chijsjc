@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Contact Us.md
       - FAQs.md
       - Our Publications/2021 EYearbook.md
       - Our Publications/Newsletters.md

@@ -1,2 +1,88 @@
 logo: /images/Homepage/H2.png
-links: []
+links:
+  - title: About us
+    url: /permalink
+    sublinks:
+      - title: Our School Information
+        url: /permalink
+      - title: Our People
+        url: /permalink
+      - title: Admission
+        url: /permalink
+      - title: Accolades
+        url: /permalink
+      - title: Our Publications
+        url: /permalink
+      - title: FAQs
+        url: /permalink
+      - title: Contact Us
+        url: /permalink
+  - title: Curriculum
+    url: /permalink
+    sublinks:
+      - title: Aesthetics
+        url: /permalink
+      - title: Craft and Technology
+        url: /permalink
+      - title: Elements of Business Skills
+        url: /permalink
+      - title: English Language & Literature
+        url: /permalink
+      - title: Humanities
+        url: /permalink
+      - title: Mathematics
+        url: /permalink
+      - title: Mother Tongue
+        url: /permalink
+      - title: Physical Education
+        url: /permalink
+      - title: Science
+        url: /permalink
+      - title: NDLP
+        url: /permalink
+  - title: Student Development
+    url: /permalink
+    sublinks:
+      - title: Code of Conduct
+        url: /permalink
+      - title: CCE
+        url: /permalink
+      - title: R3 Development Programme
+        url: /permalink
+      - title: Student Leadership Development
+        url: /permalink
+      - title: Values-In-Action
+        url: /permalink
+      - title: Education and Career Guidance
+        url: /permalink
+  - title: CCA
+    url: /permalink
+    sublinks:
+      - title: Clubs and Societies
+        url: /permalink
+      - title: Physical Sports
+        url: /permalink
+      - title: Uniformed Groups
+        url: /permalink
+      - title: Visual & Performing Arts
+        url: /permalink
+      - title: CCA Schedule
+        url: /permalink
+      - title: LEAPS 2.0
+        url: /permalink
+  - title: Special Programmes
+    url: /permalink
+    sublinks:
+      - title: Distinctive Programmes
+        url: /permalink
+  - title: Community
+    url: /permalink
+    sublinks:
+      - title: Message - IJ Board of Mgmt
+        url: /permalink
+      - title: IJ Board of Management
+        url: /permalink
+      - title: Parent Support Group
+        url: /permalink
+      - title: Alumni
+        url: /permalink

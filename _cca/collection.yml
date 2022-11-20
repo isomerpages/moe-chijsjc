@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Uniformed Groups/.keep
       - Visual & Performing Arts/Angklung and Kulintang Ensemble.md
       - Visual & Performing Arts/CentreStage (Drama & Debates).md
       - Visual & Performing Arts/Choir.md

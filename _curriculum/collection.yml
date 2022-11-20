@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Aesthetics/.keep
       - Craft and Technology/Computer Applications.md
       - Craft and Technology/Design & Technology.md
       - Craft and Technology/Nutrition & Food Science.md

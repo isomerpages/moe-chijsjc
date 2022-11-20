@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - CCAs.md
       - Clubs and Societies/CHIJ Youth Mission.md
       - Clubs and Societies/Culinary Arts Club.md
       - Clubs and Societies/Pixel Playhouse.md

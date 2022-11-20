@@ -2,4 +2,5 @@ collections:
   special-programmes:
     output: true
     order:
+      - Distinctive Programmes/Learning for Life Programme.md
       - Distinctive Programmes/.keep

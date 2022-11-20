@@ -2,25 +2,25 @@ collections:
   about-us:
     output: true
     order:
-      - Contact Us.md
-      - FAQs.md
-      - Our Publications/2021 EYearbook.md
-      - Our Publications/Newsletters.md
-      - Our Publications/80th Anniversary Publication.md
-      - Our Publications/.keep
-      - Accolades/Organisational Achievements.md
-      - Accolades/Student Awards.md
-      - Accolades/Alumni Achievements.md
-      - Accolades/.keep
-      - Admission/Direct School Information.md
-      - Admission/.keep
-      - Our People/School Management Team.md
-      - Our People/Teaching Staff.md
-      - Our People/Non Teaching Staff.md
-      - Our People/.keep
+      - Our School Information/.keep
       - Our School Information/Our Founder & Patron.md
       - Our School Information/Our History.md
       - Our School Information/Our School Crest, School Song & School Flag.md
       - Our School Information/Our Vision, Mission, Motto & Values.md
       - Our School Information/Our School Facilities.md
-      - Our School Information/.keep
+      - Our People/.keep
+      - Our People/School Management Team.md
+      - Our People/Teaching Staff.md
+      - Our People/Non Teaching Staff.md
+      - Admission/.keep
+      - Admission/Direct School Information.md
+      - Accolades/.keep
+      - Accolades/Organisational Achievements.md
+      - Accolades/Student Awards.md
+      - Accolades/Alumni Achievements.md
+      - Our Publications/.keep
+      - Our Publications/2021 EYearbook.md
+      - Our Publications/Newsletters.md
+      - Our Publications/80th Anniversary Publication.md
+      - FAQs.md
+      - Contact Us.md

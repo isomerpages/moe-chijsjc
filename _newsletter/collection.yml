@@ -2,6 +2,5 @@ collections:
   newsletter:
     output: true
     order:
-      - 2022 Newsletter/.keep
       - 2021 Newsletter/.keep
       - 2018 Newsletter/.keep

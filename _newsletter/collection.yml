@@ -1,5 +1,4 @@
 collections:
   newsletter:
     output: true
-    order:
-      - 2018 Newsletter/.keep
+    order: []

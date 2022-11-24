@@ -4,8 +4,6 @@ permalink: /about-us/Our-Publications/2021-E-Yearbook/
 description: ""
 third_nav_title: Our Publications
 ---
-
-
 <div>
 
 
@@ -13,7 +11,7 @@ third_nav_title: Our Publications
 
 <a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
 
-<img style="width:50%" src="/images/red%20cross%20logo.png">
+<img style="/images/About%20us/Our%20Publications/2021%20E%20Yearbook/eYearbookimg.jpg">
 
 </a>
 
@@ -24,4 +22,3 @@ third_nav_title: Our Publications
 </div>
 
 </div>
-

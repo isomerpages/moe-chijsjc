@@ -4,34 +4,9 @@ permalink: /about-us/Our-School-Information/Our-Founder-and-Patron/
 description: ""
 third_nav_title: Our School Information
 ---
-Our Founder – Blessed Nicholas Barré (1621 – 1686)
---------------------------------------------------
+##### **Our Founder – Blessed Nicholas Barré (1621 – 1686)**
 
-  
-
-![nich.jpg](https://chijstjosephsconvent.moe.edu.sg/qql/slot/u160/2020/About%20Us_School%20Information/School%20Info/Our%20Founder%20&%20Patron/nich.jpg)
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
+<img style="width:50%;height:50%" src="/images/About%20us/Our%20School%20Information/Our%20Founder%20&%20Patron/A1.jpg">
 
 FR Barre was born in Amiens, France on 21 October 1621 and educated at a Jesuit college in his hometown. At the age of 19, he decided to dedicate his life to God, and joined the religious order of the Minims founded by St Francis of Paola.  
 
@@ -53,28 +28,11 @@ Blessed Nicolas Barré’s heart for the education of the poor, especially girls
 
 In commemoration of this great man and what he has done, CHIJ Schools in Singapore celebrate Founder’s Day on 31 May each year.
 
-Our Pioneer – Mother Mathilde Raclot (1814 – 1911)
---------------------------------------------------
+##### **Our Pioneer – Mother Mathilde Raclot (1814 – 1911)**
+
 
   
-![mmr.jpg](https://chijstjosephsconvent.moe.edu.sg/qql/slot/u160/2020/About%20Us_School%20Information/School%20Info/Our%20Founder%20&%20Patron/mmr.jpg)  
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
+<img style="width:50%;height:50%" src="/images/About%20us/Our%20School%20Information/Our%20Founder%20&%20Patron/A2.jpg">
 
   
 
@@ -96,12 +54,9 @@ In the decades that followed, other CHIJ schools were established throughout Sin
 
 Through the years, the CHIJ Schools in Singapore experienced numerous changes, including the relocation of a number of schools. Despite these changes, the CHIJ schools continue to bear witness to the ideals of our founder, Nicolas Barré, and remain faithful to our motto, Simple in Virtue, Steadfast in Duty.
 
-Our Patron – St. Joseph
------------------------
+##### **Our Patron – St. Joseph**
 
-  
-
-![stjoseph.jpg](https://chijstjosephsconvent.moe.edu.sg/qql/slot/u160/2020/About%20Us_School%20Information/School%20Info/Our%20Founder%20&%20Patron/stjoseph.jpg)
+<img style="width:50%;height:50%" src="/images/About%20us/Our%20School%20Information/Our%20Founder%20&%20Patron/A3.jpg">
 
 St Joseph is our patron saint. He was chosen when the school was renamed as St Joseph’s Convent post World War II in recognition of the protection St Joseph had given the school through then principal, Sister Theodora’s prayers.  
 

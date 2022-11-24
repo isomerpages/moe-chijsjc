@@ -40,4 +40,4 @@ third_nav_title: Our People
 |  Mrs Wong Peidi  wang_peidi@moe.edu.sg                                    |  AYH - Sec 4 & 5                  |
 |  Miss Nurul Adilah Bte Mohamad Ayub  nurul_adilah_mohamad_ayub@moe.edu.sg |  AYH - Sec 2 (covering)           |
 |  Miss Siti Nurizzati Bte Jamil  siti_nurizzati_jamil@moe.edu.sg           |  SH/Student Well-Being (covering) |
-|  Miss Choo Li Ting Fiona  choo_li_ting_fiona@moe.edu.sg                   |                                   |
+|  Miss Choo Li Ting Fiona  choo_li_ting_fiona@moe.edu.sg                   |  SH/Student Management            |

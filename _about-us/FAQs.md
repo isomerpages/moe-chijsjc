@@ -3,8 +3,8 @@ title: FAQs
 permalink: /about-us/FAQs/
 description: ""
 ---
-General Information
--------------------
+#### **General Information**
+
 
 (1) What are the courses of study offered in the school?
 
@@ -232,10 +232,10 @@ exempted in secondary school. There is no re-application needed.
 
 For more information of each CCA, you may like to visit our website:
 
-• [Clubs and Societies](https://chijstjosephsconvent.moe.edu.sg/cca/clubs-and-societies/chij-youth-mission)
+• [Clubs and Societies](/cca/Clubs-and-Societies/CHIJ-Youth-Mission/)
 
-• [Physical Sports](https://chijstjosephsconvent.moe.edu.sg/cca/physical-sports/badminton)
+• [Physical Sports](/cca/Physical-Sports/Badminton/)
 
-• [Uniformed Groups](https://chijstjosephsconvent.moe.edu.sg/cca/uniformed-groups/girl-guides)
+• [Uniformed Groups](/cca/Uniformed-Groups/Girl-Guides/)
 
-• [Visual and Performing Arts](https://chijstjosephsconvent.moe.edu.sg/cca/visual-n-performing-arts/angklung-kulintang-ensemble)
+• [Visual and Performing Arts](/cca/Visual-and-Performing-Arts/Angklung-Kulintang-Ensemble/)

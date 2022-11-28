@@ -36,8 +36,32 @@ Through these activities, our members learn perseverance, teamwork and to give t
 #### **CCA Information**
 
 
-<table style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: 1px solid rgb(170, 170, 170); width: 820px;" class="iveo_table ives_tab_simple3" cellpadding="0" cellspacing="0" border="0"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 121.25pt;" valign="top">Schedule<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 375.05pt;" valign="top"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px; list-style: none;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px; list-style-type: circle;"><li style="margin: 0px; outline: 0px; padding: 0px; text-align: left;">Monday: 3.45 pm to 5.45 pm&nbsp;</li><li style="margin: 0px; outline: 0px; padding: 0px; text-align: left;">Thursday: 3.45 pm to 6.15 pm&nbsp;<br style="margin: 0px; outline: 0px; padding: 0px;"></li></ul></li></ul></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 121.25pt;" valign="top">Venue<br style="margin: 0px; outline: 0px; padding: 0px;"></td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170); width: 375.05pt;" valign="top"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px; list-style: none;"></li><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px; list-style-type: circle;"><li style="margin: 0px; outline: 0px; padding: 0px; text-align: left;">Netball Court (Lower Sec) [Mon]</li><li style="margin: 0px; outline: 0px; padding: 0px; text-align: left;">Netball Court &amp; School Hall (Upper Sec) [Thurs]&nbsp;</li></ul></ul></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 2px; text-align: left; border: 1px solid rgb(170, 170, 170); width: 121.25pt;" valign="top">Teacher-in-charge&nbsp;</td><td style="margin: 0px; outline: 0px; padding: 2px; text-align: center; border: 1px solid rgb(170, 170, 170);"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px; list-style-type: circle;"><ul style="margin: 0px 0px 0.5em 1em; outline: 0px; padding: 0px;"><li style="margin: 0px; outline: 0px; padding: 0px; text-align: left;">Mr Lim Chee Koon (IC)</li><li style="margin: 0px; outline: 0px; padding: 0px; text-align: left;">Mdm Lim Ai Khim</li><li style="margin: 0px; outline: 0px; padding: 0px; text-align: left;">Mr Muhammad Taufiq&nbsp;</li></ul></ul></td></tr></tbody></table>
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-ktyi">Schedule<br></th>
+    <th class="tg-ktyi">Monday: 3.45 pm to 5.45 pm <br>Thursday: 3.45 pm to 6.15 pm <br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ktyi">Venue<br></td>
+    <td class="tg-7yig"><br>Netball Court (Lower Sec) [Mon]<br>Netball Court &amp; School Hall (Upper Sec) [Thurs] </td>
+  </tr>
+  <tr>
+    <td class="tg-ktyi">Teacher-in-charge </td>
+    <td class="tg-ktyi">Mr Lim Chee Koon (IC)<br>Mdm Lim Ai Khim<br>Mr Muhammad Taufiq </td>
+  </tr>
+</tbody>
+</table>
   
-
-<table style="margin: auto; outline: 0px; padding: 0px; border-collapse: collapse; clear: both; border: 1px solid transparent; table-layout: fixed;" class="ives_tab_kosong ive_eobj_center" border="0"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px;"><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 325px; height: 243px;" class="ive_eobj_center" alt="Copy of Sports Club 2019_Photo 4.jpg" width="100%" src="https://chijstjosephsconvent.moe.edu.sg/qql/slot/u160/2020/CCA/Physical%20Sports/Sports%20Club/Copy%20of%20Sports%20Club%202019_Photo%204.jpg"></td><td style="margin: 0px; outline: 0px; padding: 0px 15px 15px 0px; vertical-align: top;"><img style="margin: auto; outline: 0px; padding: 0px; border: none; max-width: 100%; clear: both; display: block; width: 326px; height: 243px;" class="ive_eobj_center" alt="Copy of Sports Club 2019_Photo 2.jpg" width="100%" src="https://chijstjosephsconvent.moe.edu.sg/qql/slot/u160/2020/CCA/Physical%20Sports/Sports%20Club/Copy%20of%20Sports%20Club%202019_Photo%202.jpg"></td></tr></tbody></table>
+![](/images/CCA/Physical%20Sports/Sports%20Club/S2.png)

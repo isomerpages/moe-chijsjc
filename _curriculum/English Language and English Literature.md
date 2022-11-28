@@ -40,4 +40,4 @@ Through all the above programmes, students will learn to use the English Languag
 
 
 
-Our department’s work is tied closely to our school’s **Applied Learning Programme in Theatre and Debates.** Find out more [here](https://chijstjosephsconvent.moe.edu.sg/special-programmes/distinctive-programmes/applied-learning-programme).
+Our department’s work is tied closely to our school’s **Applied Learning Programme in Theatre and Debates.** Find out more [here](/special-programmes/Distinctive-Programmes/Applied-Learning-Programme/).

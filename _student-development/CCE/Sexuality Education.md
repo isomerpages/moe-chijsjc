@@ -314,11 +314,11 @@ b.  Character and Citizenship Education (CCE)
 
   
 
-11.  Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable **[here](https://chijstjosephsconvent-moe-edu-sg-admin.cwp.sg/qql/slot/u160/2022/Student%20Development/CCE%202022/2022SEdoptoutform_v2.pdf)**. The completed form is to be submitted by **7 February 2022.**   
+11.  Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable **[here](/files/Sexuality%20Education/2022SEdoptoutform_v2.pdf)**. The completed form is to be submitted by **7 February 2022.**   
 
   
 
-12.  Parents who wish to opt their children out of the **_eTeens programme_** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://chijstjosephsconvent-moe-edu-sg-admin.cwp.sg/qql/slot/u160/2022/Student%20Development/CCE%202022/2022eTeensoptoutform.pdf).  The completed form is to be submitted by **7 February 2022**.
+12.  Parents who wish to opt their children out of the **_eTeens programme_** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Sexuality%20Education/2022eTeensoptoutform.pdf).  The completed form is to be submitted by **7 February 2022**.
 
   
 

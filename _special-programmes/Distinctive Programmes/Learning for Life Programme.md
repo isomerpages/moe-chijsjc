@@ -49,5 +49,4 @@ Community outreach projects that have made a greater impact have also been submi
 
 ![](/images/Special%20Programmes/Learning%20for%20Life%20Programme/L2.png)
 
-You may click [**here**](https://chijstjosephsconvent.moe.edu.sg/student-development/values-in-action) to read more of our Values-in-Action Experience for Student Development.
-
+You may click [here](/student-development/Values-In-Action/) to read more of our Values-in-Action Experience for Student Development.

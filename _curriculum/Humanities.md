@@ -49,14 +49,10 @@ description: ""
 
 ![](/images/Curriculum/Humanities/H2.png)
 
+![](/images/Curriculum/Humanities/H3.png)
 
-![](https://chijstjosephsconvent.moe.edu.sg/qql/slot/u160/2022/Curriculum/humanities/HIST2.jpg)  
-
-_Engaging in perspective-taking and debate as part of a unit on the Korean War_  
-
-![](https://chijstjosephsconvent.moe.edu.sg/qql/slot/u160/2022/Curriculum/humanities/HIST3.png)  
-
-_Our Sec 3s put their creativity to the test as they put together a live “museum” to showcase what they have learnt about Soviet History!_  
+![](/images/Curriculum/Humanities/H4.png)
+ 
 
   
 
@@ -68,10 +64,7 @@ _Our Sec 3s put their creativity to the test as they put together a live “muse
 *   3Exp/3NA Issues Investigation: Singaporeans and Migrants
 *   Learning Journey to the Parliament House (2022)
 
-![](https://chijstjosephsconvent.moe.edu.sg/qql/slot/u160/2022/Curriculum/humanities/SS1.jpg)  
+![](/images/Curriculum/Humanities/H5.png)
 
-_Encouraging an interest in current affairs both within Singapore (Parliament visit, right), and abroad (Global classroom experience, left)_  
+![](/images/Curriculum/Humanities/H6.png)
 
-![](https://chijstjosephsconvent.moe.edu.sg/qql/slot/u160/2022/Curriculum/humanities/SS2.png)  
-
-_CPF Game – Using gamification to learn about financial literacy concepts such as compound interest, delayed gratification and good spending and saving habits._

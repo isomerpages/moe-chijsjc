@@ -39,11 +39,7 @@ description: ""
 >*   Coastal Fieldwork @ East Coast Park (All Pure Geography students)
 >*   Tourism Fieldwork @ Chinatown/ Little India/ Merlion Park (Sec 3 Express /Normal Academic)
 
-![](https://chijstjosephsconvent.moe.edu.sg/qql/slot/u160/2022/Curriculum/humanities/GEOG1.jpg)  
-
-_Our Sec 4 students embarking on their coastal fieldwork at East Coast Park_
-
-  
+![](/images/Curriculum/Humanities/H1.png)
 
 ##### **History**
 
@@ -51,9 +47,8 @@ _Our Sec 4 students embarking on their coastal fieldwork at East Coast Park_
 *   Historical Investigation – Stories of Nazi Germany for 3Exp/3NA students
 *   NLB History Workshop for Sec 1Exp students
 
-![](https://chijstjosephsconvent.moe.edu.sg/qql/slot/u160/2022/Curriculum/humanities/HIST1.jpg)  
+![](/images/Curriculum/Humanities/H2.png)
 
-_Sec 2 historians digging up details of life under the Japanese Occupation at the National Museum of Singapore_  
 
 ![](https://chijstjosephsconvent.moe.edu.sg/qql/slot/u160/2022/Curriculum/humanities/HIST2.jpg)  
 

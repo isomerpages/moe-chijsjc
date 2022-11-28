@@ -225,4 +225,3 @@ Explore courses based on aggregate type, score, type of institute and area of in
 5. **Resources for Parents**
 
 Parents are one of the key decision influencers in their daughters’ education and career aspirations. Find out more about how you can do so in the ECG Guide for parents - [Journeying with Our Children,](https://www.moe.gov.sg/-/media/files/programmes/ecg/12806_moe_parent-guide-2021.ashx?la=en&hash=FF725C742112B08F2066F3FA7856AA147D30E4B9) [Supporting Their Aspirations](https://www.moe.gov.sg/-/media/files/programmes/ecg/12806_moe_parent-guide-2021.ashx?la=en&hash=FF725C742112B08F2066F3FA7856AA147D30E4B9).
-

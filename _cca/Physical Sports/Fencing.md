@@ -52,6 +52,8 @@ CHIJ SJC’s Fencing Club started since 1996, and our students have enjoyed taki
 |  2017 | National Inter-Schools Fencing Championship  | –'C' Division Women's Epee Individuals –'B' Division Women's Sabre Individuals                                                     | Participation                                                                                       |
 |  2016 | National Inter-Schools Fencing Championship  | – ‘C’ Division Women’s Epee Individuals, -- ‘B’ Division Women’s Sabre Individuals                                                 | Participation                                                                                       |
 |  2015 | National Inter-Schools Fencing Championship  | –‘B’ Division Women’s Sabre Individuals                                                                                            | Par                                                                                                 |
+
+
 ![](/images/CCA/Physical%20Sports/Fencing/F2.jpg)
 
 ![](/images/CCA/Physical%20Sports/Fencing/F3.jpg)

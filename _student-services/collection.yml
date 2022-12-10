@@ -2,6 +2,7 @@ collections:
   student-services:
     output: true
     order:
+      - Parents/Webinar and Workshops.md
       - Parents/Parenting Resources.md
       - Parents/Family Matters @ School.md
       - Parents/MOE & Related Sites.md

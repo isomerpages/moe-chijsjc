@@ -14,13 +14,13 @@ third_nav_title: Parents
 
 </div>
 
-<br>
+
 <div>
 
 </div>
 
 </div>
-
+<br>
 <div>
 
 <a href="https://www.instagram.com/moesingapore/" target = "\_blank">
@@ -30,13 +30,13 @@ third_nav_title: Parents
 </a>
 
 </div>
-<br>
+
 <div>
 
 </div>
 
 </div>
-
+<br>
 <div>
 
 <a href="https://www.facebook.com/moesingapore" target = "\_blank">
@@ -50,14 +50,69 @@ third_nav_title: Parents
 <div>
 
 </div>
-<br>
-</div>
 
+</div>
+<br>
 <div>
 
 <a href="https://twitter.com/moesg" target = "\_blank">
 
 <img style="width:30%" src="/images/Useful%20Links/Parents/MOE%20&%20Related%20Sites/M4.png">
+
+</a>
+
+</div>
+
+<div>
+
+</div>
+
+</div>
+<br>
+
+<div>
+
+<a href="https://www.schoolbag.edu.sg/" target = "\_blank">
+
+<img style="width:30%" src="/images/Useful%20Links/Parents/MOE%20&%20Related%20Sites/M5.png">
+
+</a>
+
+</div>
+
+<div>
+
+</div>
+
+</div>
+
+https://www.schoolbag.edu.sg/
+
+Please click on icon to view the latest news on Singapore Education
+
+
+
+<div>
+
+<a href="https://www.youtube.com/user/MOESpore/featured" target = "\_blank">
+
+<img style="width:30%" src="/images/Useful%20Links/Parents/MOE%20&%20Related%20Sites/M6.png">
+
+</a>
+
+</div>
+
+<div>
+
+</div>
+
+</div>
+
+<div>
+
+<a href="https://www.youtube.com/user/MOESpore/featured" target = "\_blank">
+
+<img style="width:30%" src="/images/Useful%20Links/Parents/MOE%20&%20Related%20Sites/M7.png">
 
 </a>
 

@@ -48,7 +48,7 @@ description: ""
 #### *  **School Matters** 
 
 >   [PDLP Resource Site](https://sites.google.com/moe.edu.sg/chijsjcpdlp/home)  
->   [Home-Based Learning](https://chijstjosephsconvent-moe-edu-sg-admin.cwp.sg/useful-links/students/school-matters/full-home-based-learning)  
+>   [Home-Based Learning](/student-services/Students/Full-Home-Based-Learning/)  
 >   [Code of Conduct](/student-development/Code-of-Conduct/)  
 >   2023 Semester 1 Time Table  
  >*   \-

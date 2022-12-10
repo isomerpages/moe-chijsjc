@@ -23,7 +23,7 @@ third_nav_title: Parents
 
 <div>
 
-<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)" target = "\_blank">
+<a href="https://www.instagram.com/moesingapore/" target = "\_blank">
 
 <img style="width:30%" src="/images/Useful%20Links/Parents/MOE%20&%20Related%20Sites/M2.png">
 
@@ -39,7 +39,7 @@ third_nav_title: Parents
 
 <div>
 
-<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)" target = "\_blank">
+<a href="https://www.facebook.com/moesingapore" target = "\_blank">
 
 <img style="width:30%" src="/images/Useful%20Links/Parents/MOE%20&%20Related%20Sites/M3.png">
 
@@ -55,7 +55,7 @@ third_nav_title: Parents
 
 <div>
 
-<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)" target = "\_blank">
+<a href="https://twitter.com/moesg" target = "\_blank">
 
 <img style="width:30%" src="/images/Useful%20Links/Parents/MOE%20&%20Related%20Sites/M4.png">
 

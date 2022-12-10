@@ -95,7 +95,6 @@ English, Maths, Mother Tongue, Science, Art, Food & Consumer Education (Sem 1 / 
 
 • F & N is Food & Nutrition taught as an elective subject in Sec 3 & 4.
 
-[](https://chijstjosephsconvent-moe-edu-sg-admin.cwp.sg/about-us-1/admission/sec-1-admission-via-psle-results)
 
 #### **Academic Information**
 

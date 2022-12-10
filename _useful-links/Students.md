@@ -15,8 +15,8 @@ description: ""
 
 *   National (SEAB) Examination Matters
 
-*   [2022 GCE O-Level Exam Timetable](https://chijstjosephsconvent.moe.edu.sg/qql/slot/u160/2022/Useful%20Link%202022/GCE%20Exam%20Timetable%202022/2022gceoexamtimetable.pdf)
-*   [Approved Calculators (PDF)](https://chijstjosephsconvent.moe.edu.sg/qql/slot/u160/2020/Useful%20Links/Students/Examination%20Matters/GuidelinesCalculators.pdf)
+*   [2022 GCE O-Level Exam Timetable](/files/Useful%20Links/Students/Students/2022gceoexamtimetable.pdf)
+*   [Approved Calculators (PDF)](/files/Useful%20Links/Students/Students/GuidelinesCalculators.pdf)
 *   [Approved Dictionaries (PDF)](https://www.seab.gov.sg/home/examinations/approved-dictionaries)
 
 *   School (Internal) Examination Matters

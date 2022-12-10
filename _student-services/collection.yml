@@ -2,6 +2,7 @@ collections:
   student-services:
     output: true
     order:
+      - Parents/Parents Gateway.md
       - Parents/.keep
       - Student Services/School Information.md
       - Student Services/Uniform Supplier.md

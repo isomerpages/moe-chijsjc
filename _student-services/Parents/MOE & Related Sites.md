@@ -19,7 +19,6 @@ third_nav_title: Parents
 
 </div>
 
-</div>
 <br>
 <div>
 
@@ -35,7 +34,6 @@ third_nav_title: Parents
 
 </div>
 
-</div>
 <br>
 <div>
 
@@ -51,7 +49,6 @@ third_nav_title: Parents
 
 </div>
 
-</div>
 <br>
 <div>
 
@@ -67,7 +64,6 @@ third_nav_title: Parents
 
 </div>
 
-</div>
 <br>
 
 <div>
@@ -84,7 +80,6 @@ third_nav_title: Parents
 
 </div>
 
-</div>
 
 https://www.schoolbag.edu.sg/
 
@@ -106,8 +101,6 @@ Please click on icon above to view the latest news on Singapore Education
 
 </div>
 
-</div>
-
 <div>
 
 <a href="https://www.youtube.com/user/MOESpore/featured" target = "\_blank">
@@ -122,7 +115,6 @@ Please click on icon above to view the latest news on Singapore Education
 
 </div>
 
-</div>
 
 [https://www.youtube.com/user/MOESpore/featured](https://www.youtube.com/user/MOESpore/featured)
 
@@ -143,7 +135,6 @@ Please click on icon above to view the latest news on Singapore schools
 
 </div>
 
-</div>
 
 [https://www.seab.gov.sg/](https://www.seab.gov.sg/)
 
@@ -163,6 +154,5 @@ Please click on icon above to view useful information on the National Examinatio
 
 </div>
 
-</div>
 
 **[Parent's Gateway](https://chijstjosephsconvent.moe.edu.sg/useful-links/parents/moe-n-related-sites/parents-gateway)**

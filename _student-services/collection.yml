@@ -2,6 +2,7 @@ collections:
   student-services:
     output: true
     order:
+      - Parents/MOE & Related Sites.md
       - Parents/Parents Gateway.md
       - Parents/.keep
       - Student Services/School Information.md

@@ -42,8 +42,8 @@ Please click on the links below for Parents’ Resources for:
 
 1.  Support Your Child Through Secondary School
 
-1.  [Supporting your daughter through transitions](https://www.plmgss.moe.edu.sg/qql/slot/u173/Useful%20Links/parents-01.jpg)&nbsp;(Primary school to Sec 1)
-2.  [Supporting your daughter through transitions](https://www.plmgss.moe.edu.sg/qql/slot/u173/Useful%20Links/parents-02.jpg)&nbsp;(Lower Sec to Sec 3)
+1.  [Supporting your daughter through transitions](https://www.plmgss.moe.edu.sg/qql/slot/u173/Useful%20Links/parents-01.jpg)(Primary school to Sec 1)
+2.  [Supporting your daughter through transitions](https://www.plmgss.moe.edu.sg/qql/slot/u173/Useful%20Links/parents-02.jpg)(Lower Sec to Sec 3)
 
 [https://www.schoolbag.sg/story/supporting-your-child-during-transitions](https://www.schoolbag.sg/story/supporting-your-child-during-transitions)
 

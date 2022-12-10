@@ -49,7 +49,7 @@ description: ""
 
 >   [PDLP Resource Site](https://sites.google.com/moe.edu.sg/chijsjcpdlp/home)  
 >   [Home-Based Learning](https://chijstjosephsconvent-moe-edu-sg-admin.cwp.sg/useful-links/students/school-matters/full-home-based-learning)  
->   [Code of Conduct](https://chijstjosephsconvent.moe.edu.sg/student-development/code-of-conduct)  
+>   [Code of Conduct](/student-development/Code-of-Conduct/)  
 >   2023 Semester 1 Time Table  
  >*   \-
 

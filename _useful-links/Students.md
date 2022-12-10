@@ -53,7 +53,7 @@ description: ""
 >   2023 Semester 1 Time Table  
  >*   \-
 
->   [CCA Time Table](https://chijstjosephsconvent.moe.edu.sg/cca/cca-schedule)  
+>   [CCA Time Table](/cca/CCA-Schedule/)  
 >   [CHIJ SJC Edusave Character Award 2022(PDF)](/files/Useful%20Links/Students/Students/School%20Website%20announcement%20on%20CHIJ%20St%20Joseph.pdf)  
 >   Poly Admission exercise / DSA Application  
     

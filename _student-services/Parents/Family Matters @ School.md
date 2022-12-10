@@ -58,13 +58,14 @@ The following video gives a quick introduction to the Positive Parenting Program
 
 *   **Secondary Seminar Topics:**
 
-1.  Power of Positive Parenting,
-2.  Raising Responsible Teenagers,
-3.  Raising Competent Teenagers
+>1.  Power of Positive Parenting,
+>2.  Raising Responsible Teenagers,
+>3.  Raising Competent Teenagers
 
-  
 
-2.  Triple P (Level 3): Delivered as brief face-to-face intervention with a trained Triple P service provider. Approximately four individual consultations of up to 45 minutes.
+
+
+2. Triple P (Level 3): Delivered as brief face-to-face intervention with a trained Triple P service provider. Approximately four individual consultations of up to 45 minutes.
 
   
 

@@ -2,6 +2,7 @@ collections:
   student-services:
     output: true
     order:
+      - Student Services/School Bookshop Information.md
       - Student Services/School Library Opening Hours.md
       - Student Services/.keep
       - Financial Assistance.md

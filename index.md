@@ -18,4 +18,7 @@ sections:
         - title: News & Events
           description: ""
           url: /resources/new-and-events
+  - resources:
+      title: Announcements, News & Events
+      button: Read More
 ---

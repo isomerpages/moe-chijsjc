@@ -73,7 +73,7 @@ description: ""
 
   
 
-For more information of admission requirement, you may like to visit our website: [https://chijstjosephsconvent.moe.edu.sg/about-us/admission/sec-1-admission-via-psle-results](https://chijstjosephsconvent.moe.edu.sg/about-us/admission/sec-1-admission-via-psle-results)
+For more information of admission requirement, you may like to visit our website: [/about-us/Admission/Sec-1-Admission-via-PSLE-results/](/about-us/Admission/Sec-1-Admission-via-PSLE-results/)
 
   
 

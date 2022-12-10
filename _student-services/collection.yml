@@ -2,6 +2,7 @@ collections:
   student-services:
     output: true
     order:
+      - Students/Full HomeBased Learning.md
       - Students/.keep
       - Parents/PTM 2022.md
       - Parents/Webinar and Workshops.md

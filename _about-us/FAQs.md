@@ -22,7 +22,7 @@ description: ""
 
 • Morning assembly starts at 7.30am on regular school days. 
 
-• You may click [here](https://chijstjosephsconvent.moe.edu.sg/useful-links/student-services/school-information) for more information.   
+• You may click [here](/student-services/Student-Services/School-Information/) for more information.   
 
   
 
@@ -30,7 +30,7 @@ description: ""
 
 • CHIJ St. Joseph’s Convent is a government-aided school.
 
-• Click [here](https://chijstjosephsconvent.moe.edu.sg/useful-links/student-services/school-information) for more details.
+• Click [here](/student-services/Student-Services/School-Information/) for more details.
 
   
 

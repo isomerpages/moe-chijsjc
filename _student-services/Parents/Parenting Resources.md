@@ -91,7 +91,7 @@ Please click on the links below for Parents’ Resources for:
 
   
 
-9.How can you coach your teenager to cope with&nbsp;difficult feelings?[5 Steps to coach your teenagers with difficult feelings](https://chijstjosephsconvent.moe.edu.sg/qql/slot/u160/2022/Useful%20Link%202022/Parents/5%20Steps%20to%20coach%20your%20teenagers%20with%20difficult%20feelings.pdf)&nbsp;(pdf)
+9.How can you coach your teenager to cope with&nbsp;difficult feelings?[5 Steps to coach your teenagers with difficult feelings](https://chijstjosephsconvent.moe.edu.sg/qql/slot/u160/2022/Useful%20Link%202022/Parents/5%20Steps%20to%20coach%20your%20teenagers%20with%20difficult%20feelings.pdf)(pdf)
 
   
 

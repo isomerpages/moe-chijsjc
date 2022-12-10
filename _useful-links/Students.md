@@ -54,7 +54,7 @@ description: ""
  >*   \-
 
 >   [CCA Time Table](https://chijstjosephsconvent.moe.edu.sg/cca/cca-schedule)  
->   [CHIJ SJC Edusave Character Award 2022(PDF)](https://chijstjosephsconvent.moe.edu.sg/qql/slot/u160/2022/Useful%20Link%202022/School%20Matters/School%20Website%20announcement%20on%20CHIJ%20St%20Joseph.pdf)  
+>   [CHIJ SJC Edusave Character Award 2022(PDF)](/files/Useful%20Links/Students/Students/School%20Website%20announcement%20on%20CHIJ%20St%20Joseph.pdf)  
 >   Poly Admission exercise / DSA Application  
     
 

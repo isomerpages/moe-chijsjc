@@ -6,7 +6,7 @@ third_nav_title: Parents
 ---
 <div>
 
-<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)" target = "\_blank">
+<a href="https://www.moe.gov.sg/" target = "\_blank">
 
 <img style="width:30%" src="/images/Useful%20Links/Parents/MOE%20&%20Related%20Sites/M1.png">
 

@@ -5,55 +5,44 @@ description: ""
 ---
 *   Request Password Reset/Unlock Account
 
-*   [Reset Password for SLS or Student iCON](https://forms.moe.edu.sg/forms/J2zrwJ)
+>   [Reset Password for SLS or Student iCON](https://forms.moe.edu.sg/forms/J2zrwJ)
 
 *   Student iCON 
 
-*   Click here to [sign in](https://workspace.google.com/dashboard) to Student iCON
+>  Click here to [sign in](https://workspace.google.com/dashboard) to Student iCON
 
 *   Administrative Matters
 
-*   National (SEAB) Examination Matters
+>  National (SEAB) Examination Matters
 
-*   [2022 GCE O-Level Exam Timetable](/files/Useful%20Links/Students/Students/2022gceoexamtimetable.pdf)
-*   [Approved Calculators (PDF)](/files/Useful%20Links/Students/Students/GuidelinesCalculators.pdf)
-*   [Approved Dictionaries (PDF)](https://www.seab.gov.sg/home/examinations/approved-dictionaries)
+>*   [2022 GCE O-Level Exam Timetable](/files/Useful%20Links/Students/Students/2022gceoexamtimetable.pdf)
+>*   [Approved Calculators (PDF)](/files/Useful%20Links/Students/Students/GuidelinesCalculators.pdf)
+>*   [Approved Dictionaries (PDF)](https://www.seab.gov.sg/home/examinations/approved-dictionaries)
 
 *   School (Internal) Examination Matters
 
-*   \-
+>   \-
     
 
-*   Book lists (Year 2023)  
+>   Book lists (Year 2023)  
     
 
-*   1NT CHIJ SJC Booklist 2023.pdf   
-    
-*   1NA  CHIJ SJC Booklist 2023.pdf  
-    
-*   1E CHIJ SJC Booklist 2023.pdf  
-    
-*   1NT SBB CHIJ SJC Booklist 2023.pdf
-*   1NA SBB CHIJ SJC Booklist 2023
-*   [2NT CHIJ SJC Booklist 2023.pdf](https://chijstjosephsconvent.moe.edu.sg/qql/slot/u160/2022/Useful%20Link%202022/Booklist%202022/Sec%202%20NT%20Booklist%202023.pdf)
-*   [2NA CHIJ SJC Booklist 2023.pdf](https://chijstjosephsconvent.moe.edu.sg/qql/slot/u160/2022/Useful%20Link%202022/Booklist%202022/Sec%202%20NA%20Booklist%202023.pdf)  
-    
-*   [2E CHIJ SJC Booklist 2023.pdf](https://chijstjosephsconvent.moe.edu.sg/qql/slot/u160/2022/Useful%20Link%202022/Booklist%202022/Sec%202%20E%20Booklist%202023.pdf)  
-    
-*   [3NT CHIJ SJC Booklist 2023.pdf](https://chijstjosephsconvent.moe.edu.sg/qql/slot/u160/2022/Useful%20Link%202022/Booklist%202022/Sec%203NT%20Booklist%202023.pdf)
-*   [3NA CHIJ SJC Booklist 2023.pdf](https://chijstjosephsconvent.moe.edu.sg/qql/slot/u160/2022/Useful%20Link%202022/Booklist%202022/Sec%203NA%20Booklist%202023.pdf)  
-    
-*   [3 Com Sci CHIJ SJC Booklist 2023.pdf](https://chijstjosephsconvent.moe.edu.sg/qql/slot/u160/2022/Useful%20Link%202022/Booklist%202022/Sec%203E%20Combine%20Science%20Booklist%202023.pdf)  
-    
-*   [3 Pure Sci CHIJ SJC Booklist 2023.pdf](https://chijstjosephsconvent.moe.edu.sg/qql/slot/u160/2022/Useful%20Link%202022/Booklist%202022/Sec%203E%20Pure%20Science%20Booklist%202023.pdf)  
-    
-*   [4NT CHIJ SJC Booklist 2023.pdf](https://chijstjosephsconvent.moe.edu.sg/qql/slot/u160/2022/Useful%20Link%202022/Booklist%202022/Sec%204NT%20Booklist%202023.pdf)  
-    
-*   [4NA CHIJ SJC Booklist 2023.pdf](https://chijstjosephsconvent.moe.edu.sg/qql/slot/u160/2022/Useful%20Link%202022/Booklist%202022/Sec%204NA%20Booklist%202023.pdf)  
-    
-*   [4E CHIJ SJC Booklist 2023.pdf](https://chijstjosephsconvent.moe.edu.sg/qql/slot/u160/2022/Useful%20Link%202022/Booklist%202022/Sec%204E%20Booklist%202023.pdf)  
-    
-*   [5NA CHIJ SJC Booklist 2023.pdf](https://chijstjosephsconvent.moe.edu.sg/qql/slot/u160/2022/Useful%20Link%202022/Booklist%202022/Sec%205NA%20Booklist%202023.pdf)  
+>*   1NT CHIJ SJC Booklist 2023.pdf      
+>*   1NA  CHIJ SJC Booklist 2023.pdf     
+>*   1E CHIJ SJC Booklist 2023.pdf     
+>*   1NT SBB CHIJ SJC Booklist 2023.pdf
+>*   1NA SBB CHIJ SJC Booklist 2023
+>*   [2NT CHIJ SJC Booklist 2023.pdf](https://chijstjosephsconvent.moe.edu.sg/qql/slot/u160/2022/Useful%20Link%202022/Booklist%202022/Sec%202%20NT%20Booklist%202023.pdf)
+>*   [2NA CHIJ SJC Booklist 2023.pdf](https://chijstjosephsconvent.moe.edu.sg/qql/slot/u160/2022/Useful%20Link%202022/Booklist%202022/Sec%202%20NA%20Booklist%202023.pdf)  
+>*   [2E CHIJ SJC Booklist 2023.pdf](https://chijstjosephsconvent.moe.edu.sg/qql/slot/u160/2022/Useful%20Link%202022/Booklist%202022/Sec%202%20E%20Booklist%202023.pdf)     
+>*   [3NT CHIJ SJC Booklist 2023.pdf](https://chijstjosephsconvent.moe.edu.sg/qql/slot/u160/2022/Useful%20Link%202022/Booklist%202022/Sec%203NT%20Booklist%202023.pdf)
+>*   [3NA CHIJ SJC Booklist 2023.pdf](https://chijstjosephsconvent.moe.edu.sg/qql/slot/u160/2022/Useful%20Link%202022/Booklist%202022/Sec%203NA%20Booklist%202023.pdf)   
+>*   [3 Com Sci CHIJ SJC Booklist 2023.pdf](https://chijstjosephsconvent.moe.edu.sg/qql/slot/u160/2022/Useful%20Link%202022/Booklist%202022/Sec%203E%20Combine%20Science%20Booklist%202023.pdf)      
+>*   [3 Pure Sci CHIJ SJC Booklist 2023.pdf](https://chijstjosephsconvent.moe.edu.sg/qql/slot/u160/2022/Useful%20Link%202022/Booklist%202022/Sec%203E%20Pure%20Science%20Booklist%202023.pdf)      
+>*   [4NT CHIJ SJC Booklist 2023.pdf](https://chijstjosephsconvent.moe.edu.sg/qql/slot/u160/2022/Useful%20Link%202022/Booklist%202022/Sec%204NT%20Booklist%202023.pdf)  
+>*   [4NA CHIJ SJC Booklist 2023.pdf](https://chijstjosephsconvent.moe.edu.sg/qql/slot/u160/2022/Useful%20Link%202022/Booklist%202022/Sec%204NA%20Booklist%202023.pdf)      
+>*   [4E CHIJ SJC Booklist 2023.pdf](https://chijstjosephsconvent.moe.edu.sg/qql/slot/u160/2022/Useful%20Link%202022/Booklist%202022/Sec%204E%20Booklist%202023.pdf)      
+>*   [5NA CHIJ SJC Booklist 2023.pdf](https://chijstjosephsconvent.moe.edu.sg/qql/slot/u160/2022/Useful%20Link%202022/Booklist%202022/Sec%205NA%20Booklist%202023.pdf)  
     
 
 *   School Matters

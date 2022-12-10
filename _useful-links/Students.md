@@ -32,17 +32,17 @@ description: ""
 >*   1E CHIJ SJC Booklist 2023.pdf     
 >*   1NT SBB CHIJ SJC Booklist 2023.pdf
 >*   1NA SBB CHIJ SJC Booklist 2023
->*   [2NT CHIJ SJC Booklist 2023.pdf](https://chijstjosephsconvent.moe.edu.sg/qql/slot/u160/2022/Useful%20Link%202022/Booklist%202022/Sec%202%20NT%20Booklist%202023.pdf)
->*   [2NA CHIJ SJC Booklist 2023.pdf](https://chijstjosephsconvent.moe.edu.sg/qql/slot/u160/2022/Useful%20Link%202022/Booklist%202022/Sec%202%20NA%20Booklist%202023.pdf)  
->*   [2E CHIJ SJC Booklist 2023.pdf](https://chijstjosephsconvent.moe.edu.sg/qql/slot/u160/2022/Useful%20Link%202022/Booklist%202022/Sec%202%20E%20Booklist%202023.pdf)     
->*   [3NT CHIJ SJC Booklist 2023.pdf](https://chijstjosephsconvent.moe.edu.sg/qql/slot/u160/2022/Useful%20Link%202022/Booklist%202022/Sec%203NT%20Booklist%202023.pdf)
->*   [3NA CHIJ SJC Booklist 2023.pdf](https://chijstjosephsconvent.moe.edu.sg/qql/slot/u160/2022/Useful%20Link%202022/Booklist%202022/Sec%203NA%20Booklist%202023.pdf)   
->*   [3 Com Sci CHIJ SJC Booklist 2023.pdf](https://chijstjosephsconvent.moe.edu.sg/qql/slot/u160/2022/Useful%20Link%202022/Booklist%202022/Sec%203E%20Combine%20Science%20Booklist%202023.pdf)      
->*   [3 Pure Sci CHIJ SJC Booklist 2023.pdf](https://chijstjosephsconvent.moe.edu.sg/qql/slot/u160/2022/Useful%20Link%202022/Booklist%202022/Sec%203E%20Pure%20Science%20Booklist%202023.pdf)      
->*   [4NT CHIJ SJC Booklist 2023.pdf](https://chijstjosephsconvent.moe.edu.sg/qql/slot/u160/2022/Useful%20Link%202022/Booklist%202022/Sec%204NT%20Booklist%202023.pdf)  
->*   [4NA CHIJ SJC Booklist 2023.pdf](https://chijstjosephsconvent.moe.edu.sg/qql/slot/u160/2022/Useful%20Link%202022/Booklist%202022/Sec%204NA%20Booklist%202023.pdf)      
->*   [4E CHIJ SJC Booklist 2023.pdf](https://chijstjosephsconvent.moe.edu.sg/qql/slot/u160/2022/Useful%20Link%202022/Booklist%202022/Sec%204E%20Booklist%202023.pdf)      
->*   [5NA CHIJ SJC Booklist 2023.pdf](https://chijstjosephsconvent.moe.edu.sg/qql/slot/u160/2022/Useful%20Link%202022/Booklist%202022/Sec%205NA%20Booklist%202023.pdf)  
+>*   [2NT CHIJ SJC Booklist 2023.pdf](/files/Useful%20Links/Students/Students/Sec%202%20NT%20Booklist%202023.pdf)
+>*   [2NA CHIJ SJC Booklist 2023.pdf](/files/Useful%20Links/Students/Students/Sec%202%20NA%20Booklist%202023.pdf)  
+>*   [2E CHIJ SJC Booklist 2023.pdf](/files/Useful%20Links/Students/Students/Sec%202%20E%20Booklist%202023.pdf)     
+>*   [3NT CHIJ SJC Booklist 2023.pdf](/files/Useful%20Links/Students/Students/Sec%203NT%20Booklist%202023.pdf)
+>*   [3NA CHIJ SJC Booklist 2023.pdf](/files/Useful%20Links/Students/Students/Sec%203NA%20Booklist%202023.pdf)   
+>*   [3 Com Sci CHIJ SJC Booklist 2023.pdf](/files/Useful%20Links/Students/Students/Sec%203E%20Combine%20Science%20Booklist%202023.pdf)     
+>*   [3 Pure Sci CHIJ SJC Booklist 2023.pdf](/files/Useful%20Links/Students/Students/Sec%203E%20Pure%20Science%20Booklist%202023.pdf)     
+>*   [4NT CHIJ SJC Booklist 2023.pdf](/files/Useful%20Links/Students/Students/Sec%204NT%20Booklist%202023.pdf)  
+>*   [4NA CHIJ SJC Booklist 2023.pdf](/files/Useful%20Links/Students/Students/Sec%204NA%20Booklist%202023.pdf)     
+>*   [4E CHIJ SJC Booklist 2023.pdf](/files/Useful%20Links/Students/Students/Sec%204E%20Booklist%202023.pdf)     
+>*   [5NA CHIJ SJC Booklist 2023.pdf](/files/Useful%20Links/Students/Students/Sec%205NA%20Booklist%202023.pdf)
     
 
 #### *  **School Matters** 

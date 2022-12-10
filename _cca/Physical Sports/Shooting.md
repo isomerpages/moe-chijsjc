@@ -59,6 +59,7 @@ Started in 2004, the Shooting CCA aims to
   </tr>
 </tbody>
 </table>
+
 #### **Achievements**
 
 <style type="text/css">

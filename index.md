@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Announcements
           description: ""
-          url: ""
+          url: /Resources/Announcements
         - title: Useful Links
           description: ""
           url: /useful-links/Students/

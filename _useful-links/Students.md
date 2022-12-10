@@ -3,15 +3,15 @@ title: Students
 permalink: /useful-links/Students/
 description: ""
 ---
-*   Request Password Reset/Unlock Account
+#### *   **Request Password Reset/Unlock Account**
 
 >   [Reset Password for SLS or Student iCON](https://forms.moe.edu.sg/forms/J2zrwJ)
 
-*   Student iCON 
+#### *   **Student iCON** 
 
 >  Click here to [sign in](https://workspace.google.com/dashboard) to Student iCON
 
-*   Administrative Matters
+#### *   **Administrative Matters**
 
 >  National (SEAB) Examination Matters
 
@@ -45,7 +45,7 @@ description: ""
 >*   [5NA CHIJ SJC Booklist 2023.pdf](https://chijstjosephsconvent.moe.edu.sg/qql/slot/u160/2022/Useful%20Link%202022/Booklist%202022/Sec%205NA%20Booklist%202023.pdf)  
     
 
-*  School Matters 
+#### *  **School Matters** 
 
 >   [PDLP Resource Site](https://sites.google.com/moe.edu.sg/chijsjcpdlp/home)  
 >   [Home-Based Learning](https://chijstjosephsconvent-moe-edu-sg-admin.cwp.sg/useful-links/students/school-matters/full-home-based-learning)  

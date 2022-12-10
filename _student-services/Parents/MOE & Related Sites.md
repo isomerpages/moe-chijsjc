@@ -88,7 +88,7 @@ third_nav_title: Parents
 
 https://www.schoolbag.edu.sg/
 
-Please click on icon to view the latest news on Singapore Education
+Please click on icon above to view the latest news on Singapore Education
 
 
 
@@ -123,3 +123,7 @@ Please click on icon to view the latest news on Singapore Education
 </div>
 
 </div>
+
+[https://www.youtube.com/user/MOESpore/featured](https://www.youtube.com/user/MOESpore/featured)
+
+Please click on icon above to view the latest news on Singapore schools

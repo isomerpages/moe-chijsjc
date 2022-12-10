@@ -19,9 +19,9 @@ description: ""
 >*   [Approved Calculators (PDF)](/files/Useful%20Links/Students/Students/GuidelinesCalculators.pdf)
 >*   [Approved Dictionaries (PDF)](https://www.seab.gov.sg/home/examinations/approved-dictionaries)
 
-*   School (Internal) Examination Matters
+>   School (Internal) Examination Matters
 
->   \-
+>*   \-
     
 
 >   Book lists (Year 2023)  
@@ -45,25 +45,23 @@ description: ""
 >*   [5NA CHIJ SJC Booklist 2023.pdf](https://chijstjosephsconvent.moe.edu.sg/qql/slot/u160/2022/Useful%20Link%202022/Booklist%202022/Sec%205NA%20Booklist%202023.pdf)  
     
 
-*   School Matters
+*  School Matters 
 
-*   [PDLP Resource Site](https://sites.google.com/moe.edu.sg/chijsjcpdlp/home)
-*   [Home-Based Learning](https://chijstjosephsconvent-moe-edu-sg-admin.cwp.sg/useful-links/students/school-matters/full-home-based-learning)
-*   [Code of Conduct](https://chijstjosephsconvent.moe.edu.sg/student-development/code-of-conduct)
-*   2023 Semester 1 Time Table  
+>   [PDLP Resource Site](https://sites.google.com/moe.edu.sg/chijsjcpdlp/home)  
+>   [Home-Based Learning](https://chijstjosephsconvent-moe-edu-sg-admin.cwp.sg/useful-links/students/school-matters/full-home-based-learning)  
+>   [Code of Conduct](https://chijstjosephsconvent.moe.edu.sg/student-development/code-of-conduct)  
+>   2023 Semester 1 Time Table  
+ >*   \-
+
+>   [CCA Time Table](https://chijstjosephsconvent.moe.edu.sg/cca/cca-schedule)  
+>   [CHIJ SJC Edusave Character Award 2022(PDF)](https://chijstjosephsconvent.moe.edu.sg/qql/slot/u160/2022/Useful%20Link%202022/School%20Matters/School%20Website%20announcement%20on%20CHIJ%20St%20Joseph.pdf)  
+>   Poly Admission exercise / DSA Application  
     
 
-*   \-
+#### *   **Learning Portals**
 
-*   [CCA Time Table](https://chijstjosephsconvent.moe.edu.sg/cca/cca-schedule)
-*   [CHIJ SJC Edusave Character Award 2022(PDF)](https://chijstjosephsconvent.moe.edu.sg/qql/slot/u160/2022/Useful%20Link%202022/School%20Matters/School%20Website%20announcement%20on%20CHIJ%20St%20Joseph.pdf)
-*   Poly Admission exercise / DSA Application  
-    
-
-*   Learning Portals
-
-*   [ACE-Learning](https://www.ace-learning.com/)
-*   [Student Learning Space](https://vle.learning.moe.edu.sg/login)
-*   [School Library OPAC (Open Access Catalogue)](https://schoolibrary.spydus.com.sg/chijstjosephsconvent/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
-*   [School eResource Repository (Project SERR)](https://schoolibrary.spydus.com.sg/eresourcessec/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
-*   [MySkillsfuture Portal](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html)
+>   [ACE-Learning](https://www.ace-learning.com/)   
+>   [Student Learning Space](https://vle.learning.moe.edu.sg/login)  
+>   [School Library OPAC (Open Access Catalogue)](https://schoolibrary.spydus.com.sg/chijstjosephsconvent/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)  
+>   [School eResource Repository (Project SERR)](https://schoolibrary.spydus.com.sg/eresourcessec/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)  
+>   [MySkillsfuture Portal](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html)

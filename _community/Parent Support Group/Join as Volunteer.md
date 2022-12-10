@@ -28,6 +28,6 @@ Check out the following link to find out more about the various events and progr
 
 <img style="width:10%;height:50%" src="/images/Community/Parent%20Support%20Group/Join%20as%20Volunteer/J2.png">
 
-PSG Facebook Page [https://www.facebook.com/sjcpsg/](https://www.facebook.com/sjcpsg/)
+PSG Facebook Page [(https://www.facebook.com/sjcpsg/)](https://www.facebook.com/sjcpsg/)
 
 For information and details of various Parent Engagement Programme organized by the school, please access the link: Useful Links for Parents

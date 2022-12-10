@@ -17,5 +17,5 @@ sections:
           url: /useful-links/Students/
         - title: News & Events
           description: ""
-          url: ""
+          url: /resources/new-and-events
 ---

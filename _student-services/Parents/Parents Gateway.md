@@ -14,10 +14,9 @@ For assistance to download the Parents Gateway Mobile Application, you may
 
 > 1. view the [Step-by-Step Guide Video](https://www.youtube.com/watch?v=tW9jwyuovOo&feature=youtu.be)
 > 
-> 2. refer to the  [Parents User Guide.pdf](https://chijstjosephsconvent.moe.edu.sg/qql/slot/u160/General/Latest%20News/2019/User%20Guide%20for%20Parents.pdf)
+> 2. refer to the  [Parents User Guide.pdf](/files/Useful%20Links/Parents/Parents%20Gateway/User%20Guide%20for%20Parents.pdf)
 > 
-> 3. refer to the [FAQs](https://chijstjosephsconvent.moe.edu.sg/qql/slot/u160/General/Latest%20News/2019/Parents%20Gateway%20FAQs%20for%20Parents%20.pdf)
-> 
+> 3. refer to the [FAQs](/files/Useful%20Links/Parents/Parents%20Gateway/Parents%20Gateway%20FAQs%20for%20Parents%20.pdf) 
 > 4. refer to [singpass information](https://www.singpass.gov.sg/singpass/register/instructions)
 
 Kindly download the Parents Gateway at 

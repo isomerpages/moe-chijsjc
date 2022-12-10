@@ -8,7 +8,7 @@ third_nav_title: Parents
 
 <a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)" target = "\_blank">
 
-<img style="width:50%" src="/images/Useful%20Links/Parents/MOE%20&%20Related%20Sites/M1.png">
+<img style="width:30%" src="/images/Useful%20Links/Parents/MOE%20&%20Related%20Sites/M1.png">
 
 </a>
 

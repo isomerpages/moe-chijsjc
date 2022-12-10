@@ -91,19 +91,19 @@ Please click on the links below for Parents’ Resources for:
 
   
 
-9.How can you coach your teenager to cope with difficult feelings?[5 Steps to coach your teenagers with difficult feelings](https://chijstjosephsconvent.moe.edu.sg/qql/slot/u160/2022/Useful%20Link%202022/Parents/5%20Steps%20to%20coach%20your%20teenagers%20with%20difficult%20feelings.pdf)(pdf)
+9.How can you coach your teenager to cope with difficult feelings?[5 Steps to coach your teenagers with difficult feelings](/files/Useful%20Links/Parents/Parenting%20Resources/5%20Steps%20to%20coach%20your%20teenagers%20with%20difficult%20feelings.pdf)(pdf)
 
   
 
 10\. Developing Healthy Routines. Caring for your Secondary School Teenagers
 
-[Helping Parents to develop Healthy Routines with their Children](https://chijstjosephsconvent.moe.edu.sg/qql/slot/u160/2022/Useful%20Link%202022/Parents/Helping%20Parents%20to%20develop%20Healthy%20Routines%20with%20their%20Children.pdf)(pdf)
+[Helping Parents to develop Healthy Routines with their Children](/files/Useful%20Links/Parents/Parenting%20Resources/Helping%20Parents%20to%20develop%20Healthy%20Routines%20with%20their%20Children%20(1).pdf)(pdf)
 
   
 
 11\. Managing Teen's Screentime during School Holidays
 
-[Managing Teen's Screentime During School Holidays](https://chijstjosephsconvent.moe.edu.sg/qql/slot/u160/2022/Useful%20Link%202022/Parents/Managing%20Teens%20Screentime%20During%20School%20Holidays.pdf)(pdf)
+[Managing Teen's Screentime During School Holidays](/files/Useful%20Links/Parents/Parenting%20Resources/Managing%20Teens%20Screentime%20During%20School%20Holidays.pdf)(pdf)
 
   
 

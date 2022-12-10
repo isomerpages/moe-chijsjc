@@ -148,3 +148,21 @@ Please click on icon above to view the latest news on Singapore schools
 [https://www.seab.gov.sg/](https://www.seab.gov.sg/)
 
 Please click on icon above to view useful information on the National Examinations
+
+<div>
+
+<a href="https://www.seab.gov.sg/" target = "\_blank">
+
+<img style="width:50%" src="/images/Useful%20Links/Parents/MOE%20&%20Related%20Sites/M9.jpg">
+
+</a>
+
+</div>
+
+<div>
+
+</div>
+
+</div>
+
+**[Parent's Gateway](https://chijstjosephsconvent.moe.edu.sg/useful-links/parents/moe-n-related-sites/parents-gateway)**

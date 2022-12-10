@@ -127,3 +127,24 @@ Please click on icon above to view the latest news on Singapore Education
 [https://www.youtube.com/user/MOESpore/featured](https://www.youtube.com/user/MOESpore/featured)
 
 Please click on icon above to view the latest news on Singapore schools
+
+
+<div>
+
+<a href="https://www.seab.gov.sg/" target = "\_blank">
+
+<img style="width:50%" src="/images/Useful%20Links/Parents/MOE%20&%20Related%20Sites/M8.png">
+
+</a>
+
+</div>
+
+<div>
+
+</div>
+
+</div>
+
+[https://www.seab.gov.sg/](https://www.seab.gov.sg/)
+
+Please click on icon above to view useful information on the National Examinations

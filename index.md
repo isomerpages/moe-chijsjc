@@ -9,15 +9,9 @@ sections:
   - hero:
       background: /images/Homepage/HomepageGIF.gif
       key_highlights:
-        - title: Announcements
-          description: ""
-          url: /Resources/Announcements
         - title: Useful Links
           description: ""
           url: /useful-links/Students/
-        - title: News & Events
-          description: ""
-          url: /resources/new-and-events
   - resources:
       title: Announcements, News & Events
       button: Read More

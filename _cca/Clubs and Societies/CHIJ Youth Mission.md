@@ -9,9 +9,8 @@ third_nav_title: Clubs and Societies
 #### **About**
 
 
-The CHIJ Youth Mission provides an enabling environment for girls to recognize and promote the dignity of human persons especially the disadvantaged.
+The CHIJ Youth Mission provides an enabling environment for girls to recognize and promote the dignity of human persons, especially the disadvantaged.
 
-  
 
 Our activities include meaningful community involvement programmes like fund raising projects for the needy and volunteering at Homes for the Elderly. Members are transformed by the experience of servant leadership and grow as they listen to the needs of others in their community.
 

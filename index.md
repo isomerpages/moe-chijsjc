@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Title
+title: CHIJ St. Joseph's Convent
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
@@ -16,3 +16,4 @@ sections:
       title: Announcements, News & Events
       button: Read More
 ---
+

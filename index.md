@@ -11,7 +11,7 @@ sections:
         - title: Useful Links
           description: ""
           url: /useful-links/Students/
-      background: /images/Homepage/Home Carousel.gif
+      background: /images/Homepage/H3.png
   - resources:
       title: Announcements
       button: Read More

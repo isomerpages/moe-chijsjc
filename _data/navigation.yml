@@ -2,11 +2,11 @@ logo: /images/Homepage/Logowithname.png
 links:
   - title: About us
     collection: about-us
-  - title: Curriculum
+  - title: THE SJC EXPERIENCE
+    collection: special-programmes
+  - title: ACADEMIC DEVELOPMENT
     collection: curriculum
   - title: Student Development
     collection: student-development
   - title: CCA
     collection: cca
-  - title: Special Programmes
-    collection: special-programmes

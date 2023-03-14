@@ -7,13 +7,11 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/HomepageGIF.gif
       key_highlights:
         - title: Useful Links
           description: ""
           url: /useful-links/Students/
   - resources:
-      title: Announcements, News & Events
+      title: Announcements
       button: Read More
 ---
-

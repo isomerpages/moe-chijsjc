@@ -2,7 +2,7 @@ title: CHIJ St. Joseph's Convent
 url: https://www.open.gov.sg
 favicon: /images/Homepage/CHIJ Crest 2014_clear background_PNG format_2014.png
 colors:
-  primary-color: "#4a7de2"
+  primary-color: "#0d3b89"
   secondary-color: "#4358d6"
   media-colors:
     - title: media-color-one
@@ -12,9 +12,9 @@ colors:
     - title: media-color-three
       color: "#00838f"
     - title: media-color-four
-      color: "#00838f"
+      color: "#79042f"
     - title: media-color-five
-      color: "#00838f"
+      color: "#f97f6e"
 description: Welcome to the official website of CHIJ St. Joseph's Convent.
 permalink: none
 baseurl: ""

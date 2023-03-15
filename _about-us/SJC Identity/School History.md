@@ -24,7 +24,7 @@ Over the next two decades, the school continued to grow. By 1986, enrollment rea
 
 ![](/images/About%20us/SJC%20Identity/Our%20History/History%202.jpg)
 
-In 2000, SJC moved to our current site at Sengkang East Way in November. It was also the year that SJC produced her first top National student in the GCE N-Level examination. The school's good results continued and SJC achieved the Top 10 Value-Added School for Normal and Express stream and the Top 10 School for Physical Fitness Tests and Fitness Index in 2002.
+In 2000, SJC moved to our current site at Sengkang East Way in November. It was also the year that SJC produced her first top National student in the GCE N-Level examination. The school's good results continued and SJC achieved the Top 10 Value-Added School for Normal and Express stream in 2002.
 
 Besides the school's academic achievements, SJCians' excellence in the co-curricular area was also recognised in 2007 when the school received her first Sustained Achievement Award (SAA) in Uniformed Group & first SAA in Performing Arts from MOE.
 

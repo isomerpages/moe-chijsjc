@@ -35,7 +35,8 @@ In the 2000s, SJC continued to shine and was recognised for its effort in develo
 
 To mark the 165th anniversary of CHIJ schools in Singapore, the IJ fraternity came together in a combined Mass at the National Stadium and a CHIJ Forum in 2019. 
 
-In 2023, SJC will commemorate her 85th anniversary by celebrating our rich heritage and the 
+In 2023, SJC will commemorate her 85th anniversary and celebrate the many blessings we have received as a school. The theme "Light from Within" reminds us to put Christ the Light at the centre of all we do as we respond to the call to serve the larger community and shine our light for others.
+
 
 
 

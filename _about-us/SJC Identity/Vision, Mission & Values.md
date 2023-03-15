@@ -16,7 +16,7 @@ The mission of an Infant Jesus Convent is the creation of a Christ-centred scho
 
 Simple in Virtue, Steadfast in Duty
 
-#### **Our Values & Outcomes**
+#### **Our Values**
 
 **L**ove
 

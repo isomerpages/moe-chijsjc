@@ -31,7 +31,11 @@ Besides the school's academic achievements, SJCians' excellence in the co-curric
 
 In 2011, the opening of the Indoor Sports Hall was celebrated with a fund-raising walkathon from old school site in Hillside Drive to present site in Sengkang East Way that brought past and present girls and staff together.
 
+In the 2000s, SJC continued to shine and was recognised for its effort in developing our students holistically. In 2014, SJC attained three Best Practice Awards for Teaching and Learning, Character and Citizenship Education and Staff Development. The school's differentiated approach to support her Normal-stream students was also acknowledged with the Lee Hsien Loong Award for Innovations in 2015.
+
+To mark the 165th anniversary of CHIJ schools in Singapore, the IJ fraternity came together in a combined Mass at the National Stadium and a CHIJ Forum in 2019. 
+
+In 2023, SJC will commemorate her 85th anniversary by celebrating our rich heritage and the 
 
 
 
-schools affiliated to SJC.

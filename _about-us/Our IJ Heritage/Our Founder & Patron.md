@@ -31,22 +31,13 @@ In the decades that followed, other CHIJ schools were established throughout Sin
 
 Through the years, the CHIJ Schools in Singapore experienced numerous changes, including the relocation of a number of schools. Despite these changes, the CHIJ schools continue to bear witness to the ideals of our founder, Nicolas Barré, and remain faithful to our motto, Simple in Virtue, Steadfast in Duty.
 
-##### **Our Patron – St. Joseph**
-
-<img style="width:50%;height:50%" src="/images/About%20us/Our%20School%20Information/Our%20Founder%20&%20Patron/A3.jpg">
+![](/images/About%20us/Our%20IJ%20Heritage/StJoseph.png)
 
 St Joseph is our patron saint. He was chosen when the school was renamed as St Joseph’s Convent post World War II in recognition of the protection St Joseph had given the school through then principal, Sister Theodora’s prayers.  
-
 St Joseph is the husband of the Virgin Mary and he fulfilled all the functions of a father towards Jesus. In his roles as husband, father and provider, Joseph seems grounded in the physical world. We think of him as a quiet worker, a handyman and carpenter.
-
-  
 
 Yet St Joseph was a man of spirituality. He had the wisdom to understand God’s intent and guidance in his life, and the courage to act on those insights.
 
-  
-
 He was "a man who always did what was right”.  We will strive, like him, to do the will of God.
-
-  
 
 _ST JOSEPH'S FEAST DAY: MARCH 19TH_

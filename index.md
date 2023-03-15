@@ -6,7 +6,8 @@ image: /images/isomer-logo.svg
 permalink: /
 notification: ""
 sections:
-  - hero: {}
+  - hero:
+      background: /images/hero2.png
   - resources:
       title: Announcements
       button: Read More

@@ -18,19 +18,21 @@ The school crest is a badge of honour, history and distinction, inspiring every 
 
 In 2019, along with all the other IJ schools in Singapore, SJC updated her school flag.
 
-![](/images/About%20us/SJC%20Identity/Our%20School%20Crest,%20Song%20&%20Flag/school%20flag.jpg)
+![](/images/About%20us/SJC%20Identity/Our%20School%20Crest,%20Song%20&%20Flag/schoolflags.jpg)
 
 #### **Our School Song**
 
-*Saint Joseph’s, Saint Joseph’s
-We pledge our loyalty to Thee.
-With you, we spend our golden days,
-Happy and free.
+*Saint Joseph’s, Saint Joseph’s, we pledge our loyalty to Thee.*
 
-*Simple in our virtue, Steadfast in our work.
-Together we strive to live up to your worth.*
+*With you, we spend our golden days, happy and free.*
 
-*In one resounding voice we sing
-To your praise.
-Long live Saint Joseph’s
-With the help of God’sgrace.*
+*Simple in our virtue, Steadfast in our work.*
+
+*Together we strive to live up to your worth.*
+
+*In one resounding voice we sing to your praise.*
+
+*Long live Saint Joseph’s, with the help of God's grace.*
+
+
+

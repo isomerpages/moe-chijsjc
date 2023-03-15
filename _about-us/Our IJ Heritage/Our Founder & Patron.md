@@ -4,7 +4,7 @@ permalink: /about-us/Our-School-Information/Our-Founder-and-Patron/
 description: ""
 third_nav_title: Our IJ Heritage
 ---
-![](/images/About%20us/Our%20IJ%20Heritage/Fatherbarre2.png)
+![](/images/About%20us/Our%20IJ%20Heritage/Fatherbarre3.png)
 
 FR Barre was born in Amiens, France on 21 October 1621 and educated at a Jesuit college in his hometown. At the age of 19, he decided to dedicate his life to God, and joined the religious order of the Minims founded by St Francis of Paola.  
 

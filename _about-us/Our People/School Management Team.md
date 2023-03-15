@@ -4,9 +4,11 @@ permalink: /about-us/Our-People/School-Management-Team/
 description: ""
 third_nav_title: Our People
 ---
-![](/images/About%20us/Our%20People/School%20Management%20Team/S1.png)
 
-#### **HEADS OF DEPARTMENT (HOD)**
+#### **School Leaders**
+![](/images/About%20us/Our%20People/School%20Management%20Team/SLs2.png)
+
+#### **Heads of Department**
 
 | Name                                                   | Designation                              |
 |--------------------------------------------------------|------------------------------------------|
@@ -23,7 +25,7 @@ third_nav_title: Our People
 |  Mrs Joyce Goh  yeo_xin_rong_joyce@moe.edu.sg          |  School Staff Developer                  |
 |  Miss Daphne Teo  teo_siew_ling@moe.edu.sg             |  Year Head (Upper Sec)                   |
 
-##### **SUBJECT HEAD (SH) / LEVEL HEAD (LH) / ASSISTANT YEAR HEAD (AYH)**
+##### **Subject Heads (SH) / Level Heads (LH) / Assistant Year Heads (AYH)**
 
 | Name                                                                      | Designation                       |
 |---------------------------------------------------------------------------|-----------------------------------|

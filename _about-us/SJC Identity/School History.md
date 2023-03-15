@@ -11,7 +11,7 @@ After the war, the school reopened in a bungalow lent by a neighbor, off Upper S
 
 In 1945, SJC moved to 11 Hillside Drive where a wooden building comprising four classrooms was erected, all paid for by mission funds. A year later, Paya Lebar Convent was renamed **St. Joseph’s Convent** – in recognition of the protection the Saint had given our school through Sister Theodora’s prayers.
 
-![](/images/About%20us/SJC%20Identity/Our%20History/History%201.jpg)
+![](/images/About%20us/SJC%20Identity/Our%20History/History%201a.jpg)
 
 In 1949, SJC was approved as an Aided School. In the following years, enrollment swelled and the school expanded with the addition of new classrooms along Highland Road, and the installation of a science laboratory and kitchen.
 
@@ -19,10 +19,19 @@ Netball as a co-curricular activity was started in 1965 by teacher Mrs Cecile Ta
 
 After Singapore's independence, the school's primary section was gradually phased out. In 1974, SJC became a full-fledged secondary school with morning and afternoon sessions. CHIJ Our Lady of the Nativity (OLN) and CHIJ Our Lady of Good Counsel (OLGC) became the primary schools affiliated to SJC.
 
+In 1978, 3 SJCians made history when they emerged among the nation’s top performers in GCE O-Level Examination.
+
+Over the next two decades, the school continued to grow. By 1986, enrollment reached 920 and major renovations work was completed to meet the needs of the staff and students. In 1990, the school's first Computer Room was set up.
+
+![](/images/About%20us/SJC%20Identity/Our%20History/History%202.jpg)
+
+In 2000, SJC moved to our current site at Sengkang East Way in November. It was also the year that SJC produced her first top National student in the GCE N-Level examination. The school's good results continued and SJC achieved the top 10 Value- Added School for Normal and Express stream and the Top 10 School for Physical Fitness Tests and Fitness Index in 2002.
+
+Besides the school's academic achievements, SJCians' excellence in the co-curricular was also recognised in 2007 when the school received her first Sustained Achievement Award (SAA) in Uniformed Group & first SAA in Performing Arts from MOE.
+
+In 2011, the opening of the Indoor Sports Hall was celebrated with a fund-raising walkathon from old school site in Hillside Drive to present site in Sengkang East Way that brought past and present girls and staff together.
 
 
 
 
-
-
-
+schools affiliated to SJC.

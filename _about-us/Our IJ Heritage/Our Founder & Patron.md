@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Our IJ Heritage
 ---
 ![](/images/About%20us/Our%20IJ%20Heritage/Fatherbarre2.png)
+
 FR Barre was born in Amiens, France on 21 October 1621 and educated at a Jesuit college in his hometown. At the age of 19, he decided to dedicate his life to God, and joined the religious order of the Minims founded by St Francis of Paola.  
 
 In 17th Century France, there was a dire need of education as the poor, including particularly girls, were neglected, exploited and illiterate. Seeing the disparity in opportunities for education between the rich and the poor in French society, he was inspired to establish an order whose specific objective was to educate girls of poor families. In 1662, Fr Barré gathered a group of dedicated young women to educate the poor, especially the girls, in free schools which he established.

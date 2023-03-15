@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hero3.png
+      background: /images/hero2.png
   - resources:
       title: Announcements
       button: Read More

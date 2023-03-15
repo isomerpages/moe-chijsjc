@@ -4,10 +4,7 @@ permalink: /about-us/Our-School-Information/Our-School-Crest-School-Song-and-Sch
 description: ""
 third_nav_title: SJC Identity
 ---
-
-
 #### **Our School Crest** 
-
 
 The CHIJ school crest is worn by pupils of Infant Jesus schools all over the world.  It was created by IJ pupils in 17th century France incorporating into its concept and design, values and aspirations which they wished to be lived out in each CHIJ School. 
 
@@ -15,7 +12,7 @@ This badge is a symbol of the international unity binding together pupils from e
 
 The school crest is a badge of honour, history and distinction, inspiring every Infant Jesus school student to live a life underpinned by love in faithful pursuit of these noble ideals.
 
-![](/images/About%20us/Our%20School%20Information/Our%20School%20Crest,%20Song%20&%20Flag/S1.jpg) 
+![](/images/About%20us/SJC%20Identity/Our%20School%20Crest,%20Song%20&%20Flag/OurSchoolBadge.jpg)
 
 #### **Our School Flag**
 

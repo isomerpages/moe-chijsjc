@@ -4,25 +4,15 @@ permalink: /about-us/Our-School-Information/Our-Founder-and-Patron/
 description: ""
 third_nav_title: Our IJ Heritage
 ---
-##### **Our Founder – Blessed Nicholas Barré (1621 – 1686)**
-
-![](/images/About%20us/SJC%20Identity/Our%20Founder%20&%20Patron/A1.jpg)
+![](/images/About%20us/Our%20IJ%20Heritage/Fatherbarre.png)
 
 FR Barre was born in Amiens, France on 21 October 1621 and educated at a Jesuit college in his hometown. At the age of 19, he decided to dedicate his life to God, and joined the religious order of the Minims founded by St Francis of Paola.  
 
-  
-
 In 17th Century France, there was a dire need of education as the poor, including particularly girls, were neglected, exploited and illiterate. Seeing the disparity in opportunities for education between the rich and the poor in French society, he was inspired to establish an order whose specific objective was to educate girls of poor families. In 1662, Fr Barré gathered a group of dedicated young women to educate the poor, especially the girls, in free schools which he established.
-
-  
 
 In 1666, Fr Barré began a new religious congregation – the Charitable Mistresses of the Schools of the Holy Infant Jesus. He continued similar work in Paris with great success as he named his schools simply as the Schools of the Holy Infant Jesus. Believing that each child has potential and is unique, the children were taught with care and respect by the teachers who became well-known for their expertise and gentle approach. More CHIJ schools multiplied and spread across the world including Japan, Thailand, Malaysia and Singapore.
 
-  
-
 However, in May 1686, Fr Barré’s health declined, and he died on 31 May. He was beatified in Rome on 7 March 1999 by Pope John Paul II.
-
-  
 
 Blessed Nicolas Barré’s heart for the education of the poor, especially girls, continue to be an inspiration to many generations of CHIJ girls across cultures, background, race and religions. Through receiving an education in CHIJ schools, all IJ girls are called to act justly with courage and compassion in their lives with a priority to helping the disadvantaged in society.
 

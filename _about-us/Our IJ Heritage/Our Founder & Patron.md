@@ -4,11 +4,9 @@ permalink: /about-us/Our-School-Information/Our-Founder-and-Patron/
 description: ""
 third_nav_title: Our IJ Heritage
 ---
-
-
 ##### **Our Founder – Blessed Nicholas Barré (1621 – 1686)**
 
-<img style="width:50%;height:50%" src="/images/About%20us/Our%20School%20Information/Our%20Founder%20&%20Patron/A1.jpg">
+![](/images/About%20us/SJC%20Identity/Our%20Founder%20&%20Patron/A1.jpg)
 
 FR Barre was born in Amiens, France on 21 October 1621 and educated at a Jesuit college in his hometown. At the age of 19, he decided to dedicate his life to God, and joined the religious order of the Minims founded by St Francis of Paola.  
 

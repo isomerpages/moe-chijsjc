@@ -19,7 +19,7 @@ Blessed Nicolas Barré’s heart for the education of the poor, especially girls
 In commemoration of this great man and what he has done, CHIJ Schools in Singapore celebrate Founder’s Day on 31 May each year.
 
 
-![](/images/About%20us/Our%20IJ%20Heritage/MMathilde.png)
+![](/images/About%20us/Our%20IJ%20Heritage/MMathilde2.png)
 
 Mother Mathilde was born Marie Justine Raclot in France in 1814. She received her secondary education at a boarding school run by the IJ Sisters, then known as Dames of St Maur, in France. At age 19, Justine entered the Congregation of the Sisters of the Holy Infant Jesus, in Paris and was given the name St Mathilde. She taught in various IJ schools for 17 years in Southern France, where she acquired a reputation for being firm yet kind, with qualities of courage, integrity and sincerity.
 

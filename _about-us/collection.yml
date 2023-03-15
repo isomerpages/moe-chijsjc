@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our IJ Heritage/.keep
       - SJC Identity/.keep
       - SJC Identity/Our Founder & Patron.md
       - SJC Identity/Our History.md

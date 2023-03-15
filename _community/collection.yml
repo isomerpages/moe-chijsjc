@@ -2,7 +2,6 @@ collections:
   community:
     output: true
     order:
-      - Message from IJ Board of Management.md
       - IJ Board of Management.md
       - Parent Support Group/Mission, Objectives, Focus Areas.md
       - Parent Support Group/PSG ExCo.md

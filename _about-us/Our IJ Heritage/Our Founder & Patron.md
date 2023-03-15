@@ -18,29 +18,16 @@ Blessed Nicolas Barré’s heart for the education of the poor, especially girls
 
 In commemoration of this great man and what he has done, CHIJ Schools in Singapore celebrate Founder’s Day on 31 May each year.
 
-##### **Our Pioneer – Mother Mathilde Raclot (1814 – 1911)**
 
-
-  
-<img style="width:50%;height:50%" src="/images/About%20us/Our%20School%20Information/Our%20Founder%20&%20Patron/A2.jpg">
-
-  
+![](/images/About%20us/Our%20IJ%20Heritage/MMathilde.png)
 
 Mother Mathilde was born Marie Justine Raclot in France in 1814. She received her secondary education at a boarding school run by the IJ Sisters, then known as Dames of St Maur, in France. At age 19, Justine entered the Congregation of the Sisters of the Holy Infant Jesus, in Paris and was given the name St Mathilde. She taught in various IJ schools for 17 years in Southern France, where she acquired a reputation for being firm yet kind, with qualities of courage, integrity and sincerity.
 
-  
-
 In September 1852, four IJ Sisters with Mother Mathilde in charge, set sail to Penang, Malaysia on a ship called the Bentinck. They went to Penang to guide and support the small group of IJ Sisters who had arrived earlier in Penang to set up a Convent school for girls.
-
-  
 
 A year and a half later, on 5 February 1854, Mother Mathilde and three IJ Sisters (Mother St Appollinaire, Mother St Gaetan and Sr St Gregory Connolly) arrived in Singapore on board the Hoogly. They founded the first IJ school in Singapore as they commenced classes with 14 fee-paying pupils, 9 boarders and 16 orphans just 10 days upon their arrival. They established the first Convent of the Holy Infant Jesus (CHIJ) school in Victoria Street. Their mission was simple – to educate girls from all social classes, especially the disadvantaged.
 
-  
-
 In the decades that followed, other CHIJ schools were established throughout Singapore – CHIJ Katong Convent (1930), CHIJ St Nicholas Girls’ (1933), CHIJ St Theresa’s Convent (1933), CHIJ St Joseph’s Convent (1938), CHIJ Bukit Timah (1955) (now known as CHIJ Our Lady Queen of Peace), CHIJ Ponggol (1957) (now known as CHIJ Our Lady of the Nativity), Opera Estate Convent (1959) (merged with the primary section of Katong Convent to form CHIJ Katong Primary in 1990), CHIJ Our Lady of Good Counsel (1960) and CHIJ Kellock (1964). In line with the IJ mission to educate and provide care for children and especially girls in crisis, IJ Homes and Children’s Centres (IJHCC) were also established.
-
-  
 
 Through the years, the CHIJ Schools in Singapore experienced numerous changes, including the relocation of a number of schools. Despite these changes, the CHIJ schools continue to bear witness to the ideals of our founder, Nicolas Barré, and remain faithful to our motto, Simple in Virtue, Steadfast in Duty.
 

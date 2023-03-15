@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - SJC Identity/School History.md
       - SJC Identity/.keep
       - SJC Identity/Vision, Mission & Values.md
       - SJC Identity/School Crest, Flag and Song.md

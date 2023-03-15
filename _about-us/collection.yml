@@ -2,13 +2,13 @@ collections:
   about-us:
     output: true
     order:
-      - Our IJ Heritage/.keep
       - SJC Identity/.keep
       - SJC Identity/Our Founder & Patron.md
       - SJC Identity/Our History.md
       - SJC Identity/Our School Crest, School Song & School Flag.md
       - SJC Identity/Our Vision, Mission, Motto & Values.md
       - SJC Identity/Our School Facilities.md
+      - Our IJ Heritage/.keep
       - Our People/.keep
       - Our People/School Management Team.md
       - Our People/Teaching Staff.md

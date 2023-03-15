@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - SJC Identity/.keep
-      - SJC Identity/Our Vision, Mission & Values.md
+      - SJC Identity/Vision, Mission & Values.md
       - SJC Identity/Our School Crest, School Song & School Flag.md
       - Our IJ Heritage/Our Founder & Patron.md
       - Our IJ Heritage/Our History.md

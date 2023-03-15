@@ -8,9 +8,7 @@ third_nav_title: Our People
 ![](/images/About%20us/Our%20People/School%20Management%20Team/SLs3.jpg)
 
 #### **Heads of Department**
-![](/images/About%20us/Our%20People/School%20Management%20Team/HODs2.jpg)
+![](/images/About%20us/Our%20People/School%20Management%20Team/HODs3.jpg)
 
 ##### **Subject Heads (SH) / Level Heads (LH) / Assistant Year Heads (AYH)**
-![](/images/About%20us/Our%20People/School%20Management%20Team/SHs.jpg)
-
-
+![](/images/About%20us/Our%20People/School%20Management%20Team/SHs2.jpg)

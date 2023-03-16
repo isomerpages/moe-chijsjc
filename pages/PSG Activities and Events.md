@@ -38,6 +38,10 @@ This programme supports the school in their Education and Career Guidance Progra
 *   PSG  Family year-end trip to Batam 
 *   Labrador Nature Walk & Mother’s Day High Tea
 
+![](/images/About%20us/Our%20Community/Parent%20Support%20Group/PSG1A.jpg)
+
+![](/images/About%20us/Our%20Community/Parent%20Support%20Group/PSG1B.jpg)
+
 
 
 

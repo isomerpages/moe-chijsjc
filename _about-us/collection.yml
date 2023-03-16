@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Parent Support Group/.keep
       - SJC Identity/.keep
       - SJC Identity/Vision, Mission & Values.md
       - SJC Identity/School History.md
@@ -14,9 +13,10 @@ collections:
       - Our People/School Management Team.md
       - Our People/Teaching Staff.md
       - Our People/Non Teaching Staff.md
+      - Our Community/.keep
       - Our Community/Parent School Collaboration.md
       - Our Community/Mission, Objectives, Focus Areas.md
-      - Our Community/.keep
+      - Parent Support Group/.keep
       - School Achievements/.keep
       - School Achievements/Organisational Achievements.md
       - School Achievements/Student Awards.md

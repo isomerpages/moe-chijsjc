@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Parent Support Group/.keep
       - SJC Identity/.keep
       - SJC Identity/Vision, Mission & Values.md
       - SJC Identity/School History.md

@@ -4,7 +4,6 @@ permalink: /community/Parent-Support-Group/Mission-Objectives-Focus-Areas/
 description: ""
 third_nav_title: Our Community
 ---
-
 #### **Our Mission**
 Partners in Education to provide quality and holistic education  
 
@@ -41,10 +40,4 @@ Click the link to indicate your interest and our Exco member will follow up with
 You may also reach the PSG at [sjcpsg@gmail.com](mailto:sjcpsg@gmail.com)
 
 Alternatively, connect with us on the PSG Facebook page at [https://www.facebook.com/sjcpsg/](https://www.facebook.com/sjcpsg/)
-
-Find out more about SJC PSG activities and events [here](https://www.open.gov.sg/community/Parent-Support-Group/Parent-School-Collaboration/)
-
-
-
-
 

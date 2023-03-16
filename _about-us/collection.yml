@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Our Community/.keep
       - SJC Identity/.keep
       - SJC Identity/Vision, Mission & Values.md
       - SJC Identity/School History.md
@@ -14,6 +13,7 @@ collections:
       - Our People/School Management Team.md
       - Our People/Teaching Staff.md
       - Our People/Non Teaching Staff.md
+      - Our Community/.keep
       - Accolades/.keep
       - Accolades/Organisational Achievements.md
       - Accolades/Student Awards.md

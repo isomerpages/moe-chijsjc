@@ -25,44 +25,22 @@ While we groom and develop our own children, we hope to extend our love and supp
 #### PSG Executive Committee
 The PSG Exco works closely with the school leaders to set forth the strategy for parent-school collaboration. They lead and work closely with parent volunteers for PSG projects and activities to support the school and the holistic development of SJCians. 
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-2n9k{background-color:#FFF;color:#262877;text-align:left;vertical-align:top}
-.tg .tg-pzpx{background-color:#FFF;color:#262877;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-ftj8{background-color:#CAD2DB;color:#262877;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-pzpx" colspan="2">PSG EXECUTIVE COMMITTEE 2022 - 2023</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-ftj8"> Chairperson: </td>
-    <td class="tg-ftj8"> Ms Serene Er</td>
-  </tr>
-  <tr>
-    <td class="tg-2n9k"> Secretary:</td>
-    <td class="tg-2n9k"> Ms Benita Fong</td>
-  </tr>
-  <tr>
-    <td class="tg-ftj8"> Treasurer:</td>
-    <td class="tg-ftj8"> Mrs Pritaam Singh</td>
-  </tr>
-  <tr>
-    <td class="tg-2n9k"> Prayer Group Co-ordinator:</td>
-    <td class="tg-2n9k"> Ms Benita Fong</td>
-  </tr>
-</tbody>
-	
-	
+![](/images/About%20us/Our%20Community/Parent%20Support%20Group/PSG%20Exco.jpg)
 
+#### Join as a Parent Volunteer!
+
+* An informed parent is a child’s best advocate, so do come forward to give your support and participation.
+* Journey with your child through the SJC PSG, connect with your child and her school and show her you care about her.
+* You can dedicate your services either to our various subcommittee programmes or to our termly meetings.
+* Through active participation in these events, the relationship between the school, the parents and our daughters is strengthened.
+
+Click the link to indicate your interest and our Exco member will follow up with you: [https://bit.ly/3tycSmm](https://bit.ly/3tycSmm)
+
+#### Contact Us
+You may also reach the PSG at [sjcpsg@gmail.com](mailto:sjcpsg@gmail.com)
+
+Alternatively, connect with us on the PSG Facebook page at [https://www.facebook.com/sjcpsg/](https://www.facebook.com/sjcpsg/)
+
+Check out our activities and events at 
 	
 	
-
-

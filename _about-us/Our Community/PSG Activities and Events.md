@@ -4,7 +4,6 @@ permalink: /community/Parent-Support-Group/Parent-School-Collaboration/
 description: ""
 third_nav_title: Our Community
 ---
-
 ![](/images/About%20us/Our%20Community/Parent%20Support%20Group/P1.jpg)
 
 #### **Parents Prayer Group**
@@ -43,8 +42,3 @@ This programme supports the school in their Education and Career Guidance Progra
 ![](/images/About%20us/Our%20Community/Parent%20Support%20Group/PSG1A.jpg)
 
 ![](/images/About%20us/Our%20Community/Parent%20Support%20Group/PSG1B.jpg)
-
-
-
-
-3.jpg)

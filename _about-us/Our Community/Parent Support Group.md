@@ -22,12 +22,12 @@ We do this by:
 
 While we groom and develop our own children, we hope to extend our love and support to all students in need through our PSG activities, so that everyone has the opportunity to learn and grow in SJC.
 
-#### PSG Executive Committee
+#### **PSG Executive Committee**
 The PSG Exco works closely with the school leaders to set forth the strategy for parent-school collaboration. They lead and work closely with parent volunteers for PSG projects and activities to support the school and the holistic development of SJCians. 
 
 ![](/images/About%20us/Our%20Community/Parent%20Support%20Group/PSG%20Exco.jpg)
 
-#### Join as a Parent Volunteer!
+#### **Join as a Parent Volunteer!**
 
 * An informed parent is a child’s best advocate, so do come forward to give your support and participation.
 * Journey with your child through the SJC PSG, connect with your child and her school and show her you care about her.
@@ -36,11 +36,14 @@ The PSG Exco works closely with the school leaders to set forth the strategy for
 
 Click the link to indicate your interest and our Exco member will follow up with you: [https://bit.ly/3tycSmm](https://bit.ly/3tycSmm)
 
-#### Contact Us
+#### **Contact Us**
 You may also reach the PSG at [sjcpsg@gmail.com](mailto:sjcpsg@gmail.com)
 
 Alternatively, connect with us on the PSG Facebook page at [https://www.facebook.com/sjcpsg/](https://www.facebook.com/sjcpsg/)
 
-Check out our activities and events at 
-	
-	
+Find out more about SJC PSG activities and events [here](https://www.open.gov.sg/community/Parent-Support-Group/Parent-School-Collaboration/)
+
+
+
+
+

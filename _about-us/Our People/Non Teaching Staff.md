@@ -42,7 +42,7 @@ third_nav_title: Our People
 | Ms Pan Miao Hua         |  Education & Career Guidance (ECG) Counsellor |
 | Ms How Fang Qi          | SEN Officer                                   |
 
-#### **OTHER SUPPORT STAFF**
+#### **Other Support Staff**
 
 |           Name          |                  Designation                 |
 |:-----------------------:|:--------------------------------------------:|

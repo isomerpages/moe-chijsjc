@@ -14,8 +14,8 @@ The objectives of the Alumnae are to:
 
 Presently, the Alumnae consists of 3 types of membership.
 
-*   Ordinary and Life memberships are open to past pupils of the school. Persons currently attending any schools, including universities, polytechnics and Ngee Ann Technical College, are not eligible.
-*   Honorary membership may be bestowed upon any person who is currently the principal or a member of the teaching staff of the Alma Mater who is nominated by the Executive Committee for election at the Annual General Meeting, provided that such nomination is clearly stated in the notice calling the Annual General Meeting.
+*   **Ordinary and Life memberships** are open to past pupils of the school. Persons currently attending any schools, including universities, polytechnics and Ngee Ann Technical College, are not eligible.
+*   **Honorary membership** may be bestowed upon any person who is currently the principal or a member of the teaching staff of the Alma Mater who is nominated by the Executive Committee for election at the Annual General Meeting.
 *   An Honorary member does not have any vote, hold office or have any say in the management of the Association.
 
 The SJCA Council is made up of:
@@ -27,30 +27,14 @@ The SJCA Council is made up of:
 *   Honorary Treasurer
 *   4 Committee Members
 
+Read the message from SJCA President Aruna Johnson here: [Message from SJCA President](/files/Our%20Community%20(PSG%20&%20SJCA)/Message%20From%20SJCA%20President.pdf)
+
 ![](/images/About%20us/Our%20Community/SJC%20Alumnae/Alumnae%20Committee.png)
 
 ### Join the Alumnae!
 
-Dear Josephians,
-
-The St. Joseph’s Convent Alumnae is looking for new members, and we need YOU!
-
-You may ask, Why Join the Alumnae? For What Purpose? How does it benefit me? 
-
-Well, the Alumnae aims to:
-
-* Promote a spirit of friendship and mutual co-operation among members.
-* Establish a continuing link with our alma mater and help SJC in whatever way it can (e.g. giving aid/assistance to the needy and less fortunate students, supporting the school by giving career talks, interviewing students for awards).
-* Promote and organise social/cultural activities (like get-togethers, annual dinners, talks) to keep alumnae connected to the school.
-
-The current committee is excited about welcoming new members into the fold to chart our next chapter. It is only with your generous help that we can do more for our alma mater.
+The current SJCA committee is excited about welcoming new members into the fold to chart our next chapter. It is only with your generous help that we can do more for our alma mater.
 
 If you are keen to support SJC and our mission, please complete and return the [application form](https://chijstjosephsconvent.moe.edu.sg/qql/slot/u160/2023/Community/Alumnae/SJC%20Alumnae%20Membership%20Form%202023.pdf). Instructions are within.
-
-Yours Sincerely,
-
-***Aruna Johnson***
-
-President, CHIJ SJC Alumnae Association, 2022-2023
 
 You may also contact Ms Ho Wei Ling, SJC Vice-Principal, (64897580) to find out more about the Alumnae. More information is also available at SJCA's [Official Website](https://sjcalumnae.wordpress.com/) and on [Facebook](https://www.facebook.com/SJCAlumnae).

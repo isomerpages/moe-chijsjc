@@ -2,6 +2,7 @@ collections:
   the-sjc-experience:
     output: true
     order:
+      - CCAs.md
       - Our CCAs.md
       - ALP in Theatre and Debates.md
       - LLP in Community Youth Leadership.md

@@ -3,14 +3,14 @@ url: https://www.open.gov.sg
 favicon: /images/Homepage/CHIJ Crest 2014_clear background_PNG format_2014.png
 colors:
   primary-color: "#0a3885"
-  secondary-color: "#ab0b75"
+  secondary-color: "#09767d"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#9e186a"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#526dcb"
     - title: media-color-three
-      color: "#00838f"
+      color: "#78aa9f"
     - title: media-color-four
       color: "#79042f"
     - title: media-color-five

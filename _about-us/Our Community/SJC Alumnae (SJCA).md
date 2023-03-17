@@ -27,57 +27,9 @@ The SJCA Council is made up of:
 *   Honorary Treasurer
 *   4 Committee Members
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-dgl5" colspan="2">St. Joseph’s Convent Alumnae (SJCA) Executive Committee 2020 – 2021<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-zr06">President<br></td>
-    <td class="tg-zr06">Aruna Alina Johnson<br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Vice-President<br></td>
-    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Monica Khoo Kim Li</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">2nd Vice-President<br></td>
-    <td class="tg-zr06">Pauline Chan Gek Chan<br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Honorary Secretary<br></td>
-    <td class="tg-zr06">Alicia Chia Poh Lin<br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Assistant Honorary Secretary<br></td>
-    <td class="tg-zr06">Shireen Osman<br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Honorary Treasurer<br></td>
-    <td class="tg-zr06">Mary Eng-Soh</td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Committee Members<br></td>
-    <td class="tg-ktyi"><br><span style="background-color:initial">Low Ee Ling</span><br><span style="background-color:initial">Ong Lu-Ann</span>                    <br><span style="background-color:initial">Low Kuan Yin</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Honorary Auditor </td>
-    <td class="tg-ktyi"><span style="background-color:initial">Isabel Tang</span><br><span style="background-color:initial">Rosemary Eng </span></td>
-  </tr>
-</tbody>
-</table>
+![](/images/About%20us/Our%20Community/SJC%20Alumnae/Alumnae%20Committee.png)
+
+
   
 
 Please contact Ms Ho Wei Ling, SJC Vice-Principal, (64897580) for details and registration. 

@@ -33,7 +33,6 @@ Through the Sexuality Education lessons, secondary students will have the opport
 
 ##### **At CHIJ St. Joseph’s Convent, the following lessons from the Sexuality Education Programme will be taught in 2023:**
 
-##### **SECONDARY 1**
 ![](/images/Student%20Development/Sex%20Ed/sexedsec1.jpg)
 
 #### eTEENS PROGRAMME

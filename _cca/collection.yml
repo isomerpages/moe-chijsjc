@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Clubs and Societies/Culinary Arts Club.md
       - Clubs and Societies/Pixel Playhouse.md
       - Clubs and Societies/.keep
       - Physical Sports/Badminton.md

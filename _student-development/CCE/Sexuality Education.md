@@ -54,19 +54,15 @@ Students are taught skills such as decision-making, assertiveness and negotiatio
 
 
 #### **Information for Parents**
- Parents may opt their children out of Growing Years, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
+Parents may opt their children out of Growing Years, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-  
+1. Parents may opt their children out of Growing Years, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-11.  Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable **[here](/files/Sexuality%20Education/2022SEdoptoutform_v2.pdf)**. The completed form is to be submitted by **7 February 2022.**   
+2.  Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [HERE](/files/Sexuality%20Education/Opt%20out%20form_SEd.pdf). The completed form is to be submitted by **16/01/2023.**   
 
-  
+3.  Parents who wish to opt their children out of the **_eTeens programme_** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Sexuality%20Education/Opt%20out%20form_eTeens.pdf).  The completed form is to be submitted by **16/01/2023**.
 
-12.  Parents who wish to opt their children out of the **_eTeens programme_** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Sexuality%20Education/2022eTeensoptoutform.pdf).  The completed form is to be submitted by **7 February 2022**.
-
-  
-
-13.  Parents can contact the school at 64897580 or chijsjcs@moe.edu,sg for discussion or to seek clarification about the school’s sexuality education programme.
+4.  Parents can contact the school at [chijsjcs@moe.edu.sg](mailto:chijsjcs@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
 
   
 

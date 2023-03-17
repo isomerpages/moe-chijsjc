@@ -8,6 +8,13 @@ notification: ""
 sections:
   - hero:
       background: /images/Homepage/hero3.png
+      key_highlights:
+        - title: News and Events
+          description: Key Highlight description
+          url: ""
+        - title: Contact Us
+          description: Key Highlight description
+          url: https://chijstjosephsconvent.moe.edu.sg/contact-us
   - resources:
       title: Announcements
       button: Read More

@@ -9,13 +9,17 @@ These programmes are planned to develop positive character traits, create shared
 
 ![](/images/The%20SJC%20Experience/Level%20Programmes/Levelthemes.jpg)
 
-#### Level Camps
+### **Level Camps**
 One of the highlights of the school year is the level camp, where SJCians get to learn outside the classroom with their peers and take part in different challenges to build their confidence and self-awareness.
 
 Here are some highlights from the 2022 level camps, and how our girls benefitted:
+
 ![](/images/The%20SJC%20Experience/Level%20Programmes/sec1camp22.jpg)
+
 ![](/images/The%20SJC%20Experience/Level%20Programmes/sec2camp22.jpg)
+
 ![](/images/The%20SJC%20Experience/Level%20Programmes/sec3camp22.jpg)
+
 ![](/images/The%20SJC%20Experience/Level%20Programmes/sec4camp22.jpg)
 
 

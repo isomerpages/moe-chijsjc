@@ -2,5 +2,6 @@ collections:
   the-sjc-experience:
     output: true
     order:
+      - Applied Learning Programme.md
       - Distinctive Programmes/Learning for Life Programme.md
       - Distinctive Programmes/.keep

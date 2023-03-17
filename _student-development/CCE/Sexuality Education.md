@@ -43,7 +43,7 @@ Through the Sexuality Education lessons, secondary students will have the opport
 
 ![](/images/Student%20Development/Sex%20Ed/sexedsec5.jpg)
 
-#### ** eTEENS PROGRAMME**
+#### **eTEENS PROGRAMME**
 _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme.
 
 Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.

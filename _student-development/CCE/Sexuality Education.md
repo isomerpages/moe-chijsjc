@@ -52,7 +52,6 @@ Students are taught skills such as decision-making, assertiveness and negotiatio
 ![](/images/Student%20Development/Sex%20Ed/eteens.jpg)
 
 
-
 #### **INFORMATION FOR PARENTS**
 Parents may opt their children out of Growing Years, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
 

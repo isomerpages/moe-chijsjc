@@ -10,6 +10,10 @@ These programmes are planned to develop positive character traits, create shared
 ![](/images/The%20SJC%20Experience/Level%20Programmes/Levelthemes.jpg)
 
 ### Level Camps
-The annual level camps are a platform for SJCians to enjoy learn life skills and 
+One of the highlights of the school year is the level camp, where SJCians get to learn outside the classroom with their peers through different challenges and activities.
 
 
+
+
+
+to enjoy learn life skills and

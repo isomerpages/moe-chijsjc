@@ -3,12 +3,12 @@ title: Contact Us
 permalink: /about-us/Contact-Us/
 description: ""
 ---
-#### **You may reach us at:**
+#### **Reach us at**
 **Telephone:**&nbsp;64897580  
 **Fax:**&nbsp;64897589  
 **Email:**&nbsp;[chijsjcs@moe.edu.sg](mailto:chijsjcs@moe.edu.sg)  
 
-#### **Address  **
+#### **Address**
 CHIJ St. Joseph’s Convent  
 62 Sengkang East Way  
 Singapore 548595  

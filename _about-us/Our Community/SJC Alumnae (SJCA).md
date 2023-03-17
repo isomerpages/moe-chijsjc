@@ -29,9 +29,28 @@ The SJCA Council is made up of:
 
 ![](/images/About%20us/Our%20Community/SJC%20Alumnae/Alumnae%20Committee.png)
 
+### Join the Alumnae!
 
-  
+Dear Josephians,
 
-Please contact Ms Ho Wei Ling, SJC Vice-Principal, (64897580) for details and registration. 
+The St. Joseph’s Convent Alumnae is looking for new members, and we need YOU!
 
-You may also find out more at SJCA's [Official Website](https://sjcalumnae.wordpress.com/) and on [Facebook](https://www.facebook.com/SJCAlumnae).
+You may ask, Why Join the Alumnae? For What Purpose? How does it benefit me? 
+
+Well, the Alumnae aims to:
+
+* Promote a spirit of friendship and mutual co-operation among members.
+* Establish a continuing link with our alma mater and help SJC in whatever way it can (e.g. giving aid/assistance to the needy and less fortunate students, supporting the school by giving career talks, interviewing students for awards).
+* Promote and organise social/cultural activities (like get-togethers, annual dinners, talks) to keep alumnae connected to the school.
+
+The current committee is excited about welcoming new members into the fold to chart our next chapter. It is only with your generous help that we can do more for our alma mater.
+
+If you are keen to support SJC and our mission, please complete and return the [application form](https://chijstjosephsconvent.moe.edu.sg/qql/slot/u160/2023/Community/Alumnae/SJC%20Alumnae%20Membership%20Form%202023.pdf). Instructions are within.
+
+Yours Sincerely,
+
+***Aruna Johnson***
+
+President, CHIJ SJC Alumnae Association, 2022-2023
+
+You may also contact Ms Ho Wei Ling, SJC Vice-Principal, (64897580) to find out more about the Alumnae. More information is also available at SJCA's [Official Website](https://sjcalumnae.wordpress.com/) and on [Facebook](https://www.facebook.com/SJCAlumnae).

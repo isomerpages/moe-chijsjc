@@ -4,13 +4,11 @@ permalink: /student-development/Values-In-Action/
 description: ""
 third_nav_title: CCE
 ---
-
-#### **Our Objective**
-
+#### **OUR OBJECTIVE**
 
 In alignment to the school's mission _“where all SJCians work together for the promotion of truth, justice, freedom and love, with special reference to the needs of persons who are disadvantaged in any way”_, it is our goal to imbue in our students the value of love for all and to develop sensitivity and empathy towards others.
 
-#### **Our Approach**
+#### **OUR APPROACH**
 
 ![](/images/Student%20Development/Values%20In%20Action/V1.jpg)
 
@@ -20,11 +18,10 @@ Student leaders in their various CCAs or school leadership groups can also initi
 
 The SJC VIA experience forms part of the school’s Learning for Life Programme (LLP) for all our students where they have opportunity to develop empathy and critical thinking through Community Problem Solving.
 
-You can read more about LLP [here](/special-programmes/Distinctive-Programmes/Learning-for-Life-Programme/).
+You can read more about LLP [h[here](/sjcexperience/llp)ere](/special-programmes/Distinctive-Programmes/Learning-for-Life-Programme/).
 
 ![](/images/Student%20Development/Values%20In%20Action/V2.png)
 
 ![](/images/Student%20Development/Values%20In%20Action/V3.png)
 
 ![](/images/Student%20Development/Values%20In%20Action/V4.png)
-

@@ -2,12 +2,12 @@ collections:
   the-sjc-experience:
     output: true
     order:
-      - Our CCAs/Uniformed Groups.md
-      - Our CCAs/Physical Sports.md
-      - Our CCAs/Performing Arts.md
       - Our CCAs/.keep
       - Our CCAs/CCA Overview.md
       - Our CCAs/Clubs and Societies.md
+      - Our CCAs/Performing Arts.md
+      - Our CCAs/Physical Sports.md
+      - Our CCAs/Uniformed Groups.md
       - ALP in Theatre and Debates.md
       - LLP in Community Youth Leadership.md
       - Student Leadership Development.md

@@ -21,7 +21,3 @@ Here are some highlights from the 2022 level camps, and how our girls benefitted
 ![](/images/The%20SJC%20Experience/Level%20Programmes/sec3camp2022.jpg)
 
 ![](/images/The%20SJC%20Experience/Level%20Programmes/sec4camp2022.jpg)
-
-
-
-

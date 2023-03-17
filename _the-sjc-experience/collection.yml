@@ -2,6 +2,7 @@ collections:
   the-sjc-experience:
     output: true
     order:
+      - Our CCAs/Uniformed Groups.md
       - Our CCAs/Physical Sports.md
       - Our CCAs/Performing Arts.md
       - Our CCAs/.keep

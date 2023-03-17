@@ -2,6 +2,6 @@ collections:
   the-sjc-experience:
     output: true
     order:
-      - Student Leadership Development.md
-      - Learning for Life Programme.md
       - Applied Learning Programme.md
+      - Learning for Life Programme.md
+      - Student Leadership Development.md

@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Clubs and Societies/.keep
-      - Physical Sports/Fencing.md
       - Physical Sports/Netball.md
       - Physical Sports/Shooting.md
       - Physical Sports/Sports Club.md

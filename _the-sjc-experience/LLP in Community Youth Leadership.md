@@ -10,7 +10,7 @@ In SJC, Learning for Life Programme (LLP) is a platform for students to build th
 #### **OUR APPROACH**
 SJC has adopted the Community Problem Solving (CmPS) strategy, a component of The Future Problem Solving Model developed by Paul Torrance as the approach for our LLP which is implemented through Values-In-Action (VIA) experiences for all students.
 
-#### **Our Programme**
+#### **OUR PROGRAMME**
 In lower secondary, through class VIA projects, students are exposed through a combination of lectures, workshops, newspaper article readings to social issues such as sustainability, Singapore’s ageing population and the challenges that youth face. Students then identify issues that they would like to address and guided by their form teachers. They brainstorm and subsequently work through mini-solutions using the CmPS approach. This process of identification, analysis, selection and proposing introduces students to basic project management and collaborative work as the process takes close to half a year.
 
 In upper secondary, students are provided with their second platform for community work as a class via their Secondary Three Camp Metamorphosis Level Camp when classes work with TOUCH community agencies. Some CCAs have also come on board over the years and set aside the time to work on community outreach as well. The graduating students also initiated and implement their own community projects.

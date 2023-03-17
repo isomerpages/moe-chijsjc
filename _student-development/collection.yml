@@ -2,7 +2,6 @@ collections:
   student-development:
     output: true
     order:
-      - Student Well Being.md
       - CCE/.keep
       - CCE/Education and Career Guidance.md
       - CCE/Values In Action.md
@@ -10,4 +9,5 @@ collections:
       - CCE/Sexuality Education.md
       - CCE/National Education.md
       - Student Conduct.md
+      - Student Well Being.md
       - Digital Literacy.md

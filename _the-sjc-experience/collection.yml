@@ -1,5 +1,5 @@
 collections:
-  special-programmes:
+  the-sjc-experience:
     output: true
     order:
       - Distinctive Programmes/Applied Learning Programme.md

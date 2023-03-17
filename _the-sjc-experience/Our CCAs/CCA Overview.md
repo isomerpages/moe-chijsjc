@@ -10,7 +10,8 @@ As a key Student Development Experience (SDE), CCA in CHIJ SJC is designed with 
 *   Developing Values, SE Competencies & Citizenship Dispositions through Rigorous Training Activities; and
 *   Developing passion and showcasing talents
 
-With 19 CCAs to choose from, SJCians enjoy the many opportunities to perform, compete and grow in their respective fields.
+With 19 CCAs to choose from, SJCians enjoy many opportunities to perform, compete and grow in their respective fields.
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}

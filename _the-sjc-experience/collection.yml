@@ -2,7 +2,7 @@ collections:
   the-sjc-experience:
     output: true
     order:
-      - Applied Learning Programme.md
+      - ALP in Theatre and Debates.md
       - LLP in Community Youth Leadership.md
       - Student Leadership Development.md
       - Level Programmes.md

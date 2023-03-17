@@ -10,10 +10,10 @@ sections:
       background: /images/Homepage/hero3.png
       key_highlights:
         - title: News and Events
-          description: Key Highlight description
+          description: Read about our latest updates!
           url: ""
         - title: Contact Us
-          description: Key Highlight description
+          description: Find out how to reach us here
           url: https://chijstjosephsconvent.moe.edu.sg/contact-us
   - resources:
       title: Announcements

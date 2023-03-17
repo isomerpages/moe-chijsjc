@@ -2,7 +2,7 @@ collections:
   the-sjc-experience:
     output: true
     order:
-      - Level Programmes.md
       - Applied Learning Programme.md
       - Learning for Life Programme.md
       - Student Leadership Development.md
+      - Level Programmes.md

@@ -2,6 +2,7 @@ collections:
   student-development:
     output: true
     order:
+      - National Digital Literacy Programme (NDLP).md
       - Code of Conduct.md
       - CCE/CCE Curriculum.md
       - CCE/Sexuality Education.md

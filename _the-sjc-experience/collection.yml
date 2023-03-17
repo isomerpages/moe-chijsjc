@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Our CCAs/.keep
-      - CCA Overview.md
       - ALP in Theatre and Debates.md
       - LLP in Community Youth Leadership.md
       - Student Leadership Development.md

@@ -44,7 +44,7 @@ _eTeens_ is a programme developed by Health Promotion Board, in collaboration w
 
 Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.
 
-#### At CHIJ St. Joseph’s Convent, the eTeens programme will be implemented as follows in 2023:
+#### **At CHIJ St. Joseph’s Convent, the eTeens programme will be implemented as follows in 2023:**
 ![](/images/Student%20Development/Sex%20Ed/eteens.jpg)
 
 

@@ -4,36 +4,25 @@ permalink: /student-development/CCE/CCE-Curriculum/
 description: ""
 third_nav_title: CCE
 ---
-#### **Our Objective:**
-
-
+#### **OUR OBJECTIVE**
 To develop every student in SJC to become persons who will embrace the school values, be of strong character and are equipped to know and achieve their purpose in lives.  
 
-#### **Our Approach:**
-
-
+#### **OUR APPROACH**
 In preparation for our students to face the rapid and continuous changes in the world today, we aim to provide them with the means to manage their emotions and relationships with others, as well as to make responsible decisions. Our students need tenacity, courage and resilience to face the challenges ahead.   
 
-#### **Our Programme:**
-
-
-
-
-##### **The CCE Curriculum**
-
-  
+##### **THE CCE CURRICULUM**
 
 **With CCE 2021, we aim to develop in our students:**
 
-Good Character   
-Resilience and Social-Emotional Well-Being   
-Active Citizenship   
-Future Readiness
+* Good Character   
+* Resilience and Social-Emotional Well-Being   
+* Active Citizenship   
+* Future Readiness
 
 **Guiding principles for CCE 2021 implementation:**   
-**Student-centricity:** Place students at the heart of CCE         
-**Intentionality:** Intentionally design and carry out CCE in and beyond the classroom, and do not leave learning to chance.    
-**Coherence:** Students able to connect, transfer, and apply learning across different learning experiences. 
+* **Student-centricity:** Place students at the heart of CCE         
+* **Intentionality:** Intentionally design and carry out CCE in and beyond the classroom, and do not leave learning to chance.    
+* **Coherence:** Students able to connect, transfer, and apply learning across different learning experiences. 
 
 ![](/images/Student%20Development/CCE/CCE%20Curriculum/C1.png)
 
@@ -43,14 +32,14 @@ Future Readiness
 
 **Key SDEs comprise the following:**
 
-Co-Curricular Activities (CCA);  
-Cohort Learning Journeys (LJs);  
-Education and Career Guidance (ECG) Experiences;  
-National Education (NE) Commemorative Days;  
-NRIC Presentation Ceremony;  
-Outdoor Adventure Learning (OAL) Cohort Camps;  
-Student Leadership Development (SLD) Programmes; and  
-Values in Action (VIA).
+* Co-Curricular Activities (CCA);  
+* Cohort Learning Journeys (LJs);  
+* Education and Career Guidance (ECG) Experiences;  
+* National Education (NE) Commemorative Days;  
+* NRIC Presentation Ceremony;  
+* Outdoor Adventure Learning (OAL) Cohort Camps;  
+* Student Leadership Development (SLD) Programmes; and  
+* Values in Action (VIA).
 
 **(C)  Caring and Enabling School Environment:** A school environment that enables effective CCE is one with adult role-modelling, positive teacher-student relationships, peer support and relationships, student voice and ownership, and consistent and coherent messaging on CCE.
 

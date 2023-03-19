@@ -3,7 +3,7 @@ title: For Students
 permalink: /useful-links/students/
 description: ""
 ---
-#### ACADEMIC MATTERS
+#### **ACADEMIC MATTERS**
 * **2023 Semester 1 Timetables**
 > * [Sec 1 Classes](/files/Useful%20Links/Students/Timetables/Secondary%201%20Timetable%20Sem%201%202023.pdf),
 > [Sec 2 Classes](/files/Useful%20Links/Students/Timetables/Secondary%202%20Timetable%20Sem%201%202023.pdf),

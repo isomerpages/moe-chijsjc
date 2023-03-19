@@ -2,5 +2,6 @@ collections:
   cca-holding-folder:
     output: true
     order:
+      - CHIJ Youth Mission.md
       - Badminton.md
       - Angklung and Kulintang Ensemble.md

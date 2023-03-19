@@ -2,6 +2,7 @@ collections:
   cca-holding-folder:
     output: true
     order:
+      - Shooting.md
       - Volleyball.md
       - St John Brigade.md
       - Fencing.md

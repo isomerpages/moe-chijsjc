@@ -3,6 +3,12 @@ title: For Students
 permalink: /useful-links/students/
 description: ""
 ---
+#### ACADEMIC MATTERS
+* 2023 Semester 1 Timetables
+> * [Sec 1 Timetables](/files/Useful%20Links/Students/Timetables/Secondary%201%20Timetable%20Sem%201%202023.pdf),
+> [Sec 2 Timetables](/files/Useful%20Links/Students/Timetables/Secondary%202%20Timetable%20Sem%201%202023.pdf)
+> [Sec 3 Timetables](/files/Useful%20Links/Students/Timetables/Secondary%203%20Timetable%20Sem%201%202023.pdf)
+> [Sec 4/5 Timetables](/files/Useful%20Links/Students/Timetables/Secondary%2045%20Timetable%20Sem%201%202023.pdf)
 
 #### *   **Request Password Reset/Unlock Account**
 

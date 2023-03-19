@@ -9,11 +9,11 @@ sections:
   - hero:
       background: /images/Homepage/hero3.png
       key_highlights:
-        - title: News and Events
-          description: Read about our latest updates!
-          url: ""
-        - title: Contact Us
-          description: Find out how to reach us here
+        - title: News & Events
+          description: The latest happenings in SJC
+          url: /news
+        - title: School Calendar
+          description: Check what's coming up
           url: https://chijstjosephsconvent.moe.edu.sg/contact-us
   - resources:
       title: Announcements

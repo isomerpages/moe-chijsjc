@@ -15,6 +15,18 @@ description: ""
 > [Sec 3 WA1](/files/Useful%20Links/Students/Weighted%20Assessments/WA1%20Schedule%20-%20Sec3.pdf),
 > [Sec 4 WA1](/files/Useful%20Links/Students/Weighted%20Assessments/WA1%20Schedule%20-%20%20Sec4.pdf),
 > [Sec 5 WA1](/files/Useful%20Links/Students/Weighted%20Assessments/WA1%20Schedule%20-%20Sec5.pdf)
+* **Learning Portals**
+> * [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
+> * [ACE Learning](https://www.ace-learning.com/)
+* **National Examinations**
+> * [SEAB website](https://www.seab.gov.sg/)
+> * [Approved Dictionaries](https://www.seab.gov.sg/home/examinations/approved-dictionaries)
+> * [Approved Calculators](/files/Useful%20Links/Students/Students/GuidelinesCalculators.pdf)
+
+
+#### **ICT MATTERS**
+
+
 
 #### *   **Request Password Reset/Unlock Account**
 

@@ -1,4 +1,5 @@
 collections:
   cca-holding-folder:
     output: true
-    order: []
+    order:
+      - Angklung and Kulintang Ensemble.md

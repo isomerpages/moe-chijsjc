@@ -2,4 +2,5 @@ collections:
   cca-holding-folder:
     output: true
     order:
+      - Badminton.md
       - Angklung and Kulintang Ensemble.md

@@ -14,7 +14,7 @@ sections:
           url: /news
         - title: School Calendar
           description: Check what's coming up
-          url: https://chijstjosephsconvent.moe.edu.sg/contact-us
+          url: /sjc-calendar
   - resources:
       title: Announcements
       button: Read More

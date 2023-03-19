@@ -2,6 +2,7 @@ collections:
   cca-holding-folder:
     output: true
     order:
+      - CentreStage (Drama & Debates).md
       - CHIJ Youth Mission.md
       - Badminton.md
       - Angklung and Kulintang Ensemble.md

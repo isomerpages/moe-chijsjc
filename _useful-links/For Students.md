@@ -25,16 +25,19 @@ description: ""
 
 
 #### **ICT MATTERS**
-* Student Accounts
+* **Student Accounts**
 > * [iCON Login](https://workspace.google.com/dashboard)
 > * [Request password / Reset for iCON or Windows Login](https://forms.moe.edu.sg/auth)
-* ICT Resources and Guides
+* **ICT Resources and Guides**
 > * [PDLP Resource Site for Students](https://sites.google.com/moe.edu.sg/chijsjcpdlp/for-student?authuser=0)
 
 #### **CCE MATTERS**
-* Education and Careers Guidance (ECG)
+* **Education and Careers Guidance (ECG)**
 > * [MySkillsFuture Portal](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html)
 
+#### **STUDENT SERVICES**
+* **Financial Assistance**
+> * [FAS Application Form](/files/Useful%20Links/Financial%20Assistance/MOE%20FAS%20Application%20Form%20Oct%202022.pdf)
 
 
 

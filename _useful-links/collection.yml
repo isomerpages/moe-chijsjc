@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - For Students.md
-      - Teachers and Staff.md
+      - For Staff.md
       - Parents.md
       - Student Services.md
       - Financial Assistance.md

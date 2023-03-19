@@ -32,12 +32,10 @@ Mode of Payment for online purchase via Credit Card & Paynow (Home Delivery / Se
 * Email address: info@cascoedusupply.com.sg
 
 **Operating Hours:**
-
-Mon - Fri (within school term), 7.00 am - 3.00 pm
-
+* Mon - Fri (within school term), 7.00 am - 3.00 pm
 
 
-
-
+#### **SCHOOL LIBRARY**
+Opening Hours: Monday to Friday: 7.30am – 4.30pm
 
 

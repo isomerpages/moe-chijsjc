@@ -9,13 +9,13 @@ sections:
   - hero:
       background: /images/Homepage/hero3.png
       key_highlights:
-        - title: News & Events
-          description: The latest happenings in SJC
-          url: /news
+        - title: Our latest stories
+          description: Explore SJC on IG
+          url: /https://www.instagram.com/chijsjcfamily/
         - title: School Calendar
           description: Check what's coming up
           url: /sjc-calendar
   - resources:
-      title: Announcements
+      title: News and Announcements
       button: Read More
 ---

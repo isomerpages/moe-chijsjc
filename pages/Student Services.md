@@ -14,7 +14,7 @@ Our school uniform supplier is **KH Uniform Pte Ltd**.
 
 **Online Purchase of Uniform**
 
-*   Sale of school uniform is available online at [**www.khuniform.com**](http://www.khuniform.com/) from **28th October 2021**.
+*   Sale of school uniform is available online at [**www.khuniform.com**](http://www.khuniform.com/)
 *   Please refer to [School Uniform Infosheet](/files/Useful%20Links/Student%20Services/Uniform%20Supplier/sjc_infosheet.pdf) for details.
 
 #### **BOOKSHOP**
@@ -37,5 +37,3 @@ Mode of Payment for online purchase via Credit Card & Paynow (Home Delivery / Se
 
 #### **SCHOOL LIBRARY**
 Opening Hours: Monday to Friday: 7.30am – 4.30pm
-
-

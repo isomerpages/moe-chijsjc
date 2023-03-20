@@ -77,8 +77,7 @@ SJCians are to wear the prescribed uniform within and outside of school. Modific
 *   Jewellery and accessories of any other kind (e.g. tongue studs, nose ring, lip piercings, bracelets, religious wristbands, ankle bands, bangles, chains, rings, friendship bands, etc.) are not allowed
 *   Inappropriate body art (such as tattoos and the piercing of any part of the body except the ears) is not allowed.
 
-![](/images/Student%20Development/Code%20of%20Conduct/uniform1.jpeg)
-
+![](/images/Student%20Development/Code%20of%20Conduct/Uniform2.jpg)
 ###### *Image designed by Charlotte Tan (Class of 2018)*
 
 
@@ -86,6 +85,12 @@ SJCians are to wear the prescribed uniform within and outside of school. Modific
 ![](/images/Student%20Development/Code%20of%20Conduct/Consequences.png)
 
 Note: The school reserves all rights to add, amend or adjust the school rules and regulations, disciplinary consequences necessary to support character development and maintain a safe and positive learning environment.
+
+#### **ZERO TOLERANCE FOR BULLYING**
+
+In CHIJ Schools, we uphold the basic principle of respecting the dignity of each person we interact with. Everyone in our school community has the responsibility and a role to play in building a safe learning environment where we treat each other with respect and understanding. As such, our school will not tolerate any unlawful or disruptive behaviour, including any form of bullying, cyber-bullying, intimidation or retaliation.
+
+![](/images/Student%20Development/Code%20of%20Conduct/bullying.png)
 
 #### **EXAMINATION RULES**
 
@@ -100,39 +105,6 @@ The examination rules apply to all forms of formal assessment, i.e. Weighted Ass
 4.  Place your NRIC or other identification documents on your desk for verification during the examination. (Applicable to SA and Preliminary Examination only)
 5.   You are not permitted to have in your possession, while in the examination venues, any devices or materials not authorised for use in the examination. If these are found in your possession, you will be deemed as having committed an act of dishonesty and may be awarded a zero mark for the paper.
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-2n9k{background-color:#FFF;color:#262877;text-align:left;vertical-align:top}
-.tg .tg-3u23{background-color:#CAD2DB;color:#262877;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-u195{background-color:#FFF;color:#262877;font-style:italic;text-align:left;vertical-align:top}
-.tg .tg-kxdg{background-color:#FFF;border-color:inherit;color:#262877;font-style:italic;text-align:left;vertical-align:top}
-.tg .tg-ftj8{background-color:#CAD2DB;color:#262877;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-kxdg" colspan="2">Examples of unauthorised devices include but are not limited to:<br></th>
-    <th class="tg-2n9k"><span style="font-weight:normal;color:#000"> </span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-3u23">Computerised devices<br>·     Tablet<br>·     Pocket PC<br>·     Personal Digital Assistant<br>·     Digital diary<br> <br>eBook<br>·     Communication devices<br>·     Mobile phone<br>·     Smart Watch<br>·     Earphones</td>
-    <td class="tg-3u23">Smart devices<br>·     Smart watch<br>·     Smart glasses<br>·     Fitness tracker<br> <br> <br>Other Electronic devices<br>·     Camera<br>·     Audio recorder/player<br>·     Gaming device<br>·     Storage device</td>
-    <td class="tg-ftj8"><span style="font-weight:normal;color:#000"> </span></td>
-  </tr>
-  <tr>
-    <td class="tg-u195" colspan="3">Examples of unauthorised materials include but are not limited to:<br></td>
-  </tr>
-  <tr>
-    <td class="tg-ftj8" colspan="3">·     Question paper from previous examination<br>·     Writing paper/ Sticky Note <br>·     Book/ Notes/ Reference Material<br>·     Conversion table/ Formulae sheet in mathematical set or calculator cover</td>
-  </tr>
-</tbody>
-</table>
 
 6\. No form of communication is allowed among candidates in the examination venue.   
 7\. Food should not be consumed in the examination venue.  

@@ -94,28 +94,28 @@ In CHIJ Schools, we uphold the basic principle of respecting the dignity of each
 
 #### **EXAMINATION RULES**
 
-
 The examination rules apply to all forms of formal assessment, i.e. Weighted Assessments (WA), Semestral Assessments (SA) and Preliminary Examinations. Students should read, understand and comply fully with the examination rules. They are also responsible for checking and noting the dates and times of the various assessments. 
 
-  
+* You must be properly attired in your school uniform.
+* You should be punctual as no additional time for the paper will be allocated for late-comers. 
+* Be seated at your assigned desk at least fifteen minutes before the commencement of the examination. (Applicable to SA and Preliminary Examination only)
+* Place your NRIC or other identification documents on your desk for verification during the examination. (Applicable to SA and Preliminary Examination only)
+* You are not permitted to have in your possession, while in the examination venues, any devices or materials not authorised for use in the examination. If these are found in your possession, you will be deemed as having committed an act of dishonesty and may be awarded a zero mark for the paper.
 
-1.  You must be properly attired in your school uniform.
-2.  You should be punctual as no additional time for the paper will be allocated for late-comers. 
-3.  Be seated at your assigned desk at least fifteen minutes before the commencement of the examination. (Applicable to SA and Preliminary Examination only)
-4.  Place your NRIC or other identification documents on your desk for verification during the examination. (Applicable to SA and Preliminary Examination only)
-5.   You are not permitted to have in your possession, while in the examination venues, any devices or materials not authorised for use in the examination. If these are found in your possession, you will be deemed as having committed an act of dishonesty and may be awarded a zero mark for the paper.
+![](/images/Student%20Development/Code%20of%20Conduct/exam.png)
+
+* No form of communication is allowed among candidates in the examination venue.   
+* Food should not be consumed in the examination venue.  
+* Borrowing of stationery during the examination is not allowed.   
+* The use of correction fluid/ tape on your answer script or writing paper is not allowed.  
+* You are not allowed to leave the examination venue unescorted or without permission from the invigilator.   
+* Answer scripts that are removed from the examination venue will not be accepted for grading by the examiners.  
+* Disciplinary action will be taken against any student who breaches the examination rules.  
+
+***Absence during an examination*** 
+* If you are unable to sit for any examination due to illness, you must provide a Medical Certificate (MC) to cover your absence. Parent’s letter will not be accepted.  
+* Inform the school or your Form Teacher of your absence. There will be no make-up examination for papers missed.  
+* The MC, issued by a medical practitioner registered under the Medical Registration Act, must be submitted to your Form Teacher upon your return to school.   
+* If you do not have a medical certificate to cover your absence, you may be given a ‘zero’ (0) for the papers missed.
 
 
-6\. No form of communication is allowed among candidates in the examination venue.   
-7\. Food should not be consumed in the examination venue.  
-8\. Borrowing of stationery during the examination is not allowed.   
-9\. The use of correction fluid/ tape on your answer script or writing paper is not allowed.  
-10\. You are not allowed to leave the examination venue unescorted or without permission from the invigilator.   
-11\. Answer scripts that are removed from the examination venue will not be accepted for grading by the examiners.  
-12\. Disciplinary action will be taken against any student who breaches the examination rules.  
-Absence during an examination  
-13\. If you are unable to sit for any examination due to illness, you must provide a Medical Certificate (MC) to cover your absence. Parent’s letter will not be accepted.  
-14\. Inform the school or your Form Teacher of your absence. There will be no make-up examination for papers missed.  
-15\. The MC, issued by a medical practitioner registered under the Medical Registration Act, must be submitted to your Form Teacher upon your return to school.   
-
-16.  If you do not have a medical certificate to cover your absence, you may be given a ‘zero’ (0) for the papers missed.

@@ -10,7 +10,7 @@ sections:
       background: /images/Homepage/hero3.png
       key_highlights:
         - title: Our latest stories
-          description: Explore SJC on IG
+          description: Explore SJC on Instagram
           url: /https://www.instagram.com/chijsjcfamily/
         - title: School Calendar
           description: Check what's coming up

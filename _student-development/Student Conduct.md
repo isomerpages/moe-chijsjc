@@ -34,90 +34,18 @@ Every SJCian is expected to be an individual with exemplary character and positi
 * SJCians should not charge their personal electronic devices in school, including their mobile phones and Personal Learning Devices (PLDs).   
 * SJCians are not allowed to have in their possession any weapons. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.   
 
-> _**In the classroom:**_ 
+_**In the classroom:**_ 
+* SJCians should observe the GROW protocol, as every lesson is an opportunity to grow in character and learning:
 
-  
+![](/images/Student%20Development/Code%20of%20Conduct/grow.png)
 
-> i. SJCians should observe the GROW protocol, as every lesson is an opportunity to grow in 
-> 
->    character and learning.  
+* SJCians will be good ambassadors of the school and uphold the image of SJC. They should  observe rules and regulations within the areas they are patronising or visiting at all times. 
+* SJCians should also show respect for public space and the community. 
 
-  
+#### **4. ATTIRE & GROOMING**
+***School Uniform***
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-4zke{background-color:#FFF;text-align:center;text-decoration:underline;vertical-align:top}
-.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-9hzb"> </th>
-    <th class="tg-9hzb">Classroom Protocol</th>
-    <th class="tg-9hzb">Examples of Actions SJCians Should Exhibit</th>
-    <th class="tg-9hzb">School Value</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-9hzb">G</td>
-    <td class="tg-4zke">Greet each other</td>
-    <td class="tg-7yig"><br>Respect one another<br>Greet the teacher(s) at the start and end of each lesson<br></td>
-    <td class="tg-7yig">Love</td>
-  </tr>
-  <tr>
-    <td class="tg-9hzb">R</td>
-    <td class="tg-7yig">Have Readiness</td>
-    <td class="tg-7yig"><br>Be properly attired<br>Have the learning materials ready<br>Check Google Classroom/Student Learning Space for instructions on Home-Based Learning days<br>Ensure that classroom environment is ready for learning<br></td>
-    <td class="tg-7yig">Integrity</td>
-  </tr>
-  <tr>
-    <td class="tg-9hzb">O</td>
-    <td class="tg-ktyi"><span style="background-color:initial">Be</span> Organized<br><br><br><br><br><br><br><br>Have an Open mind for learning<br></td>
-    <td class="tg-7yig"><br>Manage assignment timelines<br>Manage revision schedule<br>Check in with form teachers and subject teachers when you are not in school<br>Submission of MC/Letters<br>Follow up on homework and missed lessons<br><br>Participate in class discussions<br>Be open to feedback<br>Embrace different viewpoints<br>Seek help from teachers and friends<br><br><br><br><br></td>
-    <td class="tg-7yig">Humility<br><br><br><br> <br><br><br>Tenacity<br></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw"> W</td>
-    <td class="tg-f4yw"> Create a Welcoming<span style="color:#000"> classroom</span></td>
-    <td class="tg-ktyi"> <span style="color:#000">Contribute to a positive classroom culture</span><br>Be kind in our words and deeds</td>
-    <td class="tg-f4yw">Gratitude and Love</td>
-  </tr>
-</tbody>
-</table>
-
-
-> **_In public:_** 
-
-  
-
-> j. SJCians will be good ambassadors of the school and uphold the image of SJC. They should 
-> 
-> observe rules and regulations within the areas they are patronising or visiting at all times. 
-> 
-> k. SJCians should also show respect for public space and the community. 
-> 
->   
-
-**4\. Attire and Grooming**
-
-  
-
-> **a. Uniform**
-> 
-> SJCians are to wear the prescribed uniform within and outside of school. Modification to the   
-
-> uniform is not allowed.
-> 
->   
-
+SJCians are to wear the prescribed uniform within and outside of school. Modification to the uniform is not allowed.
 *   Pinafore must touch the knees
 *   Collar should be buttoned
 *   Only clean, predominantly white, low cut shoes and SJC socks are to be worn
@@ -126,9 +54,7 @@ Every SJCian is expected to be an individual with exemplary character and positi
 *   Only the school PE/ House T-shirt and shorts should be worn for PE lessons
 *   Track shoes may be worn only during PE lessons
 
->   
-
-> **b. Hair** 
+***Hair***
 
 *   Short hair styles must not touch the collar of the blouse 
 *   Very short, shaven or undercut hairstyles are not allowed
@@ -137,39 +63,24 @@ Every SJCian is expected to be an individual with exemplary character and positi
 *   Dyed/highlighted hair should be re-dyed to the original colour
 *   Hair extensions are not allowed
 
-  
+***Nails***
+*   Nails are to be kept short and clean, without nail polish  
 
-> **c. Nails**
-
-*   Nails are to be kept short and clean, without nail polish
-
-  
-
-> **d. Cosmetics and Make-up**
-
+***Cosmetics and Make-up***
 *   Cosmetics (e.g. foundation, sunblock with foundation base, powder, lipstick, tinted lip balm, eyeliner, mascara, etc.) are not to be used
 *   Eyebrows should not be drawn or embroidered
 *   Eyelashes should not be permed or have extensions
 *   Coloured or colour-enhancing contact lenses are not allowed
 
-  
-
-> **e. Jewellery and Accessories**
-
+***Jewellery and Accessories***
 *   Only one pair of plain, simple, identical ear studs can be worn on the ear lobes 
 *   Jewellery and accessories of any other kind (e.g. tongue studs, nose ring, lip piercings, bracelets, religious wristbands, ankle bands, bangles, chains, rings, friendship bands, etc.) are not allowed
-
-> f. Inappropriate body art (such as tattoos and the piercing of any part of the body except the 
-> 
-> ears) is not allowed.
+*   Inappropriate body art (such as tattoos and the piercing of any part of the body except the ears) is not allowed.
 
 ![](/images/Student%20Development/Code%20of%20Conduct/C1.png)
 
-##### **Image designed by**  
+**Image designed by Charlotte Tan (Class of 2018)**
 
-##### **Charlotte Tan (Class of 2018)**
-
-  
 
 #### **Guidelines on Disciplinary Measures**
 

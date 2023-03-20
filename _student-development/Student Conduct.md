@@ -77,12 +77,12 @@ SJCians are to wear the prescribed uniform within and outside of school. Modific
 *   Jewellery and accessories of any other kind (e.g. tongue studs, nose ring, lip piercings, bracelets, religious wristbands, ankle bands, bangles, chains, rings, friendship bands, etc.) are not allowed
 *   Inappropriate body art (such as tattoos and the piercing of any part of the body except the ears) is not allowed.
 
-![](/images/Student%20Development/Code%20of%20Conduct/C1.png)
+![](/images/Student%20Development/Code%20of%20Conduct/uniform1.jpeg)
 
-**Image designed by Charlotte Tan (Class of 2018)**
+###### *Image designed by Charlotte Tan (Class of 2018)*
 
 
-#### **Guidelines on Disciplinary Measures**
+#### **GUIDELINES ON DISCIPLINARY MEASURES**
 
 
 <style type="text/css">

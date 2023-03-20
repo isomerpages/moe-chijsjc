@@ -3,94 +3,36 @@ title: Student Conduct
 permalink: /student-development/student-conduct/
 description: ""
 ---
+Every SJCian matters and the school aims to nurture a caring culture and positive climate for all. 
 
-Every SJCian matters and the school aims to nurture a caring culture and positive climate. Students learn well when there is order and discipline. At the same time, they need care, encouragement and space to learn from mistakes and improve. Discipline is an educative process, and the goal is to instill self-discipline and good character in SJCians, equipping them with the necessary social and emotional skills to behave thoughtfully and be responsible and respectful individuals.  
-
-  
+Students learn well when there is order and discipline. At the same time, they need care, encouragement and space to learn from mistakes and improve. Discipline is an educative process, and the goal is to instill self-discipline and good character in SJCians, equipping them with the necessary social and emotional skills to behave thoughtfully and be responsible and respectful individuals.  
 
 Every SJCian is expected to be an individual with exemplary character and positive attitude towards school and the community. The following Code of Conduct should guide SJCians’ behaviour and actions at all times. 
 
-**1\. Morning Assembly**
+#### **1. MORNING ASSEMBLY**
+*  SJCians who are Singapore Citizens must sing the National Anthem and take the Pledge.
+*  SJCians will take the Pledge with their right fist over their heart.   
+*  All SJCians should stand at attention and face the flags when the National Anthem is being sung and the National Pledge recited.   
 
-  
+#### **2. ATTENDANCE & PUNCTUALITY** 
+* Daily attendance during term time is compulsory. The same is expected for CCA and any activity organised by the school. 
+* SJCians should submit to their Form Teacher, upon return to school, a valid Medical Certificate or Letter of Excuse (not more than 4 per term) from parents or guardians.   
+* Absence from school without valid reason is considered as truancy.
+* SJCians should be punctual for school, CCA and other school activities. 
+* SJCians should be present for morning assembly by 7.30 a.m.
+* SJCians are not allowed to leave the school premises before their scheduled dismissal time without permission.  
+* SJCians who need to leave before the scheduled dismissal time should complete the ‘Early Release Form’. Parents or a close relative must give consent for students to be released early.
 
-> a. SJCians who are Singapore Citizens must sing the National Anthem and take the Pledge. 
-
->     SJCians will take the Pledge with their right fist over their heart.   
-> b. All SJCians should stand at attention and face the flags when the National Anthem is being   
->     sung and the National Pledge recited.   
-
-**2\. Attendance and Punctuality** 
-
-  
-
-> a. Daily attendance during term time is compulsory. The same is expected for CCA and any 
-> 
->     activity organised by the school. 
-> 
-> b. SJCians should submit to their Form Teacher, upon return to school, a valid Medical 
-> 
->     Certificate or Letter of Excuse (not more than 4 per term) from parents or guardians.   
-> 
->     Absence from school without valid reason is considered as truancy.
-> 
-> c. SJCians should be punctual for school, CCA and other school activities. 
-> 
-> d. SJCians should be present for morning assembly by 7.30 a.m.
-> 
-> e. SJCians are not allowed to leave the school premises before their scheduled dismissal time 
-> 
->     without permission.  
-> 
-> f. SJCians who need to leave before the scheduled dismissal time should complete the ‘Early 
-> 
->    Release Form’. Parents or a close relative must give consent for students to be released early.
-> 
->   
-
-**3\. General Behaviour**
-
-  
-
-> **_In school:_**
-
-  
-
-> a. SJCians should show kindness and consideration to others at all times, to promote a positive 
-> 
->     and safe environment for teaching and learning.   
-> 
-> b. SJCians are also expected to be responsible for the safekeeping of their personal belongings
-> 
->     and considerate in the use of all school equipment and facilities.  
-> 
-> c. Every SJCian is responsible for the locker assigned to her. The lockers are school property 
-> 
->     and may be searched by school authorities.   
-> 
-> d. All food and drinks should only be consumed in the canteen.
-> 
-> e. Electronic devices, including mobile phones and any other communication devices should 
-> 
->     be switched off and kept away during school hours and CCA time, unless otherwise   
-> 
->     instructed by the teacher.   
-> 
-> f. The school reserves the right to confiscate any electronic device if they are not used 
-> 
->     responsibly and appropriately. Once confiscated, the school may require the presence of a   
-> 
->     parent or guardian before the confiscated device is returned to the student.   
-> 
-> g. SJCians should not charge their personal electronic devices in school, including their mobile 
-> 
->     phones and Personal Learning Devices (PLDs).   
-> 
-> h. SJCians are not allowed to have in their possession any weapons. They are also not allowed 
-> 
->     to bring any weapon-like item which is used or intended to be used to cause harm to others.  
-> 
->   
+#### **3. GENERAL BEHAVIOUR**
+**_In school:_**
+* SJCians should show kindness and consideration to others at all times, to promote a positive And safe environment for teaching and learning.   
+* SJCians are also expected to be responsible for the safekeeping of their personal belongings and considerate in the use of all school equipment and facilities.  
+* Every SJCian is responsible for the locker assigned to her. The lockers are school property and may be searched by school authorities.   
+* All food and drinks should only be consumed in the canteen.
+* Electronic devices, including mobile phones and any other communication devices should be switched off and kept away during school hours and CCA time, unless otherwise instructed by the teacher.   
+* The school reserves the right to confiscate any electronic device if they are not used responsibly and appropriately. Once confiscated, the school may require the presence of a parent or guardian before the confiscated device is returned to the student.   
+* SJCians should not charge their personal electronic devices in school, including their mobile phones and Personal Learning Devices (PLDs).   
+* SJCians are not allowed to have in their possession any weapons. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.   
 
 > _**In the classroom:**_ 
 

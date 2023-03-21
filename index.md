@@ -2,7 +2,7 @@
 layout: homepage
 title: CHIJ St. Joseph's Convent
 description: Welcome to the official website of CHIJ St. Joseph's Convent.
-image: /images/isomer-logo.svg
+image: /images/Homepage/hero2.png
 permalink: /
 notification: ""
 sections:
@@ -19,3 +19,4 @@ sections:
       title: News and Announcements
       button: Read More
 ---
+

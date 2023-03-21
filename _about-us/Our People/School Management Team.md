@@ -4,11 +4,11 @@ permalink: /about-us/Our-People/School-Management-Team/
 description: ""
 third_nav_title: Our People
 ---
-#### **School Leaders**
+#### **SCHOOL LEADERS**
 ![](/images/About%20us/Our%20People/School%20Management%20Team/SLs3.jpg)
 
-#### **Heads of Department**
+#### **HEADS OF DEPARTMENT**
 ![](/images/About%20us/Our%20People/School%20Management%20Team/HODs3.jpg)
 
-##### **Subject Heads (SH) / Level Heads (LH) / Assistant Year Heads (AYH)**
+##### **SUBJECT HEADS (SH) / LEVEL HEADS (LH) / ASSISTANT YEAR HEADS (AYH)**
 ![](/images/About%20us/Our%20People/School%20Management%20Team/SHs2.jpg)

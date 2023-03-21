@@ -16,7 +16,6 @@ Kindly refer to the Term 1 Sec 1 to 5 Weighted Assessment Schedules below:
 * [Sec 4 WA1 2023](/files/Useful%20Links/Students/Weighted%20Assessments/WA1%20Schedule%20-%20%20Sec4.pdf)
 * [Sec 5 WA1 2023](/files/Useful%20Links/Students/Weighted%20Assessments/WA1%20Schedule%20-%20Sec5.pdf)
 
-
-
+The latest WA schedules are also available under [Useful Links and Resources > Students](/useful-links/students/).
 
 

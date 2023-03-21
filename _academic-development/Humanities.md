@@ -26,18 +26,15 @@ description: ""
 
   
 
-#### **Programmes**
-
+#### **PROGRAMMES**
 
 ##### **Geography**
 
 *   HDB Outreach Programme for Sec 1NT & 1NA students  
-    
 *   NUS Geography Challenge (annual participation)
-*   Fieldwork (Annual)
-
->*   Coastal Fieldwork @ East Coast Park (All Pure Geography students)
->*   Tourism Fieldwork @ Chinatown/ Little India/ Merlion Park (Sec 3 Express /Normal Academic)
+*   Fieldwork (Annual):
+ Coastal Fieldwork @ East Coast Park (All Pure Geography students),
+Tourism Fieldwork @ Chinatown/ Little India/ Merlion Park (Sec 3 Express /Normal Academic)
 
 ![](/images/Curriculum/Humanities/H1.png)
 
@@ -67,4 +64,3 @@ description: ""
 ![](/images/Curriculum/Humanities/H5.png)
 
 ![](/images/Curriculum/Humanities/H6.png)
-

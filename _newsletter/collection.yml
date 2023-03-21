@@ -1,0 +1,7 @@
+collections:
+  newsletter:
+    output: true
+    order:
+      - 2022 Newsletter.md
+      - 2021 Newsletter.md
+      - 2018 Newsletter.md

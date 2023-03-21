@@ -1,0 +1,19 @@
+collections:
+  student-services:
+    output: true
+    order:
+      - Students/Full HomeBased Learning.md
+      - Students/.keep
+      - Parents/PTM 2022.md
+      - Parents/Webinar and Workshops.md
+      - Parents/Parenting Resources.md
+      - Parents/Family Matters @ School.md
+      - Parents/MOE & Related Sites.md
+      - Parents/Parents Gateway.md
+      - Parents/.keep
+      - Student Services/School Information.md
+      - Student Services/Uniform Supplier.md
+      - Student Services/School Bookshop Information.md
+      - Student Services/School Library Opening Hours.md
+      - Student Services/.keep
+      - Financial Assistance.md

@@ -1,32 +1,22 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: CHIJ St. Joseph's Convent
+description: Welcome to the official website of CHIJ St. Joseph's Convent.
+image: /images/Homepage/hero2.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      background: /images/Homepage/hero3.png
+      key_highlights:
+        - title: Our latest stories
+          description: Explore SJC on Instagram
+          url: /https://www.instagram.com/chijsjcfamily/
+        - title: School Calendar
+          description: Check what's coming up
+          url: /sjc-calendar
+  - resources:
+      title: News and Announcements
+      button: Read More
 ---
 

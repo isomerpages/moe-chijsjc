@@ -1,0 +1,19 @@
+collections:
+  academic-development:
+    output: true
+    order:
+      - Curriculum.md
+      - Aesthetics/Arts.md
+      - Aesthetics/Music.md
+      - Aesthetics/.keep
+      - Craft and Technology/Computer Applications.md
+      - Craft and Technology/Design & Technology.md
+      - Craft and Technology/Nutrition & Food Science.md
+      - Craft and Technology/.keep
+      - Elements of Business Skills.md
+      - English Language and English Literature.md
+      - Humanities.md
+      - Mathematics.md
+      - Mother Tongue.md
+      - Physical Education.md
+      - Science.md

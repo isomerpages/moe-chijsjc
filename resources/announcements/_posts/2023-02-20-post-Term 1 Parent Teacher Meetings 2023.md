@@ -6,3 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
+Dear Parents, 
+
+Thank you for joining us for the Parent Teacher Meetings. You may find the presentation materials [here](/parents-meetings)

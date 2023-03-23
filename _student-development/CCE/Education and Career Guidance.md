@@ -28,8 +28,6 @@ In SJC, ECG aims to:
 
 ![](/images/Student%20Development/Education%20and%20Career%20Guidance/E1.png)
 
-***Taster Modules***  
-
 Students learned knowledge and skills through hands-on sessions during the Applied Learning Modules.
 
 ![](/images/Student%20Development/Education%20and%20Career%20Guidance/E2.png)
@@ -37,7 +35,7 @@ Students learned knowledge and skills through hands-on sessions during the Appli
 ![](/images/Student%20Development/Education%20and%20Career%20Guidance/E3.png)
 
 
-##### ***ECG Counselling***
+#### **ECG COUNSELLING**
 
 ECG Counselling is available for groups or individual students. Parents are also invited to join in the discussion with their child so that they can support their child in making a more informed decision about their future pathways.
 
@@ -47,7 +45,6 @@ Keen to have a chat with our ECG Counsellor? Make an appointment [here](https://
 
   
 ##### **ECG RESOURCES**
-
 
 1.  **MySkillsFuture Student Portal - Support for Students**
     
@@ -75,9 +72,9 @@ Explore courses based on aggregate type, score, type of institute and area of in
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:18px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:18px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-2n9k{background-color:#FFF;color:#262877;text-align:left;vertical-align:top}
 .tg .tg-ftj8{background-color:#CAD2DB;color:#262877;text-align:left;vertical-align:top}

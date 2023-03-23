@@ -45,16 +45,15 @@ Keen to have a chat with our ECG Counsellor? Make an appointment [here](https://
   
 ##### **ECG RESOURCES**
 
-1.  **MySkillsFuture Student Portal - Support for Students**
+**MySkillsFuture Student Portal - Support for Students**
     
 This is a one-stop platform to help students better understand themselves, their interests and strengths. Explore different education and career pathways, identify career goals and make informed education and career choices at [MySkillsFuture Portal (Sec)](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html).
 
-2. **Post-secondary Education Resource**
+**Post-secondary Education Resource**
 
 ![](/images/Student%20Development/Education%20and%20Career%20Guidance/E5.jpg)
 (Extracted from MOE's Post-Secondary Education Resource)
     
-
 Post-secondary education comprises the paths you can take after you complete your secondary school education. Learn about the choices available for you to pursue your next phase of learning based on your interests and strengths [here](https://www.moe.gov.sg/post-secondary).
 
 You can also read more about how the diverse and flexible pathways in  Singapore’s education system opened up possibilities to individuals across different courses and industries in the publication [The Next Step Forward](https://www.moe.gov.sg/-/media/files/programmes/ecg/moe_the_next_step_forward.ashx?la=en&hash=861D380E656F90365A6CB50CB53383232AEF1972).
@@ -63,7 +62,7 @@ This publication illustrates how our diverse and flexible pathways opened up pos
 
 Explore courses based on aggregate type, score, type of institute and area of interest [here](https://www.moe.gov.sg/coursefinder). Find out more about the different admissions exercises and programmes available to help you gain entry into a junior college, Millennia Institute, polytechnic or ITE [here](https://www.moe.gov.sg/post-secondary/admissions). The Post-Secondary Admissions Exercises booklet can be downloaded [here](https://www.moe.gov.sg/-/media/files/post-secondary/a-guide-to-post-secondary-admissions-exercises.ashx?la=en&hash=F15DCC9D15010CE2A19C4FD41802811F331C7881).
 
-3. **Resources for GCE O-Level Students**
+**Resources for GCE O-Level Students**
 
 ▪         The [What’s Next](https://www.moe.gov.sg/-/media/files/programmes/ecg/12805_brochure-whats-next-o-level.ashx?la=en&hash=664AE752D76B3F8BC2F7BD1D0B9EA02BE124CE0F) brochure can help you with decision-making on  your education and career journey.
 
@@ -100,7 +99,7 @@ Explore courses based on aggregate type, score, type of institute and area of in
 </tbody>
 </table>
 
-4. **Resources for GCE N-Level Students**  
+**Resources for GCE N-Level Students**  
 
 ▪         The [What’s Next](https://www.moe.gov.sg/-/media/files/programmes/ecg/12805_brochure-whats-next-n-level.ashx?la=en&hash=C0D2B7CBF9F1A59B7C1A782C4D69403617ED2131) brochure can help you with decision-making on  your education and career journey.
 
@@ -167,6 +166,6 @@ Explore courses based on aggregate type, score, type of institute and area of in
 </tbody>
 </table>
 
-5. **Resources for Parents**
+**Resources for Parents**
 
 Parents are one of the key decision influencers in their daughters’ education and career aspirations. Find out more about how you can do so in the ECG Guide for parents - [Journeying with Our Children,](https://www.moe.gov.sg/-/media/files/programmes/ecg/12806_moe_parent-guide-2021.ashx?la=en&hash=FF725C742112B08F2066F3FA7856AA147D30E4B9) [Supporting Their Aspirations](https://www.moe.gov.sg/-/media/files/programmes/ecg/12806_moe_parent-guide-2021.ashx?la=en&hash=FF725C742112B08F2066F3FA7856AA147D30E4B9).

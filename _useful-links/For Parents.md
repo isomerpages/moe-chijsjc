@@ -5,7 +5,7 @@ description: ""
 ---
 #### **SCHOOL HOME PARTNERSHIP**
 * [SJC Parent Engagement ](https://sites.google.com/moe.edu.sg/parent-engagement-program/home?authuser=0)
-* [Parent Teacher Meeting Materials](/parents-meeting)
+* [Parent Teacher Meeting Materials](/parents-meetings)
 
 #### **MOE / EXTERNAL PARENTING RESOURCES**
 * [MOE Schoolbag](https://www.schoolbag.edu.sg/)

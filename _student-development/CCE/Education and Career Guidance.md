@@ -4,73 +4,29 @@ permalink: /student-development/Education-and-Career-Guidance/
 description: ""
 third_nav_title: CCE
 ---
+#### **OVERVIEW**
 
-#### **Overview**
+Education and Career Guidance (ECG) is about equipping students with the necessary knowledge, skills, and values to make informed decisions at each key education stage for successful transition from school to further education or work, so that they can manage their education and career pathways and practise lifelong learning throughout their lives. By nurturing self-awareness and self-directedness for lifelong learning, ECG helps students develop a growth mindset, adaptability and a resilient attitude to embrace future opportunities and appreciate all occupations across society.
 
-
-Education and Career Guidance (ECG) is about equipping students with the necessary knowledge,  skills, and values to make informed decisions at each key education stage for successful transition  
-from school to further education or work, so that they can manage their education and career  pathways and practise lifelong learning throughout their lives.  By nurturing self-awareness and self-directedness for lifelong learning, ECG helps students develop a growth mindset, adaptability and a resilient attitude to embrace future opportunities and appreciate all occupations across society.
-
-ECG is developmental in nature and seeks to meet the developmental needs of students at every  
-stage of education. The emphasis for Primary schools is on **Awareness**, for Secondary  
-schools on **Exploration**, and for upper Secondary and post- Secondary levels on **Planning**.
+ECG is developmental in nature and seeks to meet the developmental needs of students at every stage of education. The emphasis for Primary schools is on **Awareness**, for Secondary schools on **Exploration**, and for Upper Secondary and post-Secondary levels on **Planning**.
 
 Learn about ECG and the resources available to support students in their journey from school to  
 further education or work [here](https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview).
 
-#### **Our Objectives**
-
-
-1.  In CHIJ SJC, ECG aims to:  
+#### **OUR OBJECTIVES**
+In SJC, ECG aims to:  
       
+    1. Nurture students’ self-awareness and self-directedness for lifelong learning
     
-    1. nurture students’ self-awareness and self-directedness for lifelong learning
+    2. Enable students to explore education and career options, by equipping them with skills and resources to source for information
     
-    2. enable students to explore education and career options, by equipping them with skills and resources to source for information
+    3. Create opportunities for students to build positive connections with the community (such as teachers, ECG counsellors, parents, industry partners), to develop an appreciation for different career pathways; and
     
-    3. create opportunities for students to build positive connections with the community (such as teachers, ECG counsellors, parents, industry partners), to develop an appreciation for different career pathways; and
-    
-    4. help students develop a growth mindset, a resilient attitude to embrace future opportunities, and appreciate all occupations across society
+    4. Help students develop a growth mindset, a resilient attitude to embrace future opportunities, and appreciate all occupations across society
 
-#### **Highlights of ECG Programme @ CHIJ SJC**
+#### **HIGHLIGHTS OF ECG @ SJC**
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vhph{background-color:#CAD2DB;color:#262877;font-weight:bold;text-align:left;text-decoration:underline;vertical-align:top}
-.tg .tg-3u23{background-color:#CAD2DB;color:#262877;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-n3if{background-color:#FFF;color:#262877;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-n741{background-color:#FFF;color:#262877;font-weight:bold;text-align:left;text-decoration:underline;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-n3if">Level</th>
-    <th class="tg-n3if">Highlights of students’ ECG Experiences</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-n3if">Sec 1</td>
-    <td class="tg-n741">Classroom Experiences<br>●       Identify one’s Values, Interests, Personality and Skills (VIPS)<br>●       Learn about and explore ECG resources available on MySkillsFuture portal and SLS<br>●        Attend engagement sessions with the ECG Counsellor</td>
-  </tr>
-  <tr>
-    <td class="tg-3u23">Sec 2</td>
-    <td class="tg-vhph">Classroom Experiences<br>●       Clarify one’s VIPS<br>●       Learn how to set targets and make informed decisions on their subject combination preferences through a “Review, Reflect and Plan” process<br>●       Attend engagement sessions with the ECG Counsellor<br> Learning Journey to Post-Secondary Education Institutions (PSEIs)<br>●       Explore learning environment and opportunities at PSEIs</td>
-  </tr>
-  <tr>
-    <td class="tg-n3if">Sec 3</td>
-    <td class="tg-n741">Classroom Experiences<br>●       Explore education pathways and career opportunities in CCE lessons<br>●       Attend engagement sessions with the ECG Counsellor on building a portfolio<br> Taster Modules<br>●       Attend Elective Modules, Applied Learning Modules, Advanced Elective Modules at Institutes of Technical Education (ITEs)/Polytechnics<br> Careers Week<br>●       Explore different industries and sectors<br>●       Participate in Learning Journeys to Post-Secondary Education Institutions (PSEIs) or partner organisations<br>●        Attend talks and roadshows by PSEIs</td>
-  </tr>
-  <tr>
-    <td class="tg-3u23">Sec 4/5</td>
-    <td class="tg-vhph">Classroom Experiences<br>●       Review plans and goals for post-secondary education pathways<br>●       Develop habits of lifelong learning<br>●       Attend talks by PSEIs<br>●        Attend engagement sessions with the ECG Counsellor<br>Preparatory Workshops<br>●       Participation in workshops such as course advising workshops, personal statement workshops, portfolio workshops and mock interviews to prepare for applications to PSEIs and scholarships</td>
-  </tr>
-</tbody>
-</table>
+
 
 #### **ECG Learning Journeys to PSEIs**
 

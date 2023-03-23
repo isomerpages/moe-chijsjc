@@ -16,39 +16,35 @@ further education or work [here](https://www.moe.gov.sg/education-in-sg/our-pro
 #### **OUR OBJECTIVES**
 In SJC, ECG aims to:  
       
-    1. Nurture students’ self-awareness and self-directedness for lifelong learning
-    
-    2. Enable students to explore education and career options, by equipping them with skills and resources to source for information
-    
-    3. Create opportunities for students to build positive connections with the community (such as teachers, ECG counsellors, parents, industry partners), to develop an appreciation for different career pathways; and
-    
-    4. Help students develop a growth mindset, a resilient attitude to embrace future opportunities, and appreciate all occupations across society
+1.  Nurture students’ self-awareness and self-directedness for lifelong learning
+2.  Enable students to explore education and career options, by equipping them with skills and resources to source for information   
+3.  Create opportunities for students to build positive connections with the community (such as teachers, ECG counsellors, parents, industry partners), to develop an appreciation for different career pathways; and    
+4.  Help students develop a growth mindset, a resilient attitude to embrace future opportunities, and appreciate all occupations across society
 
 #### **HIGHLIGHTS OF ECG @ SJC**
+![](/images/Student%20Development/Education%20and%20Career%20Guidance/ecg.png)
 
-
-
-#### **ECG Learning Journeys to PSEIs**
+#### **ECG LEARNING JOURNEYS TO PSEIs**
 
 ![](/images/Student%20Development/Education%20and%20Career%20Guidance/E1.png)
 
-**Taster Modules**  
+***Taster Modules***  
 
-Students learned knowledge and skills through hands-on sessions during the Applied Learning Modules or Elective Modules.
+Students learned knowledge and skills through hands-on sessions during the Applied Learning Modules.
 
 ![](/images/Student%20Development/Education%20and%20Career%20Guidance/E2.png)
 
 ![](/images/Student%20Development/Education%20and%20Career%20Guidance/E3.png)
 
 
-##### **ECG Counselling**
+##### ***ECG Counselling***
 
 
 ECG Counselling is available for groups or individual students. Parents are also invited to join in the discussion with their child so that they can support their child in making a more informed decision about their future pathways.
 
-  
+Keen to have a chat with our ECG Counsellor? 
 
-Keen to have a chat with our ECG Counsellor? See details below on booking an appointment.
+See details below on booking an appointment.
 
   
 ##### **ECG Resources**

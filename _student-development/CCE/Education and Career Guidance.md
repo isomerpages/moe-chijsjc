@@ -39,22 +39,19 @@ Students learned knowledge and skills through hands-on sessions during the Appli
 
 ##### ***ECG Counselling***
 
-
 ECG Counselling is available for groups or individual students. Parents are also invited to join in the discussion with their child so that they can support their child in making a more informed decision about their future pathways.
 
-Keen to have a chat with our ECG Counsellor? 
+Keen to have a chat with our ECG Counsellor? Make an appointment [here](https://moeecg.appointeze.com/onlinelink/PanMiaoHua)!
 
-See details below on booking an appointment.
+![](/images/Student%20Development/Education%20and%20Career%20Guidance/ECG2.png)
 
   
-##### **ECG Resources**
+##### **ECG RESOURCES**
 
 
 1.  **MySkillsFuture Student Portal - Support for Students**
     
-    This is a one-stop platform to help students better understand themselves, their interests and strengths. Explore different education and career pathways, identify career goals and make informed education and career choices at [MySkillsFuture Portal (Sec)](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html).
-
-![](/images/Student%20Development/Education%20and%20Career%20Guidance/E4.jpg)
+This is a one-stop platform to help students better understand themselves, their interests and strengths. Explore different education and career pathways, identify career goals and make informed education and career choices at [MySkillsFuture Portal (Sec)](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html).
 
 2. **Post-secondary Education Resource**
 
@@ -64,9 +61,7 @@ See details below on booking an appointment.
 
 Post-secondary education comprises the paths you can take after you complete your secondary school education. Learn about the choices available for you to pursue your next phase of learning based on your interests and strengths [here](https://www.moe.gov.sg/post-secondary).
 
-View the following video to find out more.
-
-You can also read more about how the diverse and flexible pathways in the Singapore’s education system opened up possibilities to individuals across different courses and industries in the publication [The Next Step Forward](https://www.moe.gov.sg/-/media/files/programmes/ecg/moe_the_next_step_forward.ashx?la=en&hash=861D380E656F90365A6CB50CB53383232AEF1972).
+You can also read more about how the diverse and flexible pathways in  Singapore’s education system opened up possibilities to individuals across different courses and industries in the publication [The Next Step Forward](https://www.moe.gov.sg/-/media/files/programmes/ecg/moe_the_next_step_forward.ashx?la=en&hash=861D380E656F90365A6CB50CB53383232AEF1972).
 
 This publication illustrates how our diverse and flexible pathways opened up possibilities to 54 individuals across different courses and industries. Read more about them and their pathways as you take THE NEXT STEP FORWARD.
 

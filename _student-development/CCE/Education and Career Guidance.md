@@ -10,8 +10,7 @@ Education and Career Guidance (ECG) is about equipping students with the necessa
 
 ECG is developmental in nature and seeks to meet the developmental needs of students at every stage of education. The emphasis for Primary schools is on **Awareness**, for Secondary schools on **Exploration**, and for Upper Secondary and post-Secondary levels on **Planning**.
 
-Learn about ECG and the resources available to support students in their journey from school to  
-further education or work [here](https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview).
+Learn about ECG and the resources available to support students in their journey from school to further education or work [here](https://www.moe.gov.sg/education-in-sg/our-programmes/education-and-career-guidance/overview).
 
 #### **OUR OBJECTIVES**
 In SJC, ECG aims to:  

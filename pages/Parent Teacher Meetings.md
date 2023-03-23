@@ -31,6 +31,10 @@ Here are the presentation materials for parents' reference. You may reach out to
 * [Sec 3 PTM Principal's Address](/files/Useful%20Links/Parents/PTM%20Materials/Sec%203%20PTM%202023_Principal's%20Address.pdf)
 * [Sec 3 AYH Address](/files/Useful%20Links/Parents/PTM%20Materials/Sec%203%20AYH%20Address.pdf)
 
+**SECONDARY 4 PTM**
+* [4E/5NA PTM Slides for Parents](/files/Useful%20Links/Parents/PTM%20Materials/4E_5NA%20PTM%20Slides%20for%20Parents.pdf)
+* [4NA PTM Slides for Parents](/files/Useful%20Links/Parents/PTM%20Materials/4NA%20PTM%20Slides%20for%20Parents.pdf)
+* [4NT PTM Slides for Parents](/files/Useful%20Links/Parents/PTM%20Materials/4NT%20PTM%20Slides%20for%20Parents.pdf)
 
 
 

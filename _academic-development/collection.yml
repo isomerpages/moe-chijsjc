@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Curriculum.md
-      - Aesthetics/Arts.md
       - Aesthetics/Music.md
       - Aesthetics/.keep
       - Applied Subjects/.keep

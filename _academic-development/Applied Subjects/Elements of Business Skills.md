@@ -4,8 +4,6 @@ permalink: /academic/applied/ebs/
 description: ""
 third_nav_title: Applied Subjects
 ---
-
-
 #### **Our Objectives**
 
 
@@ -34,14 +32,9 @@ To enable transferability of knowledge and skills to the future workplace, the l
 
 
 To discover the relevance and application of EBS, the EBS programme involves the following features:  
-
-  
-
 *   Visits to local business settings
-
 *   Visits to a hospitality establishment.
-
->*   In 2018, students stayed overnight at a 5-star hotel and were given a back-of-house tour to understand the business operations of the hotel.
->*   In 2019, the students went on a Cultural Immersion cum Service-Learning Trip to an Eco-Resort in Bintan, Indonesia. During the trip, the students learnt about eco-tourism, sustainability, hospitality and business operations from the eco-resort employees. At the end of their stay, they shared ideas and suggestions with the resort staff on how their business could be improved, applying their learning from their EBS curriculum.
+*   In 2018, students stayed overnight at a 5-star hotel and were given a back-of-house tour to understand the business operations of the hotel.
+*   In 2019, the students went on a Cultural Immersion cum Service-Learning Trip to an Eco-Resort in Bintan, Indonesia. During the trip, the students learnt about eco-tourism, sustainability, hospitality and business operations from the eco-resort employees. At the end of their stay, they shared ideas and suggestions with the resort staff on how their business could be improved, applying their learning from their EBS curriculum.
 
 ![](/images/Curriculum/Elements%20of%20Business%20Skills/E1.png)

@@ -3,14 +3,14 @@ title: Student Leadership Development
 permalink: /sjcexperience/student-leadership/
 description: ""
 ---
-#### **OBJECTIVES**
+#### **Objectives**
 *   To nurture the leadership potential in all our students.
 *   To equip our students with an understanding of key leadership principles, and guide and train them to take on greater responsibilities.
 
-#### **OUR APPROACH**
+#### **Our Approach**
 We believe that each girl has the potential to lead others. We will provide opportunities for students to experience leadership roles and equip them to lead more effectively. 
 
-#### **OUR STUDENT LEADERSHIP FRAMEWORK**
+#### **Our Student Leadership Framework**
 
 Our framework comprises 3 tiers:
 
@@ -40,7 +40,7 @@ For instance, Class Monitors, Peer Support Leaders, CCA Leaders, Sports Leaders 
 
 The ‘**Leadership Challenge Model**’ (LCM) by Kouzes and Pozner underpins our Student Leadership Development programme.  The 5 practices (Modelling the Way, Inspiring a Shared Vision, Challenging the Process, Enabling Others to Act, and Encouraging the Heart) are progressively introduced to students in their respective student leadership roles. 
 
-#### **PLATFORMS FOR STUDENT LEADERSHIP**
+#### **Platforms for Student Leadership**
 
 
 |   Leadership Roles   |                                                        Leadership Platforms                                                        |

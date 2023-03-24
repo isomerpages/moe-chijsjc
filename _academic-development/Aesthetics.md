@@ -3,8 +3,6 @@ title: Aesthetics
 permalink: /academic/aesthetics/
 description: ""
 ---
-
-
 In Aesthetics, we seek to develop our students to be independent and creative learners who possess an awareness and appreciation of art and music in varied forms.  
 
 ### **ART**
@@ -13,8 +11,7 @@ In Aesthetics, we seek to develop our students to be independent and creative le
 *   To provide meaningful and authentic art learning experiences that nurture students’ creativity and appreciation for the visual arts. 
 *   To develop creative expressions through individual and collaborative art making  
 
-![](/images/Curriculum/Aesthetics/Art/A1.png)
-_Figure 1: Lower Secondary Art Framework_
+![](/images/Curriculum/Aesthetics/Art/artframework2.png)
 
 #### **Our Approach:**
 
@@ -73,4 +70,3 @@ The Youth Station Project is a songwriting competition platform dedicated to sho
 CHIJ St Joseph’s Convent had a total of two teams from the Secondary 1 and 2 cohort who submitted their original songs in April this year and final submissions were completed in August. One of the team was selected as the Top 20 Finalists in the Lower Secondary Category and was awarded an honourable mention. Their song “Love Yourself” has been posted on the SYF Official Youtube Channel. 
 
 ![](/images/Curriculum/Aesthetics/Music/M3.png)
-

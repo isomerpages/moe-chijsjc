@@ -4,8 +4,6 @@ collections:
     order:
       - Arts.md
       - Curriculum.md
-      - Aesthetics/Music.md
-      - Aesthetics/.keep
       - Applied Subjects/.keep
       - Applied Subjects/Computer Applications.md
       - Applied Subjects/Design & Technology.md

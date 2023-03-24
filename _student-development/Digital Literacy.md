@@ -28,7 +28,7 @@ Parents/guardians can also choose to pay cash for the PLD. Please note that it i
 
 ##### **Funding Support for Non-Singapore Citizen Students**
 
-Permanent residents (PR) and international students (IS) who need support could apply for subsidies, particularly those whose Gross Household Income (GHI) is below $4000 or Per Capita Income (PCI)# is below $1000.
+Permanent residents (PR) and international students (IS) who need support can apply for subsidies, particularly those whose Gross Household Income (GHI) is below $4000 or Per Capita Income (PCI)# is below $1000.
 
 For more details, please approach the school.
 

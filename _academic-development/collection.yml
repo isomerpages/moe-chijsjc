@@ -2,8 +2,8 @@ collections:
   academic-development:
     output: true
     order:
-      - Aesthetics.md
       - Curriculum.md
+      - Aesthetics.md
       - Applied Subjects/.keep
       - Applied Subjects/Computer Applications.md
       - Applied Subjects/Design & Technology.md

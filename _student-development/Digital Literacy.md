@@ -22,7 +22,7 @@ At SJC, your child/ward will be using her Personal Learning Device (PLD) for act
 
 ##### **Use of Edusave**
 
-If your child/ward is a Singapore citizen, you can use your child’s/ward’s Edusave to pay partly or fully for the PLD. A Singapore citizen student can use up to the available Edusave balance in her Edusave account to pay for the PLD after setting aside provision for payment of 2nd tier miscellaneous fees. MOE has provided a one-off Edusave top-up in 2020, to all eligible Singaporean students in primary and secondary schools. This is on top of the annual Edusave contribution for secondary students and primary students.
+If your child/ward is a Singapore citizen, you can use your child’s/ward’s Edusave to pay partly or fully for the PLD. A student, who is a Singapore citizen, can use up to the available Edusave balance in her Edusave account to pay for the PLD after setting aside provision for payment of 2nd tier miscellaneous fees. MOE has provided a one-off Edusave top-up in 2020, to all eligible Singaporean students in primary and secondary schools. This is on top of the annual Edusave contribution for secondary students and primary students.
 
 Parents/guardians can also choose to pay cash for the PLD. Please note that it is compulsory for all existing students on the MOE Financial Assistance Scheme to use their Edusave to pay for the PLD, after subsidies have been granted.
 

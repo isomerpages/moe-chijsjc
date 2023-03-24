@@ -43,4 +43,4 @@ In preparation for our students to face the rapid and continuous changes in the 
 
 **(C)  Caring and Enabling School Environment:** A school environment that enables effective CCE is one with adult role-modelling, positive teacher-student relationships, peer support and relationships, student voice and ownership, and consistent and coherent messaging on CCE.
 
-Reflective journaling is widely used in our CCE lessons. It has the added benefit of improving the self-awareness and self-management while providing a foundation for social-awareness, relationship skills and responsible decision making.
+Reflective journaling is widely used in our CCE lessons. It has the added benefit of improving self-awareness and self-management while providing a foundation for social-awareness, relationship skills and responsible decision making.

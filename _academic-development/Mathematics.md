@@ -1,8 +1,9 @@
 ---
 title: Mathematics
-permalink: /curriculum/Mathematics/
+permalink: /academic/mathematics/
 description: ""
 ---
+
 #### **Our Objectives**
 
 

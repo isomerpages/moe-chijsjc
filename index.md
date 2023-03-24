@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Our latest stories
           description: Explore SJC on Instagram
-          url: /https://www.instagram.com/chijsjcfamily/
+          url: https://www.instagram.com/chijsjcfamily/
         - title: School Calendar
           description: Check what's coming up
           url: /sjc-calendar
@@ -19,4 +19,3 @@ sections:
       title: News and Announcements
       button: Read More
 ---
-

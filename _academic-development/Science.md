@@ -1,8 +1,9 @@
 ---
 title: Science
-permalink: /curriculum/Science/
+permalink: /academic/science/
 description: ""
 ---
+
 #### **Our Objectives**
 
 

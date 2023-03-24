@@ -50,8 +50,8 @@ SJCians are to wear the prescribed uniform within and outside of school. Modific
 *   Collar should be buttoned
 *   Only clean, predominantly white, low cut shoes and SJC socks are to be worn
 *   Loose or low socks are not allowed (the SJC logo must be seen)
-*   On days with Physical Education (PE) lessons, students are allowed to wear the PE Tshirt under their pinafore
-*   Only the school PE/ House T-shirt and shorts should be worn for PE lessons
+*   On days with Physical Education (PE) lessons, students are allowed to wear the PE T-shirt under their pinafore
+*   Only the school PE/House T-shirt and shorts should be worn for PE lessons
 *   Track shoes may be worn only during PE lessons
 
 ***Hair***
@@ -117,5 +117,3 @@ The examination rules apply to all forms of formal assessment, i.e. Weighted Ass
 * Inform the school or your Form Teacher of your absence. There will be no make-up examination for papers missed.  
 * The MC, issued by a medical practitioner registered under the Medical Registration Act, must be submitted to your Form Teacher upon your return to school.   
 * If you do not have a medical certificate to cover your absence, you may be given a ‘zero’ (0) for the papers missed.
-
-

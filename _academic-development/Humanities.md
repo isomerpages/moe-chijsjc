@@ -1,8 +1,9 @@
 ---
 title: Humanities
-permalink: /curriculum/Humanities/
+permalink: /academic/humanities/
 description: ""
 ---
+
 #### **Our Objectives**
 
 

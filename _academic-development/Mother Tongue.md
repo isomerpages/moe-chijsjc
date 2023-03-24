@@ -1,8 +1,9 @@
 ---
 title: Mother Tongue
-permalink: /curriculum/Mother-Tongue/
+permalink: /academic/mtl/
 description: ""
 ---
+
 #### **Our Objective**
 
 

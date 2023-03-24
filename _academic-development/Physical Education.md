@@ -1,8 +1,9 @@
 ---
 title: Physical Education
-permalink: /curriculum/Physical-Education/
+permalink: /academic/pe/
 description: ""
 ---
+
 #### **Our Objective**
 
 

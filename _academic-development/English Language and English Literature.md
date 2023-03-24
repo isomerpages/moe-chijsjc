@@ -1,8 +1,9 @@
 ---
 title: English Language and English Literature
-permalink: /curriculum/English-Language-and-English-Literature/
+permalink: /academic/ellit/
 description: ""
 ---
+
 #### **Our Objectives**
 
 

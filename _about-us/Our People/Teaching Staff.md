@@ -15,5 +15,3 @@ third_nav_title: Our People
 
 #### **Secondary 4 and 5 Form Teachers**
 ![](/images/About%20us/Our%20People/Teaching%20Staff/S4FTs.jpg)
-
-

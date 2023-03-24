@@ -89,3 +89,6 @@ With 19 CCAs to choose from, SJCians enjoy many opportunities to perform, compet
 LEAPS 2.0 is MOE'S framework to recognise secondary school students' holistic development. Students will be recognised with levels of attainment in four domains: Participation, Achievement, Leadership and Service.
 
 Find out more here: [LEAPS 2.0](/files/LEAPS%202/LEAPS%2020%20(Public%20Version).pdf)
+
+![](/images/CCA/CCASCHEDULE.jpg)
+

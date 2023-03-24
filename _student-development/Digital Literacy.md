@@ -10,7 +10,7 @@ Click [here](https://drive.google.com/file/d/1BfcHhw1k6KOTO8Uxt0fSgJTu9nJrQ-R-/v
 
 ##### **Intended Outcomes of Personalised Digital Learning Programme (PDLP)**
 
-There are 3 intended outcomes of the 1:1 personalized learning environment. The use of the personal learning devices for teaching and learning will
+There are 3 intended outcomes of the 1:1 personalised learning environment. The use of the personal learning devices for teaching and learning will
 
 * Support the development of **digital literacies**, where students will learn digital skills such as gathering and evaluating information online, interacting with the online community, and creating digital products.
 * Support students' **self-directed and collaborative learning**, where students may access and acquire knowledge about a topic of their interest beyond the curriculum. They can also share and build on one another's ideas, and refine their own understanding.

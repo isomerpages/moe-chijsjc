@@ -34,7 +34,7 @@ Our framework comprises 3 tiers:
 
 **Equipping for Leadership**
 
-Equipping includes leadership-related lessons, training and enrichment activities which provides basic theory and soft skills for their respective roles.
+Student leaders will go through a series of leadership-related lessons, training and enrichment activities which provide basic theory and soft skills for their respective roles.
 
 For instance, Class Monitors, Peer Support Leaders, CCA Leaders, Sports Leaders or School Councilors receive equipping in facilitating discussions, planning and event organizing, public communication, etc, as their roles require.
 

@@ -9,12 +9,12 @@ description: ""
 > [Sec 2 Classes](/files/Useful%20Links/Students/Timetables/Secondary%202%20Timetable%20Sem%201%202023.pdf),
 > [Sec 3 Classes](/files/Useful%20Links/Students/Timetables/Secondary%203%20Timetable%20Sem%201%202023.pdf),
 > [Sec 4/5 Classes](/files/Useful%20Links/Students/Timetables/Secondary%2045%20Timetable%20Sem%201%202023.pdf)
-* **2023 Weighted Assessment (WA1) Schedules**
-> * [Sec 1 WA1](/files/Useful%20Links/Students/Weighted%20Assessments/WA1%20Schedule%20-%20Sec1.pdf),
-> [Sec 2 WA1](/files/Useful%20Links/Students/Weighted%20Assessments/WA1%20Schedule%20-%20Sec2.pdf),
-> [Sec 3 WA1](/files/Useful%20Links/Students/Weighted%20Assessments/WA1%20Schedule%20-%20Sec3.pdf),
-> [Sec 4 WA1](/files/Useful%20Links/Students/Weighted%20Assessments/WA1%20Schedule%20-%20%20Sec4.pdf),
-> [Sec 5 WA1](/files/Useful%20Links/Students/Weighted%20Assessments/WA1%20Schedule%20-%20Sec5.pdf)
+* **2023 Weighted Assessment (WA2) Schedules**
+> * [Sec 1 WA2](/files/Useful%20Links/Students/Weighted%20Assessments/WA2%20Schedule%20-%20T2%20Sec%201.pdf), 
+> [Sec 2 WA2](/files/Useful%20Links/Students/Weighted%20Assessments/WA2%20Schedule%20-%20T2%20Sec%202.pdf),
+> [Sec 3 WA2](/files/Useful%20Links/Students/Weighted%20Assessments/WA2%20Schedule%20-%20T2%20Sec%203.pdf),
+> [Sec 4/5 WA2](/files/Useful%20Links/Students/Weighted%20Assessments/WA2%20Schedule%20-%20T2%20Sec%204%20and%205.pdf)
+
 * **Learning Portals**
 > * [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
 > * [ACE Learning](https://www.ace-learning.com/)

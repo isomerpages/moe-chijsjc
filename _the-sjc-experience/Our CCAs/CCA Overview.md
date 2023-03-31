@@ -4,10 +4,10 @@ permalink: /sjcexperience/ccas/
 description: ""
 third_nav_title: Our CCAs
 ---
-As a key Student Development Experience (SDE), CCA in CHIJ SJC is designed with reference to MOE’s CCE2021 centred on the three guiding principles of **_Student-Centricity_**, **_Intentionality_** and **_Coherence_** and the three main objectives of:  
+As a key Student Development Experience (SDE), CCA in CHIJ SJC is designed with reference to MOE’s CCE2021 centred on the three guiding principles of&nbsp;**_Student-Centricity_**,&nbsp;**_Intentionality_**&nbsp;and&nbsp;**_Coherence_**&nbsp;and the three main objectives of:  
 
 *   Creating a Safe, Conducive and Cohesive CCA Environment;
-*   Developing Values, SE Competencies & Citizenship Dispositions through Rigorous Training Activities; and
+*   Developing Values, SE Competencies &amp; Citizenship Dispositions through Rigorous Training Activities; and
 *   Developing passion and showcasing talents
 
 With 19 CCAs to choose from, SJCians enjoy many opportunities to perform, compete and grow in their respective fields.
@@ -86,9 +86,11 @@ With 19 CCAs to choose from, SJCians enjoy many opportunities to perform, compet
 </table>
 
 
-LEAPS 2.0 is MOE'S framework to recognise secondary school students' holistic development. Students will be recognised with levels of attainment in four domains: Participation, Achievement, Leadership and Service.
+LEAPS 2.0 is MOE'S framework to recognise secondary school students'&nbsp;holistic development. Students will be recognised with levels of attainment in four domains: Participation, Achievement, Leadership and Service.
 
 Find out more here: [LEAPS 2.0](/files/LEAPS%202/LEAPS%2020%20(Public%20Version).pdf)
 
-![](/images/CCA/CCASCHEDULE.jpg)
+![](/images/CCA/ccaschedule2.jpg)
+
+
 

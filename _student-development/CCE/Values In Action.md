@@ -18,7 +18,7 @@ Student leaders in their various CCAs or school leadership groups can also initi
 
 The SJC VIA experience forms part of the school’s Learning for Life Programme (LLP) for all our students where they have opportunity to develop empathy and critical thinking through Community Problem Solving.
 
-You can read more about LLP [here](/sjcexperience/llp/)
+You can read more about LLP [here](/sjcexperience/llp/).
 
 ![](/images/Student%20Development/Values%20In%20Action/V2.png)
 

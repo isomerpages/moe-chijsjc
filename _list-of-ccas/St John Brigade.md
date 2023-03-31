@@ -3,9 +3,6 @@ title: St John Brigade
 permalink: /stjohnbrigade/
 description: ""
 ---
-
-
-
 ![](/images/CCA/Uniformed%20Groups/St%20John%20Brigade/S1.jpg)
 
 #### **About**
@@ -92,7 +89,13 @@ We engage our CCA members with fun and enriching CCA sessions, enabling them to 
   </tr>
 </thead>
 <tbody>
-  <tr>
+    <tr>
+    <td class="tg-zr06">2022<br></td>
+    <td class="tg-zr06">Corps Achievement Award (CAA)<br></td>
+    <td class="tg-ktyi"></td>
+    <td class="tg-ktyi">Gold Award<br></td>
+  </tr>
+  <tr></tr><tr>
     <td class="tg-zr06">2020<br></td>
     <td class="tg-zr06">Corps Achievement Award (CAA)<br></td>
     <td class="tg-ktyi"></td>

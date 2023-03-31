@@ -28,7 +28,7 @@ third_nav_title: CCE
 
 You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) for more information on MOE Sexuality Education. 
 
-##### Overview of CHIJ St. Joseph's Convent's Sexuality Education Programme for 2023
+#### Overview of CHIJ St. Joseph's Convent's Sexuality Education Programme for 2023
 
 4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach) for more information on the scope of Sexuality Education in the school curriculum.
 
@@ -62,4 +62,3 @@ b. Character and Citizenship Education (CCE)
 12.  Parents who wish to opt their children out of the **_eTeens programme_** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Sexuality%20Education/Opt%20out%20form_eTeens.pdf).  The completed form is to be submitted by **16/01/2023**.
 
 13.  Parents can contact the school at [chijsjcs@moe.edu.sg](mailto:chijsjcs@moe.edu.sg) for discussion or to seek clarification about the school’s Sexuality Education programme.
-

@@ -20,13 +20,13 @@ In preparation for our students to face the rapid and continuous changes in the 
 * Future Readiness
 
 **Guiding principles for CCE 2021 implementation:**   
-* **Student-centricity:** Place students at the heart of CCE         
+* **Student-centricity:** Place students at the heart of CCE.         
 * **Intentionality:** Intentionally design and carry out CCE in and beyond the classroom, and do not leave learning to chance.    
 * **Coherence:** Students able to connect, transfer, and apply learning across different learning experiences. 
 
 ![](/images/Student%20Development/CCE/CCE%20Curriculum/C1.png)
 
-**(A) CCE Curriculum Content:** is based on the three big ideas of Identity, Relationships and Choices.it comprises the learning of core values, social-emotional competencies, and citizenship dispositions, with a focus on developing a sense of purpose in our students. The themes are woven across the following content areas: National Education (NE), Sexuality Education (SEd), Mental Health (MH), Education and Career Guidance (ECG), Cyber Wellness (CW), and Family Education (FE).  
+**(A) CCE Curriculum Content:** is based on the three big ideas of Identity, Relationships and Choices. It comprises the learning of core values, social-emotional competencies, and citizenship dispositions, with a focus on developing a sense of purpose in our students. The themes are woven across the following content areas: National Education (NE), Sexuality Education (SEd), Mental Health (MH), Education and Career Guidance (ECG), Cyber Wellness (CW), and Family Education (FE).  
 
 **(B) Enactment of CCE Curriculum:** CCE is enacted intentionally through learning platforms such as CCE lessons, key Student Development Experiences (SDEs), school-based initiatives, other subjects, and opportunities for personal application.
 

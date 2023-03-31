@@ -12,7 +12,7 @@ description: ""
 * **2023 Weighted Assessment (WA2) Schedules**
 > * [Sec 1 WA2](/files/Useful%20Links/Students/Weighted%20Assessments/WA2%20Schedule%20-%20T2%20Sec%201.pdf), 
 > [Sec 2 WA2](/files/Useful%20Links/Students/Weighted%20Assessments/WA2%20Schedule%20-%20T2%20Sec%202.pdf),
-> [Sec 3 WA2](/files/Useful%20Links/Students/Weighted%20Assessments/WA2%20Schedule%20-%20T2%20Sec%203.pdf),
+> [Sec 3 WA2](/files/Useful%20Links/Students/Weighted%20Assessments/wa2%20schedule%20-%20t2%20sec%203%20(updated).pdf),
 > [Sec 4/5 WA2](/files/Useful%20Links/Students/Weighted%20Assessments/WA2%20Schedule%20-%20T2%20Sec%204%20and%205.pdf)
 
 * **Learning Portals**

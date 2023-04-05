@@ -22,7 +22,7 @@ description: ""
 
 >   [MOE Intranet](https://intranet.moe.gov.sg/Pages/Home.aspx)  
 >  [Parent Gateway Portal](https://pg.moe.edu.sg/)  
->   [School Cockpit 2.0](http://schoolcockpit.moe.gov.sg/) (VPN)  
+>   [School Cockpit 2.0](http://schoolcockpit.moe.gov.sg/)   
 >[School IFAAS 2.0](https://ifaas2-idm.moe.gov.sg/)  
 >   [HR Online](http://intranet.moe.gov.sg/hronline/Pages/Home.aspx)  
 >   [HRP Portal](https://www.hrp.gov.sg/hrp/#/)  

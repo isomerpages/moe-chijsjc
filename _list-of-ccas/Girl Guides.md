@@ -3,9 +3,6 @@ title: Girl Guides
 permalink: /girlguides/
 description: ""
 ---
-
-
-
 ![](/images/CCA/Uniformed%20Groups/Girl%20Guides/G1.jpg)
 
 #### **About**
@@ -30,7 +27,7 @@ Our 5-point programme – Personal and Social Development, Home, Community, Outd
 *   Proficiency badge work preparations
 *   Basic First Aid Training
 *   Foot drills
-*   Outdoor cooking, Camp craft & Tent-pitching
+*   Outdoor cooking, Camp craft &amp; Tent-pitching
 *   Service Learning (Sri Narayanan Home)
 *   Annual cookies sale
 *   One-Star Kayaking course
@@ -68,7 +65,7 @@ Our 5-point programme – Personal and Social Development, Home, Community, Outd
   </tr>
   <tr>
     <td class="tg-ktyi">Teacher-in-charge<br></td>
-    <td class="tg-ktyi">Ms Vera Yuen (OIC)<br>Ms Siti Nurizzati Jamil <br>Ms Adeline Chew<br>Ms Nur Farizan Bte Abubakar</td>
+    <td class="tg-ktyi">Ms Vera Yuen (OIC)<br>Ms Siti Nurizzati Jamil <br>Ms Nur Farizan Bte Abubakar</td>
   </tr>
 </tbody>
 </table>

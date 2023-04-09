@@ -3,9 +3,6 @@ title: Sports Club
 permalink: /sportsclub/
 description: ""
 ---
-
-
-
 ![](/images/CCA/Physical%20Sports/Sports%20Club/S1.jpg)
 
 #### **About**
@@ -61,7 +58,7 @@ Through these activities, our members learn perseverance, teamwork and to give t
   </tr>
   <tr>
     <td class="tg-ktyi">Teacher-in-charge </td>
-    <td class="tg-ktyi">Mr Lim Chee Koon (IC)<br>Mdm Lim Ai Khim<br>Mr Muhammad Taufiq </td>
+    <td class="tg-ktyi">Mr Muhammad Taufiq (IC),<br>Mr Lim Chee Koon,<br>Ms Madeline Lee</td>
   </tr>
 </tbody>
 </table>

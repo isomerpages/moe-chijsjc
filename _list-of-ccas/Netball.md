@@ -3,9 +3,6 @@ title: Netball
 permalink: /netball/
 description: ""
 ---
-
-
-
 ![](/images/CCA/Physical%20Sports/Netball/N1.jpg)
 
 #### **About**
@@ -41,7 +38,7 @@ At SJC, a comprehensive values-driven Netball Programme is tailored as team memb
 |--------------------|-----------------------------------------------------------------------------------------------|
 | Schedule           | Monday: 3.45 pm to 6.00 pm  Wednesday, Friday: 3.45 pm to 6.15 pm                             |
 | Venue              | Indoor Sports Hall and Health & Fitness Room (Mon) Netball Court and Basket Court (Wed & Fri) |
-| Teacher-in-charge  | Ms Chen Huifen (IC1) Ms Tay Yea Bih (IC2) Ms Krishnakumari D/O Revindran                      |
+| Teacher-in-charge  | Ms Tay Yea Bih (IC), Ms Rachel Ang, Ms Adeline Chew    |
 
 #### **Achievements**
 

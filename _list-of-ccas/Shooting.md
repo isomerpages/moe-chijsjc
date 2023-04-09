@@ -3,9 +3,6 @@ title: Shooting
 permalink: /shooting/
 description: ""
 ---
-
-
-
 ![](/images/CCA/Physical%20Sports/Shooting/S1.jpg)
 
 #### **About**
@@ -57,7 +54,7 @@ Started in 2004, the Shooting CCA aims to
   </tr>
   <tr>
     <td class="tg-ktyi">Teacher-in-charge </td>
-    <td class="tg-ktyi">Mr Tan Thuan Hock (IC)<br>Ms Nurwidayu Binte Mohammed Zulkepli<br>Ms Noor Ashiqin</td>
+    <td class="tg-ktyi">Ms Noor Ashiqin Binte Hamis (IC),<br>Ms Nurwidayu Binte Mohammed Zulkepli</td>
   </tr>
 </tbody>
 </table>

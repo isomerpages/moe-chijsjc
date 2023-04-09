@@ -3,9 +3,6 @@ title: Pixel Playhouse
 permalink: /pixelplayhouse/
 description: ""
 ---
-
-
-
 ![](/images/CCA/Clubs%20and%20Societies/Pixel%20Playhouse/P1.jpg)
 
 #### **About**
@@ -47,8 +44,7 @@ At Pixel, we believe in being effective, organised and giving our best in all th
 | Schedule           | Monday & Wednesday, 3.45 pm to 6.15 pm                           |
 |--------------------|------------------------------------------------------------------|
 | Venue              |                         Computer Lab 3 & 4                       |
-| Teacher-in-charge  | Ms Tiffany Wee (IC) Mr Mark Chan Chee Keong  Mr Chung Sing Leong |
-
+| Teacher-in-charge  | Ms Tiffany Wee (IC), Mr Mark Chan Chee Keong, Mr Samuel Tan 
 #### **Achievements**
 
 

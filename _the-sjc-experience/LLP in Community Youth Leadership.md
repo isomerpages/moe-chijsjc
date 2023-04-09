@@ -15,7 +15,7 @@ In lower secondary, through class VIA projects, students are exposed through a c
 
 In upper secondary, students are provided with their second platform for community work as a class via their Secondary Three Camp Metamorphosis Level Camp when classes work with TOUCH community agencies. Some CCAs have also come on board over the years and set aside the time to work on community outreach as well. The graduating students also initiate and implement their own community projects.
 
-Since the inception of the LLP in 2014, issues that students have chosen to work on include environmental sustainability, care and respect for animals, youth addition to social media and social isolation. Organisations that SJCians have partnered regularly include NParks, PUB, NLB, St Luke’s Elder Care, and kindergartens and primary schools in the Sengkang, Punggol community.
+Since the inception of the LLP in 2014, issues that students have chosen to work on include environmental sustainability, care and respect for animals, youth addiction to social media and social isolation. Organisations that SJCians have partnered regularly include NParks, PUB, NLB, St Luke’s Elder Care, and kindergartens and primary schools in the Sengkang, Punggol community.
 
 Community outreach projects that have made a greater impact have also been submitted for the annual CmPS competition (Singapore Chapter).  
 

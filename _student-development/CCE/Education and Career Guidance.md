@@ -49,7 +49,7 @@ Keen to have a chat with our ECG Counsellor? Make an appointment [here](https://
     
 This is a one-stop platform to help students better understand themselves, their interests and strengths. Explore different education and career pathways, identify career goals and make informed education and career choices at&nbsp;[MySkillsFuture Portal (Sec)](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html).
 
-**Post-secondary Education Resource**
+**Post-secondary Education Resources**
 
 ![](/images/Student%20Development/Education%20and%20Career%20Guidance/E5.jpg)
 (Extracted from MOE's Post-Secondary Education Resource)

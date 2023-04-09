@@ -3,9 +3,6 @@ title: Table Tennis
 permalink: /tabletennis/
 description: ""
 ---
-
-
-
 ![](/images/CCA/Physical%20Sports/Table%20Tennis/T1.jpg)
 
 #### **About**
@@ -56,7 +53,7 @@ In SJC, the training sessions are designed to develop mental acuity in students.
   </tr>
   <tr>
     <td class="tg-ktyi">Teacher-in-charge<br></td>
-    <td class="tg-ktyi">Ms Lim Siew Chun (IC)<br>Mr Dino Soh Yi Hao</td>
+    <td class="tg-ktyi">Ms Lim Siew Chun (IC),<br>Mr Dino Soh Yi Hao,<br> Mr Yau Ming Chin</td>
   </tr>
 </tbody>
 </table>

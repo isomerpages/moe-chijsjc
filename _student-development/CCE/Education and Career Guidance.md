@@ -58,7 +58,7 @@ Post-secondary education comprises the paths you can take after you complete you
 
 You can also read more about how the diverse and flexible pathways in  Singapore’s education system opened up possibilities to individuals across different courses and industries in the publication&nbsp;[The Next Step Forward](https://www.moe.gov.sg/-/media/files/programmes/ecg/moe_the_next_step_forward.ashx?la=en&amp;hash=861D380E656F90365A6CB50CB53383232AEF1972).
 
-This publication illustrates how our diverse and flexible pathways opened up possibilities to 54 individuals across different courses and industries. Read more about them and their pathways as you take THE NEXT STEP FORWARD.
+This publication illustrates how our diverse and flexible pathways opened up possibilities to 54 individuals across different courses and industries. Read more about them and their pathways as you take the next step forward.
 
 Explore courses based on aggregate type, score, type of institute and area of interest&nbsp;[here](https://www.moe.gov.sg/coursefinder). Find out more about the different admissions exercises and programmes available to help you gain entry into a junior college, Millennia Institute, polytechnic or ITE&nbsp;[here](https://www.moe.gov.sg/post-secondary/admissions). The Post-Secondary Admissions Exercises booklet can be downloaded&nbsp;[here](https://www.moe.gov.sg/-/media/files/post-secondary/a-guide-to-post-secondary-admissions-exercises.ashx?la=en&amp;hash=F15DCC9D15010CE2A19C4FD41802811F331C7881).
 

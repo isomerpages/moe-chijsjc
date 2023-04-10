@@ -3,9 +3,6 @@ title: Volleyball
 permalink: /volleyball/
 description: ""
 ---
-
-
-
 ![](/images/CCA/Physical%20Sports/Volleyball/V1.jpg)
 
 #### **About**
@@ -51,7 +48,7 @@ In SJC Volleyball, the players’ commitment to the rigorous training strengthen
   </tr>
   <tr>
     <td class="tg-ktyi">Teacher-in-charge<br></td>
-    <td class="tg-ktyi">Mr Law Gin Lieng (IC)<br>Ms Nurul Adilah Aizet Binte Mohd Ayub<br>Mr Marcus Aw</td>
+    <td class="tg-ktyi">Mr Law Gin Lieng (IC),<br>Ms Nurul Adilah Aizet Binte Mohd Ayub,<br>Mrs Susie Lee</td>
   </tr>
 </tbody>
 </table>

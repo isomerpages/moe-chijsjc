@@ -61,7 +61,7 @@ We engage our CCA members with fun and enriching CCA sessions, enabling them to 
   </tr>
   <tr>
     <td class="tg-ktyi">Teacher-in-charge</td>
-    <td class="tg-ktyi">Mr Teo Wee Seng (OIC)<br>Ms Jean Lim Le Hui (IC2)<br>Ms Rachel Ang<br>Ms Elise Lim</td>
+    <td class="tg-ktyi">Mr Teo Wee Seng (IC),<br>Ms Jean Lim Le Hui, <br>Mdm Phoon Lai Ling,<br>Ms Raabiyathul Basariah</td>
   </tr>
 </tbody>
 </table>

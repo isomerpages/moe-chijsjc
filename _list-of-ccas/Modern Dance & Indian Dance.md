@@ -1,17 +1,14 @@
 ---
-title: Modern Dance & Indian Dance
+title: Modern Dance &amp; Indian Dance
 permalink: /dance/
 description: ""
 ---
-
-
-
 **Please note that Indian Dance will not be taking in Sec 1 students from 2023**
 
 #### **Dance Ensemble – Indian**
 
 
-![](/images/CCA/Visual%20&%20Performing%20Arts/Modern%20Dance%20&%20Indian%20Dance/M1.png)
+![](/images/CCA/Visual%20&amp;%20Performing%20Arts/Modern%20Dance%20&amp;%20Indian%20Dance/M1.png)
 
 #### **About**
 
@@ -49,7 +46,7 @@ Life as a Modern or Indian dancer in SJC’s Dance Ensemble is always filled wit
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="background-color:initial">Teacher-in-charge</span><br><span style="background-color:initial">Indian Dance</span></td>
-    <td class="tg-ktyi">Mrs Raja Vijayamalini (IC)</td>
+    <td class="tg-ktyi">Mrs Geetha Singarajan (IC)</td>
   </tr>
 </tbody>
 </table>

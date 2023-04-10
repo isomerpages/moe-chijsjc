@@ -3,10 +3,7 @@ title: Handbell Ensemble
 permalink: /handbell/
 description: ""
 ---
-
-
-
-![](/images/CCA/Visual%20&%20Performing%20Arts/Handbell%20Ensemble/H1.jpg)
+![](/images/CCA/Visual%20&amp;%20Performing%20Arts/Handbell%20Ensemble/H1.jpg)
 
 #### **About**
 
@@ -49,7 +46,7 @@ As members ring their assigned bells to make beautiful music together, they lear
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Teacher-in-charge</span></td>
-    <td class="tg-ktyi">Mrs Ng Peck Hoon (IC1)<br>Ms Amelia Huang <br>Mdm Phoon Lai Ling</td>
+    <td class="tg-ktyi">Mrs Ng Peck Hoon (IC1),<br>Ms Amelia Huang</td>
   </tr>
 </tbody>
 </table>
@@ -155,4 +152,4 @@ As members ring their assigned bells to make beautiful music together, they lear
 </table>
 
   
-![](/images/CCA/Visual%20&%20Performing%20Arts/Handbell%20Ensemble/H2.jpg)
+![](/images/CCA/Visual%20&amp;%20Performing%20Arts/Handbell%20Ensemble/H2.jpg)

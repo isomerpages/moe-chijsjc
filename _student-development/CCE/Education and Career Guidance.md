@@ -38,9 +38,9 @@ Students learned knowledge and skills through hands-on sessions during the Appli
 
 ECG Counselling is available for groups or individual students. Parents are also invited to join in the discussion with their child so that they can support their child in making a more informed decision about their future pathways.
 
-Keen to have a chat with our ECG Counsellor? Make an appointment [here](https://go.gov.sg/sjcecg)
+Keen to have a chat with our ECG Counsellor? Make an appointment [here](https://go.gov.sg/sjcecg).
 
-![](/images/Student%20Development/Education%20and%20Career%20Guidance/ECG2.png)
+![](/images/Student%20Development/Education%20and%20Career%20Guidance/ecgposter.png)
 
   
 ##### **ECG RESOURCES**
@@ -169,7 +169,3 @@ Explore courses based on aggregate type, score, type of institute and area of in
 **Resources for Parents**
 
 Parents are&nbsp;one&nbsp;of the key decision influencers in their daughters’ education and career aspirations. Find out more about how you can do so in the ECG Guide for parents - [Journeying with our Children, Supporting their Aspirations](https://www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.ashx)
-
-
-
-

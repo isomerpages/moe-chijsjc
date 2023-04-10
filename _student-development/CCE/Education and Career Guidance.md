@@ -40,7 +40,7 @@ ECG Counselling is available for groups or individual students. Parents are also
 
 Keen to have a chat with our ECG Counsellor? Make an appointment [here](https://go.gov.sg/sjcecg).
 
-![](/images/Student%20Development/Education%20and%20Career%20Guidance/ECG2.png)
+![]![ecgposter](/images/Student%20Development/Education%20and%20Career%20Guidance/ecgposter.png)
 
   
 ##### **ECG RESOURCES**

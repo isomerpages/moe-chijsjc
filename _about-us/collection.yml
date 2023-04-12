@@ -2,10 +2,10 @@ collections:
   about-us:
     output: true
     order:
-      - Our IJ Heritage/School Crest & Mission.md
       - Our IJ Heritage/.keep
       - Our IJ Heritage/Our Founder & Patron.md
       - Our IJ Heritage/IJ Board of Management.md
+      - Our IJ Heritage/School Crest & Mission.md
       - SJC Identity/.keep
       - SJC Identity/Vision, Mission & Values.md
       - SJC Identity/School History.md

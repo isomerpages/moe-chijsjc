@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our IJ Heritage/School Crest & Mission.md
       - Our IJ Heritage/.keep
       - Our IJ Heritage/Our Founder & Patron.md
       - Our IJ Heritage/IJ Board of Management.md

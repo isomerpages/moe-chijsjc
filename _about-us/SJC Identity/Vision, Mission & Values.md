@@ -8,10 +8,6 @@ third_nav_title: SJC Identity
 
 Women of Integrity with the Passion to Pursue Excellence
 
-#### **Our Mission**
-
-The mission of an Infant Jesus Convent is the creation of a Christ-centred school community where all work together for the promotion of truth, justice, freedom and love, with special reference to the needs of persons who are disadvantaged in any way.
-
 #### **Our Motto**
 
 Simple in Virtue, Steadfast in Duty

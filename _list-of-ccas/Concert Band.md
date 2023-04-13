@@ -3,10 +3,7 @@ title: Concert Band
 permalink: /concertband/
 description: ""
 ---
-
-
-
-![](/images/CCA/Visual%20&%20Performing%20Arts/Concert%20Band/C1.jpg)
+![](/images/CCA/Visual%20&amp;%20Performing%20Arts/Concert%20Band/C1.jpg)
 
 #### **About**
 
@@ -60,7 +57,7 @@ Students should
   </tr>
   <tr>
     <td class="tg-ktyi">Teacher-in-charge<br></td>
-    <td class="tg-ktyi">Mrs Jasmine Law-Spain (IC1) <br>Mr Samuel Tan Shen Yong (IC2)<br>Ms Gangka D/O Perissamy<br>Tang Zhi Ming</td>
+    <td class="tg-ktyi">Mrs Jasmine Law-Spain (IC1) <br>Ms Adeline Ng<br>Ms Gangka D/O Perissamy</td>
   </tr>
 </tbody>
 </table>
@@ -175,4 +172,4 @@ Students should
 </tbody>
 </table>
 
-![](/images/CCA/Visual%20&%20Performing%20Arts/Concert%20Band/C2.jpg)
+![](/images/CCA/Visual%20&amp;%20Performing%20Arts/Concert%20Band/C2.jpg)

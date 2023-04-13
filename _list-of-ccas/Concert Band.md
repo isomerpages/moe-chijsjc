@@ -57,7 +57,7 @@ Students should
   </tr>
   <tr>
     <td class="tg-ktyi">Teacher-in-charge<br></td>
-    <td class="tg-ktyi">Mrs Jasmine Law-Spain (IC1) <br>Ms Adeline Ng<br>Ms Gangka D/O Perissamy</td>
+    <td class="tg-ktyi">Mrs Jasmine Law-Spain (IC), <br>Ms Adeline Ng<br>Ms Gangka D/O Perissamy</td>
   </tr>
 </tbody>
 </table>

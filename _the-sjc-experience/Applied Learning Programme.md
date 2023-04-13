@@ -1,5 +1,5 @@
 ---
-title: ALP in Theatre and Debates
+title: Applied Learning Programme
 permalink: /sjcexperience/alp/
 description: ""
 ---

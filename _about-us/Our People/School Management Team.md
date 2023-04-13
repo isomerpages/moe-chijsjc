@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our People
 ---
 #### **SCHOOL LEADERS**
-![](/images/About%20us/Our%20People/School%20Management%20Team/SLs3.jpg)
+![](/images/About%20us/Our%20People/School%20Management%20Team/slsphoto4.jpg)
 
 #### **HEADS OF DEPARTMENT**
 ![](/images/About%20us/Our%20People/School%20Management%20Team/HODs3.jpg)

@@ -1,5 +1,5 @@
 ---
-title: LLP in Community Youth Leadership
+title: Learning for Life Programme
 permalink: /sjcexperience/llp/
 description: ""
 ---

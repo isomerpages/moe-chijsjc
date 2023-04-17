@@ -10,4 +10,4 @@ Please refer to the file below for the latest information for DSA into CHIJ St. 
 
 [CHIJ SJC DSA Exercise 2023](/files/Resources/Announcements/chij%20st%20josephs%20convent%20dsa%20exercise%202023.pdf)
 
-You may reach out to us at chijsjcs@moe.edu.sg if you have any questions on the DSA process. 
+You may reach out to us at chijsjcs@moe.edu.sg if you have any questions on the DSA process.

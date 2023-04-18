@@ -6,3 +6,11 @@ layout: post
 description: ""
 image: ""
 ---
+Dear P6 Students and Parents,
+
+Please refer to the file below for the latest information for DSA into CHIJ St. Joseph's Convent Secondary 1 cohort of 2024.
+
+
+
+You may reach out to us at chijsjc@moe.edu.sg if you have any questions on the DSA process.
+Thank you

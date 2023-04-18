@@ -14,3 +14,5 @@ Please refer to the file below for the latest information for DSA into CHIJ St. 
 
 You may reach out to us at chijsjc@moe.edu.sg if you have any questions on the DSA process.
 Thank you
+
+[CHIJ SJC DSA Exercise 2023](/files/Resources/Announcements/CHIJ%20SJC%20DSA%20Exercise%202023.pdf)

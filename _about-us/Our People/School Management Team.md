@@ -42,7 +42,7 @@ third_nav_title: Our People
   mso-border-top-alt:solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;
   padding:3.6pt 7.2pt 3.6pt 7.2pt;height:29.2pt"><p class="MsoNormal">HOD/ Aesthetics</p></td></tr><tr style="mso-yfti-irow:6;height:29.2pt"><td width="284" valign="top" style="width:213.0pt;border:solid white 1.0pt;
   border-top:none;mso-border-top-alt:solid white 1.0pt;padding:3.6pt 7.2pt 3.6pt 7.2pt;
-  height:29.2pt"><p class="MsoNormal">Mr Goh Chi-Yuan Harold<br><a href="mailto:goh_chi-yuan_harold@moe.edu.sg">goh_chi-yuan_harold@moe.edu.sg</a></p></td><td width="284" valign="top" style="width:213.0pt;border-top:none;border-left:
+  height:29.2pt"><p class="MsoNormal">Mr Goh Chi-Yuan Harold<br><a href="goh_chi-yuan_harold@moe.edu.sg">goh_chi-yuan_harold@moe.edu.sg</a></p></td><td width="284" valign="top" style="width:213.0pt;border-top:none;border-left:
   none;border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;
   mso-border-top-alt:solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;
   padding:3.6pt 7.2pt 3.6pt 7.2pt;height:29.2pt"><p class="MsoNormal">HOD/ Character &amp; Citizenship Education</p></td></tr><tr style="mso-yfti-irow:7;height:29.2pt"><td width="284" valign="top" style="width:213.0pt;border:solid white 1.0pt;

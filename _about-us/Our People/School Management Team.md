@@ -8,7 +8,6 @@ third_nav_title: Our People
 ![](/images/About%20us/Our%20People/School%20Management%20Team/slsphoto4.jpg)
 
 #### **HEADS OF DEPARTMENT**
-![](/images/About%20us/Our%20People/School%20Management%20Team/HODs3.jpg)
 | Name | Designation |  
 | -------- | -------- | 
 | Mdm Karen Chen     | HOD/English & Literature     

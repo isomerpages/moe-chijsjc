@@ -76,7 +76,8 @@ third_nav_title: Our People
   border-bottom:solid white 3.0pt;padding:3.6pt 7.2pt 3.6pt 7.2pt;height:23.8pt" valign="top" width="284"><p class="MsoNormal"><b><span style="mso-ansi-language:EN-SG" lang="EN-SG">Name</span></b></p></td><td style="width:213.0pt;border-top:solid white 1.0pt;
   border-left:none;border-bottom:solid white 3.0pt;border-right:solid white 1.0pt;
   mso-border-left-alt:solid white 1.0pt;padding:3.6pt 7.2pt 3.6pt 7.2pt;
-  height:23.8pt" valign="top" width="284"><p class="MsoNormal"><b><span style="mso-ansi-language:EN-SG" lang="EN-SG">Designation</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:29.2pt"><td style="width:213.0pt;border:solid white 1.0pt;
+  height:23.8pt" valign="top" width="284"><p class="MsoNormal"><b><span style="mso-ansi-language:EN-SG" lang="EN-SG">Designation</span></b></p></td></tr>
+	<tr style="mso-yfti-irow:1;height:29.2pt"><td style="width:213.0pt;border:solid white 1.0pt;
   border-top:none;mso-border-top-alt:solid white 3.0pt;padding:3.6pt 7.2pt 3.6pt 7.2pt;
   height:29.2pt" valign="top" width="284"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">Mr Leow Xiang Poo<br><a href="mailto:leow_xiang_poo@moe.edu.sg">leow_xiang_poo@moe.edu.sg</a></span></p></td><td style="width:213.0pt;border-top:none;border-left:
   none;border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;
@@ -85,20 +86,20 @@ third_nav_title: Our People
   border-top:none;mso-border-top-alt:solid white 1.0pt;padding:3.6pt 7.2pt 3.6pt 7.2pt;
   height:29.2pt" valign="top" width="284"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">Ms Melissa Neo</span></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><a href="neo_hui_ning@moe.edu.sg">neo_hui_ning@moe.edu.sg</a></p></td><td style="width:213.0pt;border-top:none;border-left:
   none;border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;
-  mso-border-top-alt:solid white 3.0pt;mso-border-left-alt:solid white 1.0pt;
-  padding:3.6pt 7.2pt 3.6pt 7.2pt;height:29.2pt" valign="top" width="284"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">SH/ English Literature (Covering)</span></p></td></tr><tr style="mso-yfti-irow:2;height:29.2pt"><td style="width:213.0pt;border:solid white 1.0pt;
+  mso-border-top-alt:solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;
+  padding:3.6pt 7.2pt 3.6pt 7.2pt;height:29.2pt" valign="top" width="284"><p class="MsoNormal">SH/ English Literature (Covering)</p></td></tr><tr style="mso-yfti-irow:2;height:29.2pt"><td style="width:213.0pt;border:solid white 1.0pt;
   border-top:none;mso-border-top-alt:solid white 1.0pt;padding:3.6pt 7.2pt 3.6pt 7.2pt;
   height:29.2pt" valign="top" width="284"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">Mrs Soh Ming Kiat</span></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><a href="lim_ming_kiat@moe.edu.sg">lim_ming_kiat@moe.edu.sg</a></p></td><td style="width:213.0pt;border-top:none;border-left:
   none;border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;
-  mso-border-top-alt:solid white 3.0pt;mso-border-left-alt:solid white 1.0pt;
-  padding:3.6pt 7.2pt 3.6pt 7.2pt;height:29.2pt" valign="top" width="284"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">SH/ Mathematics</span></p></td></tr><tr style="mso-yfti-irow:2;height:29.2pt"><td style="width:213.0pt;border:solid white 1.0pt;
+  mso-border-top-alt:solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;
+  padding:3.6pt 7.2pt 3.6pt 7.2pt;height:29.2pt" valign="top" width="284"><p class="MsoNormal">SH/ Mathematics</p></td></tr><tr style="mso-yfti-irow:10;mso-yfti-lastrow:yes;height:29.2pt"><td style="width:213.0pt;border:solid white 1.0pt;
   border-top:none;mso-border-top-alt:solid white 1.0pt;padding:3.6pt 7.2pt 3.6pt 7.2pt;
-  height:29.2pt" valign="top" width="284"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">Ms Goh Hong Yi</span></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><a href="goh_hong_yi@moe.edu.sg">goh_hong_yi@moe.edu.sg</a></p></td><td style="width:213.0pt;border-top:none;border-left:
+  height:29.2pt" valign="top" width="284"><p class="MsoNormal">Ms Goh Hong Yi</p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><a href="goh_hong_yi@moe.edu.sg">goh_hong_yi@moe.edu.sg</a></p></td><td style="width:213.0pt;border-top:none;border-left:
   none;border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;
   mso-border-top-alt:solid white 3.0pt;mso-border-left-alt:solid white 1.0pt;
-  padding:3.6pt 7.2pt 3.6pt 7.2pt;height:29.2pt" valign="top" width="284"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">SH/ Humanities</span></p></td></tr><tr style="mso-yfti-irow:2;height:29.2pt"><td style="width:213.0pt;border:solid white 1.0pt;
+  padding:3.6pt 7.2pt 3.6pt 7.2pt;height:29.2pt" valign="top" width="284"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">SH/ Humanities</span></p></td></tr><tr style="mso-yfti-irow:10;mso-yfti-lastrow:yes;height:29.2pt"><td style="width:213.0pt;border:solid white 1.0pt;
   border-top:none;mso-border-top-alt:solid white 1.0pt;padding:3.6pt 7.2pt 3.6pt 7.2pt;
-  height:29.2pt" valign="top" width="284"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">Ms Siti Nurizzati Bte Jamil</span></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><a href="siti_nurizzati_jamil@moe.edu.sg">siti_nurizzati_jamil@moe.edu.sg</a></p></td><td style="width:213.0pt;border-top:none;border-left:
+  height:29.2pt" valign="top" width="284"><p class="MsoNormal">Ms Siti Nurizzati Bte Jamil</p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><a href="siti_nurizzati_jamil@moe.edu.sg">siti_nurizzati_jamil@moe.edu.sg</a></p></td><td style="width:213.0pt;border-top:none;border-left:
   none;border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;
   mso-border-top-alt:solid white 3.0pt;mso-border-left-alt:solid white 1.0pt;
   padding:3.6pt 7.2pt 3.6pt 7.2pt;height:29.2pt" valign="top" width="284"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">SH/ Chemistry (Covering)</span></p></td></tr><tr style="mso-yfti-irow:2;height:29.2pt"><td style="width:213.0pt;border:solid white 1.0pt;

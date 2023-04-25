@@ -8,8 +8,6 @@ third_nav_title: Our People
 ![](/images/About%20us/Our%20People/School%20Management%20Team/slsphoto4.jpg)
 
 #### **HEADS OF DEPARTMENT**
-![](/images/About%20us/Our%20People/School%20Management%20Team/HODs3.jpg) 
-
 <table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="569" style="width:427.0pt;border-collapse:collapse;mso-yfti-tbllook:1056;
  mso-padding-alt:0cm 0cm 0cm 0cm"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:23.8pt"><td width="284" valign="top" style="width:213.0pt;border:solid white 1.0pt;
   border-bottom:solid white 3.0pt;padding:3.6pt 7.2pt 3.6pt 7.2pt;height:23.8pt"><p class="MsoNormal"><b><span lang="EN-SG" style="mso-ansi-language:EN-SG">Name</span></b></p></td><td width="284" valign="top" style="width:213.0pt;border-top:solid white 1.0pt;

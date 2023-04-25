@@ -69,14 +69,14 @@ third_nav_title: Our People
 
 ##### **SUBJECT HEADS (SH) / LEVEL HEADS (LH) / ASSISTANT YEAR HEADS (AYH)**
 
-<table style="width:427.0pt;border-collapse:collapse;mso-yfti-tbllook:1056;
- mso-padding-alt:0cm 0cm 0cm 0cm" width="569" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:23.8pt"><td style="width:213.0pt;border:solid white 1.0pt;
+<table style="width:510pt;border-collapse:collapse;mso-yfti-tbllook:1056;
+ mso-padding-alt:0cm 0cm 0cm 0cm" width="570" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:23.8pt"><td style="width:213.0pt;border:solid white 1.0pt;
   border-bottom:solid white 3.0pt;padding:3.6pt 7.2pt 3.6pt 7.2pt;height:23.8pt" valign="top" width="284"><p class="MsoNormal"><b><span style="mso-ansi-language:EN-SG" lang="EN-SG">Name</span></b></p></td><td style="width:213.0pt;border-top:solid white 1.0pt;
   border-left:none;border-bottom:solid white 3.0pt;border-right:solid white 1.0pt;
   mso-border-left-alt:solid white 1.0pt;padding:3.6pt 7.2pt 3.6pt 7.2pt;
-  height:23.8pt" valign="top" width="284"><p class="MsoNormal"><b><span style="mso-ansi-language:EN-SG" lang="EN-SG">Designation</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:29.2pt"><td style="width:213.0pt;border:solid white 1.0pt;
+  height:23.8pt" valign="top" width="500"><p class="MsoNormal"><b><span style="mso-ansi-language:EN-SG" lang="EN-SG">Designation</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:29.2pt"><td style="width:213.0pt;border:solid white 1.0pt;
   border-top:none;mso-border-top-alt:solid white 3.0pt;padding:3.6pt 7.2pt 3.6pt 7.2pt;
-  height:29.2pt" valign="top" width="284"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">Mr Leow Xiang Poo<br><a href="leow_xiang_poo@moe.edu.sg">leow_xiang_poo@moe.edu.sg</a></span></p></td><td style="width:213.0pt;border-top:none;border-left:
+  height:29.2pt" valign="top" width="300"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">Mr Leow Xiang Poo<br><a href="leow_xiang_poo@moe.edu.sg">leow_xiang_poo@moe.edu.sg</a></span></p></td><td style="width:213.0pt;border-top:none;border-left:
   none;border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;
   mso-border-top-alt:solid white 3.0pt;mso-border-left-alt:solid white 1.0pt;
   padding:3.6pt 7.2pt 3.6pt 7.2pt;height:29.2pt" valign="top" width="284"><p class="MsoNormal"><span style="mso-ansi-language:EN-SG" lang="EN-SG">SH/ Chinese Language</span></p></td></tr><tr style="mso-yfti-irow:2;height:29.2pt"><td style="width:213.0pt;border:solid white 1.0pt;

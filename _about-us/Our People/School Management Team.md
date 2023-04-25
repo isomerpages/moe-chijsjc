@@ -8,7 +8,7 @@ third_nav_title: Our People
 ![](/images/About%20us/Our%20People/School%20Management%20Team/slsphoto4.jpg)
 
 #### **HEADS OF DEPARTMENT**
-<table style="width:500pt;border-collapse:collapse;mso-yfti-tbllook:1056;
+<table style="width:510pt;border-collapse:collapse;mso-yfti-tbllook:1056;
  mso-padding-alt:0cm 0cm 0cm 0cm" width="569" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:30pt"><td style="width:213.0pt;border:solid white 1.0pt;
   border-bottom:solid white 1.0pt;padding:3.6pt 7.2pt 3.6pt 7.2pt;height:30pt" valign="top" width="284"><p class="MsoNormal"><b><span style="mso-ansi-language:EN-SG" lang="EN-SG">Name</span></b></p></td><td style="width:213.0pt;border-top:solid white 1.0pt;
   border-left:none;border-bottom:solid white 1.0pt;border-right:solid 1.0pt;

@@ -6,3 +6,10 @@ layout: post
 description: ""
 image: ""
 ---
+Dear SJCians and Parents/ Guardians,
+
+Sec 3 Subject Combination 2024 provides students with opportunities to choose subject combination based on academic merit and interest in subjects offered. We have placed the information about Sec 3 Subject Combination 2024 in a Sec 3 Subject Combination 2024 Microsite. This microsite will be a one-stop information page that you may refer to till the end of this year. The microsite includes the list of subject combinations offered in each stream, the eligibility criteria for different subject combinations, post-secondary education pathways and the timeline for Subject Allocation Exercise.
+
+You may access the [link](https://sites.google.com/view/sec-2-subject-combination/home?authuser=0) to find out more.
+
+Thank you.

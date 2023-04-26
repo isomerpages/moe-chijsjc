@@ -15,7 +15,7 @@ third_nav_title: Our People
   font-family:Calibri;mso-ascii-font-family:Calibri;color:black;mso-color-index:
   1;mso-font-kerning:12.0pt;language:en-US;font-weight:bold;mso-style-textfill-type:
   solid;mso-style-textfill-fill-themecolor:text1;mso-style-textfill-fill-color:
-  black;mso-style-textfill-fill-alpha:100.0%"><img src="/images/About%20us/Our%20People/School%20Management%20Team/school%20leaders.jpg"></span></p></td></tr><tr height="112" style="mso-height-source:userset;height:55.75pt"><td height="112" class="oa1" width="268" style="height:55.75pt;width:134pt"><p style="language:en-US;line-height:107%;margin-top:0pt;margin-bottom:8.0pt;
+  black;mso-style-textfill-fill-alpha:100.0%"><img src="/images/About%20us/Our%20People/School%20Management%20Team/school%20leaders%201.jpg"></span></p></td></tr><tr height="112" style="mso-height-source:userset;height:55.75pt"><td height="112" class="oa1" width="268" style="height:55.75pt;width:134pt"><p style="language:en-US;line-height:107%;margin-top:0pt;margin-bottom:8.0pt;
   margin-left:0in;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:
   none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:10.0pt;
   font-family:Calibri;mso-ascii-font-family:Calibri;color:#2E75B6;mso-color-index:

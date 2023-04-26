@@ -17,27 +17,27 @@ third_nav_title: Our People
   solid;mso-style-textfill-fill-themecolor:text1;mso-style-textfill-fill-color:
   black;mso-style-textfill-fill-alpha:100.0%"><img src="/images/About%20us/Our%20People/School%20Management%20Team/school_leaders_1.jpg"></span></p></td></tr><tr height="112" style="mso-height-source:userset;height:55.75pt"><td height="112" class="oa1" width="268" style="height:55.75pt;width:134pt"><p style="language:en-US;line-height:107%;margin-top:0pt;margin-bottom:8.0pt;
   margin-left:0in;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:
-  none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:10.0pt;
+  none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:12.0pt;
   font-family:Calibri;mso-ascii-font-family:Calibri;color:#2E75B6;mso-color-index:
   8;mso-font-kerning:12.0pt;language:en-US;font-weight:bold;mso-style-textfill-type:
   solid;mso-style-textfill-fill-themecolor:accent5;mso-style-textfill-fill-color:
   #2E75B6;mso-style-textfill-fill-alpha:100.0%;mso-style-textfill-fill-colortransforms:
-  lumm=75000">MRS VALERIE PINTO</span><span style="font-size:10.0pt;font-family:
+  lumm=75000">MRS VALERIE PINTO</span><span style="font-size:12.0pt;font-family:
   Calibri;mso-ascii-font-family:Calibri;color:black;mso-color-index:1;
   mso-font-kerning:12.0pt;language:en-US;font-weight:bold;mso-style-textfill-type:
   solid;mso-style-textfill-fill-themecolor:text1;mso-style-textfill-fill-color:
-  black;mso-style-textfill-fill-alpha:100.0%"><br></span><span style="font-size:10.0pt;font-family:Calibri;mso-ascii-font-family:
+  black;mso-style-textfill-fill-alpha:100.0%"><br></span><span style="font-size:12.0pt;font-family:Calibri;mso-ascii-font-family:
   Calibri;color:black;mso-color-index:1;mso-font-kerning:12.0pt;language:en-US;
   font-weight:bold;font-style:italic;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
   text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Principal</span></p><p style="language:en-US;line-height:107%;margin-top:0pt;margin-bottom:8.0pt;
   margin-left:0in;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:
-  none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:10.0pt;
+  none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:11.0pt;
   font-family:Calibri;mso-ascii-font-family:Calibri;color:black;mso-color-index:
   1;mso-font-kerning:12.0pt;language:en-US;font-weight:normal;font-style:normal;
   mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:text1;
   mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%"><a href="mailto:valerie_pinto@schools.gov.sg">valerie_pinto@schools.gov.sg</a></span></p></td><td class="oa1" width="279" style="width:139pt"><p style="language:en-US;line-height:107%;margin-top:0pt;margin-bottom:8.0pt;
   margin-left:0in;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:
-  none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:10.0pt;
+  none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:12.0pt;
   font-family:Calibri;mso-ascii-font-family:Calibri;color:#2E75B6;mso-color-index:
   8;mso-font-kerning:12.0pt;language:en-US;font-weight:bold;mso-style-textfill-type:
   solid;mso-style-textfill-fill-themecolor:accent5;mso-style-textfill-fill-color:
@@ -46,28 +46,28 @@ third_nav_title: Our People
   Calibri;mso-ascii-font-family:Calibri;color:black;mso-color-index:1;
   mso-font-kerning:12.0pt;language:en-US;mso-style-textfill-type:solid;
   mso-style-textfill-fill-themecolor:text1;mso-style-textfill-fill-color:black;
-  mso-style-textfill-fill-alpha:100.0%"><br></span><span style="font-size:10.0pt;font-family:Calibri;mso-ascii-font-family:
+  mso-style-textfill-fill-alpha:100.0%"><br></span><span style="font-size:12.0pt;font-family:Calibri;mso-ascii-font-family:
   Calibri;color:black;mso-color-index:1;mso-font-kerning:12.0pt;language:en-US;
   font-weight:bold;font-style:italic;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
   text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Vice-Principal</span></p><p style="language:en-US;line-height:107%;margin-top:0pt;margin-bottom:8.0pt;
   margin-left:0in;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:
-  none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:10.0pt;
+  none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:11.0pt;
   font-family:Calibri;mso-ascii-font-family:Calibri;color:black;mso-color-index:
   1;mso-font-kerning:12.0pt;language:en-US;font-weight:normal;font-style:normal;
   mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:text1;
   mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%"><a href="ho_wei_ling_a@schools.gov.sg">ho_wei_ling_a@schools.gov.sg</a></span></p></td><td class="oa1" width="312" style="width:156pt"><p style="language:en-US;line-height:107%;margin-top:0pt;margin-bottom:8.0pt;
   margin-left:0in;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:
-  none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:10.0pt;
+  none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:12.0pt;
   font-family:Calibri;mso-ascii-font-family:Calibri;color:#2E75B6;mso-color-index:
   8;mso-font-kerning:12.0pt;language:en-US;font-weight:bold;mso-style-textfill-type:
   solid;mso-style-textfill-fill-themecolor:accent5;mso-style-textfill-fill-color:
   #2E75B6;mso-style-textfill-fill-alpha:100.0%;mso-style-textfill-fill-colortransforms:
-  lumm=75000">MISS MICHELLE TAN<br></span><span style="font-size:10.0pt;font-family:Calibri;mso-ascii-font-family:
+  lumm=75000">MISS MICHELLE TAN<br></span><span style="font-size:12.0pt;font-family:Calibri;mso-ascii-font-family:
   Calibri;color:black;mso-color-index:1;mso-font-kerning:12.0pt;language:en-US;
   font-weight:bold;font-style:italic;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
   text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Vice-Principal</span></p><p style="language:en-US;line-height:107%;margin-top:0pt;margin-bottom:8.0pt;
   margin-left:0in;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:
-  none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:10.0pt;
+  none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:11.0pt;
   font-family:Calibri;mso-ascii-font-family:Calibri;color:black;mso-color-index:
   1;mso-font-kerning:12.0pt;language:en-US;font-weight:normal;font-style:normal;
   mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:text1;

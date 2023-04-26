@@ -21,7 +21,7 @@ third_nav_title: Our People
   line-height:2">1H</p></td><td width="246" style="width:184.25pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:2">Mrs Goh Boon Hong<br><a href="pey_boon_hong@moe.edu.sg">pey_boon_hong@moe.edu.sg</a></p></td><td width="321" style="width:240.95pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:2">Mrs Raabiyathul Basariah<br><a href="raabiyathul_basariah@moe.edu.sg">raabiyathul_basariah@moe.edu.sg</a></p></td></tr></tbody></table>
 
 #### **Secondary 2 Form Teachers**
-![](/images/About%20us/Our%20People/Teaching%20Staff/S2FTs.jpg)
+
 
 <table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-yfti-tbllook:1184;mso-padding-alt:
  0cm 5.4pt 0cm 5.4pt;mso-border-insideh:none;mso-border-insidev:none"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:25.5pt"><td width="56" style="width:42.3pt;padding:0cm 5.4pt 0cm 5.4pt;height:25.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;

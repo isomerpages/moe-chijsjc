@@ -7,74 +7,15 @@ third_nav_title: Our People
 #### **SCHOOL LEADERS**
 ![](/images/About%20us/Our%20People/School%20Management%20Team/slsphoto4.jpg)
 
- <table style="border-collapse:
- collapse;width:440pt;mso-yfti-tbllook:1184" width="879" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;width:134pt" width="268"> <col style="mso-width-source:userset;width:139pt" width="279"> <col style="mso-width-source:userset;width:167pt" width="333"></colgroup><tbody><tr style="mso-height-source:userset;height:123.78pt" height="248"><td style="height:123.78pt;
-  width:440pt" width="879" class="oa1" height="248" colspan="3"><p style="language:en-US;line-height:107%;margin-top:0pt;margin-bottom:8.0pt;
-  margin-left:0in;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:
-  none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:10.0pt;
-  font-family:Calibri;mso-ascii-font-family:Calibri;color:black;mso-color-index:
-  1;mso-font-kerning:12.0pt;language:en-US;font-weight:bold;mso-style-textfill-type:
-  solid;mso-style-textfill-fill-themecolor:text1;mso-style-textfill-fill-color:
-	black;mso-style-textfill-fill-alpha:100.0%"><img width="12.36cm" height="3.9cm" src="/images/About%20us/Our%20People/School%20Management%20Team/school_leaders.jpg"></span></p></td></tr><tr style="mso-height-source:userset;height:55.75pt" height="112"><td style="height:55.75pt;width:134pt" width="268" class="oa1" height="112"><p style="language:en-US;line-height:107%;margin-top:0pt;margin-bottom:8.0pt;
-  margin-left:0in;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:
-  none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:10.0pt;
-  font-family:Calibri;mso-ascii-font-family:Calibri;color:#2E75B6;mso-color-index:
-  8;mso-font-kerning:12.0pt;language:en-US;font-weight:bold;mso-style-textfill-type:
-  solid;mso-style-textfill-fill-themecolor:accent5;mso-style-textfill-fill-color:
-  #2E75B6;mso-style-textfill-fill-alpha:100.0%;mso-style-textfill-fill-colortransforms:
-  lumm=75000">MRS VALERIE PINTO</span><span style="font-size:10.0pt;font-family:
-  Calibri;mso-ascii-font-family:Calibri;color:black;mso-color-index:1;
-  mso-font-kerning:12.0pt;language:en-US;font-weight:bold;mso-style-textfill-type:
-  solid;mso-style-textfill-fill-themecolor:text1;mso-style-textfill-fill-color:
-  black;mso-style-textfill-fill-alpha:100.0%"><br></span><span style="font-size:10.0pt;font-family:Calibri;mso-ascii-font-family:
-  Calibri;color:black;mso-color-index:1;mso-font-kerning:12.0pt;language:en-US;
-  font-weight:bold;font-style:italic;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
-  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Principal</span></p><p style="language:en-US;line-height:107%;margin-top:0pt;margin-bottom:8.0pt;
-  margin-left:0in;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:
-  none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:10.0pt;
-  font-family:Calibri;mso-ascii-font-family:Calibri;color:#2E75B6;mso-color-index:
-  8;mso-font-kerning:12.0pt;language:en-US;font-weight:normal;mso-style-textfill-type:
-  solid;mso-style-textfill-fill-themecolor:accent5;mso-style-textfill-fill-color:
-  #2E75B6;mso-style-textfill-fill-alpha:100.0%;mso-style-textfill-fill-colortransforms:
-  lumm=75000"><a href="valerie_pinto@schools.gov.sg">valerie_pinto@schools.gov.sg</a></span></p></td><td style="width:139pt" width="279" class="oa1"><p style="language:en-US;line-height:107%;margin-top:0pt;margin-bottom:8.0pt;
-  margin-left:0in;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:
-  none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:10.0pt;
-  font-family:Calibri;mso-ascii-font-family:Calibri;color:#2E75B6;mso-color-index:
-  8;mso-font-kerning:12.0pt;language:en-US;font-weight:bold;mso-style-textfill-type:
-  solid;mso-style-textfill-fill-themecolor:accent5;mso-style-textfill-fill-color:
-  #2E75B6;mso-style-textfill-fill-alpha:100.0%;mso-style-textfill-fill-colortransforms:
-  lumm=75000">MISS HO WEI LING</span><span style="font-size:10.0pt;font-family:
-  Calibri;mso-ascii-font-family:Calibri;color:black;mso-color-index:1;
-  mso-font-kerning:12.0pt;language:en-US;mso-style-textfill-type:solid;
-  mso-style-textfill-fill-themecolor:text1;mso-style-textfill-fill-color:black;
-  mso-style-textfill-fill-alpha:100.0%"><br></span><span style="font-size:10.0pt;font-family:Calibri;mso-ascii-font-family:
-  Calibri;color:black;mso-color-index:1;mso-font-kerning:12.0pt;language:en-US;
-  font-weight:bold;font-style:italic;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
-  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Vice-Principal</span></p><p style="language:en-US;line-height:107%;margin-top:0pt;margin-bottom:8.0pt;
-  margin-left:0in;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:
-  none;word-break:normal;punctuation-wrap:hanging"><u style="text-underline:
-  single"><span style="font-size:10.0pt;font-family:Calibri;mso-ascii-font-family:
-  Calibri;color:#2E75B6;mso-color-index:8;mso-font-kerning:12.0pt;language:
-  en-US;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:accent5;
-  mso-style-textfill-fill-color:#2E75B6;mso-style-textfill-fill-alpha:100.0%;
-  mso-style-textfill-fill-colortransforms:lumm=75000"><a href="ho_wei_ling_a@schools.gov.sg">ho_wei_ling_a@schools.gov.sg</a></span></u></p></td><td style="width:167pt" width="333" class="oa1"><p style="language:en-US;line-height:107%;margin-top:0pt;margin-bottom:8.0pt;
-  margin-left:0in;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:
-  none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:10.0pt;
-  font-family:Calibri;mso-ascii-font-family:Calibri;color:#2E75B6;mso-color-index:
-  8;mso-font-kerning:12.0pt;language:en-US;font-weight:bold;mso-style-textfill-type:
-  solid;mso-style-textfill-fill-themecolor:accent5;mso-style-textfill-fill-color:
-  #2E75B6;mso-style-textfill-fill-alpha:100.0%;mso-style-textfill-fill-colortransforms:
-  lumm=75000">MISS MICHELLE TAN<br></span><span style="font-size:10.0pt;font-family:Calibri;mso-ascii-font-family:
-  Calibri;color:black;mso-color-index:1;mso-font-kerning:12.0pt;language:en-US;
-  font-weight:bold;font-style:italic;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:
-  text1;mso-style-textfill-fill-color:black;mso-style-textfill-fill-alpha:100.0%">Vice-Principal</span></p><p style="language:en-US;line-height:107%;margin-top:0pt;margin-bottom:8.0pt;
-  margin-left:0in;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:
-  none;word-break:normal;punctuation-wrap:hanging"><u style="text-underline:
-  single"><span style="font-size:10.0pt;font-family:Calibri;mso-ascii-font-family:
-  Calibri;color:#2E75B6;mso-color-index:8;mso-font-kerning:12.0pt;language:
-  en-US;mso-style-textfill-type:solid;mso-style-textfill-fill-themecolor:accent5;
-  mso-style-textfill-fill-color:#2E75B6;mso-style-textfill-fill-alpha:100.0%;
-  mso-style-textfill-fill-colortransforms:lumm=75000"><a href="tan_lai_yee_michelle@schools.gov.sg">tan_lai_yee_michelle@schools.gov.sg</a></span></u></p></td></tr></tbody></table>
+      
+<table style="width:365.4pt;border-collapse:collapse;border:none;mso-yfti-tbllook:
+ 1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:none;mso-border-insidev:
+ none" width="487" cellpadding="0" cellspacing="0" border="0" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:29.15pt"><td style="width:365.4pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:29.15pt" valign="top" colspan="3" width="487"><p style="margin-bottom:0cm;text-align:center;
+  line-height:normal" align="center" class="MsoNormal"><span style="font-size:8.0pt"><img src="/images/About%20us/Our%20People/School%20Management%20Team/school_leaders.jpg"></span></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:29.8pt"><td style="width:111.6pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:29.8pt" valign="top" width="149"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><b><span style="font-size:8.0pt;color:#0070C0">MRS VALERIE PINTO</span></b><b><span style="font-size:8.0pt"><br><i>Principal</i></span></b></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:8.0pt"><a href="valerie_pinto@schools.gov.sg">valerie_pinto@schools.gov.sg</a></span></p></td><td style="width:116.0pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:29.8pt" valign="top" width="155"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><b><span style="font-size:8.0pt;color:#0070C0">MISS HO WEI LING</span></b><b><span style="font-size:8.0pt"><br><i>Vice-Principal</i></span></b></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:8.0pt"><a href="ho_wei_ling_a@schools.gov.sg">ho_wei_ling_a@schools.gov.sg</a></span></p></td><td style="width:137.8pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:29.8pt" valign="top" width="184"><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><b><span style="font-size:8.0pt;color:#0070C0">MISS MICHELLE TAN</span></b><b><span style="font-size:8.0pt"><br><i>Vice-Principal</i></span></b></p><p style="margin-bottom:0cm;line-height:normal" class="MsoNormal"><span style="font-size:8.0pt"><a href="tan_lai_yee_michelle@schools.gov.sg">tan_lai_yee_michelle@schools.gov.sg</a></span></p></td></tr></tbody></table>
    
 
 #### **HEADS OF DEPARTMENT**

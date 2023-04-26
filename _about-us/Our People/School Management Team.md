@@ -15,7 +15,7 @@ third_nav_title: Our People
   font-family:Calibri;mso-ascii-font-family:Calibri;color:black;mso-color-index:
   1;mso-font-kerning:12.0pt;language:en-US;font-weight:bold;mso-style-textfill-type:
   solid;mso-style-textfill-fill-themecolor:text1;mso-style-textfill-fill-color:
-	black;mso-style-textfill-fill-alpha:100.0%"><img src=""></span></p></td></tr><tr style="mso-height-source:userset;height:55.75pt" height="112"><td style="height:55.75pt;width:134pt" width="268" class="oa1" height="112"><p style="language:en-US;line-height:107%;margin-top:0pt;margin-bottom:8.0pt;
+	black;mso-style-textfill-fill-alpha:100.0%"><img width="12.36cm" height="3.9cm" src="/images/About%20us/Our%20People/School%20Management%20Team/school_leaders.jpg"></span></p></td></tr><tr style="mso-height-source:userset;height:55.75pt" height="112"><td style="height:55.75pt;width:134pt" width="268" class="oa1" height="112"><p style="language:en-US;line-height:107%;margin-top:0pt;margin-bottom:8.0pt;
   margin-left:0in;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:
   none;word-break:normal;punctuation-wrap:hanging"><span style="font-size:10.0pt;
   font-family:Calibri;mso-ascii-font-family:Calibri;color:#2E75B6;mso-color-index:

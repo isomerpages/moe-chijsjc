@@ -7,9 +7,7 @@ third_nav_title: Our People
 #### **SCHOOL LEADERS**
 ![](/images/About%20us/Our%20People/School%20Management%20Team/slsphoto4.jpg)
 
-   <!--tr {mso-height-source:auto;} col {mso-width-source:auto;} td {padding-top:1.0px; padding-right:1.0px; padding-left:1.0px; mso-ignore:padding; color:windowtext; font-size:18.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:Arial; mso-generic-font-family:auto; mso-font-charset:0; text-align:general; vertical-align:bottom; border:none; mso-background-source:auto; mso-pattern:auto;} .oa1 {border:1.0pt solid black; vertical-align:top; padding-left:5.4pt; padding-right:5.4pt;} .oa2 {border:1.0pt solid; vertical-align:top; padding-left:5.4pt; padding-right:5.4pt;} -->
-
-<table border="0" cellpadding="0" cellspacing="0" width="858" style="border-collapse:
+ <table border="0" cellpadding="0" cellspacing="0" width="858" style="border-collapse:
  collapse;width:429pt;mso-yfti-tbllook:1184"><colgroup><col width="268" style="mso-width-source:userset;width:134pt"> <col width="279" style="mso-width-source:userset;width:139pt"> <col width="312" style="mso-width-source:userset;width:156pt"></colgroup><tbody><tr height="248" style="mso-height-source:userset;height:123.78pt"><td colspan="3" height="248" class="oa1" width="858" style="height:123.78pt;
   width:429pt"><p style="language:en-US;line-height:107%;margin-top:0pt;margin-bottom:8.0pt;
   margin-left:0in;text-align:left;direction:ltr;unicode-bidi:embed;mso-line-break-override:

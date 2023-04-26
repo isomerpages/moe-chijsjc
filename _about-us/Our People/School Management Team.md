@@ -7,17 +7,24 @@ third_nav_title: Our People
 #### **SCHOOL LEADERS**
 ![](/images/About%20us/Our%20People/School%20Management%20Team/slsphoto4.jpg)
           
-
-        
+          
 <table class="MsoTableGrid" border="0" cellspacing="0" cellpadding="0" width="487" style="width:365.4pt;border-collapse:collapse;border:none;mso-yfti-tbllook:
  1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:none;mso-border-insidev:
  none"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:29.15pt"><td width="149" valign="top" style="width:111.6pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:29.15pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:10.0pt">![](/images/About%20us/Our%20People/School%20Management%20Team/principal.jpg)</span></p></td><td width="155" valign="top" style="width:116.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:29.15pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:10.0pt">pic</span></p></td><td width="184" valign="top" style="width:137.8pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:29.15pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:10.0pt">pic</span></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:29.8pt"><td width="149" valign="top" style="width:111.6pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:29.8pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><b><span style="font-size:8.0pt;color:#0070C0">MRS VALERIE PINTO</span></b><b><span style="font-size:10.0pt"><br><i>Principal</i></span></b></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:8.0pt">valerie_pinto@schools.gov.sg</span></p></td><td width="155" valign="top" style="width:116.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:29.8pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><b><span style="font-size:10.0pt;color:#0070C0">MISS HO WEI LING</span></b><b><span style="font-size:10.0pt"><br><i>Vice-Principal</i></span></b></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:10.0pt">ho_wei_ling_a@schools.gov.sg</span></p></td><td width="184" valign="top" style="width:137.8pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:29.8pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><b><span style="font-size:10.0pt;color:#0070C0">MISS MICHELLE TAN</span></b><b><span style="font-size:10.0pt"><br><i>Vice-Principal</i></span></b></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:10.0pt">tan_lai_yee_michelle@schools.gov.sg</span></p></td></tr></tbody></table>
+  height:29.15pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
+  line-height:normal"><span style="font-size:8.0pt;mso-no-proof:yes"><img width="122" height="149" src="![](/images/About%20us/Our%20People/School%20Management%20Team/principal.jpg)"></span><span style="font-size:8.0pt"></span></p></td><td width="155" valign="top" style="width:116.0pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:29.15pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
+  line-height:normal"><span style="font-size:8.0pt;mso-no-proof:yes"><img width="121" height="149" alt="A person smiling for the camera
+
+Description automatically generated with medium confidence"></span><span style="font-size:10.0pt"></span></p></td><td width="184" valign="top" style="width:137.8pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:29.15pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
+  line-height:normal"><span style="font-size:8.0pt;mso-no-proof:yes"><img width="117" height="149" alt="A picture containing person, smiling, indoor, posing
+
+Description automatically generated"></span><span style="font-size:8.0pt"></span></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:29.8pt"><td width="149" valign="top" style="width:111.6pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:29.8pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><b><span style="font-size:10.0pt;color:#0070C0">MRS VALERIE PINTO</span></b><b><span style="font-size:8.0pt"><br><i>Principal</i></span></b></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:10.0pt">valerie_pinto@schools.gov.sg</span></p></td><td width="155" valign="top" style="width:116.0pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:29.8pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><b><span style="font-size:10.0pt;color:#0070C0">MISS HO WEI LING</span></b><b><span style="font-size:8.0pt"><br><i>Vice-Principal</i></span></b></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:8.0pt">ho_wei_ling_a@schools.gov.sg</span></p></td><td width="184" valign="top" style="width:137.8pt;padding:0cm 5.4pt 0cm 5.4pt;
+  height:29.8pt"><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><b><span style="font-size:8.0pt;color:#0070C0">MISS MICHELLE TAN</span></b><b><span style="font-size:8.0pt"><br><i>Vice-Principal</i></span></b></p><p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span style="font-size:8.0pt">tan_lai_yee_michelle@schools.gov.sg</span></p></td></tr></tbody></table>
+   
 
 #### **HEADS OF DEPARTMENT**
 <table style="width:510pt;border-collapse:collapse;mso-yfti-tbllook:1056;

@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Our People
 ---
 #### **SCHOOL LEADERS**
-![](/images/About%20us/Our%20People/School%20Management%20Team/slsphoto4.jpg)
 
  <table border="0" cellpadding="0" cellspacing="0" width="858" style="border-collapse:
  collapse;width:429pt;mso-yfti-tbllook:1184"><colgroup><col width="268" style="mso-width-source:userset;width:134pt"> <col width="279" style="mso-width-source:userset;width:139pt"> <col width="312" style="mso-width-source:userset;width:156pt"></colgroup><tbody><tr height="248" style="mso-height-source:userset;height:123.78pt"><td colspan="3" height="248" class="oa1" width="858" style="height:123.78pt;

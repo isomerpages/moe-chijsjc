@@ -3,6 +3,4 @@ title: School Calendar
 permalink: /sjc-calendar/
 description: ""
 ---
-![](/images/School%20Calendar/March23b.png)
-
-![](/images/School%20Calendar/Apr23.png)
+![](/images/School%20Calendar/may%20calendar%20(sch%20website).png)

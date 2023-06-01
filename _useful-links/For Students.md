@@ -9,11 +9,13 @@ description: ""
 > [Sec 2 Classes](/files/Useful%20Links/Students/Timetables/Secondary%202%20Timetable%20Sem%201%202023.pdf),
 > [Sec 3 Classes](/files/Useful%20Links/Students/Timetables/Secondary%203%20Timetable%20Sem%201%202023.pdf),
 > [Sec 4/5 Classes](/files/Useful%20Links/Students/Timetables/Secondary%2045%20Timetable%20Sem%201%202023.pdf)
-* **2023 Weighted Assessment (WA2) Schedules**
-> * [Sec 1 WA2](/files/Useful%20Links/Students/Weighted%20Assessments/WA2%20Schedule%20-%20T2%20Sec%201.pdf), 
-> * [Sec 2 WA2](/files/Useful%20Links/Students/Weighted%20Assessments/wa2%20schedule%20-%20t2%20sec%202%20(updated).pdf)
-> * [Sec 3 WA2](/files/Useful%20Links/Students/Weighted%20Assessments/wa2%20schedule%20-%20t2%20sec%203%20(updated_10apr).pdf)
->  * [Sec 4 & 5 WA2](/files/Useful%20Links/Students/Weighted%20Assessments/wa2%20schedule%20-%20t2%20sec%204%20and%205%20(updated).pdf)
+
+* **2023 Preliminary Exam Schedules**
+>* [4E/5N Prelim Schedule 2023](/files/Useful%20Links/Students/Examinations/4e5n%20prelim%20schedule%202023.pdf),
+>* [4NA and 4NT Prelim Schedule 2023](/files/Useful%20Links/Students/Examinations/4na%20and%204nt%20prelim%20schedule%202023.pdf)
+
+* **2023 Weighted Assessment (WA3) Schedules**
+> 
 
 * **Learning Portals**
 > * [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)

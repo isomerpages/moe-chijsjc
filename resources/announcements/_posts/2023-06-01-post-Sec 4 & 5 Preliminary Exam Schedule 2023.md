@@ -1,6 +1,6 @@
 ---
 title: Sec 4 & 5 Preliminary Exam Schedule 2023
-permalink: /resources/announcements/permalink/
+permalink: /resources/announcements/sec4-and-5-prelim-exam-schedule-2023/
 date: 2023-06-01
 layout: post
 description: ""

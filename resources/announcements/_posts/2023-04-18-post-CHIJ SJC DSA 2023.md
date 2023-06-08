@@ -1,6 +1,6 @@
 ---
-title: CHIJ St Joseph’s Convent DSA Exercise 2023
-permalink: /resources/announcements/permalink/
+title: CHIJ SJC DSA 2023
+permalink: /resources/announcements/chij-sjc-dsa-2023/
 date: 2023-04-18
 layout: post
 description: ""

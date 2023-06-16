@@ -4,7 +4,6 @@ permalink: /about-us/Our-People/Non-Teaching-Staff/
 description: ""
 third_nav_title: Our People
 ---
-
 #### **Administration**
 
 |                   Name                   |           Designation          |
@@ -50,5 +49,5 @@ third_nav_title: Our People
 |   Mr Justin Ng  |           Desktop Engineer          |
 | Mr Muhammad Hafiz Bin Jelani |        Desktop Engineer       |
 |      Mdm Rahayu Bte Abdul Latif     |        Kitchen Helper       |
-|     Ms Esther Tan   | Librarian |
+|     Ms Ernawati Binte Mohamad Yusri   | Librarian |
              |

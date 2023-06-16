@@ -4,7 +4,6 @@ permalink: /about-us/Our-People/Non-Teaching-Staff/
 description: ""
 third_nav_title: Our People
 ---
-
 #### **Administration**
 
 |                   Name                   |           Designation          |
@@ -38,7 +37,7 @@ third_nav_title: Our People
 |           Name          |                  Designation                  |
 |:-----------------------:|:---------------------------------------------:|
 | Mdm Trudy Lau Chao Keng    | Flexi-Adjunct School Counsellor                      |
-| Ms Jacelyn Loh | Flex-Adjunct School Counsellor               |
+| - | -               |
 | Mrs Chloe Chua          | Student Welfare Officer (SWO)                 |
 | Ms Pan Miao Hua         |  Education & Career Guidance (ECG) Counsellor |
 | Ms How Fang Qi          | SEN Officer                                   |
@@ -50,5 +49,5 @@ third_nav_title: Our People
 |   Mr Justin Ng  |           Desktop Engineer          |
 | Mr Muhammad Hafiz Bin Jelani |        Desktop Engineer       |
 |      Mdm Rahayu Bte Abdul Latif     |        Kitchen Helper       |
-|     Ms Esther Tan   | Librarian |
-             |
+|     Ms Ernawati Binte Mohamad Yusri   | Librarian |
+             

@@ -204,11 +204,6 @@ third_nav_title: Our People
   mso-border-top-alt:solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;
   padding:3.6pt 7.2pt 3.6pt 7.2pt;height:29.2pt"><p class="MsoNormal">SH/ Student Leadership (Covering)</p></td></tr><tr style="mso-yfti-irow:10;mso-yfti-lastrow:yes;height:29.2pt"><td width="284" valign="top" style="width:213.0pt;border:solid white 1.0pt;
   border-top:none;mso-border-top-alt:solid white 1.0pt;padding:3.6pt 7.2pt 3.6pt 7.2pt;
-  height:29.2pt"><p class="MsoNormal">Mr Lim Chee Koon<br><a href="lim_chee_koon@moe.edu.sg">lim_chee_koon@moe.edu.sg</a></p></td><td width="284" valign="top" style="width:213.0pt;border-top:none;border-left:
-  none;border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;
-  mso-border-top-alt:solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;
-  padding:3.6pt 7.2pt 3.6pt 7.2pt;height:29.2pt"><p class="MsoNormal">SH/ CCA (Covering)</p></td></tr><tr style="mso-yfti-irow:10;mso-yfti-lastrow:yes;height:29.2pt"><td width="284" valign="top" style="width:213.0pt;border:solid white 1.0pt;
-  border-top:none;mso-border-top-alt:solid white 1.0pt;padding:3.6pt 7.2pt 3.6pt 7.2pt;
   height:29.2pt"><p class="MsoNormal">Mr Alvin Toh Zhi Wen<br><a href="toh_zhi_wen_alvin@moe.edu.sg">toh_zhi_wen_alvin@moe.edu.sg</a></p></td><td width="284" valign="top" style="width:213.0pt;border-top:none;border-left:
   none;border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;
   mso-border-top-alt:solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;

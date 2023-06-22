@@ -9,7 +9,7 @@ third_nav_title: Student Services
 
 **KH Uniform Pte Ltd**
 
-115A Commonwealth Drive #04-15/16
+115A Commonwealth Drive #02-28
 
 Singapore 149596
 

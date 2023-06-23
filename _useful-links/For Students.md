@@ -4,11 +4,11 @@ permalink: /useful-links/students/
 description: ""
 ---
 #### **ACADEMIC MATTERS**
-* **2023 Semester 1 Timetables**
-> * [Sec 1 Classes](/files/Useful%20Links/Students/Timetables/Secondary%201%20Timetable%20Sem%201%202023.pdf),
-> [Sec 2 Classes](/files/Useful%20Links/Students/Timetables/Secondary%202%20Timetable%20Sem%201%202023.pdf),
-> [Sec 3 Classes](/files/Useful%20Links/Students/Timetables/Secondary%203%20Timetable%20Sem%201%202023.pdf),
-> [Sec 4/5 Classes](/files/Useful%20Links/Students/Timetables/Secondary%2045%20Timetable%20Sem%201%202023.pdf)
+* **2023 Semester 2 Timetables**
+> * [Sec 1 Classes](/files/Useful%20Links/Students/Timetables/sec%201%20sem%202%20tt%202023.pdf),
+>* [Sec 2 Classes](/files/Useful%20Links/Students/Timetables/sec%202%20sem%202%20tt%202023.pdf),
+>* [Sec 3 Classes](/files/Useful%20Links/Students/Timetables/sec%203%20sem%202%20tt%202023.pdf),
+>* [Sec 4 & 5 Classes](/files/Useful%20Links/Students/Timetables/sec%204&5%20sem%202%20tt%202023.pdf)
 
 * **2023 Preliminary Exam Schedules**
 >* [4E/5N Prelim Schedule 2023](/files/Useful%20Links/Students/Examinations/4e5n%20prelim%20schedule%202023.pdf),

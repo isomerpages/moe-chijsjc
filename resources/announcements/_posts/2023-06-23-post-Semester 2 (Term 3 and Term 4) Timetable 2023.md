@@ -8,11 +8,11 @@ image: ""
 ---
 Dear SJCians,
 
-Kindly refer to Semester 2 (Term 3 and Term 4) 2023 timetable below:
+You may refer to your Semester 2 timetable below:
 
 >* [Secondary 1 Classes Timetable](/files/Useful%20Links/Students/Timetables/sec%201%20sem%202%20tt%202023.pdf)
 >* [Secondary 2 Classes Timetable](/files/Useful%20Links/Students/Timetables/sec%202%20sem%202%20tt%202023.pdf)
 >* [Secondary 3 Classes Timetable](/files/Useful%20Links/Students/Timetables/sec%203%20sem%202%20tt%202023.pdf)
 >* [Secondary 4 & 5 Classes Timetable](/files/Useful%20Links/Students/Timetables/sec%204&5%20sem%202%20tt%202023.pdf)
 
-You can find the also find the link at  [Useful Links and Resources > Students](https://www.chijstjosephsconvent.moe.edu.sg/useful-links/students/)
+We hope the timetable will help you prepare for your lessons next week. The timetables will also be available at  [Useful Links and Resources > Students](https://www.chijstjosephsconvent.moe.edu.sg/useful-links/students/)

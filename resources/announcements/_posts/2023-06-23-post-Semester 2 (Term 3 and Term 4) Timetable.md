@@ -8,9 +8,7 @@ image: ""
 ---
 Dear SJCians,
 
-Dear SJCians,
-
-Kindly refer to Semester 2 (Term 3 and Term 4) timetable below:
+Kindly refer to Semester 2 2023 (Term 3 and Term 4) timetable below:
 
 [Secondary 1 Classes Timetable](/files/Useful%20Links/Students/Timetables/sec%201%20sem%202%20tt%202023.pdf)
 

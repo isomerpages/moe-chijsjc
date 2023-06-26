@@ -38,6 +38,7 @@ third_nav_title: Our People
 |:-----------------------:|:---------------------------------------------:|
 | Mrs Dolly Khemani | Senior School Counsellor               |
 | Mdm Trudy Lau Chao Keng    | Flexi-Adjunct School Counsellor                      |
+|Ms Dhivyaa V Loganathan | Flexi-Adjunct School Counsellor |
 | Mrs Chloe Chua          | Student Welfare Officer (SWO)                 |
 | Ms Pan Miao Hua         |  Education & Career Guidance (ECG) Counsellor |
 | Ms How Fang Qi          | SEN Officer                                   |

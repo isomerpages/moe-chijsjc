@@ -85,7 +85,7 @@ third_nav_title: Our People
   mso-border-top-alt:solid white 3.0pt;mso-border-left-alt:solid white 1.0pt;
   padding:3.6pt 7.2pt 3.6pt 7.2pt;height:29.2pt"><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">HOD/ English &amp; Literature</span></p></td></tr><tr style="mso-yfti-irow:2;height:29.2pt"><td width="284" valign="top" style="width:213.0pt;border:solid white 1.0pt;
   border-top:none;mso-border-top-alt:solid white 1.0pt;padding:3.6pt 7.2pt 3.6pt 7.2pt;
-  height:29.2pt"><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">Mdm Png Nan Sy<br><a href="chen_mei-yin_karen@moe.edu.sg">tan_nan_sy@moe.edu.sg</a></span></p></td><td width="284" valign="top" style="width:213.0pt;border-top:none;border-left:
+  height:29.2pt"><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">Mdm Tan Nan Sy<br><a href="chen_mei-yin_karen@moe.edu.sg">tan_nan_sy@moe.edu.sg</a></span></p></td><td width="284" valign="top" style="width:213.0pt;border-top:none;border-left:
   none;border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;
   mso-border-top-alt:solid white 3.0pt;mso-border-left-alt:solid white 1.0pt;
   padding:3.6pt 7.2pt 3.6pt 7.2pt;height:29.2pt"><p class="MsoNormal"><span lang="EN-SG" style="mso-ansi-language:EN-SG">HOD/ Mother Tongue Languages</span></p></td></tr><tr style="mso-yfti-irow:2;height:29.2pt"><td width="284" valign="top" style="width:213.0pt;border:solid white 1.0pt;

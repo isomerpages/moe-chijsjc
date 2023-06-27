@@ -6,7 +6,7 @@ description: ""
 #### **SCHOOL UNIFORMS**
 Our school uniform supplier is **KH Uniform Pte Ltd**.
 
-* **Address**: 115A Commonwealth Drive, #04-15/16, Singapore 149596
+* **Address**: 115A Commonwealth Drive, #02-28, Singapore 149596
 * **Contact Number**: 64796811
 * **Operating Hours**: Monday to Friday, 9.00 am to 5.00 pm
 

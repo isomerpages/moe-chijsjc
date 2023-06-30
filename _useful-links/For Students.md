@@ -41,4 +41,4 @@ description: ""
 * **Financial Assistance**
 > * [FAS Application Form](/files/Useful%20Links/Financial%20Assistance/MOE%20FAS%20Application%20Form%20Oct%202022.pdf)
 * **School supplies**
-> * [Uniform, Bookshop and Library Information](/useful-links/student-services/)
+> * [Uniform, Bookshop and Library Information](/student-services/)

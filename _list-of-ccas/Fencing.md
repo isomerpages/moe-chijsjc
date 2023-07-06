@@ -3,9 +3,6 @@ title: Fencing
 permalink: /fencing/
 description: ""
 ---
-
-
-
 **Please note that this CCA will not be taking in Sec 1 students from 2023**
 
 ![](/images/CCA/Physical%20Sports/Fencing/F1.jpg)
@@ -31,7 +28,7 @@ CHIJ SJC’s Fencing Club started since 1996, and our students have enjoyed taki
 
 *   Food collection and distribution to needy families  
     
-*   Fund raising for outreach activities; e,g, sale of roses & chocolates for Valentine’s Day
+*   Fund raising for outreach activities; e,g, sale of roses &amp; chocolates for Valentine’s Day
 *   Joint IJYM activities with the four other IJYM schools
 *   Inter-CCA VIA projects collaboration
 *   Partnership for outreach projects with community groups / organization
@@ -43,7 +40,7 @@ CHIJ SJC’s Fencing Club started since 1996, and our students have enjoyed taki
 |--------------------|------------------------------------------------------------|
 | Schedule           | Wednesday: 3.45 pm to 6.15 pm  Friday: 3.45 pm to 6.00 pm  |
 | Venue              |                  Indoor Gymnasium (Level 3)                |
-| Teacher-in-charge  | Mr Daniel Chew Ju Ern (IC) Mrs Goh Boon Hong (IC2)         |
+| Teacher-in-charge  | Mr Daniel Chew Ju Ern (OIC), <br> Mrs Goh Boon Hong        |
 
 #### **Achievements**
 

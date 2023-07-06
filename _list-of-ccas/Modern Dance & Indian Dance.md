@@ -74,7 +74,7 @@ Life as a member in SJC's Modern Dance CCA is always filled with excitement! SJC
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="background-color:initial">Teacher-in-charge</span><br><span style="background-color:initial">Modern Dance</span></td>
-    <td class="tg-ktyi"><span style="background-color:initial">Mrs Lee Ann Gee (IC1)</span><br><br>Ms Chan Lian Yin (IC2)<br>Mr Tan Kuan Ting</td>
+    <td class="tg-ktyi"><span style="background-color:initial">Ms Chan Lian Yin</span><br>Mr Tan Kuan Ting<br>Mrs Geetha Singarajan</td>
   </tr>
 </tbody>
 </table>

@@ -50,7 +50,7 @@ With 19 CCAs to choose from, SJCians enjoy many opportunities to perform, compet
     <td class="tg-ys4m">Culinary Arts Club</td>
     <td class="tg-ys4m"><span style="color:black">CentreStage (Drama &amp; Debates)</span></td>
     <td class="tg-ys4m"><span style="color:black">Fencing</span></td>
-    <td class="tg-ys4m"><span style="color:black">National Police Cadet Corps</span></td>
+    <td class="tg-ys4m"><span style="color:black">National Police Cadet Corps (NPCC)</span></td>
   </tr>
   <tr>
     <td class="tg-ys4m"><span style="color:black">Pixel Playhouse</span></td>

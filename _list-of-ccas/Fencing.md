@@ -26,13 +26,8 @@ CHIJ SJC’s Fencing Club started since 1996, and our students have enjoyed taki
 #### **Activities**
 
 
-*   Food collection and distribution to needy families  
-    
-*   Fund raising for outreach activities; e,g, sale of roses &amp; chocolates for Valentine’s Day
-*   Joint IJYM activities with the four other IJYM schools
-*   Inter-CCA VIA projects collaboration
-*   Partnership for outreach projects with community groups / organization
-*   IJYM Annual Day Camp
+*   Invitational meets and exchange programmes with other schools
+*   National School games for both Epee and Sabre categories 
 
 #### **CCA Information**
 
@@ -48,7 +43,7 @@ CHIJ SJC’s Fencing Club started since 1996, and our students have enjoyed taki
 |  Year | Name of Competition                          | Division/Category                                                                                                                  | Achievement                                                                                         |
 |:-----:|----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
 |  2022 | National-Inter-Schools Fencing Championship               | ‘B’ Division Girl’s: Epee, Foil and Sabre events <br>‘C’ Division Girl’s: Epee, Foil and Sabre events  | Participation   |
-|  2018 | National Inter-Schools Fencing Championship  | –'C' Division Women's Epee Individuals –'B' Division Women's Sabre Individuals                                                     |                                             Participation               |
+|  2018 | National Inter-Schools Fencing Championship  | 'C' Division Girl's: Epee Individual <br>'B' Division Girl's: Sabre Individual                                                     |                                             Participation               |
 
 
 ![](/images/CCA/Physical%20Sports/Fencing/F2.jpg)

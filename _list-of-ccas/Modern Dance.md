@@ -70,7 +70,7 @@ Life as a member in SJC's Modern Dance CCA is always filled with excitement! SJC
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-ypk6" colspan="4">Dance - Modern<br></th>
+    <th class="tg-ypk6" colspan="4">DANCE - MODERN<br></th>
   </tr>
 </thead>
 <tbody>

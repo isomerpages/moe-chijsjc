@@ -3,10 +3,7 @@ title: CentreStage (Drama & Debates)
 permalink: /centrestage/
 description: ""
 ---
-
-
-
-![](/images/CCA/Visual%20&%20Performing%20Arts/CentreStage%20(Drama%20&%20Debates)/C1.jpg)
+![](/images/CCA/Visual%20&amp;%20Performing%20Arts/CentreStage%20(Drama%20&amp;%20Debates)/C1.jpg)
 
 #### **About**
 
@@ -38,7 +35,7 @@ By the end of their time in the CCA, students realise that drama and debates go 
 <thead>
   <tr>
     <th class="tg-ktyi">Schedule<br></th>
-    <th class="tg-ktyi">Monday, 3:45 pm to 6:15 pm<br>Wednesday 3:45om to 6:15pm<br>Friday: 3:45 pm to 5:45 pm* (During competition<br>season)</th>
+    <th class="tg-ktyi">Monday, 3:45 pm to 6:15 pm<br>Wednesday 3:45om to 6:15pm<br>*Friday: 3:45 pm to 5:45 pm* (During competition<br>season)</th>
   </tr>
 </thead>
 <tbody>
@@ -52,6 +49,8 @@ By the end of their time in the CCA, students realise that drama and debates go 
   </tr>
 </tbody>
 </table>
+*Additional session during peak season/identified for school team players only.
+
 
 #### **Achievements**
 
@@ -212,4 +211,4 @@ By the end of their time in the CCA, students realise that drama and debates go 
 </table>
 
   
-![](/images/CCA/Visual%20&%20Performing%20Arts/CentreStage%20(Drama%20&%20Debates)/C2.png)
+![](/images/CCA/Visual%20&amp;%20Performing%20Arts/CentreStage%20(Drama%20&amp;%20Debates)/C2.png)

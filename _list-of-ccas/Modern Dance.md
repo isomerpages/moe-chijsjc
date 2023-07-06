@@ -55,7 +55,6 @@ Life as a member in SJC's Modern Dance CCA is always filled with excitement! SJC
 
 #### **Achievements**
 
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -72,7 +71,7 @@ Life as a member in SJC's Modern Dance CCA is always filled with excitement! SJC
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-ypk6" colspan="4">Dance - Indian<br></th>
+    <th colspan="4" class="tg-ypk6">DANCE - INDIAN<br></th>
   </tr>
 </thead>
 <tbody>
@@ -108,7 +107,6 @@ Life as a member in SJC's Modern Dance CCA is always filled with excitement! SJC
   </tr>
 </tbody>
 </table>
-  
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -125,7 +123,7 @@ Life as a member in SJC's Modern Dance CCA is always filled with excitement! SJC
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-ypk6" colspan="4">Dance - Modern<br></th>
+    <th class="tg-ypk6" colspan="4">DANCE - MODERN<br></th>
   </tr>
 </thead>
 <tbody>
@@ -158,7 +156,6 @@ Life as a member in SJC's Modern Dance CCA is always filled with excitement! SJC
 
 #### **Performances / Events**
 
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -174,7 +171,7 @@ Life as a member in SJC's Modern Dance CCA is always filled with excitement! SJC
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-t6c5" colspan="2">DANCE ENSEMBLE – INDIAN DANCE<br></th>
+    <th colspan="2" class="tg-t6c5">DANCE ENSEMBLE – INDIAN DANCE<br></th>
   </tr>
 </thead>
 <tbody>
@@ -196,7 +193,6 @@ Life as a member in SJC's Modern Dance CCA is always filled with excitement! SJC
   </tr>
 </tbody>
 </table>
-  
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}

@@ -107,51 +107,7 @@ We engage our CCA members with fun and enriching CCA sessions, enabling them to 
     <td class="tg-ktyi"></td>
     <td class="tg-ktyi">Gold Award<br></td>
   </tr>
-  <tr>
-    <td class="tg-zr06">2017<br></td>
-    <td class="tg-zr06">Corps Achievement Award (CAA)<br></td>
-    <td class="tg-ktyi"></td>
-    <td class="tg-ktyi">Gold Award<br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">2016<br></td>
-    <td class="tg-zr06">Corps Achievement Award (CAA)<br></td>
-    <td class="tg-ktyi"></td>
-    <td class="tg-zr06">Silver Award<br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">2015<br></td>
-    <td class="tg-zr06">Corps Achievement Award (CAA)<br></td>
-    <td class="tg-ktyi"></td>
-    <td class="tg-zr06">Silver Award<br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">2014<br></td>
-    <td class="tg-zr06">Corps Achievement Award (CAA)<br></td>
-    <td class="tg-ktyi"></td>
-    <td class="tg-zr06">Silver Award<br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">2013<br></td>
-    <td class="tg-zr06">Corps Achievement Award (CAA)<br></td>
-    <td class="tg-ktyi"></td>
-    <td class="tg-zr06">Silver Award<br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">2012<br></td>
-    <td class="tg-zr06">Corps Achievement Award (CAA)<br></td>
-    <td class="tg-ktyi"></td>
-    <td class="tg-zr06">Silver Award<br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">2011<br></td>
-    <td class="tg-zr06">Corps Achievement Award (CAA)<br></td>
-    <td class="tg-ktyi"></td>
-    <td class="tg-ktyi">Gold Award</td>
-
-	   
-   
-</tr></tbody>
+</tbody>
 </table>
 
 ![](/images/CCA/Uniformed%20Groups/St%20John%20Brigade/S2.png)

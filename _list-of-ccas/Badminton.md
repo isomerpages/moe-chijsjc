@@ -36,10 +36,11 @@ Our team is a close-knit family that encourages one another through their journe
 #### **CCA Information**
 
 
-| Schedule           | Monday: 3.45 pm to 6.15 pm Wednesday: 3.45 pm to 6.00 pm Friday: 3.45 pm to 6.15 pm |
+| Schedule           | Monday: 3.45 pm to 6.15 pm <br>* Wednesday: 3.45 pm to 6.00 pm <br>Friday: 3.45 pm to 6.15 pm |
 |--------------------|-------------------------------------------------------------------------------------|
 | Venue              | School Hall                                                                         |
 | Teacher-in-charge  |Ms Soh Bee Pheng, <br> Ms Albaniah Zakila Bte Aman,<br>Mr Ong Sze Kiat                    |
   
+**Additional session during peak season/identified for school team players only.*
 
 ![](/images/CCA/Physical%20Sports/Badminton/B2.png)

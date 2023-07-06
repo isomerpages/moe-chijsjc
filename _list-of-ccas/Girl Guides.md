@@ -55,7 +55,7 @@ Our 5-point programme – Personal and Social Development, Home, Community, Outd
 <thead>
   <tr>
     <th class="tg-ktyi">Schedule<br></th>
-    <th class="tg-ktyi">Wednesday &amp; Friday, 3.45pm – 6.15pm<br>Friday (Semester 1), 3.45pm – 6.15pm </th>
+    <th class="tg-ktyi">Wednesday &amp; Friday, 3.45pm – 6.15pm<br>* Friday (Semester 1), 3.45pm – 6.15pm </th>
   </tr>
 </thead>
 <tbody>
@@ -126,5 +126,6 @@ Our 5-point programme – Personal and Social Development, Home, Community, Outd
   
 
 </thead></table>
+*Additional session during peak season/identified for school team players only.
 
 ![](/images/CCA/Uniformed%20Groups/Girl%20Guides/G2.png)

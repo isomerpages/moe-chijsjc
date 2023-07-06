@@ -3,13 +3,6 @@ title: Modern Dance & Indian Dance
 permalink: /dance/
 description: ""
 ---
-**Please note that Indian Dance will not be taking in Sec 1 students from 2023**
-
-#### **Dance Ensemble – Indian**
-
-
-![](/images/CCA/Visual%20&amp;%20Performing%20Arts/Modern%20Dance%20&amp;%20Indian%20Dance/M1.png)
-
 #### **About**
 
 

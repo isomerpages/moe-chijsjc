@@ -69,6 +69,9 @@ Our 5-point programme – Personal and Social Development, Home, Community, Outd
   </tr>
 </tbody>
 </table>
+*Additional session during peak season/identified for school team players only.
+
+
 
 #### **Achievements**
 
@@ -126,6 +129,6 @@ Our 5-point programme – Personal and Social Development, Home, Community, Outd
   
 
 </thead></table>
-*Additional session during peak season/identified for school team players only.
+
 
 ![](/images/CCA/Uniformed%20Groups/Girl%20Guides/G2.png)

@@ -65,6 +65,59 @@ Life as a member in SJC's Modern Dance CCA is always filled with excitement! SJC
 .tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th colspan="4" class="tg-ypk6">DANCE - INDIAN<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-9hzb">Year<br></td>
+    <td class="tg-dgl5">Name of Competition<br></td>
+    <td class="tg-dgl5">Division/Category<br></td>
+    <td class="tg-dgl5">Achievement<br></td>
+  </tr>
+  <tr>
+    <td class="tg-f4yw"> 2021</td>
+    <td class="tg-zr06">Singapore Youth Festival Arts Presentation</td>
+    <td class="tg-zr06"> Indian Dance<br><br></td>
+    <td class="tg-zr06">Certificate of Distinction <br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-f4yw">2019<br></td>
+    <td class="tg-ktyi">Singapore Youth Festival Arts Presentation<br></td>
+    <td class="tg-ktyi">Indian Dance<br></td>
+    <td class="tg-ktyi">Certificate of Distinction<br></td>
+  </tr>
+  <tr>
+    <td class="tg-f4yw">2017<br></td>
+    <td class="tg-ktyi">Singapore Youth Festival Arts Presentation 2017<br></td>
+    <td class="tg-ktyi">Indian Dance<br></td>
+    <td class="tg-ktyi">Certificate of Distinction<br></td>
+  </tr>
+  <tr>
+    <td class="tg-f4yw">2015<br></td>
+    <td class="tg-ktyi">Singapore Youth Festival Arts Presentation 2015<br></td>
+    <td class="tg-ktyi">Indian Dance<br></td>
+    <td class="tg-ktyi">Certificate of D</td>
+  </tr>
+</tbody>
+</table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ypk6{background-color:#002060;color:#FFF;font-style:italic;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
 .tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
@@ -102,6 +155,44 @@ Life as a member in SJC's Modern Dance CCA is always filled with excitement! SJC
 </table>
 
 #### **Performances / Events**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-t6c5{background-color:#002060;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
+.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
+.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th colspan="2" class="tg-t6c5">DANCE ENSEMBLE – INDIAN DANCE<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-9hzb">Year<br></td>
+    <td class="tg-9hzb">Name of Performance/Event<br></td>
+  </tr>
+  <tr>
+    <td class="tg-f4yw">2019<br></td>
+    <td class="tg-ktyi"><span style="background-color:initial">SYF 2019 Dance Extravaganza @ Bukit Panjang Plaza.</span><br><span style="background-color:initial">Perform at the Prize Presentation Ceremony of Naanum Oru Padaippaali at Umar Pulavar Tamil Language Centre</span></td>
+  </tr>
+  <tr>
+    <td class="tg-f4yw">2018<br></td>
+    <td class="tg-ktyi"><span style="background-color:initial">SYF 2018 Dance Extravaganza @ Bukit Panjang Plaza.</span><br><span style="background-color:initial">Dance Exchange @ St Margaret’s Secondary School.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-f4yw">2017<br></td>
+    <td class="tg-zr06">SYF 2017 Celebrations @ One KM Mall.</td>
+  </tr>
+</tbody>
+</table>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}

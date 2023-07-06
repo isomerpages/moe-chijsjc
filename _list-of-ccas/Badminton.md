@@ -3,9 +3,6 @@ title: Badminton
 permalink: /badminton/
 description: ""
 ---
-
-
-
 ![](/images/CCA/Physical%20Sports/Badminton/B1.jpg)
 
 #### **About**
@@ -42,7 +39,7 @@ Our team is a close-knit family that encourages one another through their journe
 | Schedule           | Monday: 3.45 pm to 6.15 pm Wednesday: 3.45 pm to 6.00 pm Friday: 3.45 pm to 6.15 pm |
 |--------------------|-------------------------------------------------------------------------------------|
 | Venue              | School Hall                                                                         |
-| Teacher-in-charge  | Mr Tan Teck Nam (IC1) Ms Albaniah Zakaila (IC2) Ms Soh Bee Pheng                    |
+| Teacher-in-charge  |Ms Soh Bee Pheng, <br> Ms Albaniah Zakila Bte Aman,<br>Mr Ong Sze Kiat                    |
   
 
 ![](/images/CCA/Physical%20Sports/Badminton/B2.png)

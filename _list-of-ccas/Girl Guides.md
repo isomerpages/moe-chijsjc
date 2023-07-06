@@ -85,28 +85,46 @@ Our 5-point programme – Personal and Social Development, Home, Community, Outd
 </style>
 <table class="tg">
 <thead>
-  <tr>
-        <th class="tg-dgl5">Puan Nur Aishah Award<br></th>
-		<th class="tg-dgl5"><br></th>
-   
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-dgl5">Silver<br></td>
-    <td class="tg-dgl5">Gold<br></td>
-    </tr>
-  <tr>
-    <td class="tg-zr06">2021<br></td>
-    <td class="tg-zr06">2022<br></td>
+   <tr>
+    <td class="tg-zr06">2020<br></td>
+    <td class="tg-zr06">Puan Noor Aishah Award<br></td>
+    <td class="tg-ktyi"></td>
+    <td class="tg-zr06">Gold Award<br></td>
   </tr>
   <tr>
-    <td class="tg-zr06">2005 - 2016<br></td>
-    <td class="tg-zr06">2017 - 2020<br></td>
+    <td rowspan="5" class="tg-zr06">2019<br></td>
+    <td class="tg-zr06">Puan Noor Aishah Award<br></td>
+    <td class="tg-ktyi"></td>
+    <td class="tg-zr06">Gold Award<br></td>
+  </tr>
+  <tr>
+    <td class="tg-zr06">2019 Outdoor Challenge – Creative Gateway Challenge<br></td>
+    <td class="tg-ktyi"></td>
+    <td class="tg-zr06">Merit Award<br></td>
+  </tr>
+  <tr>
+    <td class="tg-zr06">Smoke Free Ambassador Badge Campaign<br></td>
+    <td class="tg-ktyi"></td>
+    <td class="tg-zr06">2nd<br></td>
+  </tr>
+  <tr>
+    <td class="tg-zr06">North Division Day Fusion Dance Competition<br></td>
+    <td class="tg-ktyi"></td>
+    <td class="tg-zr06">1st<br></td>
+  </tr>
+  <tr>
+    <td class="tg-zr06">North Division Day Pop Band Competition<br></td>
+    <td class="tg-ktyi"></td>
+    <td class="tg-zr06">3rd<br></td>
+  </tr>
+  <tr>
+    <td class="tg-zr06">2018<br></td>
+    <td class="tg-zr06">Puan Noor Aishah Award<br></td>
+    <td class="tg-ktyi"></td>
+    <td class="tg-zr06">Gold Award<br></td>
   </tr>
   
-  
-</tbody>
-</table>
+
+</thead></table>
 
 ![](/images/CCA/Uniformed%20Groups/Girl%20Guides/G2.png)

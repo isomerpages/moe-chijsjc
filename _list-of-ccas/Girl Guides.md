@@ -55,7 +55,7 @@ Our 5-point programme – Personal and Social Development, Home, Community, Outd
 <thead>
   <tr>
     <th class="tg-ktyi">Schedule<br></th>
-    <th class="tg-ktyi">Wednesday &amp; Friday, 3.45pm – 6.15pm</th>
+    <th class="tg-ktyi">Wednesday &amp; Friday, 3.45pm – 6.15pm<br>Friday (Semester 1), 3.45pm – 6.15pm </th>
   </tr>
 </thead>
 <tbody>
@@ -65,7 +65,7 @@ Our 5-point programme – Personal and Social Development, Home, Community, Outd
   </tr>
   <tr>
     <td class="tg-ktyi">Teacher-in-charge<br></td>
-    <td class="tg-ktyi">Ms Vera Yuen (OIC)<br>Ms Siti Nurizzati Jamil <br>Ms Nur Farizan Bte Abubakar</td>
+    <td class="tg-ktyi">Ms Nur Farizan Bte Abubakar (OIC - covering)<br>Ms Siti Nurizzati Binte Jamil <br>Ms Vera Yuen <br>Ms Lee Yu Xian</td>
   </tr>
 </tbody>
 </table>
@@ -86,63 +86,25 @@ Our 5-point programme – Personal and Social Development, Home, Community, Outd
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-dgl5">Year<br></th>
-    <th class="tg-dgl5">Name of Competition<br></th>
-    <th class="tg-dgl5">Division/Category<br></th>
-    <th class="tg-dgl5">Achievement<br></th>
+        <th class="tg-dgl5">Puan Nur Aishah Award<br></th>
+   
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-zr06">2020<br></td>
-    <td class="tg-zr06">Puan Noor Aishah Award<br></td>
-    <td class="tg-ktyi"></td>
-    <td class="tg-zr06">Gold Award<br></td>
-  </tr>
+    <td class="tg-dgl5">Silver<br></td>
+    <td class="tg-dgl5">Gold<br></td>
+    </tr>
   <tr>
-    <td class="tg-zr06" rowspan="5">2019<br></td>
-    <td class="tg-zr06">Puan Noor Aishah Award<br></td>
-    <td class="tg-ktyi"></td>
-    <td class="tg-zr06">Gold Award<br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">2019 Outdoor Challenge – Creative Gateway Challenge<br></td>
-    <td class="tg-ktyi"></td>
-    <td class="tg-zr06">Merit Award<br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Smoke Free Ambassador Badge Campaign<br></td>
-    <td class="tg-ktyi"></td>
-    <td class="tg-zr06">2nd<br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">North Division Day Fusion Dance Competition<br></td>
-    <td class="tg-ktyi"></td>
-    <td class="tg-zr06">1st<br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">North Division Day Pop Band Competition<br></td>
-    <td class="tg-ktyi"></td>
-    <td class="tg-zr06">3rd<br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">2018<br></td>
-    <td class="tg-zr06">Puan Noor Aishah Award<br></td>
-    <td class="tg-ktyi"></td>
-    <td class="tg-zr06">Gold Award<br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">2017<br></td>
-    <td class="tg-zr06">Puan Noor Aishah Award<br></td>
-    <td class="tg-ktyi"></td>
-    <td class="tg-zr06">Gold Award<br></td>
+    <td class="tg-zr06">2021<br></td>
+    <td class="tg-zr06">2022<br></td>
   </tr>
   <tr>
     <td class="tg-zr06">2005 - 2016<br></td>
-    <td class="tg-zr06">Puan Noor Aishah Award<br></td>
-    <td class="tg-ktyi"></td>
-    <td class="tg-zr06">Silver Award</td>
+    <td class="tg-zr06">2017 - 2020<br></td>
   </tr>
+  
+  
 </tbody>
 </table>
 

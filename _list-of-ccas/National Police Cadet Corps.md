@@ -205,52 +205,5 @@ The SJC NPCC unit has a vibrant programme for all members from Sec 1 to 5.
   </tr>
 </tbody>
 </table>
-  
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-dgl5">Year<br></th>
-    <th class="tg-dgl5">Name of Competition<br></th>
-    <th class="tg-dgl5">Division/Category<br></th>
-    <th class="tg-dgl5">Achievement<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-zr06">2019<br></td>
-    <td class="tg-zr06">Inter-Unit Footdrill Competition<br></td>
-    <td class="tg-ktyi"></td>
-    <td class="tg-zr06">5th<br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06" rowspan="3">2018<br></td>
-    <td class="tg-zr06">Unit Games Day – Puddle Jumper<br></td>
-    <td class="tg-zr06">Area 7<br></td>
-    <td class="tg-zr06">1st<br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Unit Games Day – 3-legged Ping Pong Race<br></td>
-    <td class="tg-zr06">Area 7<br></td>
-    <td class="tg-zr06">1st<br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">HQ organized Inter-Unit .22 Revolver Shooting Competition<br></td>
-    <td class="tg-zr06">Individual<br></td>
-    <td class="tg-zr06">7th</td>
-  </tr>
-</tbody>
-</table>
-  
-
+ 
 ![](/images/CCA/Uniformed%20Groups/National%20Police%20Cadet%20Corps/N2.png)

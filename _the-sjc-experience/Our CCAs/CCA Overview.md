@@ -50,12 +50,12 @@ With 19 CCAs to choose from, SJCians enjoy many opportunities to perform, compet
     <td class="tg-ys4m">Culinary Arts Club</td>
     <td class="tg-ys4m"><span style="color:black">CentreStage (Drama &amp; Debates)</span></td>
     <td class="tg-ys4m"><span style="color:black">Fencing</span></td>
-    <td class="tg-ys4m"><span style="color:black">NPCC</span></td>
+    <td class="tg-ys4m"><span style="color:black">National Police Cadet Corps (NPCC)</span></td>
   </tr>
   <tr>
     <td class="tg-ys4m"><span style="color:black">Pixel Playhouse</span></td>
     <td class="tg-ys4m"><span style="color:black">Choir</span></td>
-    <td class="tg-ys4m">N<span style="color:black">etball</span></td>
+    <td class="tg-ys4m"><span style="color:black">Netball</span></td>
     <td class="tg-ys4m"><span style="color:black">St John Brigade</span></td>
   </tr>
   <tr>
@@ -78,7 +78,7 @@ With 19 CCAs to choose from, SJCians enjoy many opportunities to perform, compet
   </tr>
   <tr>
     <td class="tg-ys4m">   </td>
-    <td class="tg-ys4m"><span style="color:black">Modern Dance &amp; Indian Dance</span></td>
+    <td class="tg-ys4m"><span style="color:black">Modern Dance </span></td>
     <td class="tg-ys4m"><span style="color:black">Volleyball</span></td>
     <td class="tg-ys4m">   </td>
   </tr>
@@ -91,6 +91,3 @@ LEAPS 2.0 is MOE'S framework to recognise secondary school students'&nbsp;holist
 Find out more here: [LEAPS 2.0](/files/LEAPS%202/LEAPS%2020%20(Public%20Version).pdf)
 
 ![](/images/CCA/ccaschedule2.jpg)
-
-
-

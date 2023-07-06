@@ -14,8 +14,4 @@ Find out more about the individual performing arts groups:
 * [Concert Band](/concertband)
 * [Guitar Ensemble](/guitar)
 * [Handbell Ensemble](/handbell)
-* [Modern Dance and Indian Dance](/dance)
-
-
-
-
+* [Modern Dance](/dance)

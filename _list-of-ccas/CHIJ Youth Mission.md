@@ -3,9 +3,6 @@ title: CHIJ Youth Mission
 permalink: /chijyouthmission/
 description: ""
 ---
-
-
-
 ![](/images/CCA/Clubs%20and%20Societies/CHIJ%20Youth%20Mission/C1.jpg)
 
 #### **About**
@@ -31,7 +28,7 @@ The CHIJ Youth Mission is a CCA special to the school and the four other IJ Scho
 
 
 *   Food collection and distribution to needy families
-*   Fund raising for outreach activities; e,g, sale of roses & chocolates for Valentine’s Day
+*   Fund raising for outreach activities; e,g, sale of roses &amp; chocolates for Valentine’s Day
 *   Joint IJYM activities with the four other IJYM schools
 *   Inter-CCA VIA projects collaboration
 *   Partnership for outreach projects with community groups / organization
@@ -48,8 +45,8 @@ The CHIJ Youth Mission is a CCA special to the school and the four other IJ Scho
 
 | Venue             | Wednesday, 3:45 pm to 5:45 pm.      |
 |-------------------|-------------------------------------|
-| Venue             | Computer Lab 1                      |
-| Teacher-in-charge | Ms Adeline Ng (OIC) Ms Gan Yee Hwee |
+| Venue                    | I &amp; E Room                     |
+| Teacher-in-charge | Mdm Dewi Juriah Bte Sudirman (OIC), <br>Ms Adeline Ng, <br>Ms Gan Yee Hwee |
 
 #### **Achievement**
 

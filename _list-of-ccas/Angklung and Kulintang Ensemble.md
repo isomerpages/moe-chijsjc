@@ -3,16 +3,16 @@ title: Angklung and Kulintang Ensemble
 permalink: /angklung/
 description: ""
 ---
-![](/images/CCA/Visual%20&%20Performing%20Arts/AngklungKulintang%20Ensemble/A1.jpg)
+![](/images/CCA/Visual%20&amp;%20Performing%20Arts/AngklungKulintang%20Ensemble/A1.jpg)
 
 #### **About**
 
 
-The CHIJ SJC Angklung & Kulintang Ensemble “Plays Together, Shakes as One”.  The CCA is made up of a team of talented and young individuals who play a range of instruments, including several angklungs on a rack at the same time, to create harmonic musical pieces.
+The CHIJ SJC Angklung &amp; Kulintang Ensemble “Plays Together, Shakes as One”.&nbsp; The CCA is made up of a team of talented and young individuals who play a range of instruments, including several angklungs on a rack at the same time, to create harmonic musical pieces.
 
   
 
-Members are expected to uphold the standards established to produce high quality music with practice sessions & performances placing emphasis on discipline, commitment, confidence, teamwork and care for each other.  The Angklung family strives together to give our best to every performance as we work hard and cultivate a passion for the CCA.
+Members are expected to uphold the standards established to produce high quality music with practice sessions &amp; performances placing emphasis on discipline, commitment, confidence, teamwork and care for each other.&nbsp; The Angklung family strives together to give our best to every performance as we work hard and cultivate a passion for the CCA.
 
 #### **Objectives**
 
@@ -46,7 +46,7 @@ Members are expected to uphold the standards established to produce high quality
   </tr>
   <tr>
     <td class="tg-ktyi">Teacher-in-charge<br></td>
-    <td class="tg-ktyi">Ms Hafifah Binte Mohd Hafiz Tan (IC1)<br>Ms Nurul Ain Sakina Bte Soonan</td>
+    <td class="tg-ktyi">Ms Nurul Ain Sakina Bte Soonan (OIC),<br> Ms Hafifah Binte Mohd Hafiz Tan</td>
   </tr>
 </tbody>
 </table>
@@ -143,4 +143,4 @@ Members are expected to uphold the standards established to produce high quality
 </tbody>
 </table>
 
-![](/images/CCA/Visual%20&%20Performing%20Arts/AngklungKulintang%20Ensemble/A2.png)
+![](/images/CCA/Visual%20&amp;%20Performing%20Arts/AngklungKulintang%20Ensemble/A2.png)

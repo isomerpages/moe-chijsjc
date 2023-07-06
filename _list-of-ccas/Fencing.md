@@ -3,9 +3,6 @@ title: Fencing
 permalink: /fencing/
 description: ""
 ---
-
-
-
 **Please note that this CCA will not be taking in Sec 1 students from 2023**
 
 ![](/images/CCA/Physical%20Sports/Fencing/F1.jpg)
@@ -31,7 +28,7 @@ CHIJ SJC’s Fencing Club started since 1996, and our students have enjoyed taki
 
 *   Food collection and distribution to needy families  
     
-*   Fund raising for outreach activities; e,g, sale of roses & chocolates for Valentine’s Day
+*   Fund raising for outreach activities; e,g, sale of roses &amp; chocolates for Valentine’s Day
 *   Joint IJYM activities with the four other IJYM schools
 *   Inter-CCA VIA projects collaboration
 *   Partnership for outreach projects with community groups / organization
@@ -43,18 +40,15 @@ CHIJ SJC’s Fencing Club started since 1996, and our students have enjoyed taki
 |--------------------|------------------------------------------------------------|
 | Schedule           | Wednesday: 3.45 pm to 6.15 pm  Friday: 3.45 pm to 6.00 pm  |
 | Venue              |                  Indoor Gymnasium (Level 3)                |
-| Teacher-in-charge  | Mr Daniel Chew Ju Ern (IC) Mrs Goh Boon Hong (IC2)         |
+| Teacher-in-charge  | Mr Daniel Chew Ju Ern (OIC), <br> Mrs Goh Boon Hong        |
 
 #### **Achievements**
 
 
 |  Year | Name of Competition                          | Division/Category                                                                                                                  | Achievement                                                                                         |
 |:-----:|----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
-|  2022 | National Schools Games Fencing               | ‘B’ Division Girl’s Foil and Sabre events     ‘C’ Division Girl’s Foil and Sabre events  ‘C’ Division Girl’s Epee individual event | Participation Trina Tan ranked 5th overall in foil  Participation  Natalie Ong  ranked 5th overall  |
-|  2018 | National Inter-Schools Fencing Championship  | –'C' Division Women's Epee Individuals –'B' Division Women's Sabre Individuals                                                     |                                             Participation                                           |
-|  2017 | National Inter-Schools Fencing Championship  | –'C' Division Women's Epee Individuals –'B' Division Women's Sabre Individuals                                                     | Participation                                                                                       |
-|  2016 | National Inter-Schools Fencing Championship  | – ‘C’ Division Women’s Epee Individuals, -- ‘B’ Division Women’s Sabre Individuals                                                 | Participation                                                                                       |
-|  2015 | National Inter-Schools Fencing Championship  | –‘B’ Division Women’s Sabre Individuals                                                                                            | Par                                                                                                 |
+|  2022 | National-Inter-Schools Fencing Championship               | ‘B’ Division Girl’s: Epee, Foil and Sabre events <br>‘C’ Division Girl’s: Epee, Foil and Sabre events  | Participation   |
+|  2018 | National Inter-Schools Fencing Championship  | –'C' Division Women's Epee Individuals –'B' Division Women's Sabre Individuals                                                     |                                             Participation               |
 
 
 ![](/images/CCA/Physical%20Sports/Fencing/F2.jpg)

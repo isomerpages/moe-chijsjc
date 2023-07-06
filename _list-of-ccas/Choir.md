@@ -3,10 +3,7 @@ title: Choir
 permalink: /choir/
 description: ""
 ---
-
-
-
-![](/images/CCA/Visual%20&%20Performing%20Arts/Choir/C1.jpg)
+![](/images/CCA/Visual%20&amp;%20Performing%20Arts/Choir/C1.jpg)
 
 #### **About**
 
@@ -49,7 +46,7 @@ Our young singers are also involved in choral exchanges with other secondary sch
   </tr>
   <tr>
     <td class="tg-ktyi">Teacher-in-charge<br></td>
-    <td class="tg-ktyi">Ms Kathleen Ang (IC1)<br>Ms Nur Izzati Bte Jasni (IC2)<br>Mr Hu Chong En (Covering IC)<br>Mdm Singarajan Geetha</td>
+    <td class="tg-ktyi">Ms Kathleen Ang (OIC),<br>Ms Nur Izzati Bte Jasni, <br>Mr Hu Chong En</td>
   </tr>
 </tbody>
 </table>
@@ -179,4 +176,4 @@ Our young singers are also involved in choral exchanges with other secondary sch
 </tbody>
 </table>
 
-![](/images/CCA/Visual%20&%20Performing%20Arts/Choir/C2.jpg)
+![](/images/CCA/Visual%20&amp;%20Performing%20Arts/Choir/C2.jpg)

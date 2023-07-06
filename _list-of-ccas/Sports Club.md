@@ -58,7 +58,7 @@ Through these activities, our members learn perseverance, teamwork and to give t
   </tr>
   <tr>
     <td class="tg-ktyi">Teacher-in-charge </td>
-    <td class="tg-ktyi">Mr Muhammad Taufiq (IC),<br>Mr Lim Chee Koon,<br>Ms Madeline Lee</td>
+    <td class="tg-ktyi">Mr Muhammad Taufiq Bin Najmuddeen (OIC),<br>Ms Madeline Lee,<br>Mr Lyndon Lee</td>
   </tr>
 </tbody>
 </table>

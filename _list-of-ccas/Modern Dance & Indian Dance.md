@@ -1,5 +1,5 @@
 ---
-title: Modern Dance &amp; Indian Dance
+title: Modern Dance & Indian Dance
 permalink: /dance/
 description: ""
 ---
@@ -13,7 +13,7 @@ description: ""
 #### **About**
 
 
-Life as a Modern or Indian dancer in SJC’s Dance Ensemble is always filled with excitement! SJC dancers are never short of opportunities to showcase their talents on various platforms both in school and outside. Every year, our dancers are actively involved in numerous school events, productions and competitions. We are also invited to collaborate with other organisations to put up public performances.
+Life as a member in SJC's Modern Dance CCA is always filled with excitement! SJC dancers are never short of opportunities to showcase their talents on various platforms both in school and outside. Every year, our dancers are actively involved in numerous school events, productions and competitions. We are also invited to collaborate with other organisations to put up public performances.
 
 #### **Objectives**
 
@@ -33,25 +33,6 @@ Life as a Modern or Indian dancer in SJC’s Dance Ensemble is always filled wit
 .tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
-<thead>
-  <tr>
-    <th class="tg-ktyi"><span style="background-color:initial">Schedule</span><br><span style="background-color:initial">Indian Dance</span></th>
-    <th class="tg-ktyi"><span style="background-color:initial">Thursday: 3:45 p.m. – 6:15 p.m.</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-ktyi">Venue<br></td>
-    <td class="tg-ktyi">Dance Studio</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi"><span style="background-color:initial">Teacher-in-charge</span><br><span style="background-color:initial">Indian Dance</span></td>
-    <td class="tg-ktyi">Mrs Geetha Singarajan (IC)</td>
-  </tr>
-</tbody>
-</table>
-  
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -60,7 +41,7 @@ Life as a Modern or Indian dancer in SJC’s Dance Ensemble is always filled wit
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+</table><table class="tg">
 <thead>
   <tr>
     <th class="tg-ktyi"><span style="background-color:initial">Schedule</span><br><span style="background-color:initial">Modern Dance</span></th>
@@ -74,7 +55,7 @@ Life as a Modern or Indian dancer in SJC’s Dance Ensemble is always filled wit
   </tr>
   <tr>
     <td class="tg-ktyi"><span style="background-color:initial">Teacher-in-charge</span><br><span style="background-color:initial">Modern Dance</span></td>
-    <td class="tg-ktyi"><span style="background-color:initial">Mrs Lee Ann Gee (IC1)</span><br><br>Ms Chan Lian Yin (IC2)<br>Mr Tan Kuan Ting</td>
+    <td class="tg-ktyi"><span style="background-color:initial">Ms Chan Lian Yin</span><br>Mr Tan Kuan Ting<br>Mrs Geetha Singarajan</td>
   </tr>
 </tbody>
 </table>

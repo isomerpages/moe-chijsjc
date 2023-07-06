@@ -61,7 +61,7 @@ We engage our CCA members with fun and enriching CCA sessions, enabling them to 
   </tr>
   <tr>
     <td class="tg-ktyi">Teacher-in-charge</td>
-    <td class="tg-ktyi">Mr Teo Wee Seng (IC),<br>Ms Jean Lim Le Hui, <br>Mdm Phoon Lai Ling,<br>Ms Raabiyathul Basariah</td>
+    <td class="tg-ktyi">Mr Teo Wee Seng (OIC),<br>Ms Jean Lim Le Hui, <br>Mdm Phoon Lai Ling,<br>Ms Raabiyathul Basariah<br>Ms Anne Victor</td>
   </tr>
 </tbody>
 </table>
@@ -82,20 +82,14 @@ We engage our CCA members with fun and enriching CCA sessions, enabling them to 
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-dgl5">Year<br></th>
+      <th class="tg-dgl5">Year<br></th>
     <th class="tg-dgl5">Name of Competition<br></th>
     <th class="tg-dgl5">Division/Category<br></th>
     <th class="tg-dgl5">Achievement<br></th>
   </tr>
 </thead>
 <tbody>
-    <tr>
-    <td class="tg-zr06">2022<br></td>
-    <td class="tg-zr06">Corps Achievement Award (CAA)<br></td>
-    <td class="tg-ktyi"></td>
-    <td class="tg-ktyi">Gold Award<br></td>
-  </tr>
-  <tr></tr><tr>
+  <tr>
     <td class="tg-zr06">2020<br></td>
     <td class="tg-zr06">Corps Achievement Award (CAA)<br></td>
     <td class="tg-ktyi"></td>
@@ -112,48 +106,6 @@ We engage our CCA members with fun and enriching CCA sessions, enabling them to 
     <td class="tg-zr06">Corps Achievement Award (CAA)<br></td>
     <td class="tg-ktyi"></td>
     <td class="tg-ktyi">Gold Award<br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">2017<br></td>
-    <td class="tg-zr06">Corps Achievement Award (CAA)<br></td>
-    <td class="tg-ktyi"></td>
-    <td class="tg-ktyi">Gold Award<br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">2016<br></td>
-    <td class="tg-zr06">Corps Achievement Award (CAA)<br></td>
-    <td class="tg-ktyi"></td>
-    <td class="tg-zr06">Silver Award<br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">2015<br></td>
-    <td class="tg-zr06">Corps Achievement Award (CAA)<br></td>
-    <td class="tg-ktyi"></td>
-    <td class="tg-zr06">Silver Award<br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">2014<br></td>
-    <td class="tg-zr06">Corps Achievement Award (CAA)<br></td>
-    <td class="tg-ktyi"></td>
-    <td class="tg-zr06">Silver Award<br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">2013<br></td>
-    <td class="tg-zr06">Corps Achievement Award (CAA)<br></td>
-    <td class="tg-ktyi"></td>
-    <td class="tg-zr06">Silver Award<br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">2012<br></td>
-    <td class="tg-zr06">Corps Achievement Award (CAA)<br></td>
-    <td class="tg-ktyi"></td>
-    <td class="tg-zr06">Silver Award<br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">2011<br></td>
-    <td class="tg-zr06">Corps Achievement Award (CAA)<br></td>
-    <td class="tg-ktyi"></td>
-    <td class="tg-ktyi">Gold Award</td>
   </tr>
 </tbody>
 </table>

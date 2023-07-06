@@ -1,5 +1,5 @@
 ---
-title: National Police Cadet Corps
+title: National Police Cadet Corps (NPCC)
 permalink: /npcc/
 description: ""
 ---

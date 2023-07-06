@@ -48,13 +48,13 @@ Through these activities, our members learn perseverance, teamwork and to give t
 <thead>
   <tr>
     <th class="tg-ktyi">Schedule<br></th>
-    <th class="tg-ktyi">Monday: 3.45 pm to 5.45 pm <br>Thursday: 3.45 pm to 6.15 pm <br></th>
+    <th class="tg-ktyi">Monday: 3.45 pm to 5.45 pm <br>Wednesday: 3.45 pm to 6.15 pm<br>Thursday: 3.45 pm to 6.15 pm <br>Friday: 3.45 pm to 6.15 pm<br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-ktyi">Venue<br></td>
-    <td class="tg-7yig"><br>Netball Court (Lower Sec) [Mon]<br>Netball Court &amp; School Hall (Upper Sec) [Thurs] </td>
+    <td class="tg-ktyi">Netball Court (Lower Sec) [Mon]<br>Netball Court &amp; School Hall (Upper Sec) [Thurs] </td>
   </tr>
   <tr>
     <td class="tg-ktyi">Teacher-in-charge </td>

@@ -44,7 +44,7 @@ Started in 2004, the Shooting CCA aims to
 <thead>
   <tr>
     <th class="tg-ktyi">Schedule</th>
-    <th class="tg-ktyi">Monday &amp; Friday  3.45 pm to 6.15 pm.<br></th>
+    <th class="tg-ktyi">Monday: 3.45 pm to 6.15 pm,<br> Friday: 3.45 pm to 6.15 pm<br></th>
   </tr>
 </thead>
 <tbody>

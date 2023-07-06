@@ -55,7 +55,7 @@ Our 5-point programme – Personal and Social Development, Home, Community, Outd
 <thead>
   <tr>
     <th class="tg-ktyi">Schedule<br></th>
-    <th class="tg-ktyi">Wednesday &amp; Friday, 3.45pm – 6.15pm</th>
+    <th class="tg-ktyi">Wednesday &amp; Friday, 3.45pm – 6.15pm<br>Friday (Semester 1), 3.45pm – 6.15pm </th>
   </tr>
 </thead>
 <tbody>
@@ -65,7 +65,7 @@ Our 5-point programme – Personal and Social Development, Home, Community, Outd
   </tr>
   <tr>
     <td class="tg-ktyi">Teacher-in-charge<br></td>
-    <td class="tg-ktyi">Ms Vera Yuen (OIC)<br>Ms Siti Nurizzati Jamil <br>Ms Nur Farizan Bte Abubakar</td>
+    <td class="tg-ktyi">Ms Nur Farizan Bte Abubakar (OIC - covering)<br>Ms Siti Nurizzati Binte Jamil <br>Ms Vera Yuen <br>Ms Lee Yu Xian</td>
   </tr>
 </tbody>
 </table>
@@ -85,22 +85,14 @@ Our 5-point programme – Personal and Social Development, Home, Community, Outd
 </style>
 <table class="tg">
 <thead>
-  <tr>
-    <th class="tg-dgl5">Year<br></th>
-    <th class="tg-dgl5">Name of Competition<br></th>
-    <th class="tg-dgl5">Division/Category<br></th>
-    <th class="tg-dgl5">Achievement<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
+   <tr>
     <td class="tg-zr06">2020<br></td>
     <td class="tg-zr06">Puan Noor Aishah Award<br></td>
     <td class="tg-ktyi"></td>
     <td class="tg-zr06">Gold Award<br></td>
   </tr>
   <tr>
-    <td class="tg-zr06" rowspan="5">2019<br></td>
+    <td rowspan="5" class="tg-zr06">2019<br></td>
     <td class="tg-zr06">Puan Noor Aishah Award<br></td>
     <td class="tg-ktyi"></td>
     <td class="tg-zr06">Gold Award<br></td>
@@ -131,19 +123,8 @@ Our 5-point programme – Personal and Social Development, Home, Community, Outd
     <td class="tg-ktyi"></td>
     <td class="tg-zr06">Gold Award<br></td>
   </tr>
-  <tr>
-    <td class="tg-zr06">2017<br></td>
-    <td class="tg-zr06">Puan Noor Aishah Award<br></td>
-    <td class="tg-ktyi"></td>
-    <td class="tg-zr06">Gold Award<br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">2005 - 2016<br></td>
-    <td class="tg-zr06">Puan Noor Aishah Award<br></td>
-    <td class="tg-ktyi"></td>
-    <td class="tg-zr06">Silver Award</td>
-  </tr>
-</tbody>
-</table>
+  
+
+</thead></table>
 
 ![](/images/CCA/Uniformed%20Groups/Girl%20Guides/G2.png)

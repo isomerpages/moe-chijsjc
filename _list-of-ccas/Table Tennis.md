@@ -43,7 +43,7 @@ In SJC, the training sessions are designed to develop mental acuity in students.
 <thead>
   <tr>
     <th class="tg-ktyi">Schedule<br></th>
-    <th class="tg-ktyi"> Wednesday (Lower Sec) : 3.45 pm to 6.00 pm <br>Friday (Upper Sec): 3.45 pm to 6.15 pm<br></th>
+    <th class="tg-ktyi"> Wednesday (Lower Sec) : 3.45 pm to 6.00 pm <br>* Thursday: 3.45 pm to 6.15 pm, <br> Friday (Upper Sec): 3.45 pm to 6.15 pm<br></th>
   </tr>
 </thead>
 <tbody>
@@ -57,6 +57,6 @@ In SJC, the training sessions are designed to develop mental acuity in students.
   </tr>
 </tbody>
 </table>
-
+*Additional session during peak season/ identified for school team players only.
 
 ![](/images/CCA/Physical%20Sports/Table%20Tennis/T2.png)

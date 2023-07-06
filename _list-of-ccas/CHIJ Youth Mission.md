@@ -3,9 +3,6 @@ title: CHIJ Youth Mission
 permalink: /chijyouthmission/
 description: ""
 ---
-
-
-
 ![](/images/CCA/Clubs%20and%20Societies/CHIJ%20Youth%20Mission/C1.jpg)
 
 #### **About**
@@ -48,8 +45,10 @@ The CHIJ Youth Mission is a CCA special to the school and the four other IJ Scho
 
 | Venue             | Wednesday, 3:45 pm to 5:45 pm.      |
 |-------------------|-------------------------------------|
-| Venue             | Computer Lab 1                      |
-| Teacher-in-charge | Ms Adeline Ng (OIC) Ms Gan Yee Hwee |
+| Venue                    | I & E Room                     |
+| Teacher-in-charge | Mdm Dewi Juriah Bte Sudirman (OIC), 
+||Ms Adeline Ng, 
+||Ms Gan Yee Hwee |
 
 #### **Achievement**
 

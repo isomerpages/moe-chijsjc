@@ -28,7 +28,7 @@ The CHIJ Youth Mission is a CCA special to the school and the four other IJ Scho
 
 
 *   Food collection and distribution to needy families
-*   Fund raising for outreach activities; e,g, sale of roses & chocolates for Valentine’s Day
+*   Fund raising for outreach activities; e,g, sale of roses &amp; chocolates for Valentine’s Day
 *   Joint IJYM activities with the four other IJYM schools
 *   Inter-CCA VIA projects collaboration
 *   Partnership for outreach projects with community groups / organization
@@ -45,10 +45,8 @@ The CHIJ Youth Mission is a CCA special to the school and the four other IJ Scho
 
 | Venue             | Wednesday, 3:45 pm to 5:45 pm.      |
 |-------------------|-------------------------------------|
-| Venue                    | I & E Room                     |
-| Teacher-in-charge | Mdm Dewi Juriah Bte Sudirman (OIC), 
-||Ms Adeline Ng, 
-||Ms Gan Yee Hwee |
+| Venue                    | I &amp; E Room                     |
+| Teacher-in-charge | Mdm Dewi Juriah Bte Sudirman (OIC), <br>Ms Adeline Ng, <br>Ms Gan Yee Hwee |
 
 #### **Achievement**
 

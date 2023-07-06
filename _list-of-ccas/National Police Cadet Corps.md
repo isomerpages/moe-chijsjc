@@ -3,9 +3,6 @@ title: National Police Cadet Corps
 permalink: /npcc/
 description: ""
 ---
-
-
-
 ![](/images/CCA/Uniformed%20Groups/National%20Police%20Cadet%20Corps/N1.jpg)
 
 #### **About**
@@ -15,7 +12,7 @@ SJC NPCC Unit was started in the late 1960s as one of two uniformed group CCAs i
 
   
 
-The unit has consistently done well to attain the annual Unit Overall Proficiency Award since its eligibility in 2003 – Silver (2003 to 2005 & 2013 – 2014) and Gold (2006 – 2012, 2015 – 2017).  In addition, at least 1 outstanding cadet also attained the SPF NPCC Award, the pinnacle award for NPCC cadets.
+The unit has consistently done well to attain the annual Unit Overall Proficiency Award since its eligibility in 2003 – Silver (2003 to 2005 &amp; 2013 – 2014) and Gold (2006 – 2012, 2015 – 2017).&nbsp; In addition, at least 1 outstanding cadet also attained the SPF NPCC Award, the pinnacle award for NPCC cadets.
 
   
 
@@ -84,9 +81,9 @@ The 6As – namely Aware, Acquire, Actuate, Aspire, Achieve and Aim – defines 
 *   To cultivate a culture that encourages cadets to treat fellow cadets with respect, courtesy and tact and in turn demonstrates care and concern to others
 *   In our collaboration and identification with the Singapore Police Force,
 
->*   help to build a stronger bond of friendship with them, and so lead to a safer place for all in the country.
+&gt;*   help to build a stronger bond of friendship with them, and so lead to a safer place for all in the country.
 
->*   adopt its tradition of high standards of performance, commitment, duty and service, to seek to excel and to face up to challenge
+&gt;*   adopt its tradition of high standards of performance, commitment, duty and service, to seek to excel and to face up to challenge
 
 #### **Activities**
 
@@ -130,7 +127,7 @@ The SJC NPCC unit has a vibrant programme for all members from Sec 1 to 5.
   </tr>
   <tr>
     <td class="tg-ktyi">Teacher-in-charge<br></td>
-    <td class="tg-ktyi">Ms Joanna Goh (IC)<br>Ms Ong Suat King<br>Ms Iris Teh<br>Mr Alvin Toh</td>
+    <td class="tg-ktyi">Ms Joanna Goh (OIC)<br>Ms Ong Suat King<br>Ms Iris Teh<br>Mr Loh Chu Ken<br> Mr Alvin Toh</td>
   </tr>
 </tbody>
 </table>

@@ -6,3 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
+Dear SJCians and Parents,
+
+The WA schedules for Term 3 have been updated. You may refer to the schedule for each level under [Useful Links and Resources > Students](https://www.chijstjosephsconvent.moe.edu.sg/useful-links/students/).
+
+Thank you.

@@ -65,7 +65,7 @@ Our 5-point programme – Personal and Social Development, Home, Community, Outd
   </tr>
   <tr>
     <td class="tg-ktyi">Teacher-in-charge<br></td>
-    <td class="tg-ktyi">Ms Nur Farizan Bte Abubakar (OIC - covering)<br>Ms Siti Nurizzati Binte Jamil <br>Ms Vera Yuen <br>Ms Lee Yu Xian</td>
+    <td class="tg-ktyi">Ms Nur Farizan Bte Abubakar<br>Ms Siti Nurizzati Binte Jamil <br>Ms Vera Yuen <br>Ms Lee Yu Xian</td>
   </tr>
 </tbody>
 </table>

@@ -46,7 +46,7 @@ The CHIJ Youth Mission is a CCA special to the school and the four other IJ Scho
 | Venue             | Wednesday, 3:45 pm to 5:45 pm.      |
 |-------------------|-------------------------------------|
 | Venue                    | I &amp; E Room                     |
-| Teacher-in-charge | Mdm Dewi Juriah Bte Sudirman (OIC), <br>Ms Adeline Ng, <br>Ms Gan Yee Hwee |
+| Teacher-in-charge | Mdm Dewi Juriah Bte Sudirman, <br>Ms Adeline Ng, <br>Ms Gan Yee Hwee |
 
 #### **Achievement**
 

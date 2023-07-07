@@ -14,8 +14,10 @@ description: ""
 >* [4E/5N Prelim Schedule 2023](/files/Useful%20Links/Students/Examinations/4e5n%20prelim%20schedule%202023.pdf),
 >* [4NA and 4NT Prelim Schedule 2023](/files/Useful%20Links/Students/Examinations/4na%20and%204nt%20prelim%20schedule%202023.pdf)
 
-* **2023 Weighted Assessment (WA3) Schedules**
-> 
+* **2023 Term 3 Weighted Assessment (WA3) Schedules**
+> * [Secondary 1](/files/Useful%20Links/Students/Weighted%20Assessments/wa3%20schedule%20-%20t3%20secondary%201.pdf)
+> * [Secondary 2](/files/Useful%20Links/Students/Weighted%20Assessments/wa3%20schedule%20-%20t3%20secondary%202.pdf)
+>  * [Secondary 3](/files/Useful%20Links/Students/Weighted%20Assessments/wa3%20schedule%20-%20t3%20secondary%203.pdf)
 
 * **Learning Portals**
 > * [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)

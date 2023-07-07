@@ -16,7 +16,7 @@ A key strength of the CCA is our participation in the annual digital animation c
 
   
 
-At Pixel, we believe in being effective, organised and giving our best in all that we do and thus our motto – **_Winning Every Moment_**.
+At Pixel, we believe in being effective, organised and giving our best in all that we do and thus our motto –&nbsp;**_Winning Every Moment_**.
 
 #### **Objectives**
 
@@ -41,16 +41,16 @@ At Pixel, we believe in being effective, organised and giving our best in all th
 #### **CCA Information**
 
 
-| Schedule           | Monday & Wednesday, 3.45 pm to 6.15 pm                           |
+| Schedule           | Monday &amp; Wednesday, 3.45 pm to 6.15 pm                           |
 |--------------------|------------------------------------------------------------------|
-| Venue              |                         Computer Lab 3 & 4                       |
-| Teacher-in-charge  | Ms Tiffany Wee, Mr Mark Chan Chee Keong, Mr Samuel Tan 
+| Venue              |                         Computer Lab 3 &amp; 4                       |
+| Teacher-in-charge  | Ms Tiffany Wee,<br> Mr Mark Chan Chee Keong, <br>Mr Samuel Tan 
 #### **Achievements**
 
 
 | Year  | Name of Competition                   | Division/Category | Achievement                                       |
 |-------|---------------------------------------|-------------------|---------------------------------------------------|
-|  2021 |  Appreciating NSmen Video Competition | Open              | Bronze Award & Merit Award                        |
+|  2021 |  Appreciating NSmen Video Competition | Open              | Bronze Award &amp; Merit Award                        |
 | 2020  | N.E.mation 2020                       | Secondary Schools | Top 10 Finalist                                   |
 | 2019  | N.E.mation 2019                       | Secondary Schools | Top 10 Finalist Special Award: Social Media Award |
 | 2018  | N.E.mation 2018                       | Secondary Schools | Top 10 Finalist                                   |

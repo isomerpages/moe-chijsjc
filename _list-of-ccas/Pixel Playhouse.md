@@ -44,7 +44,7 @@ At Pixel, we believe in being effective, organised and giving our best in all th
 | Schedule           | Monday & Wednesday, 3.45 pm to 6.15 pm                           |
 |--------------------|------------------------------------------------------------------|
 | Venue              |                         Computer Lab 3 & 4                       |
-| Teacher-in-charge  | Ms Tiffany Wee (IC), Mr Mark Chan Chee Keong, Mr Samuel Tan 
+| Teacher-in-charge  | Ms Tiffany Wee, Mr Mark Chan Chee Keong, Mr Samuel Tan 
 #### **Achievements**
 
 

@@ -54,7 +54,7 @@ Started in 2004, the Shooting CCA aims to
   </tr>
   <tr>
     <td class="tg-ktyi">Teacher-in-charge </td>
-    <td class="tg-ktyi">Ms Nurwidayu Binte Mohammed Zulkepli (OIC),<br>Mr Lim Shian Ruenn</td>
+    <td class="tg-ktyi">Ms Nurwidayu Binte Mohammed Zulkepli,<br>Mr Lim Shian Ruenn</td>
   </tr>
 </tbody>
 </table>

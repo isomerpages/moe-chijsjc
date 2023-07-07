@@ -45,7 +45,7 @@ By the end of their time in the CCA, students realise that drama and debates go 
   </tr>
   <tr>
     <td class="tg-ktyi">Teacher-in-charge<br></td>
-    <td class="tg-ktyi">Ms Neo Hui Ning Melissa (IC)<br>Mrs Rachel Tan<br>Ms Afroza Begum Bte Kamal<br>Ms Samatha Han Jia-Wen</td>
+    <td class="tg-ktyi">Ms Neo Hui Ning Melissa<br>Mrs Rachel Tan<br>Ms Afroza Begum Bte Kamal<br>Ms Samatha Han Jia-Wen</td>
   </tr>
 </tbody>
 </table>

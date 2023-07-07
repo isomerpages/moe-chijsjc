@@ -46,7 +46,7 @@ Our young singers are also involved in choral exchanges with other secondary sch
   </tr>
   <tr>
     <td class="tg-ktyi">Teacher-in-charge<br></td>
-    <td class="tg-ktyi">Ms Kathleen Ang (OIC),<br>Ms Nur Izzati Bte Jasni, <br>Mr Hu Chong En</td>
+    <td class="tg-ktyi">Ms Kathleen Ang,<br>Ms Nur Izzati Bte Jasni, <br>Mr Hu Chong En</td>
   </tr>
 </tbody>
 </table>

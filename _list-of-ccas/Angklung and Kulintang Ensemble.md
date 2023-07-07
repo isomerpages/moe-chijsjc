@@ -46,7 +46,7 @@ Members are expected to uphold the standards established to produce high quality
   </tr>
   <tr>
     <td class="tg-ktyi">Teacher-in-charge<br></td>
-    <td class="tg-ktyi">Ms Nurul Ain Sakina Bte Soonan (OIC),<br> Ms Hafifah Binte Mohd Hafiz Tan</td>
+    <td class="tg-ktyi">Ms Nurul Ain Sakina Bte Soonan,<br> Ms Hafifah Binte Mohd Hafiz Tan</td>
   </tr>
 </tbody>
 </table>

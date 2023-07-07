@@ -3,10 +3,7 @@ title: Guitar Ensemble
 permalink: /guitar/
 description: ""
 ---
-
-
-
-![](/images/CCA/Visual%20&%20Performing%20Arts/Guitar%20Ensemble/G1.jpg)
+![](/images/CCA/Visual%20&amp;%20Performing%20Arts/Guitar%20Ensemble/G1.jpg)
 
 #### **About**
 
@@ -54,7 +51,7 @@ Through the various performances and practices, SJC Guitar Ensemble members are 
   </tr>
   <tr>
     <td class="tg-ktyi">Teacher-in-charge<br></td>
-    <td class="tg-ktyi">Mrs Lee-Tan Yu Jun (IC1)<br>Ms Yeap Wen Qi Clarissa (IC2)</td>
+    <td class="tg-ktyi">Mrs Lee-Tan Yu Jun<br>Ms Yeap Wen Qi Clarissa</td>
   </tr>
 </tbody>
 </table>
@@ -156,4 +153,4 @@ Through the various performances and practices, SJC Guitar Ensemble members are 
 </tbody>
 </table>
 
-![](/images/CCA/Visual%20&%20Performing%20Arts/Guitar%20Ensemble/G2.png)
+![](/images/CCA/Visual%20&amp;%20Performing%20Arts/Guitar%20Ensemble/G2.png)

@@ -17,7 +17,7 @@ description: ""
 * **2023 Term 3 Weighted Assessment (WA3) Schedules**
 > * [Secondary 1](/files/Useful%20Links/Students/Weighted%20Assessments/wa3%20schedule%20-%20t3%20secondary%201.pdf)
 > * [Secondary 2](/files/Useful%20Links/Students/Weighted%20Assessments/wa3%20schedule%20-%20t3%20secondary%202.pdf)
->  * [Secondary 3](/files/Useful%20Links/Students/Weighted%20Assessments/wa3%20schedule%20-%20t3%20secondary%203.pdf)
+>  * [Secondary 3](/files/Useful%20Links/Students/Weighted%20Assessments/wa3%20schedule%20-%20t3%20sec%203_updated%20on%2012%20jul.pdf)
 
 * **Learning Portals**
 > * [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)

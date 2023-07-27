@@ -50,4 +50,4 @@ third_nav_title: Our People
 |   Mr Justin Ng  |           Desktop Engineer          |
 | Mr Muhammad Hafiz Bin Jelani |        Desktop Engineer       |
 |     Ms Ernawati Binte Mohamad Yusri   | Librarian |
-| M      | Kitchen Helper|
+| Mdm Rosmawati Binte Salim      | Kitchen Helper|

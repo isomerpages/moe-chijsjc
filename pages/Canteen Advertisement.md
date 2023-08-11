@@ -3,13 +3,14 @@ title: Canteen Advertisement
 permalink: /canteen-advertisement/
 description: ""
 ---
-### CHIJ St. Joseph's Convent
+#### **School Canteen Advertisement**
 
-School Canteen Advertisement
+CHIJ St. Joseph's Convent
+
+| Type of Stall | Closing Date | Requirements |
+| -------- | ------- | -------- |
+| Asian Cuisine   | 06 Oct 2023     | Chinese Mixed Rice and Vegetarian Stalls are acceptable     |
 
 
-
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
+**Application Procedure**
+1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.

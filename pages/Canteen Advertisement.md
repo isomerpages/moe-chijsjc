@@ -3,9 +3,9 @@ title: Canteen Advertisement
 permalink: /canteen-advertisement/
 description: ""
 ---
-#### **School Canteen Advertisement**
-
 CHIJ St. Joseph's Convent
+
+#### **School Canteen Advertisement**
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | ------- | -------- |

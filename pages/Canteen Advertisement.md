@@ -25,7 +25,7 @@ description: ""
 
 * Records of past catering or canteen experiences, if any
 
-3.  Submit the completed application form and documents by closing date via email OR to the School's General Office.
+3. Submit the completed application form and documents by closing date via email OR to the School's General Office.
 
 * Address: 62 Sengkang East Way, Singapore 548595
 

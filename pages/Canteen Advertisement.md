@@ -13,7 +13,7 @@ description: ""
 **Application Procedure**
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
 
-* [Application for Canteen Stall in Existing School](/files/application%20form.pdf)
+* [Application Form](/files/application%20form.pdf)
 
 2. Attached the following documents together with the application form:
 
@@ -25,7 +25,7 @@ description: ""
 
 * Records of past catering or canteen experiences, if any
 
-3.  Submit the completed application form and documents by closing date via email OR to the School's General Office.
+3. Submit the completed application form and documents by closing date via email OR to the School's General Office.
 
 * Address: 62 Sengkang East Way, Singapore 548595
 

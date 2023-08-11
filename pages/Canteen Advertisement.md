@@ -13,7 +13,7 @@ description: ""
 **Application Procedure**
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.
 
-* [Application for Canteen Stall in Existing School](/files/application%20form.pdf)
+* [Application Forml](/files/application%20form.pdf)
 
 2. Attached the following documents together with the application form:
 

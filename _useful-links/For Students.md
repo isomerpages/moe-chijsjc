@@ -48,5 +48,4 @@ description: ""
 
 #### **SCHOOL CANTEEN**
 * **Canteen Advertisement**
-> *[Canteen Advertisement]
-(https://www.chijstjosephsconvent.moe.edu.sg/canteen-advertisement/)
+> * [Canteen Advertisement](/canteen-advertisement/)

@@ -43,8 +43,6 @@ In SJC Volleyball, the players’ commitment to the rigorous training strengthen
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ktyi">Venue<br></td>
-    <td class="tg-ktyi"><span style="background-color:initial">Indoor Gymnasium - Level 3 (Monday)</span><br><br>Indoor Sports Hall (Wednesday &amp; Thursday)</td>
   </tr>
   <tr>
     <td class="tg-ktyi">Teacher-in-charge<br></td>
@@ -52,8 +50,7 @@ In SJC Volleyball, the players’ commitment to the rigorous training strengthen
   </tr>
 </tbody>
 </table>
-#### **Achievements**
-
+ **Achievements**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}

@@ -26,7 +26,6 @@ Members are expected to uphold the standards established to produce high quality
 
 Schedule        Monday: 3:45 pm – 6:00pm 
 <br>            Thursday: 3:45 pm – 6:15 pm<br>
-
 Teacher-in-charge   Ms Nurul Ain Sakina Bte Soonan,
 <br>                Ms Hafifah Binte Mohd Hafiz Tan<br>
 

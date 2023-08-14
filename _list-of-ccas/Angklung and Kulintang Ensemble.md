@@ -30,11 +30,6 @@ Schedule        Monday: 3:45 pm – 6:00pm
 Teacher-in-charge   Ms Nurul Ain Sakina Bte Soonan,
 <br>                Ms Hafifah Binte Mohd Hafiz Tan<br>
 
-|  |  | 
-| -------- | -------- | 
-|Schedule    | Monday: 3:45 pm – 6:00pm <br>Thursday: 3:45 pm – 6:15 pm<br> | 
-| Teacher-in-charge| Ms Nurul Ain Sakina Bte Soonan,<br>Ms Hafifah Binte Mohd Hafiz Tan<br>|
-
 
 #### **Achievements**
 

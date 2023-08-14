@@ -23,33 +23,11 @@ Members are expected to uphold the standards established to produce high quality
 
 #### **CCA Information**
 
+|  |  | 
+| -------- | -------- | 
+|Schedule    | Monday: 3:45 pm – 6:00pm <br>Thursday: 3:45 pm – 6:15 pm<br> | 
+| Teacher-in-charge| Ms Nurul Ain Sakina Bte Soonan,<br>Ms Hafifah Binte Mohd Hafiz Tan<br>|
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-ktyi">Schedule<br></th>
-    <th class="tg-ktyi">Monday: 3:45 pm – 6:00pm<br> Thursday: 3:45 pm – 6:15 pm</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-ktyi">Venue<br></td>
-    <td class="tg-ktyi">Dance Studio</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">Teacher-in-charge<br></td>
-    <td class="tg-ktyi">Ms Nurul Ain Sakina Bte Soonan,<br> Ms Hafifah Binte Mohd Hafiz Tan</td>
-  </tr>
-</tbody>
-</table>
 
 #### **Achievements**
 

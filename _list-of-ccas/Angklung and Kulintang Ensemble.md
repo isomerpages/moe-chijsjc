@@ -9,13 +9,10 @@ description: ""
 
 
 The CHIJ SJC Angklung &amp; Kulintang Ensemble “Plays Together, Shakes as One”.&nbsp; The CCA is made up of a team of talented and young individuals who play a range of instruments, including several angklungs on a rack at the same time, to create harmonic musical pieces.
-
   
-
 Members are expected to uphold the standards established to produce high quality music with practice sessions &amp; performances placing emphasis on discipline, commitment, confidence, teamwork and care for each other.&nbsp; The Angklung family strives together to give our best to every performance as we work hard and cultivate a passion for the CCA.
 
 #### **Objectives**
-
 
 *   To nurture in members an appreciation for the performing arts through the development and application of skills of angklung and kulintang as a musical instrument.
 

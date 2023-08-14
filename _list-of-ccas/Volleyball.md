@@ -51,6 +51,16 @@ In SJC Volleyball, the players’ commitment to the rigorous training strengthen
 </tbody>
 </table>
 
+
+
+| Column 1 | Column 2 |  |
+| -------- | -------- | -------- |
+| Schedule     | Monday: 3.45pm  to 6.15pm
+sadadadada | Wednesday: 3.45pm to 6.00pm
+
+
+
+
  **Achievements**
 
 <style type="text/css">

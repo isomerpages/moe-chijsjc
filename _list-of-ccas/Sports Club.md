@@ -15,15 +15,11 @@ We also believe in using sports to serve the community.&nbsp; Our members assist
 Through these activities, our members learn perseverance, teamwork and to give their best.&nbsp; They also develop civic-mindedness, by leveraging on their strengths to serve the community.&nbsp; Just as importantly, they build lasting friendships with fellow members in the CCA.
 
 #### **Objectives**
-
-
 *   To discover joy and interest in sports participation, so that students will continue to lead a healthy and active lifestyle beyond secondary education.
 *   To develop character and leadership skills.
 *   To build self-confidence and sense of belonging to the community
 
 #### **Activities**
-
-
 *   National Inter-School Tchoukball Competition
 *   N1 Cluster Schools Games (Netball &amp; Badminton)
 *   Sports Club Camp
@@ -34,33 +30,15 @@ Through these activities, our members learn perseverance, teamwork and to give t
 
 #### **CCA Information**
 
+**Schedule**<br>
+Monday: 3.45 pm to 5.45 pm  
+Wednesday: 3.45 pm to 6.15 pm  
+Thursday: 3.45 pm to 6.15 pm  
+Friday: 3.45 pm to 6.15 pm <br>
+**Teacher-in-charge**<br>
+Mr Muhammad Taufiq Bin Najmuddeen<br>
+Ms Madeline Lee<br>
+Mr Lyndon Lee<br>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-.tg .tg-7yig{background-color:#FFF;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-ktyi">Schedule<br></th>
-    <th class="tg-ktyi">Monday: 3.45 pm to 5.45 pm <br>Wednesday: 3.45 pm to 6.15 pm<br>Thursday: 3.45 pm to 6.15 pm <br>Friday: 3.45 pm to 6.15 pm<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-ktyi">Venue<br></td>
-    <td class="tg-ktyi">Netball Court (Lower Sec) [Mon]<br>Netball Court &amp; School Hall (Upper Sec) [Thurs] </td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">Teacher-in-charge </td>
-    <td class="tg-ktyi">Mr Muhammad Taufiq Bin Najmuddeen,<br>Ms Madeline Lee,<br>Mr Lyndon Lee</td>
-  </tr>
-</tbody>
-</table>
-  
+
 ![](/images/CCA/Physical%20Sports/Sports%20Club/S2.png)

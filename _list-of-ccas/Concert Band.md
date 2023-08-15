@@ -14,9 +14,11 @@ CHIJ SJC Concert Band features students who have mastered the skills and techniq
 
 The band comprises 3 main sections:
 
-1.  Brass section – Cornet, Trombone, French Horn, Euphonium, Tuba
-2.  Woodwind section – Flute, Clarinet, Saxophone, Bassoon
-3.  Percussion section – Drumset, Xylophone, Timpani, Cymbals etc.
+1\.  Brass section – Cornet, Trombone, French Horn, Euphonium, Tuba
+
+2\.  Woodwind section – Flute, Clarinet, Saxophone, Bassoon
+
+3\.  Percussion section – Drumset, Xylophone, Timpani, Cymbals etc.
 
   
 

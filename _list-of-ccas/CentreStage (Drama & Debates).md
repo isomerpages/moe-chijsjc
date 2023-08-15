@@ -28,7 +28,7 @@ By the end of their time in the CCA, students realise that drama and debates go 
 <br>* Friday: 3:45 pm – 5:45 pm (During competition season)<br>
 
 **Teacher-in-charge**
-<br>Ms NEo Hui Ning Melissa, <br> Mrs Rachel Tan,<br>Ms Afroza Begum Bte Kamal, <br>Ms Samantha Han Jia-Wen<br>
+<br>Ms Neo Hui Ning Melissa, <br> Mrs Rachel Tan,<br>Ms Afroza Begum Bte Kamal, <br>Ms Samantha Han Jia-Wen<br>
 
 **Additional session during peak season/identified for school team players only.
 

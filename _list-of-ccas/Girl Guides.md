@@ -42,33 +42,15 @@ Our 5-point programme – Personal and Social Development, Home, Community, Outd
 
 #### **CCA Information**
 
+**Schedule**        
+<br>Wednesday &amp; Friday: 3.45 pm to 6.15 pm
+<br>*Friday (Semester 1): 3:45 pm – 6:15 pm<br>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-ktyi">Schedule<br></th>
-    <th class="tg-ktyi">Wednesday &amp; Friday, 3.45pm – 6.15pm<br>* Friday (Semester 1), 3.45pm – 6.15pm </th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-ktyi">Venue<br></td>
-    <td class="tg-ktyi">Classrooms on Level 2 or Outside Guides Room (B1)</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">Teacher-in-charge<br></td>
-    <td class="tg-ktyi">Ms Nur Farizan Bte Abubakar<br>Ms Siti Nurizzati Binte Jamil <br>Ms Vera Yuen <br>Ms Lee Yu Xian</td>
-  </tr>
-</tbody>
-</table>
+**Teacher-in-charge**
+<br>Ms Nur Fariza Bte Abubakar, <br> Ms Siti Nurizzati Binte Jamil,<br>Ms Vera Yuen, 
+<br>Ms Lee Yu Xian<br>
+
+
 *Additional session during peak season/identified for school team players only.
 
 

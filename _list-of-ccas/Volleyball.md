@@ -25,13 +25,11 @@ In SJC Volleyball, the players’ commitment to the rigorous training strengthen
 
 #### **CCA Information**
 
+**Schedule**
+<br>Monday: 3.45 pm to 6.15 pm <br>Wednesday: 3.45 to 6.00pm  <br>Thursday: 3.45 to 6.15pm <br>
 
-
-|  | | 
-| -------- | -------- | 
-| Schedule     | Monday: 3.45 pm to 6.15 pm <br>Wednesday: 3.45 to 6.00pm  <br>Thursday: 3.45 to 6.15pm |
-Teachers-in-charge | Mr Law Gin Lieng <br>Ms Nurul Adilah Binte Mohd Ayub<br>Mrs Susie Lee
-
+**Teacher-in-charge**&nbsp; <br>
+Mr Law Gin Lieng <br>Ms Nurul Adilah Binte Mohd Ayub<br>Mrs Susie Lee
 
  **Achievements**
 

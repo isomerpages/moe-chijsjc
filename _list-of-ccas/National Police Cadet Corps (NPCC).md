@@ -104,33 +104,11 @@ The SJC NPCC unit has a vibrant programme for all members from Sec 1 to 5.
 
 #### **CCA Information**
 
+**Schedule**        
+<br>Friday: 3:45 pm – 6:15 pm<br>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-ktyi">Schedule<br></th>
-    <th class="tg-ktyi">Friday, 3.45pm – 6.15pm</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-ktyi">Venue<br></td>
-    <td class="tg-ktyi">B1/Block E, NPCC Room &amp; Classrooms</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">Teacher-in-charge<br></td>
-    <td class="tg-ktyi">Ms Joanna Goh,<br>Ms Ong Suat King,<br>Ms Iris Teh,<br>Mr Loh Chu Ken,<br> Mr Alvin Toh</td>
-  </tr>
-</tbody>
-</table>
+**Teacher-in-charge**
+<br>Ms Joanna Goh, <br> Ms Ong Suat King,<br>Ms Iris Teh, <br>Mr Loh Chu Ken,<br>Mr Alvin Toh<br>
 
 #### **Achievements**
 

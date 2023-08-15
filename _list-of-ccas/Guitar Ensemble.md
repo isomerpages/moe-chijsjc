@@ -29,32 +29,13 @@ Through the various performances and practices, SJC Guitar Ensemble members are 
 #### **CCA Information**
 
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-ktyi">Schedule<br></th>
-    <th class="tg-ktyi">Monday: 3:45 pm – 6:00 pm<br>Thursday: 3:45 pm – 6:15 pm</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-ktyi">Venue<br></td>
-    <td class="tg-ktyi">AVA Room &amp; Meeting Room 1</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">Teacher-in-charge<br></td>
-    <td class="tg-ktyi">Mrs Lee-Tan Yu Jun<br>Ms Yeap Wen Qi Clarissa</td>
-  </tr>
-</tbody>
-</table>
+**Schedule**        
+<br>Monday: 3:45 pm – 6:00pm
+<br>Thursday: 3.45 pm to 6.15 pm
+<br>
+
+**Teacher-in-charge**
+<br>Mrs Lee-Tan Yu Jun, <br> Ms Yeap Wen Qi Clarissa<br>
 
 #### **Achievements**
 

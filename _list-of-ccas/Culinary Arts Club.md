@@ -30,11 +30,12 @@ We also organize learning journeys to a variety of places related to food resour
 
 #### **CCA Information**
 
+**Schedule**        
+<br>Monday: 3:45 pm – 5:45pm
+<br>
 
-| Time               | Monday, 3.45 pm to 5.45 pm                        |
-|--------------------|---------------------------------------------------|
-| Venue              | Kitchens 1 &amp; 2 and EL HR/(next to Kitchen 2)      |
-| Teacher-in-charge  | Mrs Cindy Soon,<br> Ms Ng Ai Khim  |
+**Teacher-in-charge**
+<br>Mrs Cindy Soon, <br> Ms Ng Ai Khim<br>
 
 
 ![](/images/CCA/Clubs%20and%20Societies/Culinary%20Arts%20Club/C2.png)

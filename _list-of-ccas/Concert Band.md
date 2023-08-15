@@ -14,9 +14,11 @@ CHIJ SJC Concert Band features students who have mastered the skills and techniq
 
 The band comprises 3 main sections:
 
-1.  Brass section – Cornet, Trombone, French Horn, Euphonium, Tuba
-2.  Woodwind section – Flute, Clarinet, Saxophone, Bassoon
-3.  Percussion section – Drumset, Xylophone, Timpani, Cymbals etc.
+1\.  Brass section – Cornet, Trombone, French Horn, Euphonium, Tuba
+
+2\.  Woodwind section – Flute, Clarinet, Saxophone, Bassoon
+
+3\.  Percussion section – Drumset, Xylophone, Timpani, Cymbals etc.
 
   
 
@@ -34,33 +36,13 @@ Students should
 
 #### **CCA Information**
 
+**Schedule**        
+<br>Monday: 3:45 pm – 6:15pm
+<br>Wednesday: 3.45 pm to 6.00 pm
+<br>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-ktyi">Schedule<br></th>
-    <th class="tg-ktyi">Monday:  3.45 pm – 6.15 pm<br>Wednesday : 3.45 pm – 6.00 pm</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-ktyi">Venue<br></td>
-    <td class="tg-ktyi">Music Room (E-01-02) &amp; Classrooms</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">Teacher-in-charge<br></td>
-    <td class="tg-ktyi">Mrs Jasmine Law-Spain, <br>Ms Adeline Ng,<br>Ms Gangka D/O Perisamy</td>
-  </tr>
-</tbody>
-</table>
+**Teacher-in-charge**
+<br>Mrs Jasmine Law-Spain, <br> Ms Adeline Ng,<br>Ms Gangka D/O Perisamy<br>
 
 #### **Achievements**
 

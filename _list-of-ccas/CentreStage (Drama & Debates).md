@@ -22,34 +22,15 @@ By the end of their time in the CCA, students realise that drama and debates go 
 
 #### **CCA Information**
 
+**Schedule**        
+<br>Monday: 3:45 pm – 6:15pm
+<br>Wednesday: 3.45 pm to 6.15 pm
+<br>* Friday: 3:45 pm – 5:45 pm (During competition season)<br>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-ktyi">Schedule<br></th>
-    <th class="tg-ktyi">Monday, 3:45 pm to 6:15 pm<br>Wednesday 3:45om to 6:15pm<br>*Friday: 3:45 pm to 5:45 pm* (During competition<br>season)</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-ktyi">Venue<br></td>
-    <td class="tg-ktyi">Mon &amp; Wed: B02-05 (Drama)<br>Mon &amp; Wed: Library (Drama)<br>Mon, Wed &amp; Friday: I&amp;E Room (Debate) </td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">Teacher-in-charge<br></td>
-    <td class="tg-ktyi">Ms Neo Hui Ning Melissa<br>Mrs Rachel Tan<br>Ms Afroza Begum Bte Kamal<br>Ms Samatha Han Jia-Wen</td>
-  </tr>
-</tbody>
-</table>
-*Additional session during peak season/identified for school team players only.
+**Teacher-in-charge**
+<br>Ms Neo Hui Ning Melissa, <br> Mrs Rachel Tan,<br>Ms Afroza Begum Bte Kamal, <br>Ms Samantha Han Jia-Wen<br>
+
+**Additional session during peak season/identified for school team players only.
 
 
 #### **Achievements**

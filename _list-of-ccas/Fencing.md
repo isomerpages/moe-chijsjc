@@ -31,11 +31,12 @@ CHIJ SJC’s Fencing Club started since 1996, and our students have enjoyed taki
 
 #### **CCA Information**
 
-|                    |                                                            |
-|--------------------|------------------------------------------------------------|
-| Schedule           | Wednesday: 3.45 pm to 6.15 pm<br>Friday: 3.45 pm to 6.00 pm  |
-| Venue              |                  Indoor Gymnasium (Level 3)                |
-| Teacher-in-charge  | Mr Daniel Chew Ju Ern, <br> Mrs Goh Boon Hong        |
+**Schedule**        
+<br>Wednesday: 3.45 pm to 6.15 pm
+<br>Friday: 3:45 pm – 6:00 pm<br>
+
+**Teacher-in-charge**
+<br>Mr Daniel Chew Ju Ern, <br> Mrs Goh Boon Hong<br>
 
 #### **Achievements**
 

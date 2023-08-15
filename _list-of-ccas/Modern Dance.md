@@ -16,42 +16,12 @@ Life as a member in SJC's Modern Dance CCA is always filled with excitement! SJC
 
 #### **CCA Information**
 
+**Schedule**        
+<br>Wednesday: 3.45 pm to 6.00 pm
+<br>Friday: 3:45 pm – 6:15 pm<br>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-</style>
-</table><table class="tg">
-<thead>
-  <tr>
-    <th class="tg-ktyi"><span style="background-color:initial">Schedule</span><br><span style="background-color:initial">Modern Dance</span></th>
-    <th class="tg-ktyi"><span style="background-color:initial">Wednesday: 3:45 p.m. – 6:00 p.m.</span><br><span style="background-color:initial">Friday: 3:45 p.m. – 6:15 p.m.</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-ktyi">Venue<br></td>
-    <td class="tg-ktyi">Dance Studio / Music Room</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi"><span style="background-color:initial">Teacher-in-charge</span><br><span style="background-color:initial">Modern Dance</span></td>
-    <td class="tg-ktyi"><span style="background-color:initial">Ms Chan Lian Yin</span><br>Mr Tan Kuan Ting<br>Mrs Geetha Singarajan</td>
-  </tr>
-</tbody>
-</table>
+**Teacher-in-charge**
+<br>Ms Chan Lian Yin, <br> Ms Tan Kuan Ting,<br>Mrs Geetha Singarajan<br>
 
 #### **Achievements**
 

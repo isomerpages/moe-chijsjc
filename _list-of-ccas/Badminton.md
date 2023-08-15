@@ -35,11 +35,14 @@ Our team is a close-knit family that encourages one another through their journe
 
 #### **CCA Information**
 
+**Schedule**        
+<br>Monday: 3:45 pm – 6:15pm
+<br>*Wednesday: 3.45 pm to 6.00 pm
+<br>Friday: 3:45 pm – 6:15 pm<br>
 
-| Schedule           | Monday: 3.45 pm to 6.15 pm <br>* Wednesday: 3.45 pm to 6.00 pm <br>Friday: 3.45 pm to 6.15 pm |
-|--------------------|-------------------------------------------------------------------------------------|
-| Venue              | School Hall                                                                         |
-| Teacher-in-charge  |Ms Soh Bee Pheng, <br> Ms Albaniah Zakila Bte Aman,<br>Mr Ong Sze Kiat                    |
+**Teacher-in-charge**
+<br>Ms Soh Bee Pheng, <br> Ms Albaniah Zakila Bte Aman,<br>Mr Ong Sze Kiat<br>
+
   
 **Additional session during peak season/identified for school team players only.*
 

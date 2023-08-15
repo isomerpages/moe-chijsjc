@@ -37,38 +37,16 @@ We engage our CCA members with fun and enriching CCA sessions, enabling them to 
 *   Zonal Nursing and First Aid Competition.
 
 #### **CCA Information**
-
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-ktyi">Schedule</th>
-    <th class="tg-ktyi">Friday, 3.45pm – 6.15pm</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-ktyi"><span style="background-color:initial">Venue</span><br></td>
-    <td class="tg-ktyi">BB05- Outside SJB room &amp; Classrooms E-01-01, E-01-04</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">Teacher-in-charge</td>
-    <td class="tg-ktyi">Mr Teo Wee Seng<br>Ms Jean Lim Le Hui, <br>Mdm Phoon Lai Ling,<br>Ms Raabiyathul Basariah<br>Ms Anne Victor</td>
-  </tr>
-</tbody>
-</table>
+**Schedule**<br>
+Friday, 3.45pm - 6.15pm
+<br> **Teacher-in-charge**
+<br>Mr Teo Wee Seng  
+Ms Jean Lim Le Hui<br>
+Mdm Phoon Lai Ling<br>
+Ms Raabiyathul Basariah<br>
+Ms Anne Victor
 
 #### **Achievements**
-
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;

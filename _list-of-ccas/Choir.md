@@ -24,32 +24,12 @@ Our young singers are also involved in choral exchanges with other secondary sch
 #### **CCA Information**
 
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-ktyi">Schedule<br></th>
-    <th class="tg-ktyi">Wednesday: 3.45 p.m. – 6.15 p.m.<br>Friday: 3.45 p.m. – 6.00 p.m.</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-ktyi">Venue<br></td>
-    <td class="tg-ktyi">AVA Room (E-02-07) / Computer Lab 2</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">Teacher-in-charge<br></td>
-    <td class="tg-ktyi">Ms Kathleen Ang,<br>Ms Nur Izzati Bte Jasni, <br>Mr Hu Chong En</td>
-  </tr>
-</tbody>
-</table>
+**Schedule**        
+<br>Wednesday: 3.45 pm to 6.15 pm
+<br>Friday: 3:45 pm – 6:00 pm<br>
+
+**Teacher-in-charge**
+<br>Ms Kathleen Ang, <br> Ms Nur Izzati Bte Jasni,<br>Mr Hu Chong En<br>
 
 #### **Achievements**
 

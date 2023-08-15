@@ -34,11 +34,13 @@ At SJC, a comprehensive values-driven Netball Programme is tailored as team memb
 
 #### **CCA Information**
 
-|                    |                                                                                               |
-|--------------------|-----------------------------------------------------------------------------------------------|
-| Schedule           | Monday: 3.45 pm to 6.00 pm<br>Wednesday:3.45 pm to 6.15 pm, <br>Friday: 3.45 pm to 6.15 pm                             |
-| Venue              | Indoor Sports Hall and Health &amp; Fitness Room (Mon) Netball Court and Basket Court (Wed &amp; Fri) |
-| Teacher-in-charge  | Ms Tay Yea Bih, <br>Ms Rachel Ang, <br>Ms Adeline Chew    |
+**Schedule**        
+<br>Monday: 3:45 pm – 6:00pm
+<br>Wednesday: 3.45 pm to 6.15 pm
+<br>Friday: 3:45 pm – 6:15 pm<br>
+
+**Teacher-in-charge**
+<br>Ms Tay Yea Bih, <br> Ms Rachel Ang,<br>Mr Adeline Chew<br>
 
 #### **Achievements**
 

@@ -24,32 +24,12 @@ As members ring their assigned bells to make beautiful music together, they lear
 #### **CCA Information**
 
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-ktyi"><span style="font-weight:normal;color:#000">Schedule</span></th>
-    <th class="tg-ktyi">Monday: <span style="background-color:initial">3:45 pm – 6:15 pm</span><br>Friday: 3:45 pm – 6:00 pm</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Venue</span></td>
-    <td class="tg-ktyi">Math Homeroom (E-04-06)</td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Teacher-in-charge</span></td>
-    <td class="tg-ktyi">Mrs Ng Peck Hoon,<br>Ms Amelia Huang</td>
-  </tr>
-</tbody>
-</table>
+**Schedule**        
+<br>Monday: 3:45 pm – 6:15pm
+<br>Friday: 3:45 pm – 6:00pm<br>
+
+**Teacher-in-charge**
+<br>Mrs Ng Peck Hoon, <br> Ms Amelia Huang Xinlei<br>
 
 #### **Achievements**
 

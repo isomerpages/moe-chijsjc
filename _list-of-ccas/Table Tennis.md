@@ -29,34 +29,17 @@ In SJC, the training sessions are designed to develop mental acuity in students.
 *   Annual training camps
 
 #### **CCA Information**
+**Schedule**
+<br>
+Wednesday (Lower Sec) : 3.45 pm to 6.00 pm <br>
+*Thursday: 3.45 pm to 6.15 pm<br>
+Friday (Upper Sec): 3.45 pm to 6.15 pm
 
+**Teacher-in-charge**<br>
+Ms Lim Siew Chun<br>
+Mr Dino Soh Yi Hao<br>
+Mr Yau Ming Chin
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-ktyi">Schedule<br></th>
-    <th class="tg-ktyi"> Wednesday (Lower Sec) : 3.45 pm to 6.00 pm <br>* Thursday: 3.45 pm to 6.15 pm, <br> Friday (Upper Sec): 3.45 pm to 6.15 pm<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-ktyi">Venue </td>
-    <td class="tg-ktyi">Indoor Gymnasium (Level 3) </td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi">Teacher-in-charge<br></td>
-    <td class="tg-ktyi">Ms Lim Siew Chun,<br>Mr Dino Soh Yi Hao,<br> Mr Yau Ming Chin</td>
-  </tr>
-</tbody>
-</table>
 *Additional session during peak season/ identified for school team players only.
 
 ![](/images/CCA/Physical%20Sports/Table%20Tennis/T2.png)

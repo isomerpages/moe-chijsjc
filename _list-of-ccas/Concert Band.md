@@ -42,7 +42,7 @@ Students should
 <br>
 
 **Teacher-in-charge**
-<br>Mrs Jasmine Law-Spain, <br> Ms Adeline Ng,<br>Ms Gangka D/O Perisamy<br>
+<br>Mrs Jasmine Law-Spain<br> Ms Adeline Ng<br>Ms Gangka D/O Perisamy<br>
 
 #### **Achievements**
 

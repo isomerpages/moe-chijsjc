@@ -108,7 +108,7 @@ The SJC NPCC unit has a vibrant programme for all members from Sec 1 to 5.
 <br>Friday: 3:45 pm – 6:15 pm<br>
 
 **Teacher-in-charge**
-<br>Ms Joanna Goh, <br> Ms Ong Suat King,<br>Ms Iris Teh, <br>Mr Loh Chu Ken,<br>Mr Alvin Toh<br>
+<br>Ms Joanna Goh<br> Ms Ong Suat King<br>Ms Iris Teh,<br>Mr Loh Chu Ken<br>Mr Alvin Toh<br>
 
 #### **Achievements**
 

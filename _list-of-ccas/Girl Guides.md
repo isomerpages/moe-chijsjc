@@ -47,7 +47,7 @@ Our 5-point programme – Personal and Social Development, Home, Community, Outd
 <br>*Friday (Semester 1): 3:45 pm – 6:15 pm<br>
 
 **Teacher-in-charge**
-<br>Ms Nur Fariza Bte Abubakar <br> Ms Siti Nurizzati Binte Jamil<br>Ms Vera Yuen,
+<br>Ms Nur Fariza Bte Abubakar <br> Ms Siti Nurizzati Binte Jamil<br>Ms Vera Yuen
 <br>Ms Lee Yu Xian<br>
 
 

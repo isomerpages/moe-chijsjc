@@ -40,7 +40,7 @@ At SJC, a comprehensive values-driven Netball Programme is tailored as team memb
 <br>Friday: 3:45 pm – 6:15 pm<br>
 
 **Teacher-in-charge**
-<br>Ms Tay Yea Bih, <br> Ms Rachel Ang,<br>Mr Adeline Chew<br>
+<br>Ms Tay Yea Bih<br> Ms Rachel Ang<br>Mr Adeline Chew<br>
 
 #### **Achievements**
 

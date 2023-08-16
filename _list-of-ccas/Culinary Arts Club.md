@@ -35,7 +35,7 @@ We also organize learning journeys to a variety of places related to food resour
 <br>
 
 **Teacher-in-charge**
-<br>Mrs Cindy Soon, <br> Ms Ng Ai Khim<br>
+<br>Mrs Cindy Soon <br> Ms Ng Ai Khim<br>
 
 
 ![](/images/CCA/Clubs%20and%20Societies/Culinary%20Arts%20Club/C2.png)

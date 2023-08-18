@@ -29,7 +29,7 @@ Our young singers are also involved in choral exchanges with other secondary sch
 <br>Friday: 3:45 pm – 6:00 pm<br>
 
 **Teacher-in-charge**
-<br>Ms Kathleen Ang, <br> Ms Nur Izzati Bte Jasni,<br>Mr Hu Chong En<br>
+<br>Ms Kathleen Ang <br> Ms Nur Izzati Bte Jasni<br>Mr Hu Chong En<br>
 
 #### **Achievements**
 

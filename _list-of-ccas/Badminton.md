@@ -41,7 +41,7 @@ Our team is a close-knit family that encourages one another through their journe
 <br>Friday: 3:45 pm – 6:15 pm<br>
 
 **Teacher-in-charge**
-<br>Ms Soh Bee Pheng, <br> Ms Albaniah Zakila Bte Aman,<br>Mr Ong Sze Kiat<br>
+<br>Ms Soh Bee Pheng <br> Ms Albaniah Zakila Bte Aman<br>Mr Ong Sze Kiat<br>
 
   
 **Additional session during peak season/identified for school team players only.*

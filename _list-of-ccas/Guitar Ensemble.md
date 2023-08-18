@@ -35,7 +35,7 @@ Through the various performances and practices, SJC Guitar Ensemble members are 
 <br>
 
 **Teacher-in-charge**
-<br>Mrs Lee-Tan Yu Jun, <br> Ms Yeap Wen Qi Clarissa<br>
+<br>Mrs Lee-Tan Yu Jun<br> Ms Yeap Wen Qi Clarissa<br>
 
 #### **Achievements**
 

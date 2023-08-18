@@ -44,7 +44,7 @@ At Pixel, we believe in being effective, organised and giving our best in all th
 <br>Monday &amp; Wednesday: 3:45 pm – 6:15pm<br>
 
 **Teacher-in-charge**
-<br>Ms Tiffany Wee, <br> Mr Mark Chan Chee Keong,<br>Mr Samuel Tan<br>
+<br>Ms Tiffany Wee<br> Mr Mark Chan Chee Keong<br>Mr Samuel Tan<br>
 
 #### **Achievements**
 

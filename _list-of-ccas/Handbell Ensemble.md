@@ -29,7 +29,7 @@ As members ring their assigned bells to make beautiful music together, they lear
 <br>Friday: 3:45 pm – 6:00pm<br>
 
 **Teacher-in-charge**
-<br>Mrs Ng Peck Hoon, <br> Ms Amelia Huang Xinlei<br>
+<br>Mrs Ng Peck Hoon<br> Ms Amelia Huang Xinlei<br>
 
 #### **Achievements**
 

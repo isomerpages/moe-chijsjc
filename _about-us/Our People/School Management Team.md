@@ -189,7 +189,7 @@ third_nav_title: Our People
   mso-border-top-alt:solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;
   padding:3.6pt 7.2pt 3.6pt 7.2pt;height:29.2pt"><p class="MsoNormal">SH/ Data Management</p></td></tr><tr style="mso-yfti-irow:9;height:29.2pt"><td width="284" valign="top" style="width:213.0pt;border:solid white 1.0pt;
   border-top:none;mso-border-top-alt:solid white 1.0pt;padding:3.6pt 7.2pt 3.6pt 7.2pt;
-  height:29.2pt"><p class="MsoNormal">Ms Choo Li Ting Fiona<br><a href="choo_li_ting@moe.edu.sg">choo_li_ting@moe.edu.sg</a></p></td><td width="284" valign="top" style="width:213.0pt;border-top:none;border-left:
+  height:29.2pt"><p class="MsoNormal">Ms Choo Li Ting Fiona<br><a href="choo_li_ting_fiona@moe.edu.sg">choo_li_ting_fiona@moe.edu.sg</a></p></td><td width="284" valign="top" style="width:213.0pt;border-top:none;border-left:
   none;border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;
   mso-border-top-alt:solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;
   padding:3.6pt 7.2pt 3.6pt 7.2pt;height:29.2pt"><p class="MsoNormal">SH/ Student Management</p></td></tr><tr style="mso-yfti-irow:10;mso-yfti-lastrow:yes;height:29.2pt"><td width="284" valign="top" style="width:213.0pt;border:solid white 1.0pt;

@@ -126,7 +126,7 @@ third_nav_title: Our People
   height:29.2pt"><p class="MsoNormal">Miss Chow Leng Choo<br><a href="chow_leng_choo@moe.edu.sg">chow_leng_choo@moe.edu.sg</a></p></td><td width="284" valign="top" style="width:213.0pt;border-top:none;border-left:
   none;border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;
   mso-border-top-alt:solid white 1.0pt;mso-border-left-alt:solid white 1.0pt;
-  padding:3.6pt 7.2pt 3.6pt 7.2pt;height:29.2pt"><p class="MsoNormal">HOD/ Partnership &amp; CCA</p></td></tr><tr style="mso-yfti-irow:9;height:29.2pt"><td width="284" valign="top" style="width:213.0pt;border:solid white 1.0pt;
+  padding:3.6pt 7.2pt 3.6pt 7.2pt;height:29.2pt"><p class="MsoNormal">HOD / Physical Education (PE) &amp; Co-Curricular Activities (CCA)</p></td></tr><tr style="mso-yfti-irow:9;height:29.2pt"><td width="284" valign="top" style="width:213.0pt;border:solid white 1.0pt;
   border-top:none;mso-border-top-alt:solid white 1.0pt;padding:3.6pt 7.2pt 3.6pt 7.2pt;
   height:29.2pt"><p class="MsoNormal">Mrs Joyce Goh<br><a href="yeo_xin_rong_joyce@moe.edu.sg">yeo_xin_rong_joyce@moe.edu.sg</a></p></td><td width="284" valign="top" style="width:213.0pt;border-top:none;border-left:
   none;border-bottom:solid white 1.0pt;border-right:solid white 1.0pt;

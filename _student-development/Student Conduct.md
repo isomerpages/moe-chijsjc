@@ -82,7 +82,8 @@ SJCians are to wear the prescribed uniform within and outside of school. Modific
 
 
 #### **GUIDELINES ON DISCIPLINARY MEASURES**
-![](/images/Student%20Development/Code%20of%20Conduct/Consequences.png)
+
+![](/images/Student%20Development/Code%20of%20Conduct/updated%20consequences.png)
 
 Note: The school reserves all rights to add, amend or adjust the school rules and regulations, disciplinary consequences necessary to support character development and maintain a safe and positive learning environment.
 

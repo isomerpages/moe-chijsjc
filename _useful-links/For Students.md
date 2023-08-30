@@ -10,6 +10,14 @@ description: ""
 >* [Sec 3 Classes](/files/Useful%20Links/Students/Timetables/sec%203%20sem%202%20tt%202023.pdf),
 >* [Sec 4 & 5 Classes](/files/Useful%20Links/Students/Timetables/sec%204&5%20sem%202%20tt%202023.pdf)
 
+* **2023 EOY Schedule and Topics**
+>* [2023 EOY Schedule and Topics Sec 1](/files/Useful%20Links/Students/Examinations/2023%20eoy%20schedule%20and%20topics%20sec%201.pdf)
+>* [2023 EOY Schedule and Topics Sec 2](/files/Useful%20Links/Students/Examinations/2023%20eoy%20schedule%20and%20topics%20sec%202.pdf)
+>* [2023 EOY Schedule and Topics Sec 3NT](/files/Useful%20Links/Students/Examinations/2023%20eoy%20schedule%20and%20topics%20sec%203a.pdf)
+>* [2023 EOY Schedule and Topics Sec 3NA](/files/Useful%20Links/Students/Examinations/2023%20eoy%20schedule%20and%20topics%20sec%203bc.pdf)
+>[2023 EOY Schedule and Topics Sec 3Exp](/files/Useful%20Links/Students/Examinations/2023%20eoy%20schedule%20and%20topics%20sec%203defgh.pdf)
+
+
 * **2023 Preliminary Exam Schedules**
 >* [4E/5N Prelim Schedule 2023](/files/Useful%20Links/Students/Examinations/4e5n%20prelim%20schedule%202023.pdf),
 >* [4NA and 4NT Prelim Schedule 2023](/files/Useful%20Links/Students/Examinations/4na%20and%204nt%20prelim%20schedule%202023.pdf)

@@ -7,7 +7,7 @@ The **National Digital Literacy Programme (NDLP)** was launched in March 2020 to
 
 Under NDLP, MOE announced in 2020 that every student will own a school-prescribed personal learning device (PLD) by end-2021. The PLDs will be used in tandem with the national e-learning platform – the Singapore Student Learning Space (SLS) – as well as other educational technology to personalise and enhance students’ learning. This will enable students to acquire digital skills and apply these skills as they navigate an increasingly digitalised world.  
 
-Click [here](https://drive.google.com/file/d/1BfcHhw1k6KOTO8Uxt0fSgJTu9nJrQ-R-/view?usp=sharing) for more information from our parents' engagement on NDLP.
+Click [here](https://sites.google.com/moe.edu.sg/chijsjcpdlp/home) for more information from our parents' engagement on NDLP.
 
 ##### **Intended Outcomes of Personalised Digital Learning Programme (PDLP)**
 

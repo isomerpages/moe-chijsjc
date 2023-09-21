@@ -74,7 +74,7 @@ SJCians are to wear the prescribed uniform within and outside of school. Modific
 
 ***Jewellery and Accessories***
 *   Only one pair of plain, simple, identical ear studs can be worn on the ear lobes 
-*   Jewellery and accessories of any other kind (e.g. tongue studs, nose ring, lip piercings, bracelets, religious wristbands, ankle bands, bangles, chains, rings, friendship bands, etc.) are not allowed
+*   Jewellery and accessories of any other kind (e.g. tongue studs, nose ring, lip piercings, bracelets, ankle bands, bangles, chains, rings, friendship bands, etc.) are not allowed
 *   Inappropriate body art (such as tattoos and the piercing of any part of the body except the ears) is not allowed.
 
 ![](/images/Student%20Development/Code%20of%20Conduct/Uniform2.jpg)

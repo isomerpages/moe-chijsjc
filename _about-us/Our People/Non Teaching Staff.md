@@ -47,6 +47,6 @@ third_nav_title: Our People
 
 |           Name          |                  Designation                 |
 |:-----------------------:|:--------------------------------------------:|
+|     Ms Ernawati Binte Mohamad Yusri | Librarian |
+| Mdm Rosmawati Binte Salim      | OSO| 
 | Mr Muhammad Hafiz Bin Jelani |    Desktop Engineer       |
-|     Ms Ernawati Binte Mohamad Yusri   | Librarian |
-| Mdm Rosmawati Binte Salim      | OSO|

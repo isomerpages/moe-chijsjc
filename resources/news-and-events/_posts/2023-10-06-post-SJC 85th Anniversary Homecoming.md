@@ -13,4 +13,3 @@ We welcome all ex-students and staff back to school for a time of reunion as we 
 To help us better prepare for the event, register your interest [here](https://go.gov.sg/sjc85homecoming). Better yet, share the news with your friends and get them to register too! See you all on 11 November!
 
 ![](/images/News%20and%20Events/85%20Anniversary/homecoming%20website.png)
-

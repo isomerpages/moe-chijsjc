@@ -3,7 +3,7 @@ title: Netball
 permalink: /netball/
 description: ""
 ---
-![](/images/CCA/Physical%20Sports/Netball/N1.jpg)
+![](/images/CCA/2023/netball.jpg)
 
 #### **About**
 

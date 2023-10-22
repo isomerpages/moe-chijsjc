@@ -3,6 +3,8 @@ title: Modern Dance
 permalink: /dance/
 description: ""
 ---
+![](/images/CCA/2023/modern%20dance.jpg)
+
 #### **About**
 
 

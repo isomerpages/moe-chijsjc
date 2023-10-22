@@ -3,7 +3,7 @@ title: Badminton
 permalink: /badminton/
 description: ""
 ---
-![](/images/CCA/Physical%20Sports/Badminton/B1.jpg)
+
 
 #### **About**
 

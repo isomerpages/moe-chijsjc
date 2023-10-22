@@ -3,7 +3,7 @@ title: Handbell Ensemble
 permalink: /handbell/
 description: ""
 ---
-![](/images/CCA/Visual%20&amp;%20Performing%20Arts/Handbell%20Ensemble/H1.jpg)
+![](/images/CCA/2023/handbell%20ensemble.jpg)
 
 #### **About**
 

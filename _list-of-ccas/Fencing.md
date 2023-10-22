@@ -5,7 +5,7 @@ description: ""
 ---
 **Please note that this CCA will not be taking in Sec 1 students from 2023**
 
-![](/images/CCA/Physical%20Sports/Fencing/F1.jpg)
+![](/images/CCA/2023/fencing.jpg)
 
 #### **About**
 

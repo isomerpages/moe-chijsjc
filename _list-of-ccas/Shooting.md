@@ -3,8 +3,8 @@ title: Shooting
 permalink: /shooting/
 description: ""
 ---
-![](/images/CCA/Physical%20Sports/Shooting/S1.jpg)
 
+![](/images/CCA/2023/shooting.jpg)
 #### **About**
 
 

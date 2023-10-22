@@ -44,6 +44,6 @@ Our team is a close-knit family that encourages one another through their journe
 <br>Ms Soh Bee Pheng <br> Ms Albaniah Zakila Bte Aman<br>Mr Ong Sze Kiat<br>
 
   
-**Additional sessions during peak season/identified for school team players only.*
+**Additional sessions during peak season/identified school team players only.*
 
 ![](/images/CCA/Physical%20Sports/Badminton/B2.png)

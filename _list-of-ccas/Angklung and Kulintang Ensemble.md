@@ -3,8 +3,6 @@ title: Angklung and Kulintang Ensemble
 permalink: /angklung/
 description: ""
 ---
-
-
 #### **About**
 
 

@@ -3,7 +3,7 @@ title: Choir
 permalink: /choir/
 description: ""
 ---
-![](/images/CCA/Visual%20&amp;%20Performing%20Arts/Choir/C1.jpg)
+
 
 #### **About**
 

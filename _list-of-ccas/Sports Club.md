@@ -3,7 +3,7 @@ title: Sports Club
 permalink: /sportsclub/
 description: ""
 ---
-![](/images/CCA/Physical%20Sports/Sports%20Club/S1.jpg)
+![](/images/CCA/2023/sports%20club.jpg)
 
 #### **About**
 

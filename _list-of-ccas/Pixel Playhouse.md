@@ -3,7 +3,7 @@ title: Pixel Playhouse
 permalink: /pixelplayhouse/
 description: ""
 ---
-![](/images/CCA/Clubs%20and%20Societies/Pixel%20Playhouse/P1.jpg)
+![](/images/CCA/2023/pixel%20playhouse.jpg)
 
 #### **About**
 

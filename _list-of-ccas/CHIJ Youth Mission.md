@@ -3,7 +3,7 @@ title: CHIJ Youth Mission
 permalink: /chijyouthmission/
 description: ""
 ---
-![](/images/CCA/Clubs%20and%20Societies/CHIJ%20Youth%20Mission/C1.jpg)
+![](/images/CCA/2023/chij%20youth%20mission.jpg)
 
 #### **About**
 

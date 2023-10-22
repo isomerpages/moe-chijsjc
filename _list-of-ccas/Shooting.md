@@ -3,7 +3,6 @@ title: Shooting
 permalink: /shooting/
 description: ""
 ---
-
 ![](/images/CCA/2023/shooting.jpg)
 #### **About**
 

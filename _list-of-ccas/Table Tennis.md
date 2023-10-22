@@ -3,8 +3,8 @@ title: Table Tennis
 permalink: /tabletennis/
 description: ""
 ---
-
 ![](/images/CCA/2023/table%20tennis.jpg)
+
 #### **About**
 
 

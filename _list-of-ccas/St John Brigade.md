@@ -3,7 +3,7 @@ title: St John Brigade
 permalink: /stjohnbrigade/
 description: ""
 ---
-![](/images/CCA/Uniformed%20Groups/St%20John%20Brigade/S1.jpg)
+![](/images/CCA/2023/st%20john_s%20ambulance%20brigade.jpg)
 
 #### **About**
 

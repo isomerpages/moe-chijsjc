@@ -3,7 +3,7 @@ title: Angklung and Kulintang Ensemble
 permalink: /angklung/
 description: ""
 ---
-![](/images/CCA/Visual%20&amp;%20Performing%20Arts/AngklungKulintang%20Ensemble/A1.jpg)
+![](/images/CCA/For%202023%20Refresh/angklung%20and%20kulintang%20ensemble.jpg)
 
 #### **About**
 

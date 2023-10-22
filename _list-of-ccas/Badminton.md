@@ -21,7 +21,7 @@ Our team is a close-knit family that encourages one another through their journe
 #### **Objectives**
 
 
-*   To develop resilence and team-spirit in every player.
+*   To develop resilience and team-spirit in every player.
 *   To cultivate in every player to lead a healthy and active lifestyle beyond secondary school education.
 *   To develop an appreciation of badminton and proficiency in playing it as a sport.
 

@@ -3,7 +3,7 @@ title: Guitar Ensemble
 permalink: /guitar/
 description: ""
 ---
-![](/images/CCA/Visual%20&amp;%20Performing%20Arts/Guitar%20Ensemble/G1.jpg)
+![](/images/CCA/2023/guitar%20ensemble.jpg)
 
 #### **About**
 

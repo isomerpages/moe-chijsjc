@@ -15,8 +15,12 @@ Do support your teachers in these prestigious national awards.
 
 Do note the closing date for both awards is on 10 January 2024.
 
-![](/images/News%20and%20Events/Announcements/pat%202024%20website%20publicity%20image.gif)
 
-![](/images/News%20and%20Events/Announcements/oyea%202024%20website%20publicity%20image.jpg)
+
+| Column 1 | Column 2 |
+| -------- | -------- | 
+| ![](/images/News%20and%20Events/Announcements/pat%202024%20website%20publicity%20image.gif)    | ![](/images/News%20and%20Events/Announcements/oyea%202024%20website%20publicity%20image.jpg)   |
+
+
 
 Thank you.

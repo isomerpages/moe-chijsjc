@@ -26,7 +26,7 @@ At Pixel, we believe in working together to achieve a common goal and thus our v
 *   In-house training to develop basic skills in using a DSLR camera effectively
 *   Participation in video creation competition, Appreciating NSmen Video Competition, organised by SAFRA
 *   Participation in national schools photography competition, “Our Schools, Our Stories”, organised by the Ministry of Education (MOE)
-*   Participation in annual digital animation competition, “N.E.mation!”, organised by Singapore Discovery Centre
+*   Participation in annual digital animation competition, “*N.E.mation!”,* organised by Singapore Discovery Centre
 
 #### **CCA Information**
 
@@ -38,12 +38,11 @@ At Pixel, we believe in working together to achieve a common goal and thus our v
 
 #### **Achievements**
 
-
 | Year  | Name of Competition                   | Division/Category | Achievement                                       |
 |-------|---------------------------------------|-------------------|---------------------------------------------------|
-|  2021 |  Appreciating NSmen Video Competition | Open              | Bronze Award &amp; Merit Award                        |
-| 2020  | N.E.mation 2020                       | Secondary Schools | Top 10 Finalist                                   |
-| 2019  | N.E.mation 2019                       | Secondary Schools | Top 10 Finalist Special Award: Social Media Award |
+| 2023 |N.E.mation! 2023 | Student              | Top 10 Finalist                      |
+|2022  | Appreciating NSmen Video Competition| - | Merit Award  |
+|2022  | N.E.mation! 2022                       | Student | First Runner Up; Top 10 Finalist, Top 20 Finalist|
 | 2018  | N.E.mation 2018                       | Secondary Schools | Top 10 Finalist                                   |
 | 2017  | N.E.mation 2017                       | Secondary Schools | Top 10 Finalist                                   |
 | 2016  | N.E.mation 2016                       | Secondary Schools | Top 100 Finalist                                  |

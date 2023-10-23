@@ -6,13 +6,7 @@ description: ""
 ![](/images/CCA/2023/sports%20club.jpg)
 
 #### **About**
-
-
-In Sports Club, we believe in Promoting Values Through Sports.&nbsp; &nbsp;Through the Sports Club experience, members learn to play a variety of sports, such as Tchoukball, Floorball and Ultimate Frisbee.&nbsp; They also participate in several outdoor activities such as Orienteering and Kayaking.&nbsp; Student Leaders in Sports Club are given opportunities to plan and lead trainings for the junior members, to help them hone their leadership skills.&nbsp; Our members also have opportunities to represent the school in competitions such as the National Inter-School Tchoukball Competitions, National Orienteering Competition and N1 Cluster Games.
-
-We also believe in using sports to serve the community.&nbsp; Our members assist in organizing school-wide sports events, such as Track and Field and Inter-Class Games.&nbsp; We also work with community organisations to undertake Values-In-Action projects, to promote healthy lifestyles to the public.
-
-Through these activities, our members learn perseverance, teamwork and to give their best.&nbsp; They also develop civic-mindedness, by leveraging on their strengths to serve the community.&nbsp; Just as importantly, they build lasting friendships with fellow members in the CCA.
+In Sports Club, we believe in promoting values through sports.&nbsp;&nbsp; Through the Sports Club experience, members learn to play a variety of sports, such as Tchoukball, Floorball and Frisbee. Student Leaders in Sports Club are given opportunities to plan and lead training sessions for the junior members, which help them to hone their leadership skills.&nbsp; Our members also have opportunities to represent the school in competitions such as the National Inter-School Tchoukball Competitions and National Orienteering Competition.
 
 #### **Objectives**
 *   To discover joy and interest in sports participation, so that students will continue to lead a healthy and active lifestyle beyond secondary education.
@@ -21,7 +15,6 @@ Through these activities, our members learn perseverance, teamwork and to give t
 
 #### **Activities**
 *   National Inter-School Tchoukball Competition
-*   N1 Cluster Schools Games (Netball &amp; Badminton)
 *   Sports Club Camp
 *   Community service with ActiveSG
 *   National Orienteering competition
@@ -31,11 +24,9 @@ Through these activities, our members learn perseverance, teamwork and to give t
 #### **CCA Information**
 
 **Schedule**<br>
-Monday: 3.45 pm to 5.45 pm  
-Wednesday: 3.45 pm to 6.15 pm  
-Thursday: 3.45 pm to 6.15 pm  
-Friday: 3.45 pm to 6.15 pm <br>
-**Teacher-in-charge**<br>
+Mondays: 3.45 pm to 5.45 pm  
+Thursdays: 3.45 pm to 6.15 pm  
+**Teachers-in-charge**<br>
 Mr Muhammad Taufiq Bin Najmuddeen<br>
 Ms Madeline Lee<br>
 Mr Lyndon Lee<br>

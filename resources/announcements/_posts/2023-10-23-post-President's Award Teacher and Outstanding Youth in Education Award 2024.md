@@ -17,7 +17,7 @@ Do note the closing date for both awards is on 10 January 2024.
 
 
 
-| Column 1 | Column 2 |
+|PAT 2024 | OYEA 2024 |
 | -------- | -------- | 
 | ![](/images/News%20and%20Events/Announcements/pat%202024%20website%20publicity%20image.gif)    | ![](/images/News%20and%20Events/Announcements/oyea%202024%20website%20publicity%20image.jpg)   |
 

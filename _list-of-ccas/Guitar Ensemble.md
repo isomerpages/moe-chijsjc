@@ -33,7 +33,7 @@ Through the various performances and practices, SJC Guitar Ensemble members are 
 <br>Thursday: 3.45 pm to 6.15 pm
 <br>
 
-**Teacher-in-charge**
+**Teachers-in-charge**
 <br>Mrs Lee-Tan Yu Jun<br> Ms Yeap Wen Qi Clarissa<br>
 
 #### **Achievements**

@@ -7,13 +7,9 @@ description: ""
 
 #### **About**
 
-
 At Pixel Playhouse, students are offered opportunities to explore and develop their interests in photography, videography, photo-editing, storyboarding and Audio Visual (AV) through a range of programmes and competitions. Students hone their skills by attending workshops, participating in national schools competition, providing photography, videography and AV support for school events.
 
-A key strength of the CCA is our participation in the annual digital animation competition organised by Nexus for students and youth to express their thoughts about Total Defence. The past 3 years have seen at least 1 team making it to the top 10 finalists and some teams reaching the top 100 or top 40 teams amongst hundreds of teams from schools in Singapore.
-At Pixel, we believe in being effective, organised and giving our best in all that we do and thus our motto –&nbsp;**_Winning Every Moment_**.
-
-One key competition that members of the Pixel Playhouse participate in is *N.E.mation!,* organised by Singapore Discovery Centre for students and youths to express their thoughts about Total Defence. In the past years, we have seen at least one team making it to the top 20 finalists, with one team winning First Runner Up in N.E.mation! 2022!
+One key competition that members of the Pixel Playhouse participate in is *N.E.mation!,* organised by Singapore Discovery Centre for students and youths to express their thoughts about Total Defence. In the past years, we have seen at least one team making it to the top 20 finalists, with one team winning First Runner Up in *N.E.mation! 2022!*
 
 At Pixel, we believe in working together to achieve a common goal and thus our vision statement – **Together, we capture today’s memories for tomorrow.**
 

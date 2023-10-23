@@ -66,15 +66,11 @@ The 6As – namely Aware, Acquire, Actuate, Aspire, Achieve and Aim – defines 
 #### **Objectives**
 *   To provide cadets with opportunities for leadership development with tasks that challenge their abilities and imbibe in them strong character and civic, social and moral values.
 *   To cultivate a culture that encourages cadets to treat fellow cadets with respect, courtesy and tact, and in turn demonstrates the same care and concern to others.
-*   In our collaboration and identification with the Singapore Police Force,
-- help to build a stronger bond of friendship with them, and so lead to a safer place for all in the country.
-and
-- adopt its tradition of high standards of performance, commitment, duty and service, to seek to excel and to face up to challenges.
+*   In our collaboration and identification with the Singapore Police Force, help to build a stronger bond of friendship with them, and so lead to a safer place for all in the country.
+and adopt its tradition of high standards of performance, commitment, duty and service, to seek to excel and to face up to challenges.
 
 #### **Activities**
-
-
-The SJC NPCC unit has a vibrant programme for all members from Sec 1 to 5.
+The SJC NPCC unit has a vibrant programme for all members from Secondary 1 to 5.
 
 *   Unit and Cadet Leader camps \[NCO\]
 *   Enrichment courses such as air pistol, forensic science and first aid
@@ -89,51 +85,20 @@ The SJC NPCC unit has a vibrant programme for all members from Sec 1 to 5.
 *   Welfare celebrations – birthday celebration and cadet’s academic/ non-academic achievements
 
 #### **CCA Information**
-
 **Schedule**        
 <br>Friday: 3:45 pm – 6:15 pm<br>
 
-**Teacher-in-charge**
-<br>Ms Joanna Goh<br> Ms Ong Suat King<br>Ms Iris Teh,<br>Mr Loh Chu Ken<br>Mr Alvin Toh<br>
+**Teachers-in-charge**
+<br>
+Unit Officer-in-charge: Mrs Joanna Goh<br>
+Unit Officer-in-charge (Deputy): Ms Ong Suat King<br>
+Sec 1 Teacher officer I/C: Mrs Joanna Goh/ Ms Iris Teh<br>
+Sec 2 Teacher officer I/C: Mr Alvin Toh/ Mr Loh Chu Ken<br>
+Sec 3 Teacher officer I/C: Ms Ong Suat King<br>
+Sec 4 Teacher officer I/C: Ms Iris Teh<br>
+Cadet Inspector: Shaleni K<br>
 
 #### **Achievements**
-
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-9hzb" colspan="3">NPCC Unit Overall Proficiency Award (UOPA) - From 2003 to 2020<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-9hzb">Silver<br></td>
-    <td class="tg-9hzb">Gold<br></td>
-    <td class="tg-9hzb">Outstanding Performance (Gold Award for 5 consecutive years)<br></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">2003 - 2005<br></td>
-    <td class="tg-f4yw">2006 – 2013<br></td>
-    <td class="tg-f4yw">2010<br></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">2014- 2015<br></td>
-    <td class="tg-f4yw">2016 - 2020<br></td>
-    <td class="tg-f4yw">phased out</td>
-  </tr>
-</tbody>
-</table>
-  
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -164,7 +129,7 @@ The SJC NPCC unit has a vibrant programme for all members from Sec 1 to 5.
   </tr>
   <tr>
     <td class="tg-9hzb">Award:<br></td>
-    <td class="tg-f4yw">Gold Award<br></td>
+    <td class="tg-f4yw">Participation Award<br></td>
     <td class="tg-7yig"></td>
   </tr>
 </tbody>

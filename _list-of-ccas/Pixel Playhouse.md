@@ -41,7 +41,7 @@ At Pixel, we believe in working together to achieve a common goal and thus our v
 |2022  | Appreciating NSmen Video Competition| - | Merit Award  |
 |2022  | N.E.mation! 2022                       | Student | First Runner Up; Top 10 Finalist, Top 20 Finalist|
 |2021  | Appreciating NSmen Video Competition| - | Bronze Award, Merit Award
-|2020  | N.E.mation! 2020                       | Secondary Schools | Top 100 Finalist                                  |
+|2020  | N.E.mation! 2020                       | Secondary Schools | Top 10 Finalist                                  |
   
 
 ![](/images/CCA/Clubs%20and%20Societies/Pixel%20Playhouse/P2.png)

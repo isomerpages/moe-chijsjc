@@ -51,8 +51,6 @@ Ms Raabiyathul Basariah<br>
 </style>
 
       
-The Corps Achievement Award was suspended in 2020 and 2021 due to the ongoing Covid-19 pandemic.
-
 ![](/images/CCA/Uniformed%20Groups/St%20John%20Brigade/S2.png)<table class="tg">
 <thead>
   <tr>
@@ -75,3 +73,4 @@ The Corps Achievement Award was suspended in 2020 and 2021 due to the ongoing Co
     <td class="tg-zr06">Corps Achievement Award (CAA)<br></td>
     <td class="tg-ktyi"></td>
     <td class="tg-ktyi">GOLD Award<br></td></tr></tbody></table>
+The Corps Achievement Award was suspended in 2020 and 2021 due to the ongoing Covid-19 pandemic.

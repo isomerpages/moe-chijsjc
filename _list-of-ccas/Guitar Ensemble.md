@@ -60,7 +60,7 @@ Through the various performances and practices, SJC Guitar Ensemble members are 
 <tbody>
   <tr>
     <td class="tg-zr06"> 2023</td>
-    <td class="tg-zr06">Singapore Youth Festival Arts Presentation</td>
+    <td class="tg-zr06">Singapore Youth Festival Arts Presentation<br></td>
     <td class="tg-zr06">Instrumental Ensemble</td>
     <td class="tg-zr06">Certificate of Accomplishment<br><br></td>
   </tr>

@@ -67,5 +67,5 @@ Through the various performances and practices, SJC Guitar Ensemble members are 
   <tr>
     <td class="tg-zr06">2021<br></td>
     <td class="tg-ktyi">Singapore Youth Festival Arts Presentation<br></td>
-    <td class="tg-ktyi">Instrumental Ensemble<br></td>
+    <td class="tg-ktyi">Instrumental Ensemble</td>
     <td class="tg-ktyi">Certificate of Accomplishment<br></td></tr></tbody></table>

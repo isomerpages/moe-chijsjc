@@ -6,7 +6,7 @@ description: ""
 ![](/images/CCA/2023/CHIJ%20YM/chij%20youth%20mission.jpg)
 
 #### **About**
-CHIJ Youth Mission (IJYM) is a unique Co-Curricular Activity, that is special to us, as well as four other IJ Schools (CHIJ Secondary (Toa Payoh), CHIJ St. Nicholas Girls’ School, CHIJ St. Theresa’s Convent, and CHIJ Katong). It aims to provide an enabling environment for girls to recognise and promote the dignity of human persons especially the disadvantaged.
+CHIJ Youth Mission (IJYM) is a unique Co-Curricular Activity, that is special to us, as well as four other IJ Schools (CHIJ Secondary (Toa Payoh), CHIJ St. Nicholas Girls’ School, CHIJ St. Theresa’s Convent, and CHIJ Katong). IJYM aims to provide an enabling environment for girls to recognise and promote the dignity of human persons especially the disadvantaged.
 
 This shared vision strengthens the bonds between our sister schools, as we reflect the IJ mission in all that we do. We participate in annual IJYM events, such as the CHIJ Youth Mission Inter-School competition with the other four IJ schools, to showcase our community service and programme for the year.
 
@@ -16,19 +16,16 @@ Through this process of learning, members are transformed by the experience of s
 
 #### **Objectives**
  1.  Through the projects and activities carried out by IJYM,  members are exposed to learning more about the society and putting themselves in the shoes of the minority. They will then learn how to work and provide help to the needs of the society. For example, through our project Advocacy For Refugees (AFR), members are able to be exposed to what the refugees face during their difficulties and unpack what kind of difficulties they faced. Using this knowledge, members are able to spread awareness to the other students, to encourage their spirit to serve the society.
-2.  As more activities are carried out, we hope that…
-
-1.  Members learn to work for the good of society
-2.  Members learn the importance of taking the initiative to take action and help our society in any way possible, in and out of CCA
+2.  As more activities are carried out, we hope that:
+(a) Members learn to work for the good of society
+(b) Members learn the importance of taking the initiative to take action and help our society in any way possible, in and outside of the CCA
 
 
 #### **Activities**
-        
 1.  Partnerships with external organisations
 
-1.  2023
-
-1.  MWS Active Ageing Centre – Fernvale Rivergrove
+a. 2023
+(i) MWS Active Ageing Centre – Fernvale Rivergrove
 
 ○&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chinese New Year celebration _(We visited this senior activity centre)_
 
@@ -69,8 +66,8 @@ Through this process of learning, members are transformed by the experience of s
 **Schedule**        
 <br>Wednesday: 3.45 pm to 5.45 pm <br>
 
-**Teacher-in-charge**
-<br>Mdm Dewi Juriah Bte Sudirman <br> Ms Adeline Ng<br>Ms Gan Yee Hwee<br>
+**Teachers-in-charge**
+<br>Mdm Dewi Juriah Bte Sudirman <br> Ms Gan Yee Hwee<br>
 
 
 #### **Achievement**
@@ -78,8 +75,8 @@ Through this process of learning, members are transformed by the experience of s
 
 | Year | Name of Competition/Project                   | Achievement          |
 |------|-----------------------------------------------|----------------------|
-| 2022 | CHIJ Youth Mission Inter-Schools Competition  | Distinction Award    |
-| 2019 | CHIJ Youth Mission Inter-Schools Competition  | Distinction Award    |
+| 2023 | IJYM Combined Schools Programme | N.A. (No grading)|
+| 2023 | CHIJ Youth Forum | N.A. (No grading)|
 | 2018 | CHIJ Youth Mission Inter-Schools Competition  | Accomplishment Award |
 | 2017 | CHIJ Youth Mission Inter-Schools Competition  | Accomplishment Award |
 | 2016 | CHIJ Youth Mission Inter-Schools Competition  | Distinction Award    |

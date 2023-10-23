@@ -13,10 +13,7 @@ One key competition that members of the Pixel Playhouse participate in is *N.E.m
 
 At Pixel, we believe in working together to achieve a common goal and thus our vision statement – **Together, we capture today’s memories for tomorrow.**
 
-
-
 #### **Objectives**
-
 
 *   To develop in members a passion for the various range of digital media art offered to gain experience.
 *   To provide opportunities to explore and develop creativity through digital art media
@@ -24,23 +21,19 @@ At Pixel, we believe in working together to achieve a common goal and thus our v
 *   To develop leadership skills and build responsibility, commitment and teamwork.
 
 #### **Activities**
-
-
-*   Photography, videography and PA service support for all school events
-*   Games Development workshop using Scratch 2.0,
-*   App Development workshop using Android Studio.
-*   Collaboration with Family Central in an Intergenerational Learning Programme through a student-led handphone photography workshop with seniors
-*   Participation in national school photography competition, “Our Schools, Our Stories” organized by Ministry of Education
-*   Participation in national photography competition, “Singapore Garden Photographer of the Year” organized by N-Parks
-*   Participation in “N.E.mation!”, annual digital animation competition organized by Nexus.
-*   Learning Journeys to Singapore Botanic Gardens and Punggol Waterway Park for outdoor photography experience
+*   Photography, videography and AV support for all school events
+*   Workshops by external vendor(s) to hone skills in Photography, Videography, and Photo-Editing
+*   In-house training to develop basic skills in using a DSLR camera effectively
+*   Participation in video creation competition, Appreciating NSmen Video Competition, organised by SAFRA
+*   Participation in national schools photography competition, “Our Schools, Our Stories”, organised by the Ministry of Education (MOE)
+*   Participation in annual digital animation competition, “N.E.mation!”, organised by Singapore Discovery Centre
 
 #### **CCA Information**
 
 **Schedule**        
 <br>Monday &amp; Wednesday: 3:45 pm – 6:15pm<br>
 
-**Teacher-in-charge**
+**Teachers-in-charge**
 <br>Ms Tiffany Wee<br> Mr Mark Chan Chee Keong<br>Mr Samuel Tan<br>
 
 #### **Achievements**

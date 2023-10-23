@@ -32,6 +32,7 @@ We engage our cadets with fun and enriching CCA sessions, enabling them to perfo
 #### **CCA Information**
 **Schedule**<br>
 Every Friday, 3.45pm - 6.15pm
+
 <br> **Teachers-in-charge**
 <br>Mr Teo Wee Seng (IC)  
 Ms Jean Lim Le Hui<br>

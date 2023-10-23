@@ -54,27 +54,15 @@ Our young singers are also involved in choral exchanges with other secondary sch
     <td class="tg-ktyi">Certificate of Distinction<br></td>
   </tr>
   <tr>
-    <td class="tg-f4yw">2018<br></td>
-    <td class="tg-ktyi">Orientale Concentus, an international choral competition at SOTA<br></td>
-    <td class="tg-ktyi">Silver Award<br></td>
-  </tr>
+   </tr>
   <tr>
-    <td class="tg-f4yw">2017<br></td>
-    <td class="tg-ktyi">Singapore Youth Festival Arts Presentation 2017<br></td>
-    <td class="tg-ktyi">Certificate of Accomplishment<br></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">2015<br></td>
+    <td class="tg-f4yw">2021<br></td>
     <td class="tg-ktyi">Singapore Youth Festival Arts Presentation 2015<br></td>
-    <td class="tg-ktyi">Certificate of Distinction<br></td>
+    <td class="tg-ktyi">         No grading due to ongoing Covid-19 Pandemic.<br></td>
   </tr>
   <tr>
-    <td class="tg-f4yw">2013<br></td>
-    <td class="tg-ktyi">Singapore Youth Festival Arts Presentation 2013<br></td>
-    <td class="tg-ktyi">Certificate of Distinction</td>
-  </tr>
-</tbody>
-</table>
+   
+</tr></tbody></table>
 
 #### **Performance/Events**
 

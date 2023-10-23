@@ -6,16 +6,14 @@ description: ""
 ![](/images/CCA/2023/modern%20dance.jpg)
 
 #### **About**
-
 Life as a member in SJC's Modern Dance CCA is always filled with excitement! SJC dancers are never short of opportunities to showcase their talents on various platforms both in school and outside. Every year, our dancers are actively involved in numerous school events, productions and competitions. We are also invited to collaborate with other organisations to put up public performances.
 
 #### **Objectives**
-
 *   To provide enriching and meaningful programmes for the development of its members.
 *   To inculcate values of perseverance, self-discipline, commitment and team-work through participation in competitions and external performances.
 
 #### **Activities**
- * Weekly training involving basics contemporary dance techniques, improvisation, partner work, and learning choreography
+ * Weekly training involving basic contemporary dance techniques, improvisation, partner work, and learning choreography
 * CCA bonding sessions, Secondary 1 Welcome Party, Secondary 4 Farewell Party
 * School performances (E.g. Teachers’ Day, Open House)
 * Biennial Singapore Youth Festival Arts Presentation

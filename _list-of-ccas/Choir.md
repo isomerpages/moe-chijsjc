@@ -76,7 +76,9 @@ Our young singers are also involved in choral exchanges with other secondary sch
 .tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
 .tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
 </style>
-<table class="tg">
+
+  
+![](/images/CCA/Visual%20&amp;%20Performing%20Arts/Choir/C2.jpg)<table class="tg">
 <thead>
   <tr>
     <th class="tg-9hzb">Year<br></th>
@@ -93,49 +95,18 @@ Our young singers are also involved in choral exchanges with other secondary sch
     <td class="tg-zr06">Arts Fiesta [combined showcase with other performing arts groups in SJC]<br></td>
   </tr>
   <tr>
-    <td class="tg-zr06">Performance for National Day</td>
+    <td class="tg-zr06">Performance for National Day<br></td><td>
+  </td></tr>
+  <tr>
+    <td class="tg-f4yw">2021<br></td>
+    <td class="tg-zr06">E-Performance for Spring Festival Celebrations<br></td>
   </tr>
   <tr>
-    <td class="tg-f4yw">2018<br></td>
-    <td class="tg-zr06">Performance for 17th Award Ceremony<br></td>
+    <td class="tg-f4yw">2020<br></td>
+    <td class="tg-zr06">E-Performance for National Day and Teachers' Day Celebrations<br></td>
   </tr>
   <tr>
-    <td class="tg-f4yw">2017<br></td>
-    <td class="tg-zr06">Participation at Sacred Music Gala Concert of the Voices of Singapore Festival 2017 at CHIJMES<br></td>
+    <td class="tg-f4yw">2020<br></td>
+    <td class="tg-zr06">Virtual Choir Video Editing Workshop<br></td>
   </tr>
-  <tr>
-    <td class="tg-f4yw">2016<br></td>
-    <td class="tg-zr06">Performance at CHIJ St. Joseph’s Convent The Sound of Music Musical<br></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw" rowspan="2">2015<br></td>
-    <td class="tg-zr06">Participation at the 2015 Kagoshima Asian Youth Arts Festival (Oct 2015)<br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Choral Exchange hosted by CHIJ St. Joseph’s Convent Participation in Sing50<br></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw" rowspan="3">2014<br></td>
-    <td class="tg-zr06">Choral Exchange with Mt. Alvernia Chorale (Australia) at CHIJ St. Joseph’s Convent<br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">CHIJ Combined Schools choir concert Te Deum (in celebration of CHIJ’s 160th Anniversary)<br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Overseas learning journey – Johor Bahru, Malaysia Concordis IV – Choral Exchange with 6 participating schools<br></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw" rowspan="2">2013<br></td>
-    <td class="tg-zr06">Annual Concert held in SJC with guest choirs from CHIJ OLGC and St. Hilda’s Primary School<br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Choral Exchange at Christ Church Secondary<br></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">2012<br></td>
-    <td class="tg-zr06">SJC 74th Anniversary Production – Tiger Babies</td>
-  </tr>
-</tbody>
-</table>
-
-![](/images/CCA/Visual%20&amp;%20Performing%20Arts/Choir/C2.jpg)
+  <tr></tr></tbody></table>

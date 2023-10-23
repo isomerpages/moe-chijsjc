@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-#### President's Award for Teachers 2024 - Nominations are now open!
+##### President's Award for Teachers and Outstanding Youth Education Award 2024 - Nominations are now open!
 
 
 Dear parents and SJCians,

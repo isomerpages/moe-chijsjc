@@ -17,9 +17,7 @@ The tradition to pursue excellence runs through all aspects of SJC NPCC training
 
 The 6As – namely Aware, Acquire, Actuate, Aspire, Achieve and Aim – defines the progressive learning path of a cadet from a new recruit at Secondary One to a youth leader and an officer. It also identifies the six desired training outcomes of its programmes.
 
-  
-
-<style type="text/css">
+ <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -66,15 +64,12 @@ The 6As – namely Aware, Acquire, Actuate, Aspire, Achieve and Aim – defines 
 </table>
 
 #### **Objectives**
-
-
 *   To provide cadets with opportunities for leadership development with tasks that challenge their abilities and imbibe in them strong character and civic, social and moral values.
-*   To cultivate a culture that encourages cadets to treat fellow cadets with respect, courtesy and tact and in turn demonstrates care and concern to others
+*   To cultivate a culture that encourages cadets to treat fellow cadets with respect, courtesy and tact, and in turn demonstrates the same care and concern to others.
 *   In our collaboration and identification with the Singapore Police Force,
-
-&gt;*   help to build a stronger bond of friendship with them, and so lead to a safer place for all in the country.
-
-&gt;*   adopt its tradition of high standards of performance, commitment, duty and service, to seek to excel and to face up to challenge
+- help to build a stronger bond of friendship with them, and so lead to a safer place for all in the country.
+and
+- adopt its tradition of high standards of performance, commitment, duty and service, to seek to excel and to face up to challenges.
 
 #### **Activities**
 

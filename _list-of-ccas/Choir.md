@@ -3,7 +3,7 @@ title: Choir
 permalink: /choir/
 description: ""
 ---
-![](/images/CCA/2023/choir%20formal.jpg)
+![](/images/CCA/2023/Choir/choir%20formal.jpg)
 
 #### **About**
 

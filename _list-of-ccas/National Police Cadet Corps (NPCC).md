@@ -7,22 +7,13 @@ description: ""
 
 #### **About**
 
+SJC NPCC Unit was started in the late 1960s as one of the two uniformed group CCAs in the former school site in Hillside Drive and functioned until the mid-1980s before the CCA was closed. The unit was re-started in 1999. It has since grown in strength in membership and in our quality of programmes, achieving excellent results as a unit and in numerous areas.
 
-SJC NPCC Unit was started in the late 1960s as one of two uniformed group CCAs in the former school site in Hillside Drive and functioned until the mid-1980s before the CCA was closed. The unit was re-started in 1999. It has since grown in strength in membership and in our quality of programmes, achieving excellent results as a unit and in numerous areas.
+ The unit has consistently done well to attain the annual Unit Overall Proficiency Award since its eligibility in 2003 – Silver (2003 to 2005 &amp; 2013 – 2014) and Gold (2006 – 2012, 2015 – 2017).&nbsp; In addition, at least 1 outstanding cadet also attained the SPF NPCC Award, the pinnacle award for NPCC cadets.
 
-  
+ Our NPCC’s four-year programme offers a wide range of activities such as drills, weapons training, self-defence tactics, outdoor camps, crime scene investigation training as well as community involvement projects. The unit works hand in hand with the Singapore Police Force to promote a safe and secure Singapore through workshops and programmes such as Police Youth Ambassador. Cadets are also provided with opportunities to represent the unit to take part in various inter-unit competitions to bring glory to the unit. Activities such as local education visits and Values-in-Action (ViA) activities are also organised annually to develop our cadets holistically to be concerned citizens. Leadership development opportunities abound within the CCA and at HQ level to develop our cadets further.
 
-The unit has consistently done well to attain the annual Unit Overall Proficiency Award since its eligibility in 2003 – Silver (2003 to 2005 &amp; 2013 – 2014) and Gold (2006 – 2012, 2015 – 2017).&nbsp; In addition, at least 1 outstanding cadet also attained the SPF NPCC Award, the pinnacle award for NPCC cadets.
-
-  
-
-Our NPCC’s four-year programme offers a wide range of activities such as drills, weapons training, self-defence tactics, outdoor camps, crime scene investigation training as well as community involvement projects. The unit works hand in hand with Singapore Police Force to promote a safe and secure Singapore through workshops and programmes such as Police Youth Ambassador. Cadets are also provided with opportunities to represent the unit to take part in various inter-unit competitions to bring glory to the unit. Activities such as local education visits and Values-in-Action (ViA) activities are also organised annually to develop our cadets holistically to be concerned citizens. Leadership development opportunities also abound within the CCA and at HQ level to develop.
-
-  
-
-The tradition to pursue excellence runs through all aspects of SJC NPCC training, inculcating in our cadets a strong sense of discipline, integrity, resourcefulness and confidence as we develop them into responsible individuals capable in facing any new challenges that may arise.
-
-  
+The tradition to pursue excellence runs through all aspects of SJC NPCC training, inculcating in our cadets a strong sense of discipline, integrity, resourcefulness and confidence as we develop them into responsible individuals capable of facing any new challenges that may arise.
 
 The 6As – namely Aware, Acquire, Actuate, Aspire, Achieve and Aim – defines the progressive learning path of a cadet from a new recruit at Secondary One to a youth leader and an officer. It also identifies the six desired training outcomes of its programmes.
 

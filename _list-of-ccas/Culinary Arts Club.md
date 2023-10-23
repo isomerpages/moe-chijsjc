@@ -3,7 +3,7 @@ title: Culinary Arts Club
 permalink: /culinaryartsclub/
 description: ""
 ---
-![](/images/CCA/2023/culinary%20arts.jpg)
+![](/images/CCA/2023/Culinary%20Arts/culinary%20arts.jpg)
 
 #### **About**
 

@@ -49,7 +49,11 @@ Ms Raabiyathul Basariah<br>
 .tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
 .tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+
+      
+The Corps Achievement Award was suspended in 2020 and 2021 due to the ongoing Covid-19 pandemic.
+
+![](/images/CCA/Uniformed%20Groups/St%20John%20Brigade/S2.png)<table class="tg">
 <thead>
   <tr>
       <th class="tg-dgl5">Year<br></th>
@@ -60,24 +64,14 @@ Ms Raabiyathul Basariah<br>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-zr06">2020<br></td>
-    <td class="tg-zr06">Corps Achievement Award (CAA)<br></td>
+    <td class="tg-zr06">2023<br></td>
+    <td class="tg-zr06">Chief Commissioner's Badge 
+			</td>
     <td class="tg-ktyi"></td>
-    <td class="tg-ktyi">Gold Award<br></td>
+    <td class="tg-ktyi">10 of our Secondary 4 cadets received this<br></td>
   </tr>
   <tr>
-    <td class="tg-zr06">2019<br></td>
+    <td class="tg-zr06">2022<br></td>
     <td class="tg-zr06">Corps Achievement Award (CAA)<br></td>
     <td class="tg-ktyi"></td>
-    <td class="tg-ktyi">Gold Award<br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">2018<br></td>
-    <td class="tg-zr06">Corps Achievement Award (CAA)<br></td>
-    <td class="tg-ktyi"></td>
-    <td class="tg-ktyi">Gold Award<br></td>
-  </tr>
-</tbody>
-</table>
-
-![](/images/CCA/Uniformed%20Groups/St%20John%20Brigade/S2.png)
+    <td class="tg-ktyi">GOLD Award<br></td></tr></tbody></table>

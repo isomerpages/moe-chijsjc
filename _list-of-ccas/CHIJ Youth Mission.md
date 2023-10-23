@@ -10,8 +10,8 @@ CHIJ Youth Mission (IJYM)&nbsp;is a Co-Curricular Activity, that is unique to us
 
 This shared vision strengthens the bonds between our sister schools, as we reflect the IJ mission in all that we do. We participate in annual IJYM events, such as the CHIJ Youth Mission Inter-School competition with the other four IJ schools, to showcase our community service and programme for the year.
 
- We embark on our projects every year, based on the year’s theme that is decided based on a yearly rotation system, this year’s (2023) theme, being “Hoping Against Hope”. We strive to do our best in taking action to help the community, as we learn how to empathise with the less fortunate, and try to find ways to best aid them in any way we can.
-
+Every year, we embark on our projects based on the year’s theme, which is chosen based on an annual rotation system. The theme for this year (2023) is "Hoping Against Hope”. We strive to do our best to give back to the community, as we learn to empathise with the less fortunate, and try to find ways to best aid them in whatever way we can.
+Every year, we start our projects based on the year's theme, which is chosen based on an annual rotation system; the theme for this year (2023) is "Hoping Against Hope." We work hard to give back to the community as we develop empathy for the underprivileged and look for opportunities to help them in any manner we can.
 
 Our activities include meaningful community involvement programmes like fund raising projects for the needy and volunteering at Homes for the Elderly. Members are transformed by the experience of servant leadership and grow as they listen to the needs of others in their community.
 

@@ -3,7 +3,7 @@ title: Concert Band
 permalink: /concertband/
 description: ""
 ---
-![](/images/CCA/2023/concert%20band.jpg)
+![](/images/CCA/2023/Concert%20Band/concert%20band.jpg)
 
 #### **About**
 

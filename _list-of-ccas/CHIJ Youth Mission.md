@@ -6,7 +6,7 @@ description: ""
 ![](/images/CCA/2023/CHIJ%20YM/chij%20youth%20mission.jpg)
 
 #### **About**
-CHIJ Youth Mission (IJYM)&nbsp;is a Co-Curricular Activity, that is unique to us, as well as four other IJ Schools (CHIJ Secondary (Toa Payoh), CHIJ St. Nicholas Girls’ School, CHIJ St. Theresa’s Convent, and CHIJ Katong), that provides an enabling environment for girls to recognise and promote the dignity of human persons especially the disadvantaged.
+CHIJ Youth Mission (IJYM) is a unique Co-Curricular Activity, that is special to us, as well as four other IJ Schools (CHIJ Secondary (Toa Payoh), CHIJ St. Nicholas Girls’ School, CHIJ St. Theresa’s Convent, and CHIJ Katong), that provides an enabling environment for girls to recognise and promote the dignity of human persons especially the disadvantaged.
 
 This shared vision strengthens the bonds between our sister schools, as we reflect the IJ mission in all that we do. We participate in annual IJYM events, such as the CHIJ Youth Mission Inter-School competition with the other four IJ schools, to showcase our community service and programme for the year.
 

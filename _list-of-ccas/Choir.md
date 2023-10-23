@@ -9,7 +9,7 @@ description: ""
 
 The SJC Choir consists of a team of talented and enthusiastic singers. We participate in year-long activities that provide choristers with numerous opportunities to hone their craft. We perform regularly in school events as well as participate in international competitions, with a repertoire which ranges from traditional Baroque to contemporary, in a variety of languages.
 
-Our young singers are also involved in choral exchanges with other secondary schools, which provide the choir valuable opportunities to learn and share music with one another. The choir camp also allows our choir girls to build stronger friendship amongst students, teachers and coaches.
+Our young singers are also involved in choral exchanges with other secondary schools, which provide the choir valuable opportunities to learn and share music with one another. The choir camp also allows our choir girls to build stronger friendship among students, teachers and coaches.
 
 #### **Objectives**
 

@@ -85,12 +85,12 @@ Our young singers are also involved in choral exchanges with other secondary sch
 </thead>
 <tbody>
   <tr>
-    <td class="tg-f4yw">2020<br></td>
-    <td class="tg-zr06">E-performance for National Day and Teacher’s Day celebrations.<br></td>
+    <td class="tg-f4yw">2023<br></td>
+    <td class="tg-zr06">Inter-School Choral Exchange<br></td>
   </tr>
   <tr>
-    <td class="tg-f4yw" rowspan="2">2019<br></td>
-    <td class="tg-zr06">Participation in Youth4Climate Concert organised by National Parks.<br></td>
+    <td class="tg-f4yw" rowspan="2">2022<br></td>
+    <td class="tg-zr06">Arts Fiesta [combined showcase with other performing arts groups in SJC]<br></td>
   </tr>
   <tr>
     <td class="tg-zr06">Combined CHIJ Schools Choir for CHIJ 165th Anniversary Founders Day Mass at National Stadium<br></td>

@@ -17,7 +17,7 @@ To forge stronger ties as a corps, regular bonding sessions and activities are h
 *   To ensure each cadet attains proficiency in First Aid, Home Nursing and Foot Drill.
 *   To provide a meaningful holistic 4-year CCA experience through purposeful and engaging activities.
 *   To develop leadership skills, independence, team building skills, resilience and good character.
-*    To strive for all of our cadets to graduate with the Chief Commissioner's Badge, which represents the greatest standard of achievement for a a cadet.
+*    To provide every cadet with the opportunity to graduate with the Chief Commissioner's Badge, the highest level of achievement for a a cadet.
 
 #### **Activities**
 

@@ -77,8 +77,7 @@ a. 2023
 |------|-----------------------------------------------|----------------------|
 | 2023 | IJYM Combined Schools Programme | N.A. (No grading)|
 | 2023 | CHIJ Youth Forum | N.A. (No grading)|
-| 2018 | CHIJ Youth Mission Inter-Schools Competition  | Accomplishment Award |
-| 2017 | CHIJ Youth Mission Inter-Schools Competition  | Accomplishment Award |
-| 2016 | CHIJ Youth Mission Inter-Schools Competition  | Distinction Award    |
-| 2015 | CHIJ Youth Mission Inter-Schools Competition  | Achievement Award    |
+| 2022 | CHIJ Youth Mission Competition  | Distinction Award |
+| 2021 | CHIJ Youth Mission Inter-Schools Sharing | N.A. (No grading |
+| 2020 | CHIJ Youth Mission Inter-Schools Sharing Achievement Award    |
 | 2014 | CHIJ Youth Mission Inter-Schools Competition  | Distinction Award    |

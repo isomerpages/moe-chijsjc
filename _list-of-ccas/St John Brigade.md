@@ -7,12 +7,9 @@ description: ""
 
 #### **About**
 
+In St John Brigade (SJB), cadets participate in three main components: first aid and life support, home nursing and foot drill. We aim to develop cadets holistically with a strong emphasis on values and character development, as well as leadership. The first aid knowledge that cadets learn goes on to serve them well as a life skill, sparkling an interest in some to pursue medicine or nursing as their career.
 
-The St John Brigade (SJB) is a voluntary organisation in Singapore which provides training in First Aid, Home Nursing and Foot Drill. St John members also perform voluntary first aid coverage duties during school and national events.
-
-  
-
-The St John Brigade (SJB), formerly known as St John Ambulance Brigade (SJAB) has a deep rooted history as a core UG CCA in SJC as early as the 1970s. The CCA provides opportunities for personal development, character building and leadership training through the varied activities offered. SJB cadets learn basic first aid knowledge, which includes Home Nursing and Basic/Advanced CPR techniques. They also engage in vigorous foot-drill and physical training sessions to build up their stamina. They apply the skills learnt in annual Zonal and National competitions. Participation in these competitions, leadership courses and enrichment activities provide opportunities to maximize our cadets’ potential in these areas.
+To forge stronger ties as a corps, regular bonding sessions and activities are held and cadets are encouraged to participate in the Cadet Proficiency Badge Scheme to support their development outside of SJB.
 
 #### **Objectives**
 

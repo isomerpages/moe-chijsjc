@@ -21,7 +21,7 @@ Our team is a close-knit family that encourages one another through their journe
 #### **Objectives**
 
 
-*   To develop resilence and team-spirit in every player.
+*   To develop resilience and team-spirit in every player.
 *   To cultivate in every player to lead a healthy and active lifestyle beyond secondary school education.
 *   To develop an appreciation of badminton and proficiency in playing it as a sport.
 
@@ -44,6 +44,6 @@ Our team is a close-knit family that encourages one another through their journe
 <br>Ms Soh Bee Pheng <br> Ms Albaniah Zakila Bte Aman<br>Mr Ong Sze Kiat<br>
 
   
-**Additional session during peak season/identified for school team players only.*
+**Additional sessions during peak season/identified school team players only.*
 
 ![](/images/CCA/Physical%20Sports/Badminton/B2.png)

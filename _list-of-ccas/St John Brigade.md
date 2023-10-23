@@ -21,25 +21,22 @@ To forge stronger ties as a corps, regular bonding sessions and activities are h
 
 #### **Activities**
 
-We engage our CCA members with fun and enriching CCA sessions, enabling them to perform basic first aid and life-saving skills.
+We engage our cadets with fun and enriching CCA sessions, enabling them to perform basic first aid and life-saving skills.
 
 *   Basic / Advanced Non-Commissioner Officer Course (BNCOC / ANCOC)
-*   Cadet Proficiency Badges Scheme (CPBS)
+*   Cadet Proficiency Badge Scheme (CPBS)
 *   Hospital Attachment Programme
-*   Public duties rendered as first-line first-aiders at school and community events
-*   CCA Training Camp conducted by SJB student leaders
-*   Sec One CCA membership recruitment during Sec One CCA Experience
-*   Zonal Nursing and First Aid Competition.
+*   Public duties as first-line first-aiders at school and community events
+*   Zonal Nursing and First Aid Competitions.
 
 #### **CCA Information**
 **Schedule**<br>
-Friday, 3.45pm - 6.15pm
+Every Friday, 3.45pm - 6.15pm
 <br> **Teacher-in-charge**
-<br>Mr Teo Wee Seng  
+<br>Mr Teo Wee Seng (IC)  
 Ms Jean Lim Le Hui<br>
 Mdm Phoon Lai Ling<br>
 Ms Raabiyathul Basariah<br>
-Ms Anne Victor
 
 #### **Achievements**
 <style type="text/css">

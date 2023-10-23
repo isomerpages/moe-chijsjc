@@ -9,19 +9,17 @@ description: ""
 
 In St John Brigade (SJB), cadets participate in three main components: first aid and life support, home nursing and foot drill. We aim to develop cadets holistically with a strong emphasis on values and character development, as well as leadership. The first aid knowledge that cadets learn goes on to serve them well as a life skill, sparkling an interest in some to pursue medicine or nursing as their career.
 
-To forge stronger ties as a corps, regular bonding sessions and activities are held and cadets are encouraged to participate in the Cadet Proficiency Badge Scheme to support their development outside of SJB.
+To forge stronger ties as a corps, regular bonding sessions and activities are held and cadets are encouraged to participate in the Cadet Proficiency Badge Scheme to support their development beyond SJB.
 
 #### **Objectives**
 
-
 *   To equip our cadets to be a competent trained first-aider to render First Aid and Home Nursing to those in need through life-saving skills of first aid, nursing, and emergency assistance.
-*   To ensure each cadet attains proficiency in First Aid, Home Nursing and Foot Drill
+*   To ensure each cadet attains proficiency in First Aid, Home Nursing and Foot Drill.
 *   To provide a meaningful holistic 4-year CCA experience through purposeful and engaging activities.
-*   To build a spirit of camaraderie amongst cadets and officers.
 *   To develop leadership skills, independence, team building skills, resilience and good character.
+*    To strive for all of our cadets to graduate with the Chief Commissioner's Badge, which represents the greatest standard of achievement for a a cadet.
 
 #### **Activities**
-
 
 We engage our CCA members with fun and enriching CCA sessions, enabling them to perform basic first aid and life-saving skills.
 

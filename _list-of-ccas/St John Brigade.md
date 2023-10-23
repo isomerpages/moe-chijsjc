@@ -27,7 +27,7 @@ We engage our cadets with fun and enriching CCA sessions, enabling them to perfo
 *   Cadet Proficiency Badge Scheme (CPBS)
 *   Hospital Attachment Programme
 *   Public duties as first-line first-aiders at school and community events
-*   Zonal Nursing and First Aid Competitions.
+*   Zonal Nursing and First Aid Competitions
 
 #### **CCA Information**
 **Schedule**<br>

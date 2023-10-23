@@ -93,7 +93,7 @@ Our young singers are also involved in choral exchanges with other secondary sch
     <td class="tg-zr06">Arts Fiesta [combined showcase with other performing arts groups in SJC]<br></td>
   </tr>
   <tr>
-    <td class="tg-zr06">Combined CHIJ Schools Choir for CHIJ 165th Anniversary Founders Day Mass at National Stadium<br></td>
+    <td class="tg-zr06">Performance for National Day</td>
   </tr>
   <tr>
     <td class="tg-f4yw">2018<br></td>

@@ -18,7 +18,6 @@ Our young singers are also involved in choral exchanges with other secondary sch
 *   To instill discipline and build confidence in all choir members.
 
 #### **CCA Information**
-
 **Schedule**        
 <br>Wednesday: 3.45 pm to 6.15 pm
 <br>Friday: 3:45 pm – 6:00 pm<br>

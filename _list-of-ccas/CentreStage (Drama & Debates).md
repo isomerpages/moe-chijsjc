@@ -3,7 +3,7 @@ title: CentreStage (Drama & Debates)
 permalink: /centrestage/
 description: ""
 ---
-![](/images/CCA/2023/centrestage.jpg)
+![](/images/CCA/2023/Centrestage/centrestage.jpg)
 
 #### **About**
 

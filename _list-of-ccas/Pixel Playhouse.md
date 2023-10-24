@@ -3,7 +3,7 @@ title: Pixel Playhouse
 permalink: /pixelplayhouse/
 description: ""
 ---
-![](/images/CCA/2023/pixel%20playhouse.jpg)
+![](/images/CCA/2023/Pixel%20Playhouse/pixel%20playhouse.jpg)
 
 #### **About**
 At Pixel Playhouse, students are offered opportunities to explore and develop their interests in photography, videography, photo-editing, storyboarding and Audio Visual (AV) through a range of programmes and competitions. Students hone their skills by attending workshops, participating in national schools competition, providing photography, videography and AV support for school events.

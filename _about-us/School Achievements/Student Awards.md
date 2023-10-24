@@ -4,14 +4,13 @@ permalink: /about-us/Accolades/Student-Awards/
 description: ""
 third_nav_title: School Achievements
 ---
-
 #### **CCA Awards in Visual & Performing Arts**
 
 | Singapore Youth Festival Arts Presentation |                |                |                |                |                 |
 |:------------------------------------------:|:--------------:|:--------------:|:--------------:|:--------------:|:---------------:|
-| CCA                                        |      2013      |      2015      |      2017      |      2019      |       2020      |
+| CCA                                        |      2013      |      2015      |      2017      |      2019      |       2021      |
 | CentreStage (Drama – English)              |   Distinction  | Accomplishment |   Distinction  | Accomplishment |   Distinction   |
-| Choir                                      |   Distinction  |   Distinction  | Accomplishment |   Distinction  |  Accomplishment |
+| Choir                                      |   Distinction  |   Distinction  | Accomplishment |   Distinction  |  Participated in SYF with Special Provision |
 | Concert Band                               | Accomplishment | Accomplishment | Accomplishment | Accomplishment |  Accomplishment |
 | Dance - Indian                             |   Distinction  |   Distinction  |   Distinction  |   Distinction  |    Distinction  |
 | Dance - Modern                             |   Distinction  |   Distinction  | Accomplishment | Accomplishment |    Distinction  |

@@ -3,32 +3,21 @@ title: National Police Cadet Corps (NPCC)
 permalink: /npcc/
 description: ""
 ---
-![](/images/CCA/2023/national%20police%20cadet%20corps.jpg)
+![](/images/CCA/2023/NPCC/national%20police%20cadet%20corps.jpg)
 
 #### **About**
 
+SJC NPCC Unit was started in the late 1960s as one of the two uniformed group CCAs in the former school site in Hillside Drive and functioned until the mid-1980s before the CCA was closed. The unit was re-started in 1999. It has since grown in strength in membership and in our quality of programmes, achieving excellent results as a unit and in numerous areas.
 
-SJC NPCC Unit was started in the late 1960s as one of two uniformed group CCAs in the former school site in Hillside Drive and functioned until the mid-1980s before the CCA was closed. The unit was re-started in 1999. It has since grown in strength in membership and in our quality of programmes, achieving excellent results as a unit and in numerous areas.
+ The unit has consistently done well to attain the annual Unit Overall Proficiency Award since its eligibility in 2003 – Silver (2003 to 2005 &amp; 2013 – 2014) and Gold (2006 – 2012, 2015 – 2017).&nbsp; In addition, at least 1 outstanding cadet also attained the SPF NPCC Award, the pinnacle award for NPCC cadets.
 
-  
+ Our NPCC’s four-year programme offers a wide range of activities such as drills, weapons training, self-defence tactics, outdoor camps, crime scene investigation training as well as community involvement projects. The unit works hand in hand with the Singapore Police Force to promote a safe and secure Singapore through workshops and programmes such as Police Youth Ambassador. Cadets are also provided with opportunities to represent the unit to take part in various inter-unit competitions to bring glory to the unit. Activities such as local education visits and Values-in-Action (ViA) activities are also organised annually to develop our cadets holistically to be concerned citizens. Leadership development opportunities abound within the CCA and at HQ level to develop our cadets further.
 
-The unit has consistently done well to attain the annual Unit Overall Proficiency Award since its eligibility in 2003 – Silver (2003 to 2005 &amp; 2013 – 2014) and Gold (2006 – 2012, 2015 – 2017).&nbsp; In addition, at least 1 outstanding cadet also attained the SPF NPCC Award, the pinnacle award for NPCC cadets.
-
-  
-
-Our NPCC’s four-year programme offers a wide range of activities such as drills, weapons training, self-defence tactics, outdoor camps, crime scene investigation training as well as community involvement projects. The unit works hand in hand with Singapore Police Force to promote a safe and secure Singapore through workshops and programmes such as Police Youth Ambassador. Cadets are also provided with opportunities to represent the unit to take part in various inter-unit competitions to bring glory to the unit. Activities such as local education visits and Values-in-Action (ViA) activities are also organised annually to develop our cadets holistically to be concerned citizens. Leadership development opportunities also abound within the CCA and at HQ level to develop.
-
-  
-
-The tradition to pursue excellence runs through all aspects of SJC NPCC training, inculcating in our cadets a strong sense of discipline, integrity, resourcefulness and confidence as we develop them into responsible individuals capable in facing any new challenges that may arise.
-
-  
+The tradition to pursue excellence runs through all aspects of SJC NPCC training, inculcating in our cadets a strong sense of discipline, integrity, resourcefulness and confidence as we develop them into responsible individuals capable of facing any new challenges that may arise.
 
 The 6As – namely Aware, Acquire, Actuate, Aspire, Achieve and Aim – defines the progressive learning path of a cadet from a new recruit at Secondary One to a youth leader and an officer. It also identifies the six desired training outcomes of its programmes.
 
-  
-
-<style type="text/css">
+ <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -75,20 +64,13 @@ The 6As – namely Aware, Acquire, Actuate, Aspire, Achieve and Aim – defines 
 </table>
 
 #### **Objectives**
-
-
 *   To provide cadets with opportunities for leadership development with tasks that challenge their abilities and imbibe in them strong character and civic, social and moral values.
-*   To cultivate a culture that encourages cadets to treat fellow cadets with respect, courtesy and tact and in turn demonstrates care and concern to others
-*   In our collaboration and identification with the Singapore Police Force,
-
-&gt;*   help to build a stronger bond of friendship with them, and so lead to a safer place for all in the country.
-
-&gt;*   adopt its tradition of high standards of performance, commitment, duty and service, to seek to excel and to face up to challenge
+*   To cultivate a culture that encourages cadets to treat fellow cadets with respect, courtesy and tact, and in turn demonstrates the same care and concern to others.
+*   In our collaboration and identification with the Singapore Police Force, help to build a stronger bond of friendship with them, and so lead to a safer place for all in the country.
+and adopt its tradition of high standards of performance, commitment, duty and service, to seek to excel and to face up to challenges.
 
 #### **Activities**
-
-
-The SJC NPCC unit has a vibrant programme for all members from Sec 1 to 5.
+The SJC NPCC unit has a vibrant programme for all members from Secondary 1 to 5.
 
 *   Unit and Cadet Leader camps \[NCO\]
 *   Enrichment courses such as air pistol, forensic science and first aid
@@ -103,51 +85,20 @@ The SJC NPCC unit has a vibrant programme for all members from Sec 1 to 5.
 *   Welfare celebrations – birthday celebration and cadet’s academic/ non-academic achievements
 
 #### **CCA Information**
-
 **Schedule**        
 <br>Friday: 3:45 pm – 6:15 pm<br>
 
-**Teacher-in-charge**
-<br>Ms Joanna Goh<br> Ms Ong Suat King<br>Ms Iris Teh,<br>Mr Loh Chu Ken<br>Mr Alvin Toh<br>
+**Teachers-in-charge**
+<br>
+Unit Officer-in-charge: Mrs Joanna Goh<br>
+Unit Officer-in-charge (Deputy): Ms Ong Suat King<br>
+Sec 1 Teacher officer I/C: Mrs Joanna Goh/ Ms Iris Teh<br>
+Sec 2 Teacher officer I/C: Mr Alvin Toh/ Mr Loh Chu Ken<br>
+Sec 3 Teacher officer I/C: Ms Ong Suat King<br>
+Sec 4 Teacher officer I/C: Ms Iris Teh<br>
+Cadet Inspector: Shaleni K<br>
 
 #### **Achievements**
-
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-9hzb" colspan="3">NPCC Unit Overall Proficiency Award (UOPA) - From 2003 to 2020<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-9hzb">Silver<br></td>
-    <td class="tg-9hzb">Gold<br></td>
-    <td class="tg-9hzb">Outstanding Performance (Gold Award for 5 consecutive years)<br></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">2003 - 2005<br></td>
-    <td class="tg-f4yw">2006 – 2013<br></td>
-    <td class="tg-f4yw">2010<br></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">2014- 2015<br></td>
-    <td class="tg-f4yw">2016 - 2020<br></td>
-    <td class="tg-f4yw">phased out</td>
-  </tr>
-</tbody>
-</table>
-  
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -178,7 +129,7 @@ The SJC NPCC unit has a vibrant programme for all members from Sec 1 to 5.
   </tr>
   <tr>
     <td class="tg-9hzb">Award:<br></td>
-    <td class="tg-f4yw">Gold Award<br></td>
+    <td class="tg-f4yw">Participation Award<br></td>
     <td class="tg-7yig"></td>
   </tr>
 </tbody>

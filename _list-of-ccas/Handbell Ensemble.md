@@ -3,33 +3,35 @@ title: Handbell Ensemble
 permalink: /handbell/
 description: ""
 ---
-![](/images/CCA/2023/handbell%20ensemble.jpg)
+![](/images/CCA/2023/Handbell%20ensemble/handbell%20ensemble.jpg)
 
 #### **About**
+   
+The SJC Handbell Ensemble has been ringing with joy and gratitude since 2006 when it was first formed with a small group of 22 students. Since then, the group of ringers has expanded to form an ensemble twice its original size. Proud to sustain a culture of excellence through the commendable list of achievements from participation in the biennial Singapore Youth Festival Arts Presentation, this ensemble strives to bring its best to all performances.
 
+As the ringers ring their assigned bells, they create beautiful melodies together as an ensemble. Through time spent together, they enjoy friendship and build on the strengths of one another. The resulting camaraderie allows the ringers to work and strive for the best through their commonly shared values of commitment, team-work, and discipline. The SJC Handbell Ensemble hopes to touch the lives of its audience with its melodious and angelic tunes of handbells and handchimes.
 
-The SJC Handbell Ensemble has been ringing with joy and gratitude since 2006 when it was first formed with a small group of 22 girls. Since then, the group of ringers has expanded and consistently sustained a culture of excellence – especially through the commendable list of achievements from our participation in the biennial Singapore Youth Festival Arts Presentation.
+#### **Objectives**   
+*   To learn a new musical instrument.
+*   To develop the passion for handbell ringing and strive for excellence through quality performances.
+*   To embody self-discipline, resilience, and camaraderie amongst our ringers.
+*   To bring joy to the audience during performances.
 
-  
+#### **Activities**   
+*   Celebrate birthdays and successes in competitions.
+*   A buddy system to create opportunities for bonding early in the first year of CCA.
+*  Work together to plan Secondary 1 CCA experiences and farewells for graduating students.
+*   Monthly ‘bonding’ activities for ringers to foster friendships within the CCA.
 
-As members ring their assigned bells to make beautiful music together, they learnt the values of commitment, team-work and discipline through the CCA and beyond, at the same time forging long-lasting friendships. The SJC Handbell Ensemble hopes to touch the lives of its audience with its melodious and angelic tunes of handbells and handchimes.
-
-#### **Objectives**
-
-
-*   To instil in ringers the passion for handbell ringing and strive for excellence through quality performances
-*   To develop self discipline and resilience in members
-*   To build a spirit of camaraderie and teamwork as an ensemble
 
 #### **CCA Information**
 
-
 **Schedule**        
 <br>Monday: 3:45 pm – 6:15pm
-<br>Friday: 3:45 pm – 6:00pm<br>
+<br>Friday: 3:45 pm – 6:15pm<br>
 
-**Teacher-in-charge**
-<br>Mrs Ng Peck Hoon<br> Ms Amelia Huang Xinlei<br>
+**Teachers-in-charge**
+<br>Mrs Ng Peck Hoon (IC)<br> Ms Amelia Huang Xinlei<br>
 
 #### **Achievements**
 
@@ -54,18 +56,25 @@ As members ring their assigned bells to make beautiful music together, they lear
 </thead>
 <tbody>
   <tr>
-    <td class="tg-zr06"> 2021</td>
+    <td class="tg-zr06"> 2023</td>
     <td class="tg-zr06"> Singapore Youth Festival Arts Presentation</td>
     <td class="tg-zr06">Instrumental Ensemble<br></td>
-    <td class="tg-zr06">Certificate of Accomplishment </td>
+    <td class="tg-zr06">Certificate of Distinction</td>
   </tr>
   <tr>
-    <td class="tg-zr06" rowspan="2">2019<br></td>
+    <td class="tg-zr06" rowspan="2">2021<br></td>
+    <td class="tg-zr06">Singapore Youth Festival Arts Presentation<br></td>
+    <td class="tg-zr06">Instrumental Ensemble<br></td>
+    <td class="tg-zr06">Certificate of Accomplishment<br></td>
+  </tr>
+  <tr>
+   <td class="tg-zr06">2019<br></td>
     <td class="tg-zr06">Singapore Youth Festival Arts Presentation<br></td>
     <td class="tg-zr06">Instrumental Ensemble<br></td>
     <td class="tg-zr06">Certificate of Distinction<br></td>
   </tr>
   <tr>
+    <td class="tg-zr06">2019<br></td>
     <td class="tg-zr06">London College of Music (Assessment)<br></td>
     <td class="tg-zr06">Instrumental Ensemble<br></td>
     <td class="tg-zr06">Certificate of Distinction<br></td>
@@ -74,62 +83,9 @@ As members ring their assigned bells to make beautiful music together, they lear
     <td class="tg-zr06">2017<br></td>
     <td class="tg-zr06">Singapore Youth Festival Arts Presentation<br></td>
     <td class="tg-zr06">Instrumental Ensemble<br></td>
-    <td class="tg-zr06">Certificate of Distinction<br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">2016<br></td>
-    <td class="tg-zr06">London College of Music (Assessment)<br></td>
-    <td class="tg-zr06">Instrumental Ensemble<br></td>
-    <td class="tg-zr06">Certificate of Distinction<br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">2015<br></td>
-    <td class="tg-zr06">Singapore Youth Festival Arts Presentation<br></td>
-    <td class="tg-zr06">Instrumental Ensemble<br></td>
     <td class="tg-zr06">Certificate of Distinction</td>
   </tr>
 </tbody>
 </table>
-
-#### **Performances / Events**
-
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-9hzb">Year<br></th>
-    <th class="tg-9hzb">Name of Performance/Event<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-f4yw">2019<br></td>
-    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">EXTRAORDINARY CELEBRATIONS 2019</span></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">2018<br></td>
-    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">CHIJ SJC 80</span>th <span style="font-weight:normal;color:#000">Anniversary Dinner</span><br><span style="font-weight:normal;color:#000">Singapore Youth Festival Arts Presentation Opening Ceremony</span></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">2017<br></td>
-    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Ministry of Bellz Concert</span></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">2016<br></td>
-    <td class="tg-ktyi"><span style="font-weight:normal;color:#000">Ministry of Bellz Concert</span></td>
-  </tr>
-</tbody>
-</table>
-
   
 ![](/images/CCA/Visual%20&amp;%20Performing%20Arts/Handbell%20Ensemble/H2.jpg)

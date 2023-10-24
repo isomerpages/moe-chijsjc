@@ -3,83 +3,30 @@ title: Modern Dance
 permalink: /dance/
 description: ""
 ---
-![](/images/CCA/2023/modern%20dance.jpg)
+![](/images/CCA/2023/Modern%20Dance/modern%20dance.jpg)
 
 #### **About**
-
-
 Life as a member in SJC's Modern Dance CCA is always filled with excitement! SJC dancers are never short of opportunities to showcase their talents on various platforms both in school and outside. Every year, our dancers are actively involved in numerous school events, productions and competitions. We are also invited to collaborate with other organisations to put up public performances.
 
 #### **Objectives**
-
-
-*   To provide enriching and meaningful programmes for the development of its members
+*   To provide enriching and meaningful programmes for the development of its members.
 *   To inculcate values of perseverance, self-discipline, commitment and team-work through participation in competitions and external performances.
 
-#### **CCA Information**
+#### **Activities**
+ * Weekly training involving basic contemporary dance techniques, improvisation, partner work, and learning choreography
+* CCA bonding sessions, Secondary 1 Welcome Party, Secondary 4 Farewell Party
+* School performances (E.g. Teachers’ Day, Open House)
+* Biennial Singapore Youth Festival Arts Presentation
 
+#### **CCA Information**
 **Schedule**        
 <br>Wednesday: 3.45 pm to 6.00 pm
 <br>Friday: 3:45 pm – 6:15 pm<br>
 
-**Teacher-in-charge**
+**Teachers-in-charge**
 <br>Ms Chan Lian Yin, <br> Ms Tan Kuan Ting,<br>Mrs Geetha Singarajan<br>
 
 #### **Achievements**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ypk6{background-color:#002060;color:#FFF;font-style:italic;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
-.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th colspan="4" class="tg-ypk6">DANCE - INDIAN<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-9hzb">Year<br></td>
-    <td class="tg-dgl5">Name of Competition<br></td>
-    <td class="tg-dgl5">Division/Category<br></td>
-    <td class="tg-dgl5">Achievement<br></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw"> 2021</td>
-    <td class="tg-zr06">Singapore Youth Festival Arts Presentation</td>
-    <td class="tg-zr06"> Indian Dance<br><br></td>
-    <td class="tg-zr06">Certificate of Distinction <br><br></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">2019<br></td>
-    <td class="tg-ktyi">Singapore Youth Festival Arts Presentation<br></td>
-    <td class="tg-ktyi">Indian Dance<br></td>
-    <td class="tg-ktyi">Certificate of Distinction<br></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">2017<br></td>
-    <td class="tg-ktyi">Singapore Youth Festival Arts Presentation 2017<br></td>
-    <td class="tg-ktyi">Indian Dance<br></td>
-    <td class="tg-ktyi">Certificate of Distinction<br></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">2015<br></td>
-    <td class="tg-ktyi">Singapore Youth Festival Arts Presentation 2015<br></td>
-    <td class="tg-ktyi">Indian Dance<br></td>
-    <td class="tg-ktyi">Certificate of D</td>
-  </tr>
-</tbody>
-</table>
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -106,95 +53,15 @@ Life as a member in SJC's Modern Dance CCA is always filled with excitement! SJC
     <td class="tg-dgl5">Achievement<br></td>
   </tr>
   <tr>
-    <td class="tg-f4yw">2019<br></td>
+    <td class="tg-f4yw">2023<br></td>
     <td class="tg-ktyi">Singapore Youth Festival Arts Presentation<br></td>
     <td class="tg-ktyi">Modern Dance<br></td>
     <td class="tg-ktyi">Certificate of Accomplishment<br></td>
   </tr>
   <tr>
-    <td class="tg-f4yw">2017<br></td>
+    <td class="tg-f4yw">2021<br></td>
     <td class="tg-ktyi">Singapore Youth Festival Arts Presentation<br></td>
     <td class="tg-ktyi">Modern Dance<br></td>
-    <td class="tg-ktyi">Certificate of Accomplishment<br></td>
+    <td class="tg-ktyi">Certificate of Distinction<br></td>
   </tr>
-  <tr>
-    <td class="tg-f4yw">2015<br></td>
-    <td class="tg-ktyi">Singapore Youth Festival Arts Presentation<br></td>
-    <td class="tg-ktyi">Modern Dance<br></td>
-    <td class="tg-ktyi">Certificate of Dis</td>
-  </tr>
-</tbody>
-</table>
-
-#### **Performances / Events**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-t6c5{background-color:#002060;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th colspan="2" class="tg-t6c5">DANCE ENSEMBLE – INDIAN DANCE<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-9hzb">Year<br></td>
-    <td class="tg-9hzb">Name of Performance/Event<br></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">2019<br></td>
-    <td class="tg-ktyi"><span style="background-color:initial">SYF 2019 Dance Extravaganza @ Bukit Panjang Plaza.</span><br><span style="background-color:initial">Perform at the Prize Presentation Ceremony of Naanum Oru Padaippaali at Umar Pulavar Tamil Language Centre</span></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">2018<br></td>
-    <td class="tg-ktyi"><span style="background-color:initial">SYF 2018 Dance Extravaganza @ Bukit Panjang Plaza.</span><br><span style="background-color:initial">Dance Exchange @ St Margaret’s Secondary School.</span></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">2017<br></td>
-    <td class="tg-zr06">SYF 2017 Celebrations @ One KM Mall.</td>
-  </tr>
-</tbody>
-</table>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-t6c5{background-color:#002060;color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-t6c5" colspan="2">DANCE ENSEMBLE – MODERN DANCE<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-9hzb">Year<br></td>
-    <td class="tg-9hzb">Name of Performance/Event<br></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">2019<br></td>
-    <td class="tg-ktyi">Chinese New Year Concert in school<br>Teachers’ Day Concert in school</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">2018<br></td>
-    <td class="tg-ktyi">Music in the City performance @ Ngee Ann City Civic Plaza</td>
-  </tr>
-</tbody>
-</table>
+  <tr></tr></tbody></table>

@@ -3,7 +3,7 @@ title: Badminton
 permalink: /badminton/
 description: ""
 ---
-![](/images/CCA/2023/badminton.jpg)
+![](/images/CCA/2023/Badminton/badminton.jpg)
 
 #### **About**
 
@@ -40,7 +40,7 @@ Our team is a close-knit family that encourages one another through their journe
 <br>*Wednesday: 3.45 pm to 6.00 pm
 <br>Friday: 3:45 pm – 6:15 pm<br>
 
-**Teacher-in-charge**
+**Teachers-in-charge**
 <br>Ms Soh Bee Pheng <br> Ms Albaniah Zakila Bte Aman<br>Mr Ong Sze Kiat<br>
 
   

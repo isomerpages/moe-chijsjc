@@ -3,7 +3,7 @@ title: St John Brigade
 permalink: /stjohnbrigade/
 description: ""
 ---
-![](/images/CCA/2023/st%20john_s%20ambulance%20brigade.jpg)
+![](/images/CCA/2023/SJAB/st%20john_s%20ambulance%20brigade.jpg)
 
 #### **About**
 
@@ -17,7 +17,7 @@ To forge stronger ties as a corps, regular bonding sessions and activities are h
 *   To ensure each cadet attains proficiency in First Aid, Home Nursing and Foot Drill.
 *   To provide a meaningful holistic 4-year CCA experience through purposeful and engaging activities.
 *   To develop leadership skills, independence, team building skills, resilience and good character.
-*    To strive for all of our cadets to graduate with the Chief Commissioner's Badge, which represents the greatest standard of achievement for a a cadet.
+*    To provide every cadet with the opportunity to graduate with the Chief Commissioner's Badge, the highest level of achievement for a a cadet.
 
 #### **Activities**
 
@@ -31,8 +31,9 @@ We engage our cadets with fun and enriching CCA sessions, enabling them to perfo
 
 #### **CCA Information**
 **Schedule**<br>
-Every Friday, 3.45pm - 6.15pm
-<br> **Teacher-in-charge**
+Every Friday, 3.45pm - 6.15pm<br> 
+
+**Teachers-in-charge**
 <br>Mr Teo Wee Seng (IC)  
 Ms Jean Lim Le Hui<br>
 Mdm Phoon Lai Ling<br>
@@ -49,6 +50,10 @@ Ms Raabiyathul Basariah<br>
 .tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
 .tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
 </style>
+
+      
+![](/images/CCA/Uniformed%20Groups/St%20John%20Brigade/S2.png)
+
 <table class="tg">
 <thead>
   <tr>
@@ -60,24 +65,14 @@ Ms Raabiyathul Basariah<br>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-zr06">2020<br></td>
-    <td class="tg-zr06">Corps Achievement Award (CAA)<br></td>
+    <td class="tg-zr06">2023<br></td>
+    <td class="tg-zr06">Chief Commissioner's Badge 
+			</td>
     <td class="tg-ktyi"></td>
-    <td class="tg-ktyi">Gold Award<br></td>
+    <td class="tg-ktyi">10 of our Secondary 4 cadets received this<br></td>
   </tr>
   <tr>
-    <td class="tg-zr06">2019<br></td>
+    <td class="tg-zr06">2022<br></td>
     <td class="tg-zr06">Corps Achievement Award (CAA)<br></td>
     <td class="tg-ktyi"></td>
-    <td class="tg-ktyi">Gold Award<br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">2018<br></td>
-    <td class="tg-zr06">Corps Achievement Award (CAA)<br></td>
-    <td class="tg-ktyi"></td>
-    <td class="tg-ktyi">Gold Award<br></td>
-  </tr>
-</tbody>
-</table>
-
-![](/images/CCA/Uniformed%20Groups/St%20John%20Brigade/S2.png)
+    <td class="tg-ktyi">GOLD Award<br></td></tr></tbody></table>The Corps Achievement Award was suspended in 2020 and 2021 due to the ongoing Covid-19 pandemic.

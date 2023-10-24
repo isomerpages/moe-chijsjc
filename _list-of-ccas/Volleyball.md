@@ -3,7 +3,7 @@ title: Volleyball
 permalink: /volleyball/
 description: ""
 ---
-![](/images/CCA/2023/volleyball.jpg)
+![](/images/CCA/2023/Volleyball/volleyball.jpg)
 
 #### **About**
 

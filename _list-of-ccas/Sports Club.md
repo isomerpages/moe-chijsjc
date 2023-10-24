@@ -3,7 +3,7 @@ title: Sports Club
 permalink: /sportsclub/
 description: ""
 ---
-![](/images/CCA/2023/sports%20club.jpg)
+![](/images/CCA/2023/Sports%20club/sports%20club.jpg)
 
 #### **About**
 In Sports Club, we believe in promoting values through sports.&nbsp;&nbsp; Through the Sports Club experience, members learn to play a variety of sports, such as Tchoukball, Floorball and Frisbee. Student Leaders in Sports Club are given opportunities to plan and lead training sessions for the junior members, which help them to hone their leadership skills.&nbsp; Our members also have opportunities to represent the school in competitions such as the National Inter-School Tchoukball Competitions and National Orienteering Competition.

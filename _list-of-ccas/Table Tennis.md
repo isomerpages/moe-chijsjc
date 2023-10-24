@@ -7,7 +7,6 @@ description: ""
 
 #### **About**
 
-
 Table Tennis is a sport that requires dexterity and focus. The speed, spin and placement of the ball are crucial in table tennis. Due to the fast-paced, short-distance nature of the sport, a player is required to have quick reflexes and good hand-eye coordination.
 
   

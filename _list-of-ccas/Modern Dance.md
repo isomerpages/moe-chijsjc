@@ -3,7 +3,7 @@ title: Modern Dance
 permalink: /dance/
 description: ""
 ---
-![](/images/CCA/2023/modern%20dance.jpg)
+![](/images/CCA/2023/Modern%20Dance/modern%20dance.jpg)
 
 #### **About**
 Life as a member in SJC's Modern Dance CCA is always filled with excitement! SJC dancers are never short of opportunities to showcase their talents on various platforms both in school and outside. Every year, our dancers are actively involved in numerous school events, productions and competitions. We are also invited to collaborate with other organisations to put up public performances.

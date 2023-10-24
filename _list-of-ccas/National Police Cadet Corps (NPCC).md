@@ -3,7 +3,7 @@ title: National Police Cadet Corps (NPCC)
 permalink: /npcc/
 description: ""
 ---
-![](/images/CCA/2023/national%20police%20cadet%20corps.jpg)
+![](/images/CCA/2023/NPCC/national%20police%20cadet%20corps.jpg)
 
 #### **About**
 

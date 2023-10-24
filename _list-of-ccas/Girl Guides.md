@@ -3,7 +3,7 @@ title: Girl Guides
 permalink: /girlguides/
 description: ""
 ---
-![](/images/CCA/2023/girl%20guides.jpg)
+![](/images/CCA/2023/Girl%20guides/girl%20guides.jpg)
 
 #### **About**
 

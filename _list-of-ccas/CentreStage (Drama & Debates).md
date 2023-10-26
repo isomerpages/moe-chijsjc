@@ -6,9 +6,7 @@ description: ""
 ![](/images/CCA/2023/Centrestage/centrestage.jpg)
 
 #### **About**
-
-
-CentreStage, is a fun-filled CCA where students are provided with a platform to express themselves eloquently, articulately and persuasively. During their weekly sessions, they are taught fundamental skills in drama and debates. In drama, they are trained to develop adaptive skills to improvise and be quick-witted. In debates, students are challenged to step out of their comfort zones and think out of the box in order to craft a convincing argument for their speeches. In both sessions, through both drama and debate, students engage in in-depth discussion about current affairs and social issues, allowing students to foster a deeper understanding of the world around them.
+CentreStage is a fun-filled CCA where students are provided with a platform to express themselves eloquently, articulately and persuasively. During their weekly sessions, they are taught fundamental skills in drama and debates. In drama, they are trained to develop adaptive skills to improvise and be quick-witted. In debates, students are challenged to step out of their comfort zones and think out of the box in order to craft a convincing argument for their speeches. In both sessions, through both drama and debate, students engage in in-depth discussion about current affairs and social issues, allowing students to foster a deeper understanding of the world around them.
 
 By the end of their time in the CCA, students realise that drama and debates go beyond acting and debating. They also acquire soft skills that develop their time-management and communication abilities, while allowing their self-confidence to flourish. Most importantly, students learn to be open-minded and accept each other's differences, while having fun and bonding as a CCA.
 

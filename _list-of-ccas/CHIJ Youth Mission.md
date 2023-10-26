@@ -15,7 +15,7 @@ Every year, we embark on projects based on the year’s theme, which is chosen b
 Through this process of learning and growth, members are transformed by the experience of servant leadership while listening to the needs of others.
 
 #### **Objectives**
-Through its projects and activities, IJYM members
+ Through its projects and activities, IJYM members
 1) gain a greater understanding of society and learn to put themselves in the shoes of the disadvantaged. 
 2. learn to work for the greater good of society.
 3. learn the importance of taking the initiative to help our society in any way possible, both within and outside the CCA.
@@ -23,43 +23,14 @@ Through its projects and activities, IJYM members
 
 #### **Activities**
 1.  Partnerships with external organisations
-
-a. 2023
-(i) MWS Active Ageing Centre – Fernvale Rivergrove
-
-○&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Chinese New Year celebration _(We visited this senior activity centre)_
-
-○&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SAC@SJC _(Seniors from the above senior activity centre toured our school, to learn more about how schools have progressed)_
-
-2.  Project Love Lunch _(_\[cont. from 2022\] _We carried out a donation drive with the above organisation to collect bath towels and hand soap for the less fortunate families)_
-
-2.  2022
-
-1.  Project Love Lunch _(We carried out a donation drive with the above organisation to collect food items for the less fortunate families, as we allow our school community to better empathise with the less fortunate &amp; understand the challenges that they face)_
-2.  Advocacy for Refugees _(We spread awareness about the suffering of refugees around the world, and spread ways we can offer and provide help for refugees)_
-
-3.  2021
-
-1.  Soles4Souls _(We collected shoes that were still in good condition, and donated them to the above organisation, that will give these pairs of shoes a second life)_
-
-2.  Events with the IJYMs of the other IJ schools
-
-1.  Annual CHIJ Youth Mission Competition _(Where all the 5 groups of IJYM members from the 5 IJ secondary schools gather together to share our activities/projects for the year, and participate in friendly competition)_
-2.  IJYM Combined Schools Programme _(Where all the 5 groups of IJYM members from the 5 IJ secondary schools gather together to relax, and have a fun bonding day together)_
-3.  CHIJ Forum _(Where various speakers come together to speak about an issue that they are passionate about, to educate us more about current affairs in our world today.)_
-
-3.  School-based events/projects
-
-1.  School Support Staff Appreciation Project _(Where we embarked on various projects to show our appreciation for our unsung heroes, whose work usually goes unnoticed by us)_
-2.  SJC’s IJYM Day Camp _(Where we relax, and unwind with our fellow IJYM members of the various schools)_
-3.  Weekly Bonding Games _(Where we play games to help us grow as members of IJYM)_
-
+2. Events with the other 4 IJ schools
+3. School-based events/projects
 
 ![](/images/CCA/Clubs%20and%20Societies/CHIJ%20Youth%20Mission/C2.jpg)
 
 ![](/images/CCA/Clubs%20and%20Societies/CHIJ%20Youth%20Mission/C3.jpg)
 
-
+ 
 
 #### **CCA Information**
 

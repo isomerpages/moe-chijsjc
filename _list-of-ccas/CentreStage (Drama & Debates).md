@@ -40,7 +40,9 @@ By the end of their time in the CCA, students realise that drama and debates go 
 .tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
 .tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+
+   
+![](/images/CCA/Visual%20&amp;%20Performing%20Arts/CentreStage%20(Drama%20&amp;%20Debates)/C2.png)<table class="tg">
 <thead>
   <tr>
     <th class="tg-dgl5">Year<br></th>
@@ -72,84 +74,22 @@ By the end of their time in the CCA, students realise that drama and debates go 
     <td class="tg-zr06">2022</td>
     <td class="tg-zr06">Singapore Secondary Schools Debating Championships</td>
     <td class="tg-zr06">Debate Circle </td>
-    <td class="tg-ktyi">Runner up for the silver division </td>
+    <td class="tg-ktyi">Quarterfinals</td>
   </tr>
   <tr>
-    <td class="tg-zr06">2018<br></td>
-    <td class="tg-ktyi">RE: ACT - Interschool acting competition<br></td>
-    <td class="tg-ktyi">Organised by<br>Inward Bound<br></td>
-    <td class="tg-ktyi">Best Team &amp; Individual Performance<br></td>
+    <td class="tg-zr06">2022<br></td>
+    <td class="tg-ktyi">Raffles Debate Academy Under-14s Debate Championship 2022<br></td>
+    <td class="tg-ktyi">Debate Circle</td>
+    <td class="tg-ktyi">Silver Division winners<br></td>
   </tr>
   <tr>
-    <td class="tg-zr06">2018</td>
-    <td class="tg-zr06">Raffles Debate Academy<br>Under-14s Debate<br>Championship (Silver<br>Division)</td>
-    <td class="tg-zr06">Debate Circle </td>
-    <td class="tg-zr06">Championship </td>
+    <td class="tg-zr06">2021</td>
+    <td class="tg-zr06">Singapore Youth Festival Arts Presentation<br>
+    </td><td class="tg-zr06">English Drama</td>
+    <td class="tg-zr06">Certificate Of Distinction</td>
   </tr>
   <tr>
-    <td class="tg-zr06">2018</td>
-    <td class="tg-zr06">Community Problem Solving Competition  </td>
-    <td class="tg-zr06">Debate Circle </td>
-    <td class="tg-zr06">Finalists </td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">2018 </td>
-    <td class="tg-zr06">National Public Speaking Competition (Secondary Category)</td>
-    <td class="tg-zr06">Debate Circle</td>
-    <td class="tg-zr06">8th place </td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">2017<br></td>
-    <td class="tg-ktyi">Singapore Youth Festival<br>Arts Presentation<br></td>
-    <td class="tg-ktyi">English Drama<br></td>
-    <td class="tg-ktyi">Certificate of Distinction<br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">2017</td>
-    <td class="tg-zr06">National Public Speaking Competition (Secondary Category) </td>
-    <td class="tg-zr06">Debate Circle </td>
-    <td class="tg-zr06">4th place </td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">2016</td>
-    <td class="tg-zr06">National Public Speaking Competition (Secondary Category)</td>
-    <td class="tg-zr06">Debate Circle</td>
-    <td class="tg-zr06">4th place </td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">2015<br></td>
-    <td class="tg-ktyi">Singapore Youth Festival<br>Arts Presentation<br></td>
-    <td class="tg-ktyi">English Drama<br></td>
-    <td class="tg-ktyi">Certificate of<br>Accomplishment<br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">2014 </td>
-    <td class="tg-zr06">Community Problem<br>Solving Competition</td>
-    <td class="tg-zr06">Debate Circle </td>
-    <td class="tg-zr06">Finalists </td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">2014</td>
-    <td class="tg-zr06">Singapore Secondary<br>Schools Debating<br>Championship (SSDCS)<br>division 1</td>
-    <td class="tg-zr06">Debate Circle </td>
-    <td class="tg-zr06">Quarterfinals</td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">2014</td>
-    <td class="tg-zr06">National Public Speaking Competition (Secondary Category)</td>
-    <td class="tg-zr06">Debate Circle </td>
-    <td class="tg-zr06">13th place</td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">2013<br></td>
-    <td class="tg-ktyi">National Public Speaking Competition (Secondary Category)<br></td>
-    <td class="tg-ktyi">Debate Circle<br></td>
-    <td class="tg-ktyi">Top 20 speakers:  8th<br>and 11th place</td>
-  </tr>
-</tbody>
-</table>
-
-
-
-  
-![](/images/CCA/Visual%20&amp;%20Performing%20Arts/CentreStage%20(Drama%20&amp;%20Debates)/C2.png)
+    <td class="tg-zr06">2021</td>
+    <td class="tg-zr06">Raffles Debate Academy Under-14s Debate Championship 2021</td>
+    <td class="tg-zr06">Raffles Debate (Silver Division)</td>
+    <td class="tg-zr06">Silver Division (Runner-Up)</td></tr></tbody></table>

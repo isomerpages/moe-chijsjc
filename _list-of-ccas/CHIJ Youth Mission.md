@@ -51,5 +51,5 @@ Through this process of learning and growth, members are transformed by the expe
 | 2023 | IJYM Combined Schools Programme | N.A. (No grading)|
 | 2023 | CHIJ Youth Forum | N.A. (No grading)|
 | 2022 | CHIJ Youth Mission Competition  | Distinction Award |
-| 2021 | CHIJ Youth Mission Inter-Schools Sharing | N.A. (No grading |
-| 2020 | CHIJ Youth Mission Inter-Schools Sharing | N.A. (No grading |
+| 2021 | CHIJ Youth Mission Inter-Schools Sharing | N.A. (No grading) |
+| 2020 | CHIJ Youth Mission Inter-Schools Sharing | N.A. (No grading) |

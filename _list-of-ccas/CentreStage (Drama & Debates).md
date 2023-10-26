@@ -11,8 +11,6 @@ CentreStage is a fun-filled CCA where students are provided with a platform to e
 By the end of their time in the CCA, students realise that drama and debates go beyond acting and debating. They also acquire soft skills that develop their time-management and communication abilities, while allowing their self-confidence to flourish. Most importantly, students learn to be open-minded and accept each other's differences, while having fun and bonding as a CCA.
 
 #### **Objectives**
-
-
 *   To hone members' critical thinking skills and enable them to express their ideas confidently.
 *   To develop member's comprehensive understanding of drama and debate, and develop the relevant skills in both fields.
 *   To develop member's understanding of the world and provide platforms for them to advocate for social issues.
@@ -53,22 +51,22 @@ By the end of their time in the CCA, students realise that drama and debates go 
 </thead>
 <tbody>
   <tr>
-    <td class="tg-zr06">2021</td>
+    <td class="tg-zr06">2023</td>
     <td class="tg-zr06">Singapore Youth Festival Arts Presentation</td>
     <td class="tg-zr06">English Drama<br><br></td>
-    <td class="tg-zr06">Certificate of Distinction<br> </td>
+    <td class="tg-zr06">Certificate of Accomplishment<br> </td>
   </tr>
   <tr>
-    <td class="tg-zr06">2021</td>
-    <td class="tg-zr06">Raffles Debate Academy<br>Under-14s Debate<br>Championship 2021</td>
-    <td class="tg-zr06">Raffles Debate<br>(Silver Division)</td>
-    <td class="tg-ktyi">Runner up for the Silver Division </td>
+    <td class="tg-zr06">2023</td>
+    <td class="tg-zr06">Raffles Debate Academy<br>Under-14s Debate<br>Championship 2023</td>
+    <td class="tg-zr06">Debate Circle</td>
+    <td class="tg-ktyi">Preliminary Rounds</td>
   </tr>
   <tr>
-    <td class="tg-zr06">2019<br></td>
-    <td class="tg-ktyi">Singapore Youth Festival Arts Presentation<br></td>
-    <td class="tg-ktyi">English Drama<br></td>
-    <td class="tg-ktyi">Certificate of<br>Accomplishment<br></td>
+    <td class="tg-zr06">2022<br></td>
+    <td class="tg-ktyi">Dunman High Debate Open<br></td>
+    <td class="tg-ktyi">Debate Circle<br></td>
+    <td class="tg-ktyi">Preliminary Rounds</td>
   </tr>
   <tr>
     <td class="tg-zr06">2019</td>

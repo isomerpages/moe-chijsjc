@@ -30,12 +30,10 @@ By the end of their time in the CCA, students realise that drama and debates go 
 **Teachers-in-charge**
 <br>Ms Neo Hui Ning Melissa <br> Mrs Rachel Tan<br>Ms Afroza Begum Bte Kaman <br>Ms Samantha Han Jia-Wen<br>
 
-**Additional session during peak season/identified for school team players only.
+
 
 
 #### **Achievements**
-
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -155,41 +153,7 @@ By the end of their time in the CCA, students realise that drama and debates go 
 </tbody>
 </table>
 
-#### **Performance / Events**
 
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
-.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-9hzb">Year<br></th>
-    <th class="tg-9hzb">Name of Performance/ Event<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-f4yw">2021<br></td>
-    <td class="tg-zr06">Teachers’ Day Performance – Online<br></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">2020<br></td>
-    <td class="tg-zr06">Teachers’ Day Performance – Online<br></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">2019</td>
-    <td class="tg-zr06">National Day - Emcees</td>
-  </tr>
-</tbody>
-</table>
 
   
 ![](/images/CCA/Visual%20&amp;%20Performing%20Arts/CentreStage%20(Drama%20&amp;%20Debates)/C2.png)

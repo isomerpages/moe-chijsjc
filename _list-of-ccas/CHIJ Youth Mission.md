@@ -15,7 +15,7 @@ Every year, we embark on projects based on the year’s theme, which is chosen b
 Through this process of learning and growth, members are transformed by the experience of servant leadership while listening to the needs of others.
 
 #### **Objectives**
- Through its projects and activities, IJYM members
+Through its projects and activities, IJYM members
 1) gain a greater understanding of society and learn to put themselves in the shoes of the disadvantaged. 
 2. learn to work for the greater good of society.
 3. learn the importance of taking the initiative to help our society in any way possible, both within and outside the CCA.

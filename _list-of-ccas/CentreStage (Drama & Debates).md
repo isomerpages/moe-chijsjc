@@ -61,7 +61,7 @@ By the end of their time in the CCA, students realise that drama and debates go 
   <tr>
     <td class="tg-zr06">2023</td>
     <td class="tg-zr06">Raffles Debate Academy<br>Under-14s Debate<br>Championship 2023</td>
-    <td class="tg-zr06">Debate Circle</td>
+    <td class="tg-zr06"> Debate Circle<br><br></td>
     <td class="tg-ktyi">Preliminary Rounds</td>
   </tr>
   <tr>
@@ -74,7 +74,7 @@ By the end of their time in the CCA, students realise that drama and debates go 
     <td class="tg-zr06">2022</td>
     <td class="tg-zr06">Singapore Secondary Schools Debating Championships</td>
     <td class="tg-zr06">Debate Circle </td>
-    <td class="tg-ktyi">Quarterfinals</td>
+    <td class="tg-ktyi">Quarterfinals<br><br></td>
   </tr>
   <tr>
     <td class="tg-zr06">2022<br></td>

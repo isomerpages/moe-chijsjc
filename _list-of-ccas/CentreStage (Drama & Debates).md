@@ -80,7 +80,7 @@ By the end of their time in the CCA, students realise that drama and debates go 
     <td class="tg-zr06">2022<br></td>
     <td class="tg-ktyi">Raffles Debate Academy Under-14s Debate Championship 2022<br></td>
     <td class="tg-ktyi">Debate Circle</td>
-    <td class="tg-ktyi">Silver Division winners<br></td>
+    <td class="tg-ktyi">Silver Division (winners)<br></td>
   </tr>
   <tr>
     <td class="tg-zr06">2021</td>

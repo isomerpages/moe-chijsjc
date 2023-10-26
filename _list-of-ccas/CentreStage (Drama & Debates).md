@@ -69,8 +69,8 @@ By the end of their time in the CCA, students realise that drama and debates go 
     <td class="tg-ktyi">Preliminary Rounds</td>
   </tr>
   <tr>
-    <td class="tg-zr06">2019</td>
-    <td class="tg-zr06">Hua Yi Debate Championship</td>
+    <td class="tg-zr06">2022</td>
+    <td class="tg-zr06">Singapore Secondary Schools Debating Championships</td>
     <td class="tg-zr06">Debate Circle </td>
     <td class="tg-ktyi">Runner up for the silver division </td>
   </tr>

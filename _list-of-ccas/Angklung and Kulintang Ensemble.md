@@ -17,7 +17,7 @@ Members are expected to uphold the standards established to produce high quality
 *   To develop students’ leadership potential, discipline, confidence, resilience and team spirit through training sessions and performances.
 
 #### **Activities**
-* Competitions (e.g. Singapore Youth Festival Arts Presentation)
+* Competitions (e.g Singapore Youth Festival Arts Presentation)
 * Performing for Internal and External Events
 * Developing musicianship of each performer
 * Team Building Games

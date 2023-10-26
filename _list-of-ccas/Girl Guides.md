@@ -6,25 +6,19 @@ description: ""
 ![](/images/CCA/2023/Girl%20guides/girl%20guides.jpg)
 
 #### **About**
-
-
-Guiding is an educational youth movement opened to all girls without distinction of creed, race, nationality or any other circumstance. It is a life skills education that will encourage each girl to be a responsible through a game of adventure, observation, knowledge and ideas.  
+Guiding is an educational youth movement open to all girls without distinction of creed, race, nationality or any other circumstance. It is a life skills education that will encourage each girl to be responsible through a game of adventure, observation, knowledge and ideas.  
   
-Started in 2003, the SJC Girl Guides is a close-knitted family of sisters. The girls are trained to be resilient and resourceful individuals through both indoor and outdoor activities such as camping, hiking, outdoor cooking, tent-pitching, foot drill, leadership development opportunities and community service. These events allow the Guides to forge friendships and strong ties with their fellow sister Guides as they support one another and grow.  
+Started in 2003, the SJC Girl Guides is a close-knit family of sisters. The girls are trained to be resilient and resourceful individuals through both indoor and outdoor activities such as camping, hiking, outdoor cooking, tent-pitching, foot drill, leadership development opportunities and community service. These events allow the Guides to forge friendships and strong ties with their fellow sister Guides as they support one another and grow.  
   
 Our 5-point programme – Personal and Social Development, Home, Community, Outdoor and International helps the Girl Guide to understand herself, her community and the world through exposure to a myriad experiences and programmes designed to incorporate character development, values inculcation, citizenship education, leadership skills and 21st century core competencies. The CCA inculcates the values of selflessness and respect in our girls and also teaches them important life skills.
 
 #### **Objectives**
-
-
 *   To provide girls and young women with the opportunity to grow and to lead
 *   To cultivate a serving heart and mind to the community
 *   To maximise the potential of Girl Guides to become responsible citizens of the world
 
 #### **Activities**
-
-
-*   Proficiency badge work preparations
+*   Proficiency badge work preparation
 *   Basic First Aid Training
 *   Foot drills
 *   Outdoor cooking, Camp craft &amp; Tent-pitching
@@ -43,21 +37,16 @@ Our 5-point programme – Personal and Social Development, Home, Community, Outd
 #### **CCA Information**
 
 **Schedule**        
-<br>Wednesday &amp; Friday: 3.45 pm to 6.15 pm
-<br>*Friday (Semester 1): 3:45 pm – 6:15 pm<br>
+<br>Wednesday &amp; Friday: 3.45 pm to 6.00 pm
+<br>*Friday (Semester 1): 3:45 pm – 5.30 pm<br>
 
-**Teacher-in-charge**
+**Teachers-in-charge**
 <br>Ms Nur Fariza Bte Abubakar <br> Ms Siti Nurizzati Binte Jamil<br>Ms Vera Yuen
 <br>Ms Lee Yu Xian<br>
 
-
-*Additional session during peak season/identified for school team players only.
-
-
+*Additional session during peak season/competition only.
 
 #### **Achievements**
-
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;

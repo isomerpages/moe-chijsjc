@@ -10,20 +10,25 @@ Badminton CCA nurtures students into resilient and effective all-rounders throug
 
 Players are also given opportunities to develop leadership skills when they help in organising CCA-based and school-based events.
 
-Our team is a close-knit family that supports one another as they pursue excellence in both their CCA and studies. academics.
+Our team is a close-knit family that supports one another as they pursue excellence in both their CCA and studies. 
 
 #### **Objectives**
+
+
 *   To develop resilience and team-spirit in every player.
-*   To instill in each player the importance of maintaining a healthy and active lifestyle beyond secondary school. 
-*  To develop an appreciation for badminton as well as the skills and competence required for the sport.
+*   To cultivate in every player to lead a healthy and active lifestyle beyond secondary school education.
+*   To develop an appreciation of badminton and proficiency in playing it as a sport.
 
 #### **Activities**
+
+
 *   National School Games North Zone Inter-Schools Badminton Tournament
 *   CHIJ SJC Badminton Tournament – exposure to competitive badminton, application of tactics and techniques
 *   Annual Badminton Training Camp – honing of skills and tactics for competitive matches, discussions on healthy lifestyle habits as an athlete
 *   Inter-Level Mini-League Competition – promote team spirit and let the players from different levels to better know one another
 
 #### **CCA Information**
+
 **Schedule**        
 <br>Monday: 3:45 pm – 6:15pm
 <br>*Wednesday: 3.45 pm to 6.00 pm

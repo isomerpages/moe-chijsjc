@@ -11,7 +11,6 @@ The CHIJ SJC Angklung &amp; Kulintang Ensemble “Plays Together, Shakes as One�
 Members are expected to uphold the standards established to produce high quality music during practice sessions &amp; performances. These experiences emphasise the development of discipline, commitment, confidence, teamwork and care for each other.&nbsp; Together, the Angklung family strives to give our best to every performance as we work hard and cultivate a passion for the CCA.
 
 #### **Objectives**
-
 *   To nurture in members an appreciation for the performing arts through the development and application of skills of angklung and kulintang as a musical instrument.
 
 *   To develop students’ leadership potential, discipline, confidence, resilience and team spirit through training sessions and performances.
@@ -28,7 +27,7 @@ Members are expected to uphold the standards established to produce high quality
 <br>Monday: 3:45 pm – 6:00pm 
 <br>Thursday: 3:45 pm – 6:15 pm<br>
 
-**Teacher-in-charge**
+**Teachers-in-charge**
 <br>Ms Nurul Ain Sakina Bte Soonan
 <br>Ms Hafifah Binte Mohd Hafiz Tan<br>
 

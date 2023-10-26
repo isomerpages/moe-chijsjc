@@ -50,69 +50,6 @@ Ms Vera Yuen
 
 #### **Achievements**
 
-  
-    Year<br>
-    Name of Competition<br>
-    Division/Category<br>
-    Achievement<br>
-  
-
-
-  
-    2023
-    Singapore Youth Festival Arts Presentation
-    English Drama<br><br>
-    Certificate of Accomplishment<br> 
-  
-  
-    2023
-    Raffles Debate Academy<br>Under-14s Debate<br>Championship 2023
-     Debate Circle<br><br>
-    Preliminary Rounds
-  
-  
-    2022<br>
-    Dunman High Debate Open<br>
-    Debate Circle<br>
-    Preliminary Rounds
-  
-  
-    2022
-    Singapore Secondary Schools Debating Championships
-    Debate Circle 
-    Quarterfinals<br><br>
-  
-  
-    2022<br>
-    Raffles Debate Academy Under-14s Debate Championship 2022<br>
-    Debate Circle
-    Silver Division (winners)<br>
-  
-  
-    2021
-    Singapore Youth Festival Arts Presentation<br>
-    English Drama
-    Certificate Of Distinction
-  
-  
-    2021
-    Raffles Debate Academy Under-14s Debate Championship 2021
-    Raffles Debate (Silver Division)
-    Silver Division (Runner-Up)
-
-
-
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-</style>
 <table class="tg">
 <thead>
    <tr>

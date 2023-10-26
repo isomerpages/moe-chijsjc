@@ -23,7 +23,7 @@ Through this process of learning and growth, members are transformed by the expe
 
 #### **Activities**
 1.  Partnerships with external organisations
-2. Events with the other IJ schools
+2. Events with the other 4 IJ schools
 3. School-based events/projects
 
 ![](/images/CCA/Clubs%20and%20Societies/CHIJ%20Youth%20Mission/C2.jpg)
@@ -47,7 +47,7 @@ Through this process of learning and growth, members are transformed by the expe
 | Year | Name of Competition/Project                   | Achievement          |
 |------|-----------------------------------------------|----------------------|
 | 2023 | IJYM Combined Schools Programme | N.A. (No grading)|
-| 2023 | CHIJ Forum | N.A. (No grading)|
+| 2023 | CHIJ Youth Forum | N.A. (No grading)|
 | 2022 | CHIJ Youth Mission Competition  | Distinction Award |
-| 2021 | CHIJ Youth Mission Inter-School Sharing | N.A. (No grading) |
-| 2020 | CHIJ Youth Mission Inter-School Sharing | N.A. (No grading) |
+| 2021 | CHIJ Youth Mission Inter-Schools Sharing | N.A. (No grading |
+| 2020 | CHIJ Youth Mission Inter-Schools Sharing | N.A. (No grading |

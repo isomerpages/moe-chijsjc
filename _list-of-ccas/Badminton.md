@@ -6,24 +6,16 @@ description: ""
 ![](/images/CCA/2023/Badminton/badminton.jpg)
 
 #### **About**
-
-
-Badminton CCA nurtures students into resilient and effective all-rounders through our bi-weekly training and the various programmes put in place throughout the year. Besides learning basic badminton skills, players do weekly runs to build their physical and mental strength. Tactical application and game management are taught to enable players to perform to their best ability during competitions.
-
-  
-
+Badminton Co-Curricular Activity (CCA) nurtures students into resilient and effective all-rounders through our bi-weekly training and the various programmes put in place throughout the year. Besides learning basic badminton skills, players do weekly runs to build their physical and mental strength. Tactical application and game management are taught to enable players to perform to their best ability during competitions.
+ 
 Players are also given opportunities to develop leadership skills when they help in organising CCA-based and school-based events.
 
-  
-
-Our team is a close-knit family that encourages one another through their journey together as players strive for excellence both in their CCA and studies.
+Our team is a close-knit family that encourages and supports one another as they strive for excellence in both their CCA and studies.
 
 #### **Objectives**
-
-
 *   To develop resilience and team-spirit in every player.
-*   To cultivate in every player to lead a healthy and active lifestyle beyond secondary school education.
-*   To develop an appreciation of badminton and proficiency in playing it as a sport.
+*   To encourage each player to maintain a healthful and active lifestyle beyond secondary school. 
+*   To develop an appreciation for Badminton as well as a high level of skill and competence in the sport.
 
 #### **Activities**
 

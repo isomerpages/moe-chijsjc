@@ -8,7 +8,7 @@ description: ""
 #### **About**
 Badminton CCA nurtures students into resilient and effective all-rounders through our bi-weekly training and the various programmes put in place throughout the year. Besides learning basic badminton skills, players do weekly runs to build their physical and mental strength. Tactical application and game management are taught to enable players to perform to their best ability during competitions.
 
-Players are also given opportunities to develop leadership skills when they help in organising CCA-based and school-based events.
+Players are also given opportunities to develop leadership skills when they organise CCA- and school-based events.
 
 Our team is a close-knit family that supports one another as they pursue excellence in both their CCA and studies. 
 
@@ -33,6 +33,6 @@ Our team is a close-knit family that supports one another as they pursue excelle
 <br>Ms Soh Bee Pheng <br> Ms Albaniah Zakila Bte Aman<br>Mr Ong Sze Kiat<br>
 
   
-**Additional sessions during peak season/identified school team players only.*
+**Additional sessions during peak season/identified school team players.*
 
 ![](/images/CCA/Physical%20Sports/Badminton/B2.png)

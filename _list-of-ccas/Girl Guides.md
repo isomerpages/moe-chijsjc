@@ -64,17 +64,17 @@ Ms Vera Yuen
     <td class="tg-zr06">North Division Outdoor Challenge 
 			      – Tent Pitching<br></td>
     <td class="tg-ktyi"></td>
-    <td class="tg-zr06">Gold Award<br></td>
+    <td class="tg-zr06">2nd Place<br></td>
   </tr>
   <tr>
-    <td class="tg-zr06">2019 Outdoor Challenge – Creative Gateway Challenge<br></td>
+    <td class="tg-zr06">North Division Day – Let's Get Moving<br></td>
     <td class="tg-ktyi"></td>
     <td class="tg-zr06">Merit Award<br></td>
   </tr>
   <tr>
-    <td class="tg-zr06">Smoke Free Ambassador Badge Campaign<br></td>
+    <td class="tg-zr06">North Division Day – Wide Games<br></td>
     <td class="tg-ktyi"></td>
-    <td class="tg-zr06">2nd<br></td>
+    <td class="tg-zr06">2nd Place<br></td>
   </tr>
   <tr>
     <td class="tg-zr06">North Division Day Fusion Dance Competition<br></td>

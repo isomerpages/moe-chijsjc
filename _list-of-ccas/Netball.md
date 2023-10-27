@@ -7,30 +7,22 @@ description: ""
 
 #### **About**
 
+SJC Netball has a long and rich tradition in the school. The team is blessed with generations of SJC netballers who were and are closely linked to the CCA, coming back often to contribute to the school and reconnect with the school through friendly games. The CCA has come a long way to establish itself as a reputable and worthy opponent in the National School Games.
 
-SJC Netball has a long and rich tradition in the school. The team is blessed with generations of SJC netballers who were and are closely linked to the CCA, coming back often to contribute to the school and reconnect with the school through past vs present friendly games. Netball at SJC is a top performing sports CCA and a strong powerhouse against other school teams. The CCA has come a long way to establish itself as a reputable and worthy opponent in both the Zonal and National Schools Tournaments.
+At SJC, through a comprehensive values-driven Netball Programme, team members learn what it means to be a committed and responsible team player who communicates effectively and takes ownership of the sport. With the fervent support of the school and coach, our players have demonstrated the capacity to develop into well-rounded student-athletes who excel both on the court and in the classroom. The team remains close-knit today and sees one another as one SJC Netball Family.
 
-  
 
-At SJC, a comprehensive values-driven Netball Programme is tailored as team members learn what it means to be a committed and responsible team player who communicates effectively and takes ownership of the sport. With the fervent support of the school and coach, our players have demonstrated the ability to develop into well-rounded student-athletes who excel both on the court and in the classroom. The team remains close-knitted today and see one another as one SJC Netball Family.
 
 #### **Objectives**
-
-
-*   To develop responsible and disciplined student athletes with strong values and moral ethics
-*   To preserve the rich history and high standard of performance in SJC Netball
+*   Cultivating resilience, tenacity and grit through training sessions and competitions.
+*   Fostering responsible and disciplined student-athletes who embody strong values and moral ethics.
+* Preserving the rich history and high standard of performance in SJC Netball
 
 #### **Activities**
-
-
-*   Participation in National School Games for both B and C division girls.
-*   Pesta Sukan Netball competitions.
-*   Hosting Netball Carnival for primary schools.
-*   DSA Trials for applicants
-*   Post season games
-*   Biennial overseas training tour and cultural exchange
-*   VIA - "_Run for Life_". Partnership with Red Cross in 2021 to raise funds  
-    for COVID-19 relief efforts in the Asia-Pacific region
+*   CCA experience programme
+*   National School Games for both B and C Division girls.
+*   Primary school outreach programme.
+*   Post season games and external carnivals
 
 #### **CCA Information**
 
@@ -39,7 +31,7 @@ At SJC, a comprehensive values-driven Netball Programme is tailored as team memb
 <br>Wednesday: 3.45 pm to 6.15 pm
 <br>Friday: 3:45 pm – 6:15 pm<br>
 
-**Teacher-in-charge**
+**Teachers-in-charge**
 <br>Ms Tay Yea Bih<br> Ms Rachel Ang<br>Ms Adeline Chew<br>
 
 #### **Achievements**

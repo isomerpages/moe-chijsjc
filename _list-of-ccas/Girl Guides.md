@@ -53,59 +53,48 @@ Ms Vera Yuen
 | Year |   Name of Competition       |  | Achievement |
 | ---------- | --------------------- | ---------- | ---------- |
 | 2022    | Puan Noor Aishah Award     |   | Gold Award |
-| 2022    | North Division Outdoor Challenge – Tent Pitching     |  | 2nd Place |
+| 2022    | North Division Outdoor Challenge – Tent Pitching |  | 2nd Place |
+| 2022    | North Division Day – Let's Get Moving     |      | Merit Award |
+| 2022   | North Division Day – Wide Games     |    | 2nd Place |
 | 2022    | Singapore Youth Festival Arts Presentation     | Angklung &amp; Kulintang     | Certificate of Accomplishment |
 | 2021    | Singapore Youth Festival Arts Presentation     | Angklung &amp; Kulintang     | Certificate of Distinction |
-<br><table class="tg">
-<thead>
-   <tr>
-    <td class="tg-zr06">2022<br></td>
-    <td class="tg-zr06">Puan Noor Aishah Award<br></td>
-    <td class="tg-ktyi"></td>
-    <td class="tg-zr06">Gold Award<br></td>
-  </tr>
-  <tr>
-    <td rowspan="5" class="tg-zr06">2022<br></td>
-    <td class="tg-zr06">North Division Outdoor Challenge 
-			      – Tent Pitching<br></td>
-    <td class="tg-ktyi"></td>
-    <td class="tg-zr06">2nd Place<br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">North Division Day – Let's Get Moving<br></td>
-    <td class="tg-ktyi"></td>
-    <td class="tg-zr06">Merit Award<br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">North Division Day – Wide Games<br></td>
-    <td class="tg-ktyi"></td>
-    <td class="tg-zr06">2nd Place<br></td>
-  
-  </tr>
-  <tr>
-    <td class="tg-zr06">2021<br></td>
-    <td class="tg-zr06">Puan Noor Aishah Award<br></td>
-    <td class="tg-ktyi"></td>
-    <td class="tg-zr06">Silver Award<br></td>
-  </tr>
-  <tr><td class="tg-zr06">2021<br></td>
-    <td class="tg-zr06">#GGSWTD2021 Social Action Video Contest #1<br></td>
-    <td class="tg-ktyi"></td>
-    <td class="tg-zr06">Bronze Award<br></td>
-  </tr>
-	<tr><td class="tg-zr06">2021<br></td>
-    <td class="tg-zr06">GGSSCS Smoke Free Ambassador<span style="mso-tab-count:1"><br></span></td>
-    <td class="tg-ktyi"></td>
-    <td class="tg-zr06">Bronze Award<br></td>
-  </tr>
+| 2022    | Singapore Youth Festival Arts Presentation     | Angklung &amp; Kulintang     | Certificate of Accomplishment |
+| 2021    | Singapore Youth Festival Arts Presentation     | Angklung &amp; Kulintang     | Certificate of Distinction |
 
-  <tr>
-    <td class="tg-zr06">2020<br></td>
-    <td class="tg-zr06">Puan Noor Aishah Award<br></td>
-    <td class="tg-ktyi"></td>
-    <td class="tg-zr06">Gold Award<br></td>
-  </tr>
-</thead></table>
+    N<br>
+    
+    Merit Award<br>
+  
+  
+    North Division Day – Wide Games<br>
+    
+    2nd Place<br>
+  
+  
+  
+    2021<br>
+    Puan Noor Aishah Award<br>
+    
+    Silver Award<br>
+  
+  2021<br>
+    #GGSWTD2021 Social Action Video Contest #1<br>
+    
+    Bronze Award<br>
+  
+	2021<br>
+    GGSSCS Smoke Free Ambassador<span style="mso-tab-count:1"><br></span>
+    
+    Bronze Award<br>
+  
+
+  
+    2020<br>
+    Puan Noor Aishah Award<br>
+    
+    Gold Award<br>
+  
+
 
 
 ![](/images/CCA/Uniformed%20Groups/Girl%20Guides/G2.png)

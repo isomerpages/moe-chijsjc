@@ -16,19 +16,21 @@ The band comprises 3 main sections:
 
 3.  Percussion section – Drumset, Xylophone, Timpani, Cymbals etc.
 
-      
+  #### **What We Offer**
 
-The band actively seeks opportunities to perform in collaboration with external organisations. Exchange programmes with bands from other schools are regularly held. Past collaborators include schools from both within and beyond Singapore. Community-based events are also an avenue for our students to gain experience in handling performances.
+**Musical Excellence**: Each member of our band is committed to honing their musical skills and techniques, creating a harmonious and captivating sound that resonates with our audience.
 
-#### **Objectives**
+**Participation**: We actively engage in numerous intra- and inter-school events throughout the year, providing our students with valuable opportunities to showcase their talents.
 
+**Collaboration**: Our band actively seeks collaborative opportunities with external organisations, including schools and musical groups. We host exchange programmes with bands from various institutions.
 
-Students should  
+**Performance**: We thrive in the spotlight! From school events to community-based performances, our students gain invaluable experience in delivering exceptional musical performances.
 
-*   be able to explain and apply their knowledge of basic music skills to play instruments correctly.
-*   be able to display good musicianship in performance and theory in various performances including Singapore Youth Celebrations (SYC) (formerly known as SYF).
-*   develop an appreciation of good music and interest in music making
-*   inculcate values of team-work, creative expression and confidence through performance of concert band literature and various band programmes.
+**External Performances**: We frequently attend performances at external venues, sharing our love for music with a broader audience.
+
+**CCA Camps**: Our band members also enjoy the camaraderie and musical growth fostered during our CCA camps, where they engage in intensive practice sessions and team-building activities.
+
+Join us as we continue to harmonise our talents and share the joy of music with the world. Together, we create beautiful melodies that resonate in the hearts of all who listen.
 
 #### **CCA Information**
 
@@ -37,7 +39,7 @@ Students should
 <br>Wednesday: 3.45 pm to 6.00 pm
 <br>
 
-**Teacher-in-charge**
+**Teachers-in-charge**
 <br>Mrs Jasmine Law-Spain<br> Ms Adeline Ng<br>Ms Gangka D/O Perisamy<br>
 
 #### **Achievements**
@@ -66,19 +68,19 @@ Students should
 </thead>
 <tbody>
   <tr>
-    <td class="tg-f4yw"> 2021</td>
+    <td class="tg-f4yw"> 2023</td>
     <td class="tg-zr06"> Singapore Youth Festival Arts Presentation</td>
     <td class="tg-zr06"> Concert Band<br><br></td>
     <td class="tg-ktyi">Certificate of Accomplishment<br> </td>
   </tr>
   <tr>
-    <td class="tg-f4yw">2019<br></td>
+    <td class="tg-f4yw">2021<br></td>
     <td class="tg-ktyi">Singapore Youth Festival Arts Presentation<br></td>
     <td class="tg-ktyi">Concert Band<br></td>
     <td class="tg-ktyi">Certificate of Accomplishment<br></td>
   </tr>
   <tr>
-    <td class="tg-f4yw">2017<br></td>
+    <td class="tg-f4yw">2019<br></td>
     <td class="tg-ktyi">Singapore Youth Festival Arts Presentation 2017<br></td>
     <td class="tg-ktyi">Concert Band<br></td>
     <td class="tg-ktyi">Certificate of Accomplishment<br></td>

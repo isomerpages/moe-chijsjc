@@ -9,22 +9,18 @@ description: ""
 
 Table Tennis is a sport that requires dexterity and focus. The speed, spin and placement of the ball are crucial in table tennis. Due to the fast-paced, short-distance nature of the sport, a player is required to have quick reflexes and good hand-eye coordination.
 
-  
-
 In SJC, the training sessions are designed to develop mental acuity in students. Students undergo rigorous training on their serves, strokes and footwork to stimulate mental alertness, concentration and tactical strategy.
 
 #### **Objectives**
-
 
 *   To develop self-disciplined, resilient and confident individuals.
 *   To inculcate in players the core values of excellence, teamwork and sportsmanship.
 
 #### **Activities**
 
-
-*   National School Games – North Zone Table Tennis Championships (C and B Division Girls)
-*   Invitational inter-school competitions organized by other schools
-*   External competitions or Age-Group competitions organized by external organizations; e.g. Singapore Table Tennis Association
+*   National School Games – North Zone Table Tennis Championships ('B' and 'C' Division Girls)
+*   Invitational inter-school competitions organised by other schools
+*   External competitions or Age-Group competitions organised by external organisations; e.g. Singapore Table Tennis Association
 *   Annual training camps
 
 #### **CCA Information**

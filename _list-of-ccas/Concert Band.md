@@ -88,56 +88,6 @@ Join us as we continue to harmonise our talents and share the joy of music with 
   </tr></tbody>
 </table>
 
-#### **Performances/Events**
 
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-9hzb">Year<br></th>
-    <th class="tg-9hzb">Name of Performance/Event<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-f4yw">2020<br></td>
-    <td class="tg-ktyi">Virtual Performance for Teacher’s Day</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">2019<br></td>
-    <td class="tg-ktyi">National Day school celebrations &amp; decommissioning of old school flag.</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">2018<br></td>
-    <td class="tg-ktyi">Chinese New Year School Concert Performance (February)<br>HDB Outreach Performance- Rhythm @ Punggol Town Square(March)<br>80th Anniversary Awards Ceremony Performance (April)<br>SSO Pops- Happy Days: Favourite TV themes (November)<br>Percussion Grading (December)</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">2017<br></td>
-    <td class="tg-ktyi">School Annual Awards Ceremony Performance (April)<br>Learning Journey to Esplanade (November)<br>Encore VII (biannual band concert)<br>Percussion Grading (December)</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">2016<br></td>
-    <td class="tg-ktyi">Chinese New Year School Concert Performance (February)<br>School Annual Awards Ceremony Performance (April)<br>Musical –Sound of Music at ITE Central (June)<br>School Exchange with Yishun Town Secondary School and Holy Innocent’s High School (November)<br>Band Masterclass by Mr Katsuya Morishita (Japan Band Master) (November)<br>Learning Journey to Madame Tussauds at Sentosa (November)<br>Encore VI (biannual band concert)</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">2015<br></td>
-    <td class="tg-ktyi">School Exchange with Yishun Town Secondary School (March)<br>SYF Arts Presentation (Accomplishment)<br>National Day Performance (August)<br>NUS Percussion Grading (November)<br>Japan Master Clinical (November)</td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">2014<br></td>
-    <td class="tg-ktyi">Public performance - Encore V (biennual band concert)<br>Band Masterclass by Mr Katsuya Morishita (Japan Band Master)<br>Overseas exchange trip - Band Cultural Exchange trip to Kuching, Sarawak</td>
-  </tr>
-</tbody>
-</table>
 
 ![](/images/CCA/Visual%20&amp;%20Performing%20Arts/Concert%20Band/C2.jpg)

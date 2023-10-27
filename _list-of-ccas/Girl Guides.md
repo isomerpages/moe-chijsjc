@@ -77,32 +77,38 @@ Ms Vera Yuen
     <td class="tg-zr06">2nd Place<br></td>
   </tr>
   <tr>
-    <td class="tg-zr06">North Division Day Fusion Dance Competition<br></td>
+    <td class="tg-zr06"><br></td>
     <td class="tg-ktyi"></td>
-    <td class="tg-zr06">1st<br></td>
+    <td class="tg-zr06"><br></td>
   </tr>
   <tr>
-    <td class="tg-zr06">North Division Day Pop Band Competition<br></td>
+    <td class="tg-zr06"><br></td>
     <td class="tg-ktyi"></td>
-    <td class="tg-zr06">3rd<br></td>
+    <td class="tg-zr06"><br></td>
   </tr>
   <tr>
-    <td class="tg-zr06">2018<br></td>
+    <td class="tg-zr06">2021<br></td>
     <td class="tg-zr06">Puan Noor Aishah Award<br></td>
     <td class="tg-ktyi"></td>
-    <td class="tg-zr06">Gold Award<br></td>
+    <td class="tg-zr06">Silver Award<br></td>
   </tr>
-  <tr><td class="tg-zr06">2018<br></td>
-    <td class="tg-zr06">Puan Noor Aishah Award<br></td>
+  <tr><td class="tg-zr06">2021<br></td>
+    <td class="tg-zr06">#GGSWTD2021 Social Action Video Contest #1<br></td>
     <td class="tg-ktyi"></td>
-    <td class="tg-zr06">Gold Award<br></td>
+    <td class="tg-zr06">Bronze Award<br></td>
   </tr>
-	<tr><td class="tg-zr06">2018<br></td>
-    <td class="tg-zr06">Puan Noor Aishah Award<br></td>
+	<tr><td class="tg-zr06">2021<br></td>
+    <td class="tg-zr06">GGSSCS Smoke Free Ambassador<span style="mso-tab-count:1"><br></span></td>
     <td class="tg-ktyi"></td>
-    <td class="tg-zr06">Gold Award<br></td>
+    <td class="tg-zr06">Bronze Award<br></td>
   </tr>
 
+  <tr>
+    <td class="tg-zr06">2020<br></td>
+    <td class="tg-zr06">Puan Noor Aishah Award<br></td>
+    <td class="tg-ktyi"></td>
+    <td class="tg-zr06">Gold Award<br></td>
+  </tr>
 </thead></table>
 
 

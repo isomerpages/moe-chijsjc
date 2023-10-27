@@ -40,13 +40,14 @@ Our 5-point programme – Personal and Social Development, Home, Community, Outd
 <br>Wednesday &amp; Friday: 3.45 pm to 6.00 pm
 <br>*Friday (Semester 1): 3.45 pm – 5.30 pm<br>
 
+*Additional session during peak season/competition only.
+
 **Teachers-in-charge**
 <br>Ms Nur Fariza Bte Abubakar <br> 
 Ms Siti Nurizzati Binte Jamil<br>
 Ms Vera Yuen
 <br>Ms Lee Yu Xian<br>
 
-*Additional session during peak season/competition only.
 
 #### **Achievements**
 

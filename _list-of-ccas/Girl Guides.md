@@ -50,6 +50,7 @@ Ms Vera Yuen
 
 
 #### **Achievements**
+
 <br><table class="tg">
 <thead>
    <tr>
@@ -74,14 +75,7 @@ Ms Vera Yuen
     <td class="tg-zr06">North Division Day – Wide Games<br></td>
     <td class="tg-ktyi"></td>
     <td class="tg-zr06">2nd Place<br></td>
-  </tr>
-  <tr>
-    
-    <td></td>
-      </tr><tr>
-    <td class="tg-zr06"><br></td>
-    <td class="tg-ktyi"></td>
-    <td class="tg-zr06"><br></td>
+  
   </tr>
   <tr>
     <td class="tg-zr06">2021<br></td>

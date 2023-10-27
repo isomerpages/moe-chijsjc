@@ -7,7 +7,6 @@ description: ""
 
 #### **About**
 
-
 In SJC Volleyball, the players’ commitment to the rigorous training strengthen their bond as a team. Team building activities, training camps and sports psychology sessions all serve to strengthen the players’ mental strength. Opportunities to spar with players from other schools are all part of the training in this exciting sport. After a year of hard work and training, the players will participate in the North Zone Inter-Schools ‘C’ and ‘B’ Division Girls Volleyball Championships as well as the Volleyball Association of Singapore’s Under-14 and Under-16 competitions.
 
 #### **Objectives**
@@ -18,9 +17,8 @@ In SJC Volleyball, the players’ commitment to the rigorous training strengthen
 
 #### **Activities**
 
-
-*   Annual competition at the National School Games North Zone Inter-Schools Volleyball Championship for ‘C’ and ‘B’ division girls teams
-*   Volleyball Association of Singapore’s Under-14 and Under-16 competitions.
+*   Annual competition at the National School Games North Zone Inter-Schools Volleyball Championship for ‘B’ and ‘C’ Division girls teams
+*   Volleyball Association of Singapore’s Under-14 and Under-16 competitions
 *   End of year training camp
 
 #### **CCA Information**
@@ -28,7 +26,7 @@ In SJC Volleyball, the players’ commitment to the rigorous training strengthen
 **Schedule**
 <br>Monday: 3.45 pm to 6.15 pm <br>Wednesday: 3.45 to 6.00pm  <br>Thursday: 3.45 to 6.15pm <br>
 
-**Teacher-in-charge**&nbsp; <br>
+**Teachers-in-charge**&nbsp; <br>
 Mr Law Gin Lieng <br>Ms Nurul Adilah Binte Mohd Ayub<br>Mrs Susie Lee
 
  **Achievements**

@@ -10,14 +10,14 @@ Welcome to the CHIJ SJC Concert Band, a group of skilled and passionate musician
   
 
 The band comprises 3 main sections:
-1.  Brass section – Cornet, Trombone, French Horn, Euphonium, Tuba
 
-2.  Woodwind section – Flute, Clarinet, Saxophone, Bassoon
+1\.  Brass section – Cornet, Trombone, French Horn, Euphonium, Tuba
 
-3.  Percussion section – Drumset, Xylophone, Timpani, Cymbals etc.
+2\.  Woodwind section – Flute, Clarinet, Saxophone, Bassoon
+
+3\.  Percussion section – Drumset, Xylophone, Timpani, Cymbals etc.
 
   #### **What We Offer**
-
 **Musical Excellence**: Each member of our band is committed to honing their musical skills and techniques, creating a harmonious and captivating sound that resonates with our audience.
 
 **Participation**: We actively engage in numerous intra- and inter-school events throughout the year, providing our students with valuable opportunities to showcase their talents.
@@ -33,7 +33,6 @@ The band comprises 3 main sections:
 Join us as we continue to harmonise our talents and share the joy of music with the world. Together, we create beautiful melodies that resonate in the hearts of all who listen.
 
 #### **CCA Information**
-
 **Schedule**        
 <br>Monday: 3:45 pm – 6:15pm
 <br>Wednesday: 3.45 pm to 6.00 pm

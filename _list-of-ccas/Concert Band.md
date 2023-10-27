@@ -6,21 +6,17 @@ description: ""
 ![](/images/CCA/2023/Concert%20Band/concert%20band.jpg)
 
 #### **About**
-
-
-CHIJ SJC Concert Band features students who have mastered the skills and techniques of various instruments ranging from the woodwinds and brass instruments to the percussion. Each musician in our band is able to showcase her talent by participating actively in many intra- and inter-school events every year.
-
+Welcome to the CHIJ SJC Concert Band, a group of skilled and passionate musicians dedicated to creating beautiful music. Our band is comprised of talented students proficient in a wide range of instruments, including woodwinds, brass, and percussion.
   
 
 The band comprises 3 main sections:
+1.  Brass section – Cornet, Trombone, French Horn, Euphonium, Tuba
 
-1\.  Brass section – Cornet, Trombone, French Horn, Euphonium, Tuba
+2.  Woodwind section – Flute, Clarinet, Saxophone, Bassoon
 
-2\.  Woodwind section – Flute, Clarinet, Saxophone, Bassoon
+3.  Percussion section – Drumset, Xylophone, Timpani, Cymbals etc.
 
-3\.  Percussion section – Drumset, Xylophone, Timpani, Cymbals etc.
-
-  
+      
 
 The band actively seeks opportunities to perform in collaboration with external organisations. Exchange programmes with bands from other schools are regularly held. Past collaborators include schools from both within and beyond Singapore. Community-based events are also an avenue for our students to gain experience in handling performances.
 

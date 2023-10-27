@@ -39,14 +39,10 @@ At SJC, through a comprehensive values-driven Netball Programme, team members le
 
 | Year | Name of Competition                                                   | Division/Category   | Achievement  |
 |:----:|-----------------------------------------------------------------------|---------------------|--------------|
-| 2023 | National School Games (Zonal) | ‘B’ Division/ 'C' Division | Top 8 |
-| 2022 | National School Games (Zonal) | 'B' Division/ ‘C’ Division | Top 8 |
-| 2021 | National School Games (Zonal) | 'B' Division/ ‘C’ Division | Top 8 |                                                               
-| 2020 | National School Games (Zonal)| 'B' Division/ ‘C’ Division | Top 8 |
-|      |                                                                       | ‘B’ Division, Girls | Top 8        |
-| 2016 | National School Games 2016 Inter-School North Zone Netball Tournament | ‘C’ Division, Girls | 2nd position |
-|      |                                                                       | ‘B’ Division, Girls | 3rd position |
-| 2015 | National School Games 2015 Inter-School North Zone Netball Tournament | ‘C’ Division, Girls | 2nd position |
+| 2023 | National School Games (Zonal) | ‘B’ Division | Top 8 |
+| 2023 | National School Games (Zonal) | ‘C’ Division | Top 8 |
+| 2022 | National School Games (Zonal) | 'B' Division | Top 8 |      | 2022 | National School Games (Zonal) | ‘C’ Division | Top 8 |      | 2021 | National School Games (Zonal) | ‘B’ Division | Top 8 |
+| 2021 | National School Games (Zonal) | ‘C’ Division | Top 8 |
 |      |                                                                       | ‘B’ Division, Girls | 2nd position |
 | 2014 | National School Games 2014 Inter-School North Zone Netball Tournament | ‘C’ Division, Girls | 2nd position |
 |      |                                                                       | ‘B’ Division, Girls | 1st position |

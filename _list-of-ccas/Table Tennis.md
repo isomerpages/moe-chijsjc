@@ -34,11 +34,11 @@ Wednesday (Lower Sec) : 3.45 pm to 6.00 pm <br>
 *Thursday: 3.45 pm to 6.15 pm<br>
 Friday (Upper Sec): 3.45 pm to 6.15 pm
 
-**Teacher-in-charge**<br>
+**Teachers-in-charge**<br>
 Ms Lim Siew Chun<br>
 Mr Dino Soh Yi Hao<br>
 Mr Yau Ming Chin
 
-*Additional session during peak season/ identified for school team players only.
+*Additional session during peak season/ for school team players only.
 
 ![](/images/CCA/Physical%20Sports/Table%20Tennis/T2.png)

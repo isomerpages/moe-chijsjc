@@ -50,8 +50,7 @@ Ms Vera Yuen
 
 
 #### **Achievements**
-
-<table class="tg">
+<br><table class="tg">
 <thead>
    <tr>
     <td class="tg-zr06">2022<br></td>
@@ -77,11 +76,9 @@ Ms Vera Yuen
     <td class="tg-zr06">2nd Place<br></td>
   </tr>
   <tr>
-    <td class="tg-zr06"><br></td>
-    <td class="tg-ktyi"></td>
-    <td class="tg-zr06"><br></td>
-  </tr>
-  <tr>
+    
+    <td></td>
+      </tr><tr>
     <td class="tg-zr06"><br></td>
     <td class="tg-ktyi"></td>
     <td class="tg-zr06"><br></td>

@@ -54,14 +54,15 @@ Ms Vera Yuen
 <table class="tg">
 <thead>
    <tr>
-    <td class="tg-zr06">2020<br></td>
+    <td class="tg-zr06">2022<br></td>
     <td class="tg-zr06">Puan Noor Aishah Award<br></td>
     <td class="tg-ktyi"></td>
     <td class="tg-zr06">Gold Award<br></td>
   </tr>
   <tr>
-    <td rowspan="5" class="tg-zr06">2019<br></td>
-    <td class="tg-zr06">Puan Noor Aishah Award<br></td>
+    <td rowspan="5" class="tg-zr06">2022<br></td>
+    <td class="tg-zr06">North Division Outdoor Challenge 
+			     - Tent Pitching<br></td>
     <td class="tg-ktyi"></td>
     <td class="tg-zr06">Gold Award<br></td>
   </tr>

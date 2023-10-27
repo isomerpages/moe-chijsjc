@@ -85,18 +85,7 @@ Join us as we continue to harmonise our talents and share the joy of music with 
     <td class="tg-ktyi">Certificate of Accomplishment<br></td>
   </tr>
   <tr>
-    <td class="tg-f4yw">2015<br></td>
-    <td class="tg-ktyi">Singapore Youth Festival Arts Presentation 2015<br></td>
-    <td class="tg-ktyi">Concert Band<br></td>
-    <td class="tg-ktyi">Certificate of Accomplishment<br></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">2013<br></td>
-    <td class="tg-ktyi">Singapore Youth Festival Arts Presentation 2013<br></td>
-    <td class="tg-ktyi">Concert Band<br></td>
-    <td class="tg-ktyi">Certificate of Accomplishment</td>
-  </tr>
-</tbody>
+  </tr></tbody>
 </table>
 
 #### **Performances/Events**

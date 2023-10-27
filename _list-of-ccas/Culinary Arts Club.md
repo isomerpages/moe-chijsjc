@@ -34,7 +34,7 @@ We also organize learning journeys to a variety of places related to food resour
 <br>Monday: 3:45 pm – 5:45pm
 <br>
 
-**Teacher-in-charge**
+**Teachers-in-charge**
 <br>Mrs Cindy Soon <br> Ms Ng Ai Khim<br>
 
 

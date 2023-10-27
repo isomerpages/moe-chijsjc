@@ -62,7 +62,7 @@ Ms Vera Yuen
   <tr>
     <td rowspan="5" class="tg-zr06">2022<br></td>
     <td class="tg-zr06">North Division Outdoor Challenge 
-			     - Tent Pitching<br></td>
+			      – Tent Pitching<br></td>
     <td class="tg-ktyi"></td>
     <td class="tg-zr06">Gold Award<br></td>
   </tr>

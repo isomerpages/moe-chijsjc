@@ -6,16 +6,16 @@ description: ""
 ![](/images/CCA/2023/Girl%20guides/girl%20guides.jpg)
 
 #### **About**
-Guiding is an educational youth movement open to all girls without distinction of creed, race, nationality or any other circumstance. It is a life skills education that will encourage each girl to be responsible through a game of adventure, observation, knowledge and ideas.  
+Guiding is an educational youth movement open to all girls without distinction of creed, race, nationality or any other circumstance. It is a life skills education that will encourage each girl to be responsible through a game of exploration, observation, knowledge and ideas.  
   
-Started in 2003, the SJC Girl Guides is a close-knit family of sisters. The girls are trained to be resilient and resourceful individuals through both indoor and outdoor activities such as camping, hiking, outdoor cooking, tent-pitching, foot drill, leadership development opportunities and community service. These events allow the Guides to forge friendships and strong ties with their fellow sister Guides as they support one another and grow.  
+Started in 2003, the SJC Girl Guides are a close-knit family of sisters. The girls are trained to be resilient and resourceful individuals through both indoor and outdoor activities such as camping, hiking, outdoor cooking, tent-pitching, foot drill, leadership development opportunities and community service. These events allow the Guides to forge friendships and strong ties with their fellow sister Guides as they support one another and grow.  
   
-Our 5-point programme – Personal and Social Development, Home, Community, Outdoor and International helps the Girl Guide to understand herself, her community and the world through exposure to a myriad experiences and programmes designed to incorporate character development, values inculcation, citizenship education, leadership skills and 21st century core competencies. The CCA inculcates the values of selflessness and respect in our girls and also teaches them important life skills.
+Our 5-point programme – Personal and Social Development, Home, Community, Outdoor and International – helps the Girl Guide to understand herself, her community and the world through exposure to a myriad of experiences and programmes designed to incorporate character development, values inculcation, citizenship education, leadership skills and 21st century core competencies. The CCA inculcates the values of selflessness and respect in our girls and also teaches them important life skills.
 
 #### **Objectives**
 *   To provide girls and young women with the opportunity to grow and to lead
 *   To cultivate a serving heart and mind to the community
-*   To maximise the potential of Girl Guides to become responsible citizens of the world
+*   To maximise the potential of Girl Guides to become responsible global citizens
 
 #### **Activities**
 *   Proficiency badge work preparation

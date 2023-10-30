@@ -37,7 +37,8 @@ Our young singers are also involved in choral exchanges with other secondary sch
 | Year | Name of Performance/Event | 
 | -------- | -------- | 
 | 2023     | Inter-School Choral Exchange     |
-| 2022    | Arts Fiesta (combined showcase with other performing arts groups in SJC) <br>  Performance for National Day   |
+| 2022    | Arts Fiesta (combined showcase with other performing arts groups in SJC) 
+|2022| Performance for National Day   |
 | 2021     | E-Performance for Spring Festival Celebrations     |
 | 2020   | E-Performance for National Day and Teachers' Day Celebrations     |
 | 2020   |Virtual Choir Video Editing Workshop     |

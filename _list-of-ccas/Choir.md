@@ -43,4 +43,3 @@ Our young singers are also involved in choral exchanges with other secondary sch
 | 2021     | E-Performance for Spring Festival Celebrations     |
 | 2020   | E-Performance for National Day and Teachers' Day Celebrations     |
 | 2020   |Virtual Choir Video Editing Workshop     |
-

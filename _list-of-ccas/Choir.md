@@ -31,7 +31,7 @@ Our young singers are also involved in choral exchanges with other secondary sch
 | Year | Name of Competition | Achievement |
 | -------- | -------- | -------- |
 | 2023     | Singapore Youth Festival Arts Presentation    | Certificate of Distinction     |
-| 20231     | Singapore Youth Festival Arts Presentation    | No grading due to ongoing Covid-19 Pandemic.     |
+| 20231     | Singapore Youth Festival Arts Presentation    | Participated in SYF with Special Provision   |
 
 #### **Performance/Events** 
 ![](/images/CCA/Visual%20&amp;%20Performing%20Arts/Choir/C2.jpg)

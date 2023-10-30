@@ -34,58 +34,11 @@ As the ringers ring their assigned bells, they create beautiful melodies togethe
 <br>Mrs Ng Peck Hoon (IC)<br> Ms Amelia Huang Xinlei<br>
 
 #### **Achievements**
+| Year |   Name of Competition | Division/Category | Achievement |
+| ---------- | ---------- | ---------- | ---------- |
+| 2023    | Singapore Youth Festival Arts Presentation     | Instrumental Ensemble   | Certificate of Distinction |
+| 2021    | Singapore Youth Festival Arts Presentation     | Instrumental Ensemble     | Certificate of Accomplishment|
+| 2019   | Singapore Youth Festival Arts Presentation     | Instrumental Ensemble     | Certificate of Distinction |
+| 2019   | London College of Music (Assessment)    | Instrumental Ensemble     | Certificate of Distinction |
 
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-dgl5">Year<br></th>
-    <th class="tg-dgl5">Name of Competition<br></th>
-    <th class="tg-dgl5">Division/Category<br></th>
-    <th class="tg-dgl5">Achievement<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-zr06"> 2023</td>
-    <td class="tg-zr06"> Singapore Youth Festival Arts Presentation</td>
-    <td class="tg-zr06">Instrumental Ensemble<br></td>
-    <td class="tg-zr06">Certificate of Distinction</td>
-  </tr>
-  <tr>
-    <td class="tg-zr06" rowspan="2">2021<br></td>
-    <td class="tg-zr06">Singapore Youth Festival Arts Presentation<br></td>
-    <td class="tg-zr06">Instrumental Ensemble<br></td>
-    <td class="tg-zr06">Certificate of Accomplishment<br></td>
-  </tr>
-  <tr>
-   <td class="tg-zr06">2019<br></td>
-    <td class="tg-zr06">Singapore Youth Festival Arts Presentation<br></td>
-    <td class="tg-zr06">Instrumental Ensemble<br></td>
-    <td class="tg-zr06">Certificate of Distinction<br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">2019<br></td>
-    <td class="tg-zr06">London College of Music (Assessment)<br></td>
-    <td class="tg-zr06">Instrumental Ensemble<br></td>
-    <td class="tg-zr06">Certificate of Distinction<br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">2017<br></td>
-    <td class="tg-zr06">Singapore Youth Festival Arts Presentation<br></td>
-    <td class="tg-zr06">Instrumental Ensemble<br></td>
-    <td class="tg-zr06">Certificate of Distinction</td>
-  </tr>
-</tbody>
-</table>
-  
 ![](/images/CCA/Visual%20&amp;%20Performing%20Arts/Handbell%20Ensemble/H2.jpg)

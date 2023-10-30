@@ -6,25 +6,19 @@ description: ""
 ![](/images/CCA/2023/Girl%20guides/girl%20guides.jpg)
 
 #### **About**
-
-
-Guiding is an educational youth movement opened to all girls without distinction of creed, race, nationality or any other circumstance. It is a life skills education that will encourage each girl to be a responsible through a game of adventure, observation, knowledge and ideas.  
+Guiding is an educational youth movement open to all girls without distinction of creed, race, nationality or any other circumstance. It is a life skills education that will encourage each girl to be responsible through a game of exploration, observation, knowledge and ideas.  
   
-Started in 2003, the SJC Girl Guides is a close-knitted family of sisters. The girls are trained to be resilient and resourceful individuals through both indoor and outdoor activities such as camping, hiking, outdoor cooking, tent-pitching, foot drill, leadership development opportunities and community service. These events allow the Guides to forge friendships and strong ties with their fellow sister Guides as they support one another and grow.  
+Started in 2003, the SJC Girl Guides are a close-knit family of sisters. The girls are trained to be resilient and resourceful individuals through both indoor and outdoor activities such as camping, hiking, outdoor cooking, tent-pitching, foot drill, leadership development opportunities and community service. These events allow the Guides to forge friendships and strong ties with their fellow sister Guides as they support one another and grow.  
   
-Our 5-point programme – Personal and Social Development, Home, Community, Outdoor and International helps the Girl Guide to understand herself, her community and the world through exposure to a myriad experiences and programmes designed to incorporate character development, values inculcation, citizenship education, leadership skills and 21st century core competencies. The CCA inculcates the values of selflessness and respect in our girls and also teaches them important life skills.
+Our 5-point programme – Personal and Social Development, Home, Community, Outdoor and International – helps the Girl Guide to understand herself, her community and the world through exposure to a myriad of experiences and programmes designed to incorporate character development, values inculcation, citizenship education, leadership skills and 21st century core competencies. The CCA inculcates the values of selflessness and respect in our girls and also teaches them important life skills.
 
 #### **Objectives**
-
-
 *   To provide girls and young women with the opportunity to grow and to lead
 *   To cultivate a serving heart and mind to the community
-*   To maximise the potential of Girl Guides to become responsible citizens of the world
+*   To maximise the potential of Girl Guides to become responsible global citizens
 
 #### **Activities**
-
-
-*   Proficiency badge work preparations
+*   Proficiency badge work preparation
 *   Basic First Aid Training
 *   Foot drills
 *   Outdoor cooking, Camp craft &amp; Tent-pitching
@@ -43,74 +37,29 @@ Our 5-point programme – Personal and Social Development, Home, Community, Outd
 #### **CCA Information**
 
 **Schedule**        
-<br>Wednesday &amp; Friday: 3.45 pm to 6.15 pm
-<br>*Friday (Semester 1): 3:45 pm – 6:15 pm<br>
+<br>Wednesday &amp; Friday: 3.45 pm to 6.00 pm
+<br>*Friday (Semester 1): 3.45 pm – 5.30 pm<br>
 
-**Teacher-in-charge**
-<br>Ms Nur Fariza Bte Abubakar <br> Ms Siti Nurizzati Binte Jamil<br>Ms Vera Yuen
+*Additional session during peak season/competition only.
+
+**Teachers-in-charge**
+<br>Ms Nur Fariza Bte Abubakar <br> 
+Ms Siti Nurizzati Binte Jamil<br>
+Ms Vera Yuen
 <br>Ms Lee Yu Xian<br>
 
 
-*Additional session during peak season/identified for school team players only.
-
-
-
 #### **Achievements**
-
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-   <tr>
-    <td class="tg-zr06">2020<br></td>
-    <td class="tg-zr06">Puan Noor Aishah Award<br></td>
-    <td class="tg-ktyi"></td>
-    <td class="tg-zr06">Gold Award<br></td>
-  </tr>
-  <tr>
-    <td rowspan="5" class="tg-zr06">2019<br></td>
-    <td class="tg-zr06">Puan Noor Aishah Award<br></td>
-    <td class="tg-ktyi"></td>
-    <td class="tg-zr06">Gold Award<br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">2019 Outdoor Challenge – Creative Gateway Challenge<br></td>
-    <td class="tg-ktyi"></td>
-    <td class="tg-zr06">Merit Award<br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Smoke Free Ambassador Badge Campaign<br></td>
-    <td class="tg-ktyi"></td>
-    <td class="tg-zr06">2nd<br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">North Division Day Fusion Dance Competition<br></td>
-    <td class="tg-ktyi"></td>
-    <td class="tg-zr06">1st<br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">North Division Day Pop Band Competition<br></td>
-    <td class="tg-ktyi"></td>
-    <td class="tg-zr06">3rd<br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">2018<br></td>
-    <td class="tg-zr06">Puan Noor Aishah Award<br></td>
-    <td class="tg-ktyi"></td>
-    <td class="tg-zr06">Gold Award<br></td>
-  </tr>
-  
-
-</thead></table>
+| Year |   Name of Competition       |  | Achievement |
+| ---------- | --------------------- | ---------- | ---------- |
+| 2022 | Puan Noor Aishah Award |   | Gold Award |
+| 2022    | North Division Outdoor Challenge – Tent Pitching |  | 2nd Place |
+| 2022  | North Division Day – Let's Get Moving | | Merit Award |
+| 2022   | North Division Day – Wide Games     |    | 2nd Place |
+| 2021    | Puan Noor Aishah Award |  | Silver Award |
+| 2021    | #GGSWTD2021 Social Action Video Contest #1 |  | Bronze Award |
+| 2021  | GGSSCS Smoke Free Ambassador |  | Bronze Award|
+| 2020    | Puan Noor Aishah Award     |     | Gold Award |
 
 
 ![](/images/CCA/Uniformed%20Groups/Girl%20Guides/G2.png)

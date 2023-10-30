@@ -4,27 +4,18 @@ permalink: /useful-links/students/
 description: ""
 ---
 #### **ACADEMIC MATTERS**
-* **2023 Semester 2 Timetables**
-> * [Sec 1 Classes](/files/Useful%20Links/Students/Timetables/sec%201%20sem%202%20tt%202023.pdf),
->* [Sec 2 Classes](/files/Useful%20Links/Students/Timetables/sec%202%20sem%202%20tt%202023.pdf),
->* [Sec 3 Classes](/files/Useful%20Links/Students/Timetables/sec%203%20sem%202%20tt%202023.pdf),
->* [Sec 4 & 5 Classes](/files/Useful%20Links/Students/Timetables/sec%204&5%20sem%202%20tt%202023.pdf)
-
-* **2023 EOY Schedule and Topics**
-> * [2023 EOY Schedule and Topics Sec 1](/files/Useful%20Links/Students/Examinations/2023%20eoy%20schedule%20and%20topics%20sec%201%20(updated%20on%208%20sep%202023).pdf)
-> * [2023 EOY Schedule and Topics Sec 2](/files/Useful%20Links/Students/Examinations/2023%20eoy%20schedule%20and%20topics%20sec%202%20(updated%20on%208%20sep%202023).pdf)
-> * [2023 EOY Schedule and Topics Sec 3 Exp](/files/Useful%20Links/Students/Examinations/2023%20eoy%20schedule%20and%20topics%20sec%203exp%20(updated%208%20sep%202023).pdf)
-> * [2023 EOY Schedule and Topics Sec 3 NA](/files/Useful%20Links/Students/Examinations/2023%20eoy%20schedule%20and%20topics%20sec%203na%20(updated%208%20sep%202023).pdf)
-> * [2023 EOY Schedule and Topics Sec 3 NT](/files/Useful%20Links/Students/Examinations/2023%20eoy%20schedule%20and%20topics%20sec%203nt%20(updated%208%20sep%202023).pdf)
-
-* **2023 Preliminary Exam Schedules**
->* [4E/5N Prelim Schedule 2023](/files/Useful%20Links/Students/Examinations/4e5n%20prelim%20schedule%202023.pdf),
->* [4NA and 4NT Prelim Schedule 2023](/files/Useful%20Links/Students/Examinations/4na%20and%204nt%20prelim%20schedule%202023.pdf)
-
-* **2023 Term 3 Weighted Assessment (WA3) Schedules**
-> * [Secondary 1](/files/Useful%20Links/Students/Weighted%20Assessments/wa3%20schedule%20-%20t3%20secondary%201.pdf)
-> * [Secondary 2](/files/Useful%20Links/Students/Weighted%20Assessments/wa3%20schedule%20-%20t3%20secondary%202.pdf)
-> * [Secondary 3](/files/Useful%20Links/Students/Weighted%20Assessments/wa3%20schedule%20-%20t3%20sec%203_updated%20on%2012%20jul.pdf)
+* **2024 Textbook List**
+> * [2 Express Booklist](/files/Useful%20Links/Student%20Services/Booklist/2e%20booklist%202024.pdf)
+> * [2 NA Booklist](/files/Useful%20Links/Student%20Services/Booklist/2na%20booklist%202024.pdf)
+> * [2 NT Booklist](/files/Useful%20Links/Student%20Services/Booklist/2nt%20booklist%202024.pdf)
+> * [3 Express Pure Science Booklist](/files/Useful%20Links/Student%20Services/Booklist/3e%20pure%20science%20booklist%202024.pdf)
+> * [3 Express Combined Science Booklist](/files/Useful%20Links/Student%20Services/Booklist/3e%20combined%20science%20booklist%202024.pdf)
+> * [3 NA Booklist](/files/Useful%20Links/Student%20Services/Booklist/3na%20booklist%202024.pdf)
+> * [3 NT Booklist](/files/Useful%20Links/Student%20Services/Booklist/3nt%20booklist%202024.pdf)
+> * [4 Express Booklist](/files/Useful%20Links/Student%20Services/Booklist/4e%20booklist%202024.pdf)
+> * [4 NA Booklist](/files/Useful%20Links/Student%20Services/Booklist/4na%20booklist%202024.pdf)
+> * [4 NT Booklist](/files/Useful%20Links/Student%20Services/Booklist/4nt%20booklist%202024.pdf)
+>  * [5 NA Booklist](/files/Useful%20Links/Student%20Services/Booklist/5na%20booklist%202024.pdf)
 
 * **Learning Portals**
 > * [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)

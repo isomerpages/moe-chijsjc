@@ -28,85 +28,18 @@ Our young singers are also involved in choral exchanges with other secondary sch
 #### **Achievements**
 
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-9hzb">Year<br></th>
-    <th class="tg-dgl5">Name of Competition<br></th>
-    <th class="tg-dgl5">Achievement<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-f4yw">2023<br></td>
-    <td class="tg-ktyi">Singapore Youth Festival Arts Presentation 2019<br></td>
-    <td class="tg-ktyi">Certificate of Distinction<br></td>
-  </tr>
-  <tr>
-   </tr>
-  <tr>
-    <td class="tg-f4yw">2021<br></td>
-    <td class="tg-ktyi">Singapore Youth Festival Arts Presentation 2015<br></td>
-    <td class="tg-ktyi">         No grading due to ongoing Covid-19 Pandemic.<br></td>
-  </tr>
-  <tr>
-   
-</tr></tbody></table>
+| Year | Name of Competition | Achievement |
+| -------- | -------- | -------- |
+| 2023     | Singapore Youth Festival Arts Presentation    | Certificate of Distinction     |
+| 20231     | Singapore Youth Festival Arts Presentation    | No grading due to ongoing Covid-19 Pandemic.     |
 
-#### **Performance/Events**
+#### **Performance/Events** 
+![](/images/CCA/Visual%20&amp;%20Performing%20Arts/Choir/C2.jpg)
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-f4yw{background-color:#FFF;text-align:center;vertical-align:middle}
-.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
-</style>
-
-  
-![](/images/CCA/Visual%20&amp;%20Performing%20Arts/Choir/C2.jpg)<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-9hzb">Year<br></th>
-    <th class="tg-9hzb">Name of Performance/ Event<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-f4yw">2023<br></td>
-    <td class="tg-zr06">Inter-School Choral Exchange<br></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw" rowspan="2">2022<br></td>
-    <td class="tg-zr06">Arts Fiesta [combined showcase with other performing arts groups in SJC]<br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">Performance for National Day<br></td><td>
-  </td></tr>
-  <tr>
-    <td class="tg-f4yw">2021<br></td>
-    <td class="tg-zr06">E-Performance for Spring Festival Celebrations<br></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">2020<br></td>
-    <td class="tg-zr06">E-Performance for National Day and Teachers' Day Celebrations<br></td>
-  </tr>
-  <tr>
-    <td class="tg-f4yw">2020<br></td>
-    <td class="tg-zr06">Virtual Choir Video Editing Workshop<br></td>
-  </tr>
-  <tr></tr></tbody></table>
+| Year | Name of Performance/Event | 
+| -------- | -------- | 
+| 2023     | Inter-School Choral Exchange     |
+| 2022    | Arts Fiesta \[combined showcase with other performing arts groups in SJC\] <br>  Performance for National Day   |
+| 2021     | E-Performance for Spring Festival Celebrations     |
+| 2020   | E-Performance for National Day and Teachers' Day Celebrations     |
+| 2020   |Virtual Choir Video Editing Workshop     |

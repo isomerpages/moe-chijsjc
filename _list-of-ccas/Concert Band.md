@@ -17,7 +17,7 @@ The band comprises 3 main sections:
 
 3\.  Percussion section – Drumset, Xylophone, Timpani, Cymbals etc.
 
-  #### **What We Offer**
+#### **What We Offer**
 **Musical Excellence**: Each member of our band is committed to honing their musical skills and techniques, creating a harmonious and captivating sound that resonates with our audience.
 
 **Participation**: We actively engage in numerous intra- and inter-school events throughout the year, providing our students with valuable opportunities to showcase their talents.

@@ -30,6 +30,10 @@ By the end of their time in the CCA, students realise that drama and debates go 
 
 
 #### **Achievements**
+
+
+
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -42,54 +46,16 @@ By the end of their time in the CCA, students realise that drama and debates go 
 </style>
 
    
-![](/images/CCA/Visual%20&amp;%20Performing%20Arts/CentreStage%20(Drama%20&amp;%20Debates)/C2.png)<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-dgl5">Year<br></th>
-    <th class="tg-dgl5">Name of Competition<br></th>
-    <th class="tg-dgl5">Division/Category<br></th>
-    <th class="tg-dgl5">Achievement<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-zr06">2023</td>
-    <td class="tg-zr06">Singapore Youth Festival Arts Presentation</td>
-    <td class="tg-zr06">English Drama<br><br></td>
-    <td class="tg-zr06">Certificate of Accomplishment<br> </td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">2023</td>
-    <td class="tg-zr06">Raffles Debate Academy<br>Under-14s Debate<br>Championship 2023</td>
-    <td class="tg-zr06"> Debate Circle<br><br></td>
-    <td class="tg-ktyi">Preliminary Rounds</td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">2022<br></td>
-    <td class="tg-ktyi">Dunman High Debate Open<br></td>
-    <td class="tg-ktyi">Debate Circle<br></td>
-    <td class="tg-ktyi">Preliminary Rounds</td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">2022</td>
-    <td class="tg-zr06">Singapore Secondary Schools Debating Championships</td>
-    <td class="tg-zr06">Debate Circle </td>
-    <td class="tg-ktyi">Quarterfinals<br><br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">2022<br></td>
-    <td class="tg-ktyi">Raffles Debate Academy Under-14s Debate Championship 2022<br></td>
-    <td class="tg-ktyi">Debate Circle</td>
-    <td class="tg-ktyi">Silver Division (winners)<br></td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">2021</td>
-    <td class="tg-zr06">Singapore Youth Festival Arts Presentation<br>
-    </td><td class="tg-zr06">English Drama</td>
-    <td class="tg-zr06">Certificate Of Distinction</td>
-  </tr>
-  <tr>
-    <td class="tg-zr06">2021</td>
-    <td class="tg-zr06">Raffles Debate Academy Under-14s Debate Championship 2021</td>
-    <td class="tg-zr06">Raffles Debate (Silver Division)</td>
-    <td class="tg-zr06">Silver Division (Runner-Up)</td></tr></tbody></table>
+![](/images/CCA/Visual%20&amp;%20Performing%20Arts/CentreStage%20(Drama%20&amp;%20Debates)/C2.png)
+
+
+
+|Year | Name of Competition | Division/Category | Achievement |
+| -------- | -------- | -------- | -------- |
+| 2023     | Singapore Youth Festival Arts Presentation    | English Drama    | Certificate of Accomplishment |
+| 2023     | Raffles Debate Academy Under-14s Debate  Championship 2023   | Debate Circle    | Preliminary Rounds |
+| 2022     | Dunman High Debate Open   | Debate Circle    | Preliminary Rounds |
+| 2022     | Singapore Secondary Schools Debating Championships   | Debate Circle    | Quarterfinals |
+| 2022     | Raffles Debate Academy Under-14s Debate Championship 2022   | Debate Circle    | Silver Division (winners) |
+| 2021     | Singapore Youth Festival Arts Presentation  | English Drama    | Certificate Of Distinction |
+| 2021     | Raffles Debate Academy Under-14s Debate Championship 2021  | Raffles Debate (Silver Division)    | Silver Division (Runner-Up) |

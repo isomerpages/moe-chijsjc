@@ -46,4 +46,6 @@ At Pixel, we believe in working together to achieve a common goal and thus our v
 |2020  | N.E.mation! 2020                       | Secondary Schools | Top 10 Finalist      |
 
 
-![](/images/CCA/Clubs%20and%20Societies/Pixel%20Playhouse/P2.png)
+![](/images/CCA/2023/Pixel%20Playhouse/picture2.jpg)
+
+![](/images/CCA/2023/Pixel%20Playhouse/picture1.jpg)

@@ -50,14 +50,14 @@ Our young singers are also involved in choral exchanges with other secondary sch
 <tbody>
   <tr>
     <td class="tg-f4yw">2023<br></td>
-    <td class="tg-ktyi">Singapore Youth Festival Arts Presentation 2019<br></td>
+    <td class="tg-ktyi">Singapore Youth Festival Arts Presentation<br></td>
     <td class="tg-ktyi">Certificate of Distinction<br></td>
   </tr>
   <tr>
    </tr>
   <tr>
     <td class="tg-f4yw">2021<br></td>
-    <td class="tg-ktyi">Singapore Youth Festival Arts Presentation 2015<br></td>
+    <td class="tg-ktyi">Singapore Youth Festival Arts Presentation<br></td>
     <td class="tg-ktyi">         No grading due to ongoing Covid-19 Pandemic.<br></td>
   </tr>
   <tr>

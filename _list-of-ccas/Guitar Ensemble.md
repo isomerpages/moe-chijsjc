@@ -69,3 +69,7 @@ Through the various performances and practices, SJC Guitar Ensemble members are 
     <td class="tg-ktyi">Singapore Youth Festival Arts Presentation<br></td>
     <td class="tg-ktyi">Instrumental Ensemble</td>
     <td class="tg-ktyi">Certificate of Accomplishment<br></td></tr></tbody></table>
+		
+![](/images/CCA/2023/Guitar%20ensemble/picture1.jpg)
+
+![](/images/CCA/2023/Guitar%20ensemble/picture2.jpg)

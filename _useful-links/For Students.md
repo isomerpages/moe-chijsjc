@@ -33,7 +33,8 @@ description: ""
 * **School supplies**
 > * [Uniform, Bookshop and Library Information](/useful-links/student-services/)
 * **2024 Textbook List**
-> * [2E Textbook List](/files/Useful%20Links/Student%20Services/Booklist/2e%20textbook%20list%202024.pdf)
+> * [2 Express Textbook List](/files/Useful%20Links/Student%20Services/Booklist/2e%20textbook%20list%202024.pdf)
+> * [2 NA Textbook List](/files/Useful%20Links/Student%20Services/Booklist/2na%20textbook%20list%202024.pdf)
 
 #### **SCHOOL CANTEEN**
 * **Canteen Advertisement**

@@ -30,12 +30,6 @@ Through this process of learning and growth, members are transformed by the expe
 2. Events with the other 4 IJ schools
 3. School-based events/projects
 
-![](/images/CCA/Clubs%20and%20Societies/CHIJ%20Youth%20Mission/C2.jpg)
-
-![](/images/CCA/Clubs%20and%20Societies/CHIJ%20Youth%20Mission/C3.jpg)
-
- 
-
 #### **CCA Information**
 
 **Schedule**        
@@ -55,3 +49,7 @@ Through this process of learning and growth, members are transformed by the expe
 | 2022 | CHIJ Youth Mission Competition  | Distinction Award |
 | 2021 | CHIJ Youth Mission Inter-School Sharing | N.A. (No grading) |
 | 2020 | CHIJ Youth Mission Inter-School Sharing | N.A. (No grading) |
+
+![](/images/CCA/2023/CHIJ%20YM/picture1.jpg)
+
+![](/images/CCA/2023/CHIJ%20YM/picture2.jpg)

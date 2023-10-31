@@ -118,6 +118,6 @@ Friday: 3.45 pm to 6.15 pm<br>
 </tbody>
 </table>
 
-![](/images/CCA/Physical%20Sports/Shooting/S2.jpg)
+![](/images/CCA/2023/Shooting/picture1.jpg)
 
-![](/images/CCA/Physical%20Sports/Shooting/S3.jpg)
+![](/images/CCA/2023/Shooting/picture2.jpg)

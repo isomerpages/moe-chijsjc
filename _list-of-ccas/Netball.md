@@ -46,5 +46,6 @@ At SJC, through a comprehensive values-driven Netball Programme, team members le
 | 2021 | National School Games (Zonal) | ‘B’ Division | Top 8 |
 | 2021 | National School Games (Zonal) | ‘C’ Division | Top 8 |                                                      
 
+![](/images/CCA/2023/Netball/picture1.jpg)
 
-![](/images/CCA/Physical%20Sports/Netball/N2.png)
+![](/images/CCA/2023/Netball/picture2.jpg)

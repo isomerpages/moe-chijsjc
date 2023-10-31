@@ -135,4 +135,6 @@ Cadet Inspector: Shaleni K<br>
 </tbody>
 </table>
  
-![](/images/CCA/Uniformed%20Groups/National%20Police%20Cadet%20Corps/N2.png)
+![](/images/CCA/2023/NPCC/picture1.jpg)
+
+![](/images/CCA/2023/NPCC/picture2.jpg)

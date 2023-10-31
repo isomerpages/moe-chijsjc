@@ -31,5 +31,4 @@ Mr Muhammad Taufiq Bin Najmuddeen<br>
 Ms Madeline Lee<br>
 Mr Lyndon Lee<br>
 
-
-![](/images/CCA/Physical%20Sports/Sports%20Club/S2.png)
+![](/images/CCA/2023/Sports%20club/picture1.jpg)

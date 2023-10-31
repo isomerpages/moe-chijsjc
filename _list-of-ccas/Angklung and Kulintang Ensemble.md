@@ -39,4 +39,4 @@ Members are expected to uphold the standards established to produce high quality
 | 2023    | Singapore Youth Festival Arts Presentation     | Angklung &amp; Kulintang     | Certificate of Accomplishment |
 | 2021    | Singapore Youth Festival Arts Presentation     | Angklung &amp; Kulintang     | Certificate of Distinction |
 
-![](/images/CCA/Visual%20&amp;%20Performing%20Arts/AngklungKulintang%20Ensemble/A2.png)
+![](/images/CCA/2023/Angklung%20and%20Kulintang/picture1.jpg)

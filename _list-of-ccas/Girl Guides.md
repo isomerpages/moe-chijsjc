@@ -43,9 +43,8 @@ Our 5-point programme – Personal and Social Development, Home, Community, Outd
 *Additional session during peak season/competition only.
 
 **Teachers-in-charge**
-<br>Ms Nur Fariza Bte Abubakar <br> 
-Ms Siti Nurizzati Binte Jamil<br>
-Ms Vera Yuen
+<br>Ms Nur Farizan Bte Abubakar <br> 
+Ms Siti Nurizzati Binte Jamil
 <br>Ms Lee Yu Xian<br>
 
 
@@ -54,6 +53,7 @@ Ms Vera Yuen
 
 | Year | Name of Competition | Achievement |
 | -------- | -------- | -------- |
+| 2023 | Puan Noor Aishah Award | Gold Award |
 | 2022 | Puan Noor Aishah Award | Gold Award |
 | 2022    | North Division Outdoor Challenge – Tent Pitching | 2nd Place |
 | 2022  | North Division Day – Let's Get Moving | Merit Award |

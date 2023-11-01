@@ -24,7 +24,7 @@ Life as a member in SJC's Modern Dance CCA is always filled with excitement! SJC
 <br>Friday: 3:45 pm – 6:15 pm<br>
 
 **Teachers-in-charge**
-<br>Ms Chan Lian Yin, <br> Ms Tan Kuan Ting,<br>Mrs Geetha Singarajan<br>
+<br>Ms Chan Lian Yin, <br> Mr Tan Kuan Ting,<br>Mrs Geetha Singarajan<br>
 
 #### **Achievements**
 <style type="text/css">

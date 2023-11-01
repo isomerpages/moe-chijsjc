@@ -39,7 +39,7 @@ Join us as we continue to harmonise our talents and share the joy of music with 
 <br>
 
 **Teachers-in-charge**
-<br>Mrs Jasmine Law-Spain<br> Ms Adeline Ng<br>Ms Gangka D/O Perisamy<br>
+<br>Mrs Jasmine Law-Spain<br> Ms Adeline Ng<br>Ms Gangka D/O Periasamy<br>
 
 #### **Achievements**
 

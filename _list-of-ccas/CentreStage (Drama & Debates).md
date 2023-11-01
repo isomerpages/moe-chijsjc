@@ -26,13 +26,7 @@ By the end of their time in the CCA, students realise that drama and debates go 
 **Teachers-in-charge**
 <br>Ms Neo Hui Ning Melissa <br> Mrs Rachel Tan<br>Ms Afroza Begum Bte Kaman <br>Ms Samantha Han Jia-Wen<br>
 
-
-
-
 #### **Achievements**
-
-
-
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -45,11 +39,6 @@ By the end of their time in the CCA, students realise that drama and debates go 
 .tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
 </style>
 
-   
-![](/images/CCA/Visual%20&amp;%20Performing%20Arts/CentreStage%20(Drama%20&amp;%20Debates)/C2.png)
-
-
-
 |Year | Name of Competition | Division/Category | Achievement |
 | -------- | -------- | -------- | -------- |
 | 2023     | Singapore Youth Festival Arts Presentation    | English Drama    | Certificate of Accomplishment |
@@ -59,3 +48,7 @@ By the end of their time in the CCA, students realise that drama and debates go 
 | 2022     | Raffles Debate Academy Under-14s Debate Championship 2022   | Debate Circle    | Silver Division (winners) |
 | 2021     | Singapore Youth Festival Arts Presentation  | English Drama    | Certificate Of Distinction |
 | 2021     | Raffles Debate Academy Under-14s Debate Championship 2021  | Raffles Debate (Silver Division)    | Silver Division (Runner-Up) |
+
+![](/images/CCA/2023/Centrestage/picture1.jpg)
+
+![](/images/CCA/2023/Centrestage/picture2.jpg)

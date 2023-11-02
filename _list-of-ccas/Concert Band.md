@@ -89,5 +89,6 @@ Join us as we continue to harmonise our talents and share the joy of music with 
 </table>
 
 
+![](/images/CCA/2023/Concert%20Band/picture1.jpg)
 
-![](/images/CCA/Visual%20&amp;%20Performing%20Arts/Concert%20Band/C2.jpg)
+![](/images/CCA/2023/Concert%20Band/picture2.jpg)

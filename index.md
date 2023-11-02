@@ -15,16 +15,17 @@ sections:
         - title: School Calendar
           description: Check what's coming up
           url: /sjc-calendar
-  - resources:
-      title: News and Announcements
-      button: Read More
   - infopic:
       title: E-Open House 2023
       subtitle: Add an image and text
       id: infopic
-      description: Learn more about SJC and sign up for our school tours here!
+      description: Learn more about SJC online and visit us in person. Sign up for our
+        school tours here!
       button: Explore
       url: https://go.gov.sg/chijsjc-openhouse
       image: /images/motd1-small.png
       alt: Image alt text
+  - resources:
+      title: News and Announcements
+      button: Read More
 ---

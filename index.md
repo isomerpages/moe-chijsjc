@@ -4,7 +4,8 @@ title: CHIJ St. Joseph's Convent
 description: Welcome to the official website of CHIJ St. Joseph's Convent.
 image: /images/Homepage/hero2.png
 permalink: /
-notification: ""
+notification: "Interested in joining CHIJ St. Joseph's Convent? Visit our E-Open
+  House at https://go.gov.sg/chijsjc-openhouse "
 sections:
   - hero:
       background: /images/Homepage/hero3.png
@@ -17,7 +18,7 @@ sections:
           url: /sjc-calendar
   - infopic:
       title: E-Open House 2023
-      subtitle: Add an image and text
+      subtitle: For P6 students and parents
       id: infopic
       description: Learn more about SJC online and visit us in person. Sign up for our
         school tours here!

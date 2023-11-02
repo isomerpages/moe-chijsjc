@@ -4,8 +4,8 @@ title: CHIJ St. Joseph's Convent
 description: Welcome to the official website of CHIJ St. Joseph's Convent.
 image: /images/Homepage/hero2.png
 permalink: /
-notification: "Interested in joining CHIJ St. Joseph's Convent? Visit our E-Open
-  House at https://go.gov.sg/chijsjc-openhouse "
+notification: "Interested in joining CHIJ SJC? Visit our E-Open House at
+  https://go.gov.sg/chijsjc-openhouse! "
 sections:
   - hero:
       background: /images/Homepage/hero3.png

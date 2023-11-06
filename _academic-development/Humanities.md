@@ -38,9 +38,9 @@ variant: markdown
 
 ##### **History**
 
-*          Civic District Trail (Sec 1s)
-*          Learning Journey to Old Ford Factory Museum (Sec 2s)
-*          Historical Investigation – Stories of Nazi Germany (Sec 3s)
+* Civic District Trail (Sec 1s)
+* Learning Journey to Old Ford Factory Museum (Sec 2s)
+* Historical Investigation - Stories of Nazi Germany (Sec 3s)
 
 ![](/images/Curriculum/Humanities/H2.png)
 

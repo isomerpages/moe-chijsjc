@@ -30,7 +30,7 @@ Through the planned inclusion of Inquiry-Based Learning (IBL), Collaborative Lea
      - Our Lower Secondary students see connections between Food & Consumer Education (FCE) and Outdoor Education lessons in Physical Education (PE) when they apply what they have learnt about food safety and cooking in FCE to outdoor cooking. 
 
 *   Self-directed learning through the use of information and communication technology
-    - Students are able to carry out their FCE learning independently using Google classroom and SLS.
+    - Students are able to carry out their FCE learning independently using Google Classroom and SLS.
 
 ![](/images/Curriculum/Craft%20and%20Technology/Nutrition%20&%20Food%20Science/N1.png)
 

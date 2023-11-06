@@ -24,7 +24,7 @@ variant: markdown
 #### **Our Programmes**
 
 
-The Science Enrichment Programme provides learning opportunities beyond the syllabus to expand the students’ perspectives and experiences. This includes the Chemistry, Biology and Physics Junior Olympiads; ignITE Skills Challenge; Learning Journeys; Science Workshops  
+The Science Enrichment Programme provides learning opportunities beyond the syllabus to expand the students’ perspectives and experiences. This includes the Chemistry, Biology and Physics Junior Olympiads, ignITE Skills Challenge, Learning Journeys and Science Workshops.  
 
 ![](/images/Curriculum/Science/S3.png)
 

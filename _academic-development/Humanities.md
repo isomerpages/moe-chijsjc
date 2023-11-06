@@ -52,12 +52,12 @@ variant: markdown
   
 
 ##### **Social Studies**
-
-*   Current Affairs Quiz (Monthly) for all levels
-*   Global Classroom Experience (Virtual Learning Journey to Thailand and Philippines) for Sec 1-3 students
-*   CPF Game On! Programme and Workshop for all Sec 3NA/ 3Exp students
-*   3Exp/3NA Issues Investigation: Singaporeans and Migrants
-*   Learning Journey to the Parliament House (2022)
+  
+* Current Affairs Quiz (Monthly) for all levels
+* Global Classroom Experience (Virtual Learning Journey to countries in ASEAN) for Sec 1-3 students
+* CPF Game On! Programme and Workshop for all Sec 3NA/ 3Exp students
+* Sec 3Exp/3NA Issues Investigation: What does citizenship mean to students?
+* S.U.R.E Programme- Combating Fake News by NLB (Assembly Programme)
 
 ![](/images/Curriculum/Humanities/H5.png)
 

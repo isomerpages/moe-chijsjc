@@ -17,7 +17,7 @@ The objectives of the D&T curriculum are as follow:
 *   To engage the creative and inquisitive instinct of students by using design in problem-solving,
 *   To develop basic design thinking and communication skills,
 *   To allow students to realise their design through prototype making and
-*   To develop autonomous decision-makers
+*   To develop autonomous decision-makers.
 
 #### **Our Approach**
 

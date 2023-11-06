@@ -10,13 +10,13 @@ In Aesthetics, we seek to develop our students to be independent and creative le
 
 #### **Our Objectives:**
 *   To provide meaningful and authentic art learning experiences that nurture students’ creativity and appreciation for the visual arts. 
-*   To develop creative expressions through individual and collaborative art making  
+*   To develop creative expressions through individual and collaborative art- making.  
 
 ![](/images/Curriculum/Aesthetics/Art/artframework2.png)
 
 #### **Our Approach:**
 
-In SJC, students learn art through an investigative, student-centered inquiry-based learning approach that focuses on their research, idea development, analysis of artworks, and art- making processes. 
+In SJC, students learn art through an investigative, student-centred inquiry-based learning approach that focuses on their research, idea development, analysis of artworks, and art-making processes. 
 
 #### **Our Programme:**
 

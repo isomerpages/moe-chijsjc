@@ -31,18 +31,16 @@ variant: markdown
 ##### **Geography**
 
 * NUS Geography Challenge (annual participation)
-
 * Fieldwork (Annual): Coastal Fieldwork @ East Coast Park (Pure Geography students), Tourism Fieldwork @ Chinatown/ Little India/ Merlion Park (Sec 3 Express /Normal Academic)
-
 * Learning Journeys (2023): URA and LTA Galleries (Sec 2)
 
 ![](/images/Curriculum/Humanities/H1.png)
 
 ##### **History**
 
-*   Historical Investigation to the National Museum for Sec 2Exp/NA students 
-*   Historical Investigation – Stories of Nazi Germany for 3Exp/3NA students
-*   NLB History Workshop for Sec 1Exp students
+*          Civic District Trail (Sec 1s)
+*          Learning Journey to Old Ford Factory Museum (Sec 2s)
+*          Historical Investigation – Stories of Nazi Germany (Sec 3s)
 
 ![](/images/Curriculum/Humanities/H2.png)
 

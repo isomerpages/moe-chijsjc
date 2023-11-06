@@ -3,6 +3,7 @@ title: Elements of Business Skills
 permalink: /academic/applied/ebs/
 description: ""
 third_nav_title: Applied Subjects
+variant: markdown
 ---
 #### **Our Objectives**
 
@@ -14,7 +15,7 @@ The curriculum aims to provide students with the opportunity to develop foundati
 #### **Our Objectives**
 
 
-The objectives are summarized as follow:
+The objectives are summarised as follow:
 
 *   To develop an understanding of basic business activities of travel and tourism, hospitality and retail industries  
     

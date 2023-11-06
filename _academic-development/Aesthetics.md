@@ -66,8 +66,8 @@ The music lessons are designed to provide students a platform for music explorat
  
 #### **Our Achievement:**
 
-The Youth Station Project is a songwriting competition platform dedicated to showcasing students' original creative work in music. In its seventh year, the Youth Station Project provides student-musicians with opportunities to further develop their interest and skills in songwriting, music arranging, production and performing. This competition attracted a total of 175 entries from 75 schools across the primary, lower secondary and open categories. 
+The Youth Station Project is a songwriting competition platform dedicated to showcasing students' original creative work in music. Through this platform, student-musicians are provided with opportunities to further develop their interest and skills in songwriting, music arranging, production and performing. 
 
-CHIJ St Joseph’s Convent had a total of two teams from the Secondary 1 and 2 cohort who submitted their original songs in April this year and final submissions were completed in August. One of the team was selected as the Top 20 Finalists in the Lower Secondary Category and was awarded an honourable mention. Their song “Love Yourself” has been posted on the SYF Official Youtube Channel. 
+In April 2022, two teams from the Secondary 1 and 2 cohorts submitted their initial compositions with the final submissions completed in August of the same year. One of the teams was selected as the Top 20 Finalists in the Lower Secondary Category and was awarded an Honourable Mention. Their song “Love Yourself” has been uploaded to the SYF Official Youtube Channel. 
 
 ![](/images/Curriculum/Aesthetics/Music/M3.png)

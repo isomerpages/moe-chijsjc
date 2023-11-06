@@ -3,11 +3,9 @@ title: Nutrition & Food Science
 permalink: /academic/applied/nfs/
 description: ""
 third_nav_title: Applied Subjects
+variant: markdown
 ---
-
-
 #### **Our Objectives**
-
 
 In light of changing lifestyles, technological advancements and innovations in food products, Nutrition and Food Science aims to develop our students to be:
 

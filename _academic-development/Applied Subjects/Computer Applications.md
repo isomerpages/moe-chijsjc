@@ -54,6 +54,6 @@ The use of gamification as a pedagogy helps to promote active learning and promo
 
 | Category  | Student  | Award |
 | ---------- | --------  | -------- |
-| Animation | Makayla Lavanya Mckenzie  | Gold |
+| Animation | Makayla Lawanya Mckenzie | Gold |
 | Game        | Christina Paul    | Platinum |  
 

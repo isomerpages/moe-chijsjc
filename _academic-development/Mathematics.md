@@ -2,8 +2,8 @@
 title: Mathematics
 permalink: /academic/mathematics/
 description: ""
+variant: markdown
 ---
-
 #### **Our Objectives**
 
 
@@ -28,17 +28,14 @@ In SJC, a **spiral approach** is adopted in the building up of mathematical co
 
 ##### **Core Curriculum**
 
-  
-
-*   Our Normal (Technical) and Normal (Academic) students are offered Math SBB where they have the opportunity to stretch themselves in Mathematics at a higher rigour.
-
-*   Normal (Academic) students who show an inclination for Mathematics are selected to take the GCE O-Level Elementary Mathematics from Sec 3 onwards.
-
-*   Additional Mathematics is offered as an elective for the Normal (Academic) stream while the Express stream streams are given the option to offer the subject as one of the core subjects or as an elective.
+For the lower secondary level, some students are offered Maths Subject Based Banding (SBB) where they have the opportunity to stretch themselves in learning Mathematics at a higher rigour. 
 
   
+At the upper secondary level, Additional Mathematics is offered to students who have an aptitude and interest in Mathematics to acquire mathematical concepts and skills for higher studies in Mathematics and to support learning in the other subjects, in particular, the sciences.
 
-##### **Enrichment Programme**
+**
+
+ ##### **Enrichment Programme**
 
   
 

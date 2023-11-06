@@ -15,10 +15,7 @@ In light of changing lifestyles, technological advancements and innovations in f
 
 #### **Our Approach**
 
-
 We encourage our students to be self-directed learners in the world of nutrition and food science, in the belief that they will continue to learn about nutrition and food long after they have left secondary school as a matter of necessity, hobby or professional pursuit.
-
-  
 
 Through the planned inclusion of Inquiry-Based Learning (IBL), Collaborative Learning (CoL) and Experiential Learning (ExL) in the crafting of our curriculum, our students will develop their skills through a series of culinary challenges designed to encourage critical and creative thinking in the selection and preparation of food for different purposes in life.
 
@@ -26,9 +23,8 @@ Through the planned inclusion of Inquiry-Based Learning (IBL), Collaborative Lea
 
 
 *   Authentic & experiential learning experiences through:
-
->*   A wide range of thematic questions exposing students to a range of topics, skills and methods, for example, different types of food commodities, food science experiments, methods of cooking and health trends.
->*   Opportunities to learn beyond the classroom, for example, themed food competitions, workshops and  talks by professionals in the food industry.
+- A wide range of thematic questions exposing students to a range of topics, skills and methods, for example, different types of food commodities, food science experiments, methods of cooking and health trends.
+- Opportunities to learn beyond the classroom, for example, themed food competitions, workshops and  talks by professionals in the food industry.
 
 *   Cross-disciplinary learning through collaboration with other departments
 

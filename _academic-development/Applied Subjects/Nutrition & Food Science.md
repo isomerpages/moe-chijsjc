@@ -9,8 +9,6 @@ variant: markdown
 
 In light of changing lifestyles, technological advancements and innovations in food products, Nutrition and Food Science aims to develop our students to be:
 
-  
-
 1.  Food Ambassadors by advocating nutrition and health for self, family and the community.
 2.  Discerning Consumers by appreciating how a variety of food is used in food management and taking into consideration issues of food security. 
 3.  Food Innovators by applying scientific principles during food preparation and cooking. 

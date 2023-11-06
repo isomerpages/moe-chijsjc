@@ -2,6 +2,7 @@
 title: Angklung and Kulintang Ensemble
 permalink: /angklung/
 description: ""
+variant: markdown
 ---
 ![](/images/CCA/2023/Angklung%20and%20Kulintang/angklung%20and%20kulintang%20ensemble.jpg)
 
@@ -28,7 +29,7 @@ Members are expected to uphold the standards established to produce high quality
 <br>Thursday: 3:45 pm – 6:15 pm<br>
 
 **Teachers-in-charge**
-<br>Ms Nurul Ain Sakina Bte Soonan
+<br>Ms Nurul Ain Sakina Bte Soonaan
 <br>Ms Hafifah Binte Mohd Hafiz Tan<br>
 
 

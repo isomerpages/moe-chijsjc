@@ -2,10 +2,9 @@
 title: Humanities
 permalink: /academic/humanities/
 description: ""
+variant: markdown
 ---
-
 #### **Our Objectives**
-
 
 *   To inspire the passion for Humanities in students and help them understand the interconnectedness of Singapore and the world and relevance in their learning.
 *   To equip students with critical thinking skills and 21st century competencies that will allow them to thrive in an increasingly complex world.
@@ -18,32 +17,30 @@ description: ""
 
 *   Use of questions, problems, and scenarios to spark curiosity among students and help them learn through their own investigation and reflection. These approaches help to encourage critical thinking, investigation and problem-solving in the exploration of questions or issues. Students would be equipped with 21st century skills to become independent and self-directed learners.
 *   Facilitation by teachers to guide students’ thinking and help them make sense of the wealth of information available to them.
-*   Geographical and Historical Investigations through field-based and experiential learning offer opportunities for students to engage in the inquiry process.
+*   Geographical, Historical and Social Studies Issue Investigations through field-based and experiential learning offer opportunities for students to engage in the inquiry process.
 
 **_2\. Nurturing the passion for Humanities_**
 
-*   Nurture the passion for Humanities through various experiential learning opportunities such as learning journeys (e.g. visit to Kranji War Memorial on Total Defence Commemoration and Marina Barrage) and enrichment programmes (e.g. URA Urban Planning Festival and NUS Geography Challenge).
-*   Make learning of Humanities meaningful by deepening students’ disciplinary understanding by engaging students in discussion of real-world issues associated with the Humanities.
+*    Nurture the passion for Humanities through various experiential learning opportunities such as learning journeys (e.g. visit to Old Ford Factory Museum and LTA Gallery) and enrichment programmes (e.g. Historical Scene Investigation Challenge by NLB and NUS Geography Challenge).
 
+*    Make learning of Humanities meaningful by deepening students’ disciplinary understanding and engaging students in discussion of real-world issues associated with the Humanities.
   
 
 #### **PROGRAMMES**
 
 ##### **Geography**
 
-*   HDB Outreach Programme for Sec 1NT & 1NA students  
-*   NUS Geography Challenge (annual participation)
-*   Fieldwork (Annual):
- Coastal Fieldwork @ East Coast Park (All Pure Geography students),
-Tourism Fieldwork @ Chinatown/ Little India/ Merlion Park (Sec 3 Express /Normal Academic)
+* NUS Geography Challenge (annual participation)
+* Fieldwork (Annual): Coastal Fieldwork @ East Coast Park (Pure Geography students), Tourism Fieldwork @ Chinatown/ Little India/ Merlion Park (Sec 3 Express /Normal Academic)
+* Learning Journeys (2023): URA and LTA Galleries (Sec 2)
 
 ![](/images/Curriculum/Humanities/H1.png)
 
 ##### **History**
 
-*   Historical Investigation to the National Museum for Sec 2Exp/NA students 
-*   Historical Investigation – Stories of Nazi Germany for 3Exp/3NA students
-*   NLB History Workshop for Sec 1Exp students
+*          Civic District Trail (Sec 1s)
+*          Learning Journey to Old Ford Factory Museum (Sec 2s)
+*          Historical Investigation – Stories of Nazi Germany (Sec 3s)
 
 ![](/images/Curriculum/Humanities/H2.png)
 

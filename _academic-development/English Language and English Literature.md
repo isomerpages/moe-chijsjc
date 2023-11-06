@@ -41,4 +41,4 @@ Through all the above programmes, students will learn to use the English Languag
 
 
 
-Our department’s work is tied closely to our school’s **Applied Learning Programme in Theatre and Debates.** Find out more [here] https://cms.isomer.gov.sg/sites/moe-chijsjc/folders/the-sjc-experience/editPage/Applied%20Learning%20Programme.md).
+Our department’s work is tied closely to our school’s **Applied Learning Programme in Theatre and Debates.** Find out more [here] 

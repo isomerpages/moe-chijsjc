@@ -49,3 +49,6 @@ In 2022, a team of Sec 2 students clinched the 1st Prize in the Automata Categor
 
   
 ![](/images/Curriculum/Craft%20and%20Technology/Design%20&%20Technology/D2.png)
+
+
+In 2023, another team of Sec 2 students clinched the 1st Prize in the Automata Category with their unique ideas in Urban Farming!

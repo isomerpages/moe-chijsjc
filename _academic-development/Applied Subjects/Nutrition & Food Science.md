@@ -21,7 +21,6 @@ Through the planned inclusion of Inquiry-Based Learning (IBL), Collaborative Lea
 
 #### **Our Programmes**
 
-
 *   Authentic & experiential learning experiences through:
     - A wide range of thematic questions exposing students to a range of topics, skills and methods, for example, different types of food commodities, food science experiments, methods of cooking and health trends.
     - Opportunities to learn beyond the classroom, for example, themed food competitions, workshops and  talks by professionals in the food industry.

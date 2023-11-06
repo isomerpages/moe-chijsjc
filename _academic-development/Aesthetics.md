@@ -2,6 +2,7 @@
 title: Aesthetics
 permalink: /academic/aesthetics/
 description: ""
+variant: markdown
 ---
 In Aesthetics, we seek to develop our students to be independent and creative learners who possess an awareness and appreciation of art and music in varied forms.  
 

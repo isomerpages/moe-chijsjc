@@ -16,19 +16,19 @@ In Aesthetics, we seek to develop our students to be independent and creative le
 
 #### **Our Approach:**
 
-In SJC, students learn art through an investigative, student-centred inquiry-based learning approach that focuses on their research, idea development, analysis of artworks, and art-making processes. 
+In SJC, students learn art through an investigative, student-centred inquiry-based learning approach that focuses on their research, idea development, analysis of artworks, and artmaking processes. 
 
 #### **Our Programme:**
 
 In the Lower Secondary Art curriculum, students learn to **Perceive**, **Communicate** and **Appreciate** through learning the:  
-*   **Context of Artmaking** – conditions that lead to the ideas of the work and why works are created in certain ways
+*   **Context of Art making** – conditions that lead to the ideas of the work and why works are created in certain ways
 *   **Artistic Processes** – methods that artists use to gather and develop ideas for their works
 *   **Media** – how to use materials, tools and techniques
 *   **Visual Qualities** – how to use elements of Art and principles of design to create desired effects
 
-In the Upper Secondary Art curriculum, students develop their technical and explorative skills through exposure to various 2D and 3D art media. The students deepen and develop their appreciation of, interest and critical thinking in art through the affordances of ICT, experiential learning journeys to art institutions and organizations, as well as Art enrichment workshops.
+In the Upper Secondary Art curriculum, students develop their technical and explorative skills through exposure to various 2D and 3D art media. The students deepen and develop their appreciation of, interest and critical thinking in art through the affordances of ICT, experiential learning journeys to art institutions and organisations, as well as Art enrichment workshops.
 
-Students at all levels also benefit from the **Artist in School Scheme (AISS**), where professional artists conduct talks and master classes for students to engage them further in different genres of art. To encourage our budding artists, students’ work-in-progress are also celebrated monthly. The “Artists of the Month” affirms students’ creativity and highlights our emphasis on the process of art learning than the finished product.
+Students at all levels also benefit from the **Artist in School Scheme (AISS**), where professional artists conduct talks and master classes for students to engage them further in different genres of art. To encourage our budding artists, students’ works-in-progress are also celebrated monthly. The “Artists of the Month” affirms students’ creativity and highlights our emphasis on the process of art learning than the finished product.
 
 ![](/images/Curriculum/Aesthetics/Art/A2.png)
 

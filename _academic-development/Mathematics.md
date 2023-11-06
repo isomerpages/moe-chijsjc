@@ -41,7 +41,7 @@ At the upper secondary level, Additional Mathematics is offered to students who 
 
 #### **Competitions**
 
-Whenever opportunities arise, selected students will be enrolled in Math competitions. Through competing in an external environment, students’ learning of the subject is broadened as they solve complex and challenging Mathematical problems. The exposure and experience also help students to develop critical thinking and problem solving skills. Some of the competitions that our students have participated in are:
+Whenever opportunities arise, selected students will be enrolled in Math competitions. Through competing in an external environment, students’ learning of the subject is broadened as they solve complex and challenging mathematical problems. The exposure and experience also help students to develop critical thinking and problem solving skills. Some of the competitions that our students have participated in are:
 
 (a) Singapore Mathematics Olympiad (SMO)
 

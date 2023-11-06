@@ -3,9 +3,8 @@ title: Design & Technology
 permalink: /academic/applied/dnt/
 description: ""
 third_nav_title: Applied Subjects
+variant: markdown
 ---
-
-
 #### **Our Objectives**
 
 
@@ -23,7 +22,7 @@ The objectives of the D&T curriculum are as follow:
 #### **Our Approach**
 
 
-The students embark on their design journey through projects during the two year course. Students advance their knowledge and skills by working side by side with their teachers who facilitate the process of designing solutions to a challenge or problem.  
+The students embark on their design journey through projects during the two- year course. Students advance their knowledge and skills by working side by side with their teachers who facilitate the process of designing solutions to a challenge or problem.  
 
 #### **Our Achievement**
 
@@ -33,7 +32,7 @@ In SJC, Lower Secondary students learn Design and Technology over the course of 
   
 
 |  Year | Semester |                                                                                 Projects                                                                                 |
-|:-----:|:--------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|:-------:|:--------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | Sec 1 |     2    |                                                       1. Design Journals  2. Toy Car (use of an electrical circuit)                                                      |
 | Sec 2 |     1    |  1. Design Journals  2. Pull Toy (use of linkages)  3. Automata (use of mechanisms)  4. Participation in the Automata Competition organized by the Singapore Polytechnic |
   

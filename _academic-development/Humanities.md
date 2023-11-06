@@ -32,7 +32,7 @@ variant: markdown
 
 * NUS Geography Challenge (annual participation)
 * Fieldwork (Annual): Coastal Fieldwork @ East Coast Park (Pure Geography students), Tourism Fieldwork @ Chinatown/ Little India/ Merlion Park (Sec 3 Express /Normal Academic)
-* Learning Journeys (2023): URA and LTA Galleries (Sec 2)
+* Learning Journeys (2023): URA and LTA Gallery (Sec 2)
 
 ![](/images/Curriculum/Humanities/H1.png)
 

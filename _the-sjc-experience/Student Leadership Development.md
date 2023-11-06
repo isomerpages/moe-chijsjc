@@ -2,55 +2,50 @@
 title: Student Leadership Development
 permalink: /sjcexperience/student-leadership/
 description: ""
+variant: markdown
 ---
 #### **Objectives**
-*   To nurture the leadership potential in all our students.
+*   To nurture inspiring leaders who: lead with confidence, serve with humility and relate with empathy.
 *   To equip our students with an understanding of key leadership principles, and guide and train them to take on greater responsibilities.
 
 #### **Our Approach**
-We believe that each girl has the potential to lead others. We will provide opportunities for students to experience leadership roles and equip them to lead more effectively. 
+We believe that every student has the potential to lead others. We will provide opportunities for students to experience leadership roles and equip them to lead more effectively. 
 
-#### **Our Student Leadership Framework**
+#### **Our Student Leadership Experiences**
+Our leaders include the Class Monitors, Peer Support Leaders, CCA Leaders, Sports Leaders and Student Councillors.
 
-Our framework comprises 3 tiers:
+The school’s L.I.G.H.T values and the ‘Leadership Challenge Model’ (LCM) by Kouzes and Pozner anchor our Student Leadership Development programme.  The 5 practices (Modelling the Way, Inspiring a Shared Vision, Challenging the Process, Enabling Others to Act, and Encouraging the Heart) are progressively introduced to students in their respective student leadership roles. 
+
+Student leaders at SJC will go through a series of leadership-related lessons, training and enrichment activities to equip them with basic theory and soft skills for their respective roles. The leaders are also provided with different opportunities to enact their leadership potential, in school-wide programmes and events.
+
 
 **Tier 1: Self and Small Group Leadership**
 
-**Self-Leadership:** 
+* In Self Leadership, students are introduced to leadership practices during CCE lessons to prepare them for leadership roles in the future, as a supporting member of a team who participates in various school and community events.
 
-*   All students receive equipping during CCE lessons to prepare them for leadership roles in the future, as a supporting member of a team who participates in various school and community events.
+* In Small Group Leadership, ‘Everyone has a role to play’ - students are encouraged to take on leadership roles such as subject/functional representatives in class, or as junior leaders in CCAs.
 
-**Small Group Leadership:**
-
-*   'Everyone has a role to play' - students encouraged to take leadership roles as subject/functional representatives in class, or as junior leaders in CCAs.
 
 **Tier 2: Class and Junior CCA Leadership**
 
-*   Class Monitors and Peer Support Leaders comprise ‘Class Leaders’ who help manage the overall environment of the class, well-being of their peers, and help organize certain activities for the class.  Junior CCA leaders are lower secondary ExCo members of CCA.
+* Class Monitors and Peer Support Leaders comprise ‘Class Leaders’ who help manage the overall environment of the class, well-being of their peers, and help organise certain activities for the class. Junior CCA leaders are lower secondary ExCo members of their CCA.
+
 
 **Tier 3: School & Senior CCA Leadership**
 
-*   School Councillors and Sports Leaders organize cohort or school level activities.  Senior CCA Leaders help lead their CCA programmes and training.  
+* Student Councillors and Sports Leaders organise cohort or school level activities.&nbsp; Senior CCA Leaders help lead their CCA programmes and training. 
 
-**Equipping for Leadership**
-
-Student leaders will go through a series of leadership-related lessons, training and enrichment activities which provide basic theory and soft skills for their respective roles.
-
-For instance, Class Monitors, Peer Support Leaders, CCA Leaders, Sports Leaders or School Councilors receive equipping in facilitating discussions, planning and event organizing, public communication, etc, as their roles require.
-
-The ‘**Leadership Challenge Model**’ (LCM) by Kouzes and Pozner underpins our Student Leadership Development programme.  The 5 practices (Modelling the Way, Inspiring a Shared Vision, Challenging the Process, Enabling Others to Act, and Encouraging the Heart) are progressively introduced to students in their respective student leadership roles. 
 
 #### **Platforms for Student Leadership**
 
 
 |   Leadership Roles   |                                                        Leadership Platforms                                                        |
 |:--------------------:|:----------------------------------------------------------------------------------------------------------------------------------:|
-| Class Committee      | Intra- & Inter-Class subject-based activities                                                                                      |
-| Monitors             | Inter-Class challenge activities, Student Voices                                                                                   |
-| Peer Support Leaders | Class Peer Bonding activities                                                                                                      |
+| Monitors             | Inter-Class challenge activities                                                                                   |
+| Peer Support Leaders | Class Peer Bonding activities, Cyberwellness and Mental Wellbeing Ambassadors            |
 | CCA Leaders          | CCA Orientation Experience, CCA Competitions, CCA Camps, leading CCA training, CCA VIA, CCA welcome & farewell, etc.               |
 | Sports Leaders       | CCA Experience, Sports Day, X-Country, Inter-House Sports Competitions, International Sports Fiestas, Sports Enrichment workshops  |
-|  School Councilors   | Sec 1 Orientation Programme, Awards Ceremony, Student Council Investiture, Teacher's Day, Student Voices, Morning duties           |
+|  Student Councillors   | Sec 1 Orientation Programme, Awards Ceremony, Student Council Investiture, Teachers' Day, Student Voices, Morning duties           |
   
   
 

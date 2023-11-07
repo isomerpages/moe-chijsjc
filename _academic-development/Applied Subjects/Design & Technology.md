@@ -67,3 +67,5 @@ In 2023, another team of Sec 2 students clinched the 1st Prize in the Automata C
 |||
 |-|-|
 | ![](/images/Curriculum/Craft%20and%20Technology/Design%20&amp;%20Technology/dnt%20automata%201.jpeg) | ![](/images/Curriculum/Craft%20and%20Technology/Design%20&amp;%20Technology/dnt%20automata%202.jpeg) |
+<figcaption>The winning entry featuring the Automata in Urban Farming!
+</figcaption>

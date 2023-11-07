@@ -4,7 +4,14 @@ permalink: /academic/humanities/
 description: ""
 variant: markdown
 ---
-![](/images/Curriculum/Humanities/humanities%20department.jpg)
+<style type="text/css">
+figcaption {
+  text-align:center;
+	font-style: italic;
+	font-family:Arial, sans-serif;
+	font-size:10px;
+}
+	</style>
 
 #### **Our Objectives**
 
@@ -15,7 +22,7 @@ variant: markdown
 #### **Our Approach**
 
 
-**_1\. Key pedagogies: Inquiry-based & Issue-based Learning in the Humanities Curriculum_**
+**_1\. Key pedagogies: Inquiry-based &amp; Issue-based Learning in the Humanities Curriculum_**
 
 *   Use of questions, problems, and scenarios to spark curiosity among students and help them learn through their own investigation and reflection. These approaches help to encourage critical thinking, investigation and problem-solving in the exploration of questions or issues. Students would be equipped with 21st century skills to become independent and self-directed learners.
 *   Facilitation by teachers to guide students’ thinking and help them make sense of the wealth of information available to them.
@@ -38,21 +45,20 @@ variant: markdown
 
 ![](/images/Curriculum/Humanities/H1.png)
 
+![](/images/Curriculum/Humanities/2023human1.jpg)
+
 ##### **History**
 
 * Civic District Trail (Sec 1s)
 * Learning Journey to Old Ford Factory Museum (Sec 2s)
 * Historical Investigation - Stories of Nazi Germany (Sec 3s)
 
-![](/images/Curriculum/Humanities/H2.png)
-
-![](/images/Curriculum/Humanities/H3.png)
-
-![](/images/Curriculum/Humanities/H4.png)
+![](/images/Curriculum/Humanities/2023human2.jpg)
 
 ![](/images/Curriculum/Humanities/2023human3.jpg)
-  
 
+![](/images/Curriculum/Humanities/2023human4.jpg)
+  
 ##### **Social Studies**
   
 * Current Affairs Quiz (Monthly) for all levels
@@ -65,6 +71,4 @@ variant: markdown
 
 ![](/images/Curriculum/Humanities/H6.png)
 
-![](/images/Curriculum/Humanities/2023human2.jpg)
-
-![](/images/Curriculum/Humanities/2023human1.jpg)
+![](/images/Curriculum/Humanities/2023human5.jpg)

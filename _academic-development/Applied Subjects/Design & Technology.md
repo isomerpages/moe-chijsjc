@@ -5,12 +5,18 @@ description: ""
 third_nav_title: Applied Subjects
 variant: markdown
 ---
+<style type="text/css">
+figcaption 
+{
+text-align:center;
+font-style: italic;
+}
+</style>
+
 #### **Our Objectives**
 
 
-D&amp;T prepares students for living and working in an ever-changing world by helping them recognise the need for new or modified products/systems. It gives students the capacity and confidence to design, make and evaluate the products/systems independently.  
-
-  
+D&amp;T prepares students for living and working in an ever-changing world by helping them recognise the need for new or modified products/systems. It gives students the capacity and confidence to design, make and evaluate the products/systems independently. 
 
 The objectives of the D&amp;T curriculum are as follow:
 
@@ -52,3 +58,7 @@ In 2022, a team of Sec 2 students clinched the 1st Prize in the Automata Categor
 
 
 In 2023, another team of Sec 2 students clinched the 1st Prize in the Automata Category with their unique ideas in Urban Farming!
+
+![](/images/Curriculum/Craft%20and%20Technology/Design%20&amp;%20Technology/2023dnt1.jpg)
+<figcaption>The winning entry featuring the Automata in Urban Farming!
+</figcaption>

@@ -4,6 +4,15 @@ permalink: /academic/humanities/
 description: ""
 variant: markdown
 ---
+<style type="text/css">
+figcaption {
+  text-align:center;
+	font-style: italic;
+	font-family:Arial, sans-serif;
+	font-size:12px;
+}
+	</style>
+
 ![](/images/Curriculum/Humanities/humanities%20department.jpg)
 
 #### **Our Objectives**
@@ -15,7 +24,7 @@ variant: markdown
 #### **Our Approach**
 
 
-**_1\. Key pedagogies: Inquiry-based & Issue-based Learning in the Humanities Curriculum_**
+**_1\. Key pedagogies: Inquiry-based &amp; Issue-based Learning in the Humanities Curriculum_**
 
 *   Use of questions, problems, and scenarios to spark curiosity among students and help them learn through their own investigation and reflection. These approaches help to encourage critical thinking, investigation and problem-solving in the exploration of questions or issues. Students would be equipped with 21st century skills to become independent and self-directed learners.
 *   Facilitation by teachers to guide students’ thinking and help them make sense of the wealth of information available to them.

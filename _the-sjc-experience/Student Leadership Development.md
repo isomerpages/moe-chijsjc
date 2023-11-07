@@ -30,13 +30,15 @@ Student leaders at SJC will go through a series of leadership-related lessons, t
 #### **Platforms for Student Leadership**
 
 
-|   Leadership Roles   |                                                        Leadership Platforms                                                        |
-|:--------------------:|:----------------------------------------------------------------------------------------------------------------------------------:|
+|  Leadership Roles              |    Leadership Platforms            |
+| -------- | -------- | 
 | Monitors             | Inter-Class challenge activities                                                                                   |
 | Peer Support Leaders | Class Peer Bonding activities, Cyberwellness and Mental Wellbeing Ambassadors            |
 | CCA Leaders          | CCA Orientation Experience, CCA Competitions, CCA Camps, leading CCA training, CCA VIA, CCA welcome &amp; farewell, etc.               |
 | Sports Leaders       | CCA Experience, Sports Day, X-Country, Inter-House Sports Competitions, International Sports Fiestas, Sports Enrichment workshops  |
 |  Student Councillors   | Sec 1 Orientation Programme, Awards Ceremony, Student Council Investiture, Teachers' Day, Student Voices, Morning duties           |
+  
+
   
   
 

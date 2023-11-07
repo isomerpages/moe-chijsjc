@@ -8,12 +8,10 @@ variant: markdown
 
 #### **Our Objectives**
 
-
 *   To cultivate empowered and engaged 21st century learners who are discerning yet empathetic and effective communicators
 *   To inspire a deep appreciation for the English Language and Literature, and their use in creative expression and in daily life
 
 #### **Our Approach**
-
 
 *   Focus on experiential learning and guided discovery to allow for deep learning
 *   Explicit instruction on the use of visible thinking strategies to enhance metacognition
@@ -21,25 +19,27 @@ variant: markdown
 
 #### **Our Programmes**
 
-
 *   Experience the authentic use of English Language and Literature through theatre experiences and learning beyond the classroom
 *   Explore different perspectives of the world through dramatisation and debates  
     
 *   Engage in dialogic classroom discussion to develop richer perspectives
 
       
-
 Through all the above programmes, students will learn to use the English Language with impact, effect and affect.
 
-![](/images/Curriculum/Eng%20Language%20and%20Literature/E1.png)
-  
+![](/images/Curriculum/Eng%20Language%20and%20Literature/ellfive.jpg)
 
 ![](/images/Curriculum/Eng%20Language%20and%20Literature/E2.png)
 
+![](/images/Curriculum/Eng%20Language%20and%20Literature/E1.png)
+  
+![](/images/Curriculum/Eng%20Language%20and%20Literature/E4.png)
 
 ![](/images/Curriculum/Eng%20Language%20and%20Literature/E3.png)
 
-![](/images/Curriculum/Eng%20Language%20and%20Literature/E4.png)
+
+
+
 
 
 

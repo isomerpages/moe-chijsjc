@@ -4,6 +4,8 @@ permalink: /academic/humanities/
 description: ""
 variant: markdown
 ---
+![](/images/Curriculum/Humanities/humanities%20department.jpg)
+
 #### **Our Objectives**
 
 *   To inspire the passion for Humanities in students and help them understand the interconnectedness of Singapore and the world and relevance in their learning.
@@ -47,8 +49,8 @@ variant: markdown
 ![](/images/Curriculum/Humanities/H3.png)
 
 ![](/images/Curriculum/Humanities/H4.png)
- 
 
+![](/images/Curriculum/Humanities/2023human3.jpg)
   
 
 ##### **Social Studies**
@@ -62,3 +64,7 @@ variant: markdown
 ![](/images/Curriculum/Humanities/H5.png)
 
 ![](/images/Curriculum/Humanities/H6.png)
+
+![](/images/Curriculum/Humanities/2023human2.jpg)
+
+![](/images/Curriculum/Humanities/2023human1.jpg)

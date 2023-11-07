@@ -10,7 +10,7 @@ figcaption
 text-align:center;
 font-style: italic;
 font-family:Arial, sans-serif;
-font-size:14px;
+font-size:16px;
 }
 </style>
 

@@ -27,7 +27,7 @@ Through all the above programmes, students will learn to use the English Languag
 
 ![](/images/Curriculum/Eng%20Language%20and%20Literature/ellfive.jpg)
 
-![](/images/Curriculum/Eng%20Language%20and%20Literature/E2.png)
+![](/images/Curriculum/Eng%20Language%20and%20Literature/ellsix.jpg)
 
 ![](/images/Curriculum/Eng%20Language%20and%20Literature/E1.png)
   

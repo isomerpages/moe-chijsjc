@@ -9,7 +9,7 @@ figcaption {
   text-align:center;
 	font-style: italic;
 	font-family:Arial, sans-serif;
-	font-size:12px;
+	font-size:10px;
 }
 	</style>
 
@@ -73,4 +73,6 @@ figcaption {
 
 ![](/images/Curriculum/Humanities/H6.png)
 
-![](/images/Curriculum/Humanities/2023human5.jpg)
+![](/images/Curriculum/Humanities/2023human6.jpg)
+<figcaption>Learning about fake news and digital literacy with NLB
+	</figcaption>

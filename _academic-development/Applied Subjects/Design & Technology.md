@@ -8,9 +8,7 @@ variant: markdown
 #### **Our Objectives**
 
 
-D&amp;T prepares students for living and working in an ever-changing world by helping them recognise the need for new or modified products/systems. It gives students the capacity and confidence to design, make and evaluate the products/systems independently.  
-
-  
+D&amp;T prepares students for living and working in an ever-changing world by helping them recognise the need for new or modified products/systems. It gives students the capacity and confidence to design, make and evaluate the products/systems independently. 
 
 The objectives of the D&amp;T curriculum are as follow:
 
@@ -52,3 +50,17 @@ In 2022, a team of Sec 2 students clinched the 1st Prize in the Automata Categor
 
 
 In 2023, another team of Sec 2 students clinched the 1st Prize in the Automata Category with their unique ideas in Urban Farming!
+
+<style type="text/css">
+figcaption 
+{
+text-align:center;
+font-style: italic;
+font-family:Arial, sans-serif;
+font-size:10px;
+}
+</style>
+|![](/images/Curriculum/Craft%20and%20Technology/Design%20&amp;%20Technology/dnt%20automata1.jpeg)|![](/images/Curriculum/Craft%20and%20Technology/Design%20&amp;%20Technology/dnt%20automata%202.jpeg)|
+|-|-|
+<figcaption>The winning entry featuring the Automata in Urban Farming!
+</figcaption>

@@ -4,8 +4,6 @@ permalink: /centrestage/
 description: ""
 variant: markdown
 ---
-![](/images/CCA/2023/Centrestage/centrestage.jpg)
-
 #### **About**
 CentreStage is a fun-filled CCA where students are provided with a platform to express themselves eloquently, articulately and persuasively. During their weekly sessions, they are taught fundamental skills in drama and debates. In drama, they are trained to develop adaptive skills to improvise and be quick-witted. In debates, students are challenged to step out of their comfort zones and think out of the box in order to craft a convincing argument for their speeches. In both sessions, through both drama and debate, students engage in in-depth discussion about current affairs and social issues, allowing students to foster a deeper understanding of the world around them.
 
@@ -28,17 +26,6 @@ By the end of their time in the CCA, students realise that drama and debates go 
 <br>Ms Neo Hui Ning Melissa <br> Mrs Rachel Tan<br>Ms Afroza Begum Bte Kaman <br>Ms Samantha Han Jia-Wen<br>
 
 #### **Achievements**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-dgl5{background-color:#FFF;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-zr06{background-color:#FFF;text-align:left;vertical-align:middle}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-</style>
 
 |Year | Name of Competition | Division/Category | Achievement |
 | -------- | -------- | -------- | -------- |

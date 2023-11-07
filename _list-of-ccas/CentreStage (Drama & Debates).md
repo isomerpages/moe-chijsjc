@@ -2,6 +2,7 @@
 title: CentreStage (Drama & Debates)
 permalink: /centrestage/
 description: ""
+variant: markdown
 ---
 ![](/images/CCA/2023/Centrestage/centrestage.jpg)
 
@@ -42,10 +43,13 @@ By the end of their time in the CCA, students realise that drama and debates go 
 |Year | Name of Competition | Division/Category | Achievement |
 | -------- | -------- | -------- | -------- |
 | 2023     | Singapore Youth Festival Arts Presentation    | English Drama    | Certificate of Accomplishment |
-| 2023     | Raffles Debate Academy Under-14s Debate  Championship 2023   | Debate Circle    | Preliminary Rounds |
-| 2022     | Dunman High Debate Open   | Debate Circle    | Preliminary Rounds |
-| 2022     | Singapore Secondary Schools Debating Championships   | Debate Circle    | Quarterfinals |
-| 2022     | Raffles Debate Academy Under-14s Debate Championship 2022   | Debate Circle    | Silver Division (winners) |
+| 2023     | Singapore Secondary Schools Debating Championships  | Debate Circle    | Quarterfinals |
+| 2023     | Debate Association Debating Championship  | Debate Circle | Champion for Silver Division |
+| 2023     | Raffles Debate Academy Under-14s Debate Championship 2023   | Debate Circle    | Preliminary |
+| 2023     | Dunman High Debate Open   | Debate Circle    | Preliminary |
+| 2022     | Singapore Secondary Schools Debating Championships   | Debate Circle    | Preliminary |
+| 2022     | Oldham Cup   | Debate Circle    | Preliminary |
+| 2022     | Raffles Debate Academy Under-14s Debate Championship 2022   | Debate Circle    | Champion for Silver Division |
 | 2021     | Singapore Youth Festival Arts Presentation  | English Drama    | Certificate Of Distinction |
 | 2021     | Raffles Debate Academy Under-14s Debate Championship 2021  | Raffles Debate (Silver Division)    | Silver Division (Runner-Up) |
 

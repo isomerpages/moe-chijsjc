@@ -73,6 +73,4 @@ figcaption {
 
 ![](/images/Curriculum/Humanities/H6.png)
 
-![](/images/Curriculum/Humanities/2023human6.jpg)
-<figcaption>Learning about fake news and digital literacy with NLB
-	</figcaption>
+![](/images/Curriculum/Humanities/2023human5.jpg)

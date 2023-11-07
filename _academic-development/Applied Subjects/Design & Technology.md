@@ -57,7 +57,7 @@ figcaption
 text-align:center;
 font-style: italic;
 font-family:Arial, sans-serif;
-font-size:10px;
+font-size:14px;
 }
 </style>
 |![](/images/Curriculum/Craft%20and%20Technology/Design%20&amp;%20Technology/dnt%20automata1.jpeg)|![](/images/Curriculum/Craft%20and%20Technology/Design%20&amp;%20Technology/dnt%20automata%202.jpeg)|

@@ -31,11 +31,11 @@ In SJC, Lower Secondary students learn Design and Technology over the course of 
 
   
 
-|  Year | Semester |                                                                                 Projects                                                                                 |
-|:-------:|:--------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Year | Semester | Projects |
+| -------- | -------- | -------- |
 | Sec 1 |     2    |                                                       1. Design Journals  2. Toy Car (use of an electrical circuit)                                                      |
 | Sec 2 |     1    |  1. Design Journals  2. Pull Toy (use of linkages)  3. Automata (use of mechanisms)  4. Participation in the Automata Competition organized by the Singapore Polytechnic |
-  
+ 
 ![](/images/Curriculum/Craft%20and%20Technology/Design%20&%20Technology/D1.png)
 
   

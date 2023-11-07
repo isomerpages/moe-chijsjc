@@ -13,8 +13,6 @@ figcaption {
 }
 	</style>
 
-![](/images/Curriculum/Humanities/humanities%20department.jpg)
-
 #### **Our Objectives**
 
 *   To inspire the passion for Humanities in students and help them understand the interconnectedness of Singapore and the world and relevance in their learning.

@@ -5,6 +5,15 @@ description: ""
 third_nav_title: Applied Subjects
 variant: markdown
 ---
+<style type="text/css">
+figcaption 
+{
+text-align:center;
+font-style: italic;
+font-size:16px;
+}
+</style>
+
 #### **Our Objectives**
 
 
@@ -51,14 +60,6 @@ In 2022, a team of Sec 2 students clinched the 1st Prize in the Automata Categor
 
 In 2023, another team of Sec 2 students clinched the 1st Prize in the Automata Category with their unique ideas in Urban Farming!
 
-<style type="text/css">
-figcaption 
-{
-text-align:center;
-font-style: italic;
-font-size:16px;
-}
-</style>
 ![](/images/Curriculum/Craft%20and%20Technology/Design%20&amp;%20Technology/2023dnt1.jpg)
 <figcaption>The winning entry featuring the Automata in Urban Farming!
 </figcaption>

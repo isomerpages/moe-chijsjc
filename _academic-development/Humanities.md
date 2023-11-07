@@ -32,15 +32,15 @@ variant: markdown
 
 * NUS Geography Challenge (annual participation)
 * Fieldwork (Annual): Coastal Fieldwork @ East Coast Park (Pure Geography students), Tourism Fieldwork @ Chinatown/ Little India/ Merlion Park (Sec 3 Express /Normal Academic)
-* Learning Journeys (2023): URA and LTA Galleries (Sec 2)
+* Learning Journeys (2023): URA and LTA Gallery (Sec 2)
 
 ![](/images/Curriculum/Humanities/H1.png)
 
 ##### **History**
 
-*          Civic District Trail (Sec 1s)
-*          Learning Journey to Old Ford Factory Museum (Sec 2s)
-*          Historical Investigation – Stories of Nazi Germany (Sec 3s)
+* Civic District Trail (Sec 1s)
+* Learning Journey to Old Ford Factory Museum (Sec 2s)
+* Historical Investigation - Stories of Nazi Germany (Sec 3s)
 
 ![](/images/Curriculum/Humanities/H2.png)
 
@@ -52,12 +52,12 @@ variant: markdown
   
 
 ##### **Social Studies**
-
-*   Current Affairs Quiz (Monthly) for all levels
-*   Global Classroom Experience (Virtual Learning Journey to Thailand and Philippines) for Sec 1-3 students
-*   CPF Game On! Programme and Workshop for all Sec 3NA/ 3Exp students
-*   3Exp/3NA Issues Investigation: Singaporeans and Migrants
-*   Learning Journey to the Parliament House (2022)
+  
+* Current Affairs Quiz (Monthly) for all levels
+* Global Classroom Experience (Virtual Learning Journey to countries in ASEAN) for Sec 1-3 students
+* CPF Game On! Programme and Workshop for all Sec 3NA/ 3Exp students
+* Sec 3Exp/3NA Issues Investigation: What does citizenship mean to students?
+* S.U.R.E Programme- Combating Fake News by NLB (Assembly Programme)
 
 ![](/images/Curriculum/Humanities/H5.png)
 

@@ -3,9 +3,10 @@ title: CCE Curriculum
 permalink: /student-development/CCE/CCE-Curriculum/
 description: ""
 third_nav_title: CCE
+variant: markdown
 ---
 #### **OUR OBJECTIVE**
-To develop every student in SJC to become persons who will embrace the school values, be of strong character and are equipped to know and achieve their purpose in lives.  
+To develop every student in SJC to become persons who will embrace the school values, be of strong character and are equipped to know and achieve their purpose in life.  
 
 #### **OUR APPROACH**
 In preparation for our students to face the rapid and continuous changes in the world today, we aim to provide them with the means to manage their emotions and relationships with others, as well as to make responsible decisions. Our students need tenacity, courage and resilience to face the challenges ahead.   

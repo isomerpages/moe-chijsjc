@@ -2,8 +2,8 @@
 title: Science
 permalink: /academic/science/
 description: ""
+variant: markdown
 ---
-
 #### **Our Objectives**
 
 
@@ -18,15 +18,14 @@ description: ""
 #### **Our Approach**
 
 
-*   Our key focus is for students to gain a deeper appreciation for Science through experiential learning, with links to real-life scenarios and applications in STEAM context.
+*   Our key focus is for students to gain a deeper appreciation for Science through experiential learning, with links to real-life scenarios and applications in STEM context.
 *   Varied teaching methods and thinking routines, which are catered to our students’ learning needs, are used to engage them during daily lessons.
 
 #### **Our Programmes**
 
 
-The Science Enrichment Programme provides learning opportunities beyond the syllabus to expand the students’ perspectives and experiences. This includes the Chemistry, Biology and Physics Junior Olympiads; ignITE Skills Challenge; Learning Journeys; Science Workshops  
+The Science Enrichment Programme provides learning opportunities beyond the syllabus to expand the students’ perspectives and experiences. This includes the Chemistry, Biology and Physics Junior Olympiads, ignITE Skills Challenge, Learning Journeys and Science Workshops.  
 
 ![](/images/Curriculum/Science/S3.png)
 
 ![](/images/Curriculum/Science/S4.png)
-

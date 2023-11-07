@@ -3,27 +3,26 @@ title: Design & Technology
 permalink: /academic/applied/dnt/
 description: ""
 third_nav_title: Applied Subjects
+variant: markdown
 ---
-
-
 #### **Our Objectives**
 
 
-D&T prepares students for living and working in an ever-changing world by helping them recognise the need for new or modified products/systems. It gives students the capacity and confidence to design, make and evaluate the products/systems independently.  
+D&amp;T prepares students for living and working in an ever-changing world by helping them recognise the need for new or modified products/systems. It gives students the capacity and confidence to design, make and evaluate the products/systems independently.  
 
   
 
-The objectives of the D&T curriculum are as follow:
+The objectives of the D&amp;T curriculum are as follow:
 
 *   To engage the creative and inquisitive instinct of students by using design in problem-solving,
 *   To develop basic design thinking and communication skills,
 *   To allow students to realise their design through prototype making and
-*   To develop autonomous decision-makers
+*   To develop autonomous decision-makers.
 
 #### **Our Approach**
 
 
-The students embark on their design journey through projects during the two year course. Students advance their knowledge and skills by working side by side with their teachers who facilitate the process of designing solutions to a challenge or problem.  
+The students embark on their design journey through projects during the two- year course. Students advance their knowledge and skills by working side by side with their teachers who facilitate the process of designing solutions to a challenge or problem.  
 
 #### **Our Achievement**
 
@@ -32,12 +31,12 @@ In SJC, Lower Secondary students learn Design and Technology over the course of 
 
   
 
-|  Year | Semester |                                                                                 Projects                                                                                 |
-|:-----:|:--------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| Sec 1 |     2    |                                                       1. Design Journals  2. Toy Car (use of an electrical circuit)                                                      |
-| Sec 2 |     1    |  1. Design Journals  2. Pull Toy (use of linkages)  3. Automata (use of mechanisms)  4. Participation in the Automata Competition organized by the Singapore Polytechnic |
-  
-![](/images/Curriculum/Craft%20and%20Technology/Design%20&%20Technology/D1.png)
+| Year | Semester | Projects |
+| -------- | -------- | -------- |
+| Sec 1     |     2    |                                                       1. Design Journals <br>2. Toy Car (use of an electrical circuit)                                                      |
+| Sec 2 |     1    |  1. Design Journals  <br>2. Pull Toy (use of linkages) <br> 3. Automata (use of mechanisms)  <br>4. Participation in Engineering Challenge (Automata Category) organised by the Singapore Polytechnic |
+ 
+![](/images/Curriculum/Craft%20and%20Technology/Design%20&amp;%20Technology/D1.png)
 
   
 
@@ -49,4 +48,7 @@ Interested Secondary 2 students are selected to take part in the Toy Design Comp
 In 2022, a team of Sec 2 students clinched the 1st Prize in the Automata Category.
 
   
-![](/images/Curriculum/Craft%20and%20Technology/Design%20&%20Technology/D2.png)
+![](/images/Curriculum/Craft%20and%20Technology/Design%20&amp;%20Technology/D2.png)
+
+
+In 2023, another team of Sec 2 students clinched the 1st Prize in the Automata Category with their unique ideas in Urban Farming!

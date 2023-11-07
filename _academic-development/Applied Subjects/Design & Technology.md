@@ -61,7 +61,7 @@ font-size:14px;
 }
 </style>
 
-|![](/images/Curriculum/Craft%20and%20Technology/Design%20&amp;%20Technology/dnt%20automata1.jpeg)|![](/images/Curriculum/Craft%20and%20Technology/Design%20&amp;%20Technology/dnt%20automata%202.jpeg)|
+| ![](/images/Curriculum/Craft%20and%20Technology/Design%20&amp;%20Technology/dnt%20automata1.jpeg) | ![](/images/Curriculum/Craft%20and%20Technology/Design%20&amp;%20Technology/dnt%20automata%202.jpeg)  |
 |-|-|
 <figcaption>The winning entry featuring the Automata in Urban Farming!
 </figcaption>

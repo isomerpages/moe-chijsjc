@@ -9,7 +9,6 @@ figcaption
 {
 text-align:center;
 font-style: italic;
-font-size:16px;
 }
 </style>
 

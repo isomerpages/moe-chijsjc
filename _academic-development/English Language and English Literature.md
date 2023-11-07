@@ -4,6 +4,8 @@ permalink: /academic/ellit/
 description: ""
 variant: markdown
 ---
+![](/images/Curriculum/Eng%20Language%20and%20Literature/english%20_%20literature%20department.jpg)
+
 #### **Our Objectives**
 
 

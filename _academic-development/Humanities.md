@@ -49,8 +49,8 @@ variant: markdown
 ![](/images/Curriculum/Humanities/H3.png)
 
 ![](/images/Curriculum/Humanities/H4.png)
- 
 
+![](/images/Curriculum/Humanities/2023human3.jpg)
   
 
 ##### **Social Studies**
@@ -64,3 +64,7 @@ variant: markdown
 ![](/images/Curriculum/Humanities/H5.png)
 
 ![](/images/Curriculum/Humanities/H6.png)
+
+![](/images/Curriculum/Humanities/2023human2.jpg)
+
+![](/images/Curriculum/Humanities/2023human1.jpg)

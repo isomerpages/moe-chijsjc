@@ -38,21 +38,20 @@ variant: markdown
 
 ![](/images/Curriculum/Humanities/H1.png)
 
+![](/images/Curriculum/Humanities/2023human1.jpg)
+
 ##### **History**
 
 * Civic District Trail (Sec 1s)
 * Learning Journey to Old Ford Factory Museum (Sec 2s)
 * Historical Investigation - Stories of Nazi Germany (Sec 3s)
 
-![](/images/Curriculum/Humanities/H2.png)
-
-![](/images/Curriculum/Humanities/H3.png)
-
-![](/images/Curriculum/Humanities/H4.png)
+![](/images/Curriculum/Humanities/2023human2.jpg)
 
 ![](/images/Curriculum/Humanities/2023human3.jpg)
-  
 
+![](/images/Curriculum/Humanities/2023human4.jpg)
+  
 ##### **Social Studies**
   
 * Current Affairs Quiz (Monthly) for all levels
@@ -65,6 +64,4 @@ variant: markdown
 
 ![](/images/Curriculum/Humanities/H6.png)
 
-![](/images/Curriculum/Humanities/2023human2.jpg)
-
-![](/images/Curriculum/Humanities/2023human1.jpg)
+![](/images/Curriculum/Humanities/2023human5.jpg)

@@ -43,6 +43,7 @@ The Science Enrichment Programme provides learning opportunities beyond the syll
 |  |  |
 | -------- | -------- |
 |    ![](/images/Curriculum/Science/8599a867-001b-432c-aabc-f374a2f78d2e.JPG)  |    ![](/images/Curriculum/Science/4e3dd5a9-ed4c-4a48-9ae5-49bd7d5684e6%202.JPG)  |
+
 <figcaption> Students participating in Science Buskers, at their booth (right).
 	</figcaption>
 

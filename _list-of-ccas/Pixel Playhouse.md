@@ -2,6 +2,7 @@
 title: Pixel Playhouse
 permalink: /pixelplayhouse/
 description: ""
+variant: markdown
 ---
 ![](/images/CCA/2023/Pixel%20Playhouse/pixel%20playhouse.jpg)
 
@@ -29,10 +30,13 @@ At Pixel, we believe in working together to achieve a common goal and thus our v
 #### **CCA Information**
 
 **Schedule**        
-<br>Monday &amp; Wednesday: 3:45 pm – 6:15pm<br>
+<br>*Monday: 3:45 pm – 6:15pm<br>
+Wednesday: 3:45 pm – 6:15pm<br>
 
 **Teachers-in-charge**
 <br>Ms Tiffany Wee<br> Mr Mark Chan Chee Keong<br>Mr Samuel Tan<br>
+
+**Additional sessions during competition season.*
 
 #### **Achievements**
 

@@ -46,5 +46,5 @@ The Science Enrichment Programme provides learning opportunities beyond the syll
 
 
 
-<figcaption> Students participating in Science Buskers, at their booth (right).
+<figcaption> Our Secondary 2 students clinched the People's Choice Award in the final round of the Singapore Science Buskers Competition (2023).
 	</figcaption>

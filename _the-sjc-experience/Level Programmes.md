@@ -48,7 +48,7 @@ Here are some highlights from the 2023 level camps, and how our girls benefitted
 | ![](/images/The%20SJC%20Experience/Level%20Programmes/lvlcamps3a.png)     |  ![](/images/The%20SJC%20Experience/Level%20Programmes/lvlcamps3b.png)    | 
 
 
-<figcaption>: To help the Sec 3 students cope with the changes in Upper Secondary, the Sec 3 camp focused on team-building and resilience through an exciting 3D2N adventure in the outdoors.
+<figcaption>To help the Sec 3 students cope with the changes in Upper Secondary, the Sec 3 camp focused on team-building and resilience through an exciting 3D2N adventure in the outdoors.
 </figcaption>
 
 <br>

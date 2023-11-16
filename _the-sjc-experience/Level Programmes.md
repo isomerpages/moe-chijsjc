@@ -4,6 +4,14 @@ permalink: /sjcexperience/level-programmes/
 description: ""
 variant: markdown
 ---
+<style type="text/css">
+figcaption 
+{
+text-align:center;
+font-style: italic;
+}
+</style>
+
 Outside of lessons, all SJCians can look forward to a wide range of school activities as part of their holistic development. 
 
 These programmes are planned to develop positive character traits, create shared memories and foster school spirit. Cohort-wide activities also cater to the girls' needs and interests according to the stage of their school journey:

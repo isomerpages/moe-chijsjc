@@ -31,7 +31,7 @@ Here are some highlights from the 2023 level camps, and how our girls benefitted
 <figcaption>Our Sec 1 girls traded their classrooms for three days of adventure and fun in the outdoors. From hiking, kayaking to outdoor cooking, the activities helped our girls grow in self-confidence and resilience.
 </figcaption>
 
-
+<br>
 
 |  |  | 
 | -------- | -------- | 
@@ -40,3 +40,24 @@ Here are some highlights from the 2023 level camps, and how our girls benefitted
 <figcaption>Sec 2 students learnt more about teamwork and creativity through a series of hands-on challenges in school and various places of interest around Singapore. 
 </figcaption>
 
+<br>
+
+
+|  |  |
+| -------- | -------- | 
+| ![](/images/The%20SJC%20Experience/Level%20Programmes/lvlcamps3a.png)     |  ![](/images/The%20SJC%20Experience/Level%20Programmes/lvlcamps3b.png)    | 
+
+
+<figcaption>: To help the Sec 3 students cope with the changes in Upper Secondary, the Sec 3 camp focused on team-building and resilience through an exciting 3D2N adventure in the outdoors.
+</figcaption>
+
+<br>
+
+
+
+|  | | 
+| -------- | -------- | 
+| ![](/images/The%20SJC%20Experience/Level%20Programmes/lvlcamps4a.png)     |  ![](/images/The%20SJC%20Experience/Level%20Programmes/lvlcamps4b.png)   | 
+
+<figcaption>Aspirations Experience prepares our Sec 4/5 girls for their next steps after SJC - including learning journeys, games and interview skills workshops to help them reflect on their strengths and goals for the future.
+</figcaption>

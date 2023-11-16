@@ -40,13 +40,20 @@ In addition, all students take part in **Passion Ignite** as part of ECG. This i
 
 Students have many opportunities to explore their interests, discover their strengths, broaden their exposure, and learn about different career pathways through hands-on sessions, learning journeys, workshops, talks or roadshows conducted with PSEIs and industry partners. Besides picking up knowledge and skills, students also get to interact with industry experts and gain an idea of in-demand skills in the real-world. These learning experiences complement school-based ECG activities to support students in making informed education and career choices.
 
-|||
-|-|-|
-|||
+||||
+|-|-|-|
+|![](/images/Student%20Development/Education%20and%20Career%20Guidance/Fun_with_AI_Robot.jpg)|![](/images/Student%20Development/Education%20and%20Career%20Guidance/leather_product.jpeg)|![](/images/Student%20Development/Education%20and%20Career%20Guidance/Build_Your_Own_Glider_1.jpg)|
+
+<figcaption>The Applied Learning Modules provide students a platform for the practical application of knowledge through experiences such as designing and making a leather product, making a glider, or making a robot.
+	</figcaption>
 
 ||||
 |-|-|-|
-||||
+|![](/images/Student%20Development/Education%20and%20Career%20Guidance/Roadshow.jpg)|![](/images/Student%20Development/Education%20and%20Career%20Guidance/Vertiveggies.jpeg)|![](/images/Student%20Development/Education%20and%20Career%20Guidance/Indigo_dying.jpeg)|
+
+<figcaption>Students exploring different education and career pathways through interaction with PSEIs and industry partners
+	</figcaption>
+
 
 #### **ECG COUNSELLING**
 

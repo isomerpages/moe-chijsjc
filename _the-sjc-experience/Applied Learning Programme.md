@@ -54,30 +54,16 @@ Similarly, students have the opportunity to engage in drama and the literary art
 <figcaption>Secondary 4 students enjoying a Shakespeare Classic play, Midsummer night’s dream at Fort Canning Park
 	</figcaption>
 
-|||
-|-|-|
-|||
+||||
+|-|-|-|
+|![](/images/Special%20Programmes/Applied%20Learning%20Programme/Fair_Play_1.jpg)|![](/images/Special%20Programmes/Applied%20Learning%20Programme/Fair_Play_2.jpeg)|![](/images/Special%20Programmes/Applied%20Learning%20Programme/Fair_Play_3.jpeg)|
 
 <figcaption>Secondary 2 student participating in the forum after watching the play, Fair Play
 	</figcaption>
 	
 |||
 |-|-|
-|||
+|![](/images/Special%20Programmes/Applied%20Learning%20Programme/EL_Lit_Day_1_.jpeg)|![](/images/Special%20Programmes/Applied%20Learning%20Programme/EL_Lit_Day.jpeg)|
 	
 <figcaption>Students working together to solve the mystery inspired by F451 during EL Lit Day
 	</figcaption>
-
-	
-	
-
-
-Wax Museum: Secondary 2 students showcasing the drama skills they learnt over the 2 day workshop
-
-987 School Invasion: Secondary 3 student trying out being a DJ with 987fm DJs
-
-Shakespeare in the Park: Secondary 4 students enjoying a Shakespeare Classic play, Midsummer night’s dream at Fort Canning Park&nbsp;
-
-Fair Play: Secondary 2 student participating in the forum after watching the play, Fair Play&nbsp;
-
-EL Lit Day: Students working together to solve the mystery inspired by F451 during EL Lit Day

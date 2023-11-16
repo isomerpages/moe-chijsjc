@@ -42,7 +42,7 @@ Students have many opportunities to explore their interests, discover their stre
 
 ||||
 |-|-|-|
-|![](/images/Student%20Development/Education%20and%20Career%20Guidance/Fun_with_AI_Robot.jpg)|![](/images/Student%20Development/Education%20and%20Career%20Guidance/leather_product.jpeg)|![](/images/Student%20Development/Education%20and%20Career%20Guidance/Build_Your_Own_Glider_1.jpg)|
+|![](/images/Student%20Development/Education%20and%20Career%20Guidance/Fun_with_AI_Robot.jpg)|![](/images/Student%20Development/Education%20and%20Career%20Guidance/leather_product.jpeg)|![](/images/Student%20Development/Education%20and%20Career%20Guidance/Build_Your_Own_Glider_2.jpg)
 
 <figcaption>The Applied Learning Modules provide students a platform for the practical application of knowledge through experiences such as designing and making a leather product, making a glider, or making a robot.
 	</figcaption>

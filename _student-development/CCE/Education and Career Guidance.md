@@ -40,6 +40,13 @@ In addition, all students take part in **Passion Ignite** as part of ECG. This i
 
 Students have many opportunities to explore their interests, discover their strengths, broaden their exposure, and learn about different career pathways through hands-on sessions, learning journeys, workshops, talks or roadshows conducted with PSEIs and industry partners. Besides picking up knowledge and skills, students also get to interact with industry experts and gain an idea of in-demand skills in the real-world. These learning experiences complement school-based ECG activities to support students in making informed education and career choices.
 
+|||
+|-|-|
+|![](/images/Student%20Development/Education%20and%20Career%20Guidance/Make_edible_spoon.jpeg)|![](/images/Student%20Development/Education%20and%20Career%20Guidance/Cosplaying.jpeg)|
+
+<figcaption>Making edible spoons and cosplaying as part of the Experience ITE Programme
+	</figcaption>
+
 ||||
 |-|-|-|
 |![](/images/Student%20Development/Education%20and%20Career%20Guidance/Fun_with_AI_Robot.jpg)|![](/images/Student%20Development/Education%20and%20Career%20Guidance/leather_product.jpeg)|![](/images/Student%20Development/Education%20and%20Career%20Guidance/Build_Your_Own_Glider_2.jpg)
@@ -49,7 +56,7 @@ Students have many opportunities to explore their interests, discover their stre
 
 ||||
 |-|-|-|
-|![](/images/Student%20Development/Education%20and%20Career%20Guidance/Roadshow.jpg)|![](/images/Student%20Development/Education%20and%20Career%20Guidance/Vertiveggies.jpeg)|![](/images/Student%20Development/Education%20and%20Career%20Guidance/Indigo_dying.jpeg)|
+|![](/images/Student%20Development/Education%20and%20Career%20Guidance/Vertiveggies.jpeg)|![](/images/Student%20Development/Education%20and%20Career%20Guidance/Indigo_dying.jpeg)|![](/images/Student%20Development/Education%20and%20Career%20Guidance/Roadshow.jpg)|
 
 <figcaption>Students exploring different education and career pathways through interaction with PSEIs and industry partners
 	</figcaption>

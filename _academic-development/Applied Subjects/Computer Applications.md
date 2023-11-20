@@ -5,6 +5,14 @@ description: ""
 third_nav_title: Applied Subjects
 variant: markdown
 ---
+<style type="text/css">
+figcaption 
+{
+text-align:center;
+font-style: italic;
+}
+</style>
+
 ##### **Our Objectives**
 
 
@@ -40,8 +48,13 @@ The use of gamification as a pedagogy helps to promote active learning and promo
  
 ![](/images/Curriculum/Craft%20and%20Technology/Computer%20Applications/C4.png)
   
+![](/images/Curriculum/Craft%20and%20Technology/Computer%20Applications/3A_Jermain___AGM_Gold_Award_2023.jpeg)
 
-**Our Accolades** 
+<figcaption>Recipient of the Gold Award at the AGM 2023
+	</figcaption>
+
+
+**Our Accolades**&nbsp;
 
 **Animation and Game Making (AGM) Competition 2023**
 

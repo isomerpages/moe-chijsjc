@@ -5,10 +5,15 @@ description: ""
 third_nav_title: Applied Subjects
 variant: markdown
 ---
-#### **Our Objectives**
+<style type="text/css">
+figcaption 
+{
+text-align:center;
+font-style: italic;
+}
+</style>
 
-
-The curriculum aims to provide students with the opportunity to develop foundational business knowledge, employability skills and values that are transferable over different areas of work for the future. It contextualizes these knowledge, skills and values within the travel and tourism, hospitality and retail sectors in Singapore.  
+The EBS curriculum aims to provide students with the opportunity to develop foundational business knowledge, employability skills and values that are transferable over different areas of work for the future. It contextualizes these knowledge, skills and values within the travel and tourism, hospitality and retail sectors in Singapore.  
 
   
 
@@ -40,3 +45,10 @@ To discover the relevance and application of EBS, the EBS programme involves the
 *   In 2023, the students went on a Learning Journey to JW Marriott@South Beach where they gained valuable insights into the hospitality industry, bringing their EBS learning to life.
     
 ![](/images/Curriculum/Elements%20of%20Business%20Skills/E1.png)
+
+|||
+|-|-|
+|![](/images/Curriculum/Elements%20of%20Business%20Skills/EBS_1.jpeg)|![](/images/Curriculum/Elements%20of%20Business%20Skills/ebs2.jpeg)|
+
+<figcaption>Learning Journey to JW Marriott@South Beach
+	</figcaption>

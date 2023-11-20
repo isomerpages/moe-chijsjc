@@ -4,7 +4,7 @@ permalink: /sjcexperience/llp/
 description: ""
 variant: markdown
 ---
-### ****Bringing L.I.G.H.T. To The Community****
+### **Bringing L.I.G.H.T. To The Community**
 
 In SJC, we develop every student to bring the L.I.G.H.T. into the communities that they are in through the VIA and Student Leadership programmes.
 

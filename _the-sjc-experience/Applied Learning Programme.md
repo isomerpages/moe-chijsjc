@@ -4,6 +4,14 @@ permalink: /sjcexperience/alp/
 description: ""
 variant: markdown
 ---
+<style type="text/css">
+figcaption 
+{
+text-align:center;
+font-style: italic;
+}
+</style>
+
 ### **The Art of Communication through Theatre and Debates**
 
 Experience. Create. Communicate. SJC’s ALP is a two-tiered approach that nurtures communication and critical thinking skills in all students through exposure to theatre and debates in their English Language, Mother Tongue and Literature curriculum. Interested students will also have the opportunity to deepen their skills via Centrestage, our Drama and Debate Co-Curricular Activity, and Literature as an Upper Secondary subject.
@@ -20,10 +28,42 @@ In upper secondary, debates and inquiry through dialogues are approaches used to
 
 Similarly, students have the opportunity to engage in drama and the literary arts in their Mother Tongue Languages. The biennial Voice of SJC singing competition, for example, entices students to learn more about the beauty of the Chinese Language through exploration of popular song lyrics. Participating in literary cultural workshops, exhibitions and learning journeys to watch plays or musicals staged in Chinese, Malay and Tamil helps to deepen students’ appreciation and use of their Mother Tongue Languages beyond the classroom.
 
-![](/images/Special%20Programmes/Applied%20Learning%20Programme/A1.png)
-
-![](/images/Special%20Programmes/Applied%20Learning%20Programme/A2.png)
-
 ![](/images/Special%20Programmes/Applied%20Learning%20Programme/A3.png)
 
 ![](/images/Special%20Programmes/Applied%20Learning%20Programme/A4.png)
+
+
+|||
+|-|-|
+|![](/images/Special%20Programmes/Applied%20Learning%20Programme/Wax_museum_1.JPEG)|![](/images/Special%20Programmes/Applied%20Learning%20Programme/Wax_museum_2.JPEG)|
+
+<figcaption>Secondary 2 students showcasing the drama skills they learnt over the 2 day workshop
+	</figcaption>
+	
+|||
+|-|-|
+|![](/images/Special%20Programmes/Applied%20Learning%20Programme/987__1_.jpeg)|![](/images/Special%20Programmes/Applied%20Learning%20Programme/987__2_.jpeg)|
+
+<figcaption>Secondary 3 student trying out being a DJ with 987fm DJs
+	</figcaption>
+
+|||
+|-|-|
+|![](/images/Special%20Programmes/Applied%20Learning%20Programme/Shakespeare_1.jpeg)|![](/images/Special%20Programmes/Applied%20Learning%20Programme/Shakespeare_2.jpeg)|
+
+<figcaption>Secondary 4 students enjoying a Shakespeare Classic play, Midsummer night’s dream at Fort Canning Park
+	</figcaption>
+
+||||
+|-|-|-|
+|![](/images/Special%20Programmes/Applied%20Learning%20Programme/Fair_Play_1.jpg)|![](/images/Special%20Programmes/Applied%20Learning%20Programme/Fair_Play_2.jpeg)|![](/images/Special%20Programmes/Applied%20Learning%20Programme/Fair_Play_3.jpeg)|
+
+<figcaption>Secondary 2 student participating in the forum after watching the play, Fair Play
+	</figcaption>
+	
+|||
+|-|-|
+|![](/images/Special%20Programmes/Applied%20Learning%20Programme/EL_Lit_Day_1_.jpeg)|![](/images/Special%20Programmes/Applied%20Learning%20Programme/EL_Lit_Day.jpeg)|
+	
+<figcaption>Students working together to solve the mystery inspired by F451 during EL Lit Day
+	</figcaption>

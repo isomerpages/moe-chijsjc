@@ -13,7 +13,7 @@ font-style: italic;
 }
 </style>
 
-The curriculum aims to provide students with the opportunity to develop foundational business knowledge, employability skills and values that are transferable over different areas of work for the future. It contextualizes these knowledge, skills and values within the travel and tourism, hospitality and retail sectors in Singapore.  
+The EBS curriculum aims to provide students with the opportunity to develop foundational business knowledge, employability skills and values that are transferable over different areas of work for the future. It contextualizes these knowledge, skills and values within the travel and tourism, hospitality and retail sectors in Singapore.  
 
   
 

@@ -66,7 +66,7 @@ Whenever opportunities arise, selected students will be enrolled in Math competi
 
 (c) All Singapore Secondary Mathematics Competition for Normal Course Students
 
-![](/images/Curriculum/Mathematics/_Singapore_Mathematical_Olympiad__Proud_achievements_.jpeg)
+![](/images/Curriculum/Mathematics/SMO_2023.jpeg)
 
 <figcaption>Prize recipients of the SMO 2023 Competition
 	</figcaption>

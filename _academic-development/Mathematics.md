@@ -41,7 +41,7 @@ For the lower secondary level, some students are offered Maths Subject Based Ban
   
 At the upper secondary level, Additional Mathematics is offered to students who have an aptitude and interest in Mathematics to acquire mathematical concepts and skills for higher studies in Mathematics and to support learning in the other subjects, in particular, the sciences.
 
- ##### **Enrichment Programme**
+#####  **Enrichment Programme**
 
 *   To complement the content of Mathematics taught in the classroom, enrichment activities are organised for our students to help them discover new things about their communities, sharpen their mathematical thinking and provide a platform for them to apply their mathematical skills to solving problems in the real world. These activities also aim to cultivate in students an interest and passion for Mathematics.
 

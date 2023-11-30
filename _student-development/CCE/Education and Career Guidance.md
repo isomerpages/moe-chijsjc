@@ -37,7 +37,7 @@ In addition, all students take part in **Passion Ignite** as part of ECG. This i
 
 
 |  | 
-| -------- |
+|-|
 | ![](/images/Student%20Development/Education%20and%20Career%20Guidance/SIL.png)  | 
 <figcaption>The SIL Showcase provides students a platform to present their Passion Ignite journey and develop them as confident communicators.</figcaption>
 
@@ -61,7 +61,7 @@ Students have many opportunities to explore their interests, discover their stre
 	</figcaption>
 
 ||
-|-
+|-|
 |![](/images/Student%20Development/Education%20and%20Career%20Guidance/ECG3a.jpg)|
 
 <figcaption>Students exploring different education and career pathways through interaction with PSEIs and industry partners.

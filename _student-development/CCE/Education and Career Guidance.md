@@ -32,7 +32,7 @@ In SJC, ECG aims to:
 #### **HIGHLIGHTS OF ECG @ SJC**
 ![](/images/Student%20Development/Education%20and%20Career%20Guidance/ecg.png)
 
-In addition, all students take part in **Passion Ignite** as part of ECG. This is dedicated time for them to carry out their student-initiated learning (SIL) on Home-Based Learning (HBL) days for them to pursue their own interests and learn outside the curriculum. Students can use the time to pick up knowledge or skills to delve deeper into their areas of interest, or explore areas they are curious about to broaden their exposure. Selected students will present and share their Passion Ignite journey at SIL Showcase. Through this, we hope to encourage students to become self-directed and lifelong learners.
+In addition, all students take part in **Passion Ignite** as part of ECG. This is dedicated time for them to carry out their Student-Initiated Learning (SIL) on Home-Based Learning (HBL) days for them to pursue their own interests and learn outside the curriculum. Students can use the time to pick up knowledge or skills to delve deeper into their areas of interest, or explore areas they are curious about to broaden their exposure. Selected students will present and share their Passion Ignite journey at SIL Showcase. Through this, we hope to encourage students to become self-directed and lifelong learners.
 
 ![](/images/Student%20Development/Education%20and%20Career%20Guidance/SIL_showcase.jpg)
 

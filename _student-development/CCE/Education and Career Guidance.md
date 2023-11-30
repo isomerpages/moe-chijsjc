@@ -34,15 +34,22 @@ In SJC, ECG aims to:
 
 In addition, all students take part in **Passion Ignite** as part of ECG. This is dedicated time for them to carry out their Student-Initiated Learning (SIL) on Home-Based Learning (HBL) days for them to pursue their own interests and learn outside the curriculum. Students can use the time to pick up knowledge or skills to delve deeper into their areas of interest, or explore areas they are curious about to broaden their exposure. Selected students will present and share their Passion Ignite journey at SIL Showcase. Through this, we hope to encourage students to become self-directed and lifelong learners.
 
-![](/images/Student%20Development/Education%20and%20Career%20Guidance/SIL_showcase.jpg)
+
+
+|  | 
+| -------- |
+| ![](/images/Student%20Development/Education%20and%20Career%20Guidance/SIL.png)  | 
+<figcaption>The SIL Showcase provides students a platform to present their Passion Ignite journey and develop them as confident communicators.</figcaption>
+
+
 
 #### **LEARNING AND EXPLORING WITH PARTNERS**
 
 Students have many opportunities to explore their interests, discover their strengths, broaden their exposure, and learn about different career pathways through hands-on sessions, learning journeys, workshops, talks or roadshows conducted with PSEIs and industry partners. Besides picking up knowledge and skills, students also get to interact with industry experts and gain an idea of in-demand skills in the real-world. These learning experiences complement school-based ECG activities to support students in making informed education and career choices.
 
-|||
-|-|-|
-|![](/images/Student%20Development/Education%20and%20Career%20Guidance/Make_edible_spoon.jpeg)|![](/images/Student%20Development/Education%20and%20Career%20Guidance/Cosplaying.jpeg)|
+||
+|-|
+|
 
 <figcaption>Making edible spoons and cosplaying as part of the Experience ITE Programme
 	</figcaption>

@@ -32,33 +32,39 @@ In SJC, ECG aims to:
 #### **HIGHLIGHTS OF ECG @ SJC**
 ![](/images/Student%20Development/Education%20and%20Career%20Guidance/ecg.png)
 
-In addition, all students take part in **Passion Ignite** as part of ECG. This is dedicated time for them to carry out their student-initiated learning (SIL) on Home-Based Learning (HBL) days for them to pursue their own interests and learn outside the curriculum. Students can use the time to pick up knowledge or skills to delve deeper into their areas of interest, or explore areas they are curious about to broaden their exposure. Selected students will present and share their Passion Ignite journey at SIL Showcase. Through this, we hope to encourage students to become self-directed and lifelong learners.
+In addition, all students take part in **Passion Ignite** as part of ECG. This is dedicated time for them to carry out their Student-Initiated Learning (SIL) on Home-Based Learning (HBL) days for them to pursue their own interests and learn outside the curriculum. Students can use the time to pick up knowledge or skills to delve deeper into their areas of interest, or explore areas they are curious about to broaden their exposure. Selected students will present and share their Passion Ignite journey at SIL Showcase. Through this, we hope to encourage students to become self-directed and lifelong learners.
 
-![](/images/Student%20Development/Education%20and%20Career%20Guidance/SIL_showcase.jpg)
+
+
+|  | 
+| -------- |
+| ![](/images/Student%20Development/Education%20and%20Career%20Guidance/SIL.png)  | 
+<figcaption>The SIL Showcase provides students a platform to present their Passion Ignite journey and develop them as confident communicators.</figcaption>
+
+
 
 #### **LEARNING AND EXPLORING WITH PARTNERS**
 
 Students have many opportunities to explore their interests, discover their strengths, broaden their exposure, and learn about different career pathways through hands-on sessions, learning journeys, workshops, talks or roadshows conducted with PSEIs and industry partners. Besides picking up knowledge and skills, students also get to interact with industry experts and gain an idea of in-demand skills in the real-world. These learning experiences complement school-based ECG activities to support students in making informed education and career choices.
 
-|||
-|-|-|
-|![](/images/Student%20Development/Education%20and%20Career%20Guidance/Make_edible_spoon.jpeg)|![](/images/Student%20Development/Education%20and%20Career%20Guidance/Cosplaying.jpeg)|
+||
+|-|
+|![](/images/Student%20Development/Education%20and%20Career%20Guidance/ECG1a.jpg)|
 
-<figcaption>Making edible spoons and cosplaying as part of the Experience ITE Programme
+<figcaption>Making edible spoons and cosplaying as part of the Experience ITE Programme. Exploring interests at WorldSkills ASEAN 2023</figcaption>
+
+||
+|-|
+|![](/images/Student%20Development/Education%20and%20Career%20Guidance/ECG2a.jpg)|
+
+<figcaption>The Applied Learning Modules provide students a platform for the practical application of knowledge through experiences such as designing and making a leather product,making a robot, making a glider, or conducting chemistry experiments.
 	</figcaption>
 
-||||
-|-|-|-|
-|![](/images/Student%20Development/Education%20and%20Career%20Guidance/Fun_with_AI_Robot.jpg)|![](/images/Student%20Development/Education%20and%20Career%20Guidance/leather_product.jpeg)|![](/images/Student%20Development/Education%20and%20Career%20Guidance/Build_Your_Own_Glider_2.jpg)
+||
+|-
+|![](/images/Student%20Development/Education%20and%20Career%20Guidance/ECG3a.jpg)|
 
-<figcaption>The Applied Learning Modules provide students a platform for the practical application of knowledge through experiences such as designing and making a leather product, making a glider, or making a robot.
-	</figcaption>
-
-||||
-|-|-|-|
-|![](/images/Student%20Development/Education%20and%20Career%20Guidance/Vertiveggies.jpeg)|![](/images/Student%20Development/Education%20and%20Career%20Guidance/Indigo_dying.jpeg)|![](/images/Student%20Development/Education%20and%20Career%20Guidance/Roadshow.jpg)|
-
-<figcaption>Students exploring different education and career pathways through interaction with PSEIs and industry partners
+<figcaption>Students exploring different education and career pathways through interaction with PSEIs and industry partners.
 	</figcaption>
 
 
@@ -71,4 +77,4 @@ Keen to have a chat with our ECG Counsellor? Make an appointment [here](https://
   
 ##### **ECG RESOURCES**
 
-**Visit this page ([https://linktr.ee/sjcecg](https://linktr.ee/sjcecg)) for useful links and resources.**
+Visit this page ([https://linktr.ee/sjcecg](https://linktr.ee/sjcecg)) for useful links and resources.

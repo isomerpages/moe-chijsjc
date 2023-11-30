@@ -49,10 +49,9 @@ Students have many opportunities to explore their interests, discover their stre
 
 ||
 |-|
-|
+|![](/images/Student%20Development/Education%20and%20Career%20Guidance/ECG1a.jpg)|
 
-<figcaption>Making edible spoons and cosplaying as part of the Experience ITE Programme
-	</figcaption>
+<figcaption>Making edible spoons and cosplaying as part of the Experience ITE Programme. Exploring interests at WorldSkills ASEAN 2023</figcaption>
 
 ||||
 |-|-|-|

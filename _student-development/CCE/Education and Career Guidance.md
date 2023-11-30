@@ -77,4 +77,4 @@ Keen to have a chat with our ECG Counsellor? Make an appointment [here](https://
   
 ##### **ECG RESOURCES**
 
-**Visit this page ([https://linktr.ee/sjcecg](https://linktr.ee/sjcecg)) for useful links and resources.**
+Visit this page ([https://linktr.ee/sjcecg](https://linktr.ee/sjcecg)) for useful links and resources.

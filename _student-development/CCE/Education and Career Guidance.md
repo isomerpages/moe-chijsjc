@@ -60,11 +60,11 @@ Students have many opportunities to explore their interests, discover their stre
 <figcaption>The Applied Learning Modules provide students a platform for the practical application of knowledge through experiences such as designing and making a leather product,making a robot, making a glider, or conducting chemistry experiments.
 	</figcaption>
 
-||||
-|-|-|-|
-|![](/images/Student%20Development/Education%20and%20Career%20Guidance/Vertiveggies.jpeg)|![](/images/Student%20Development/Education%20and%20Career%20Guidance/Indigo_dying.jpeg)|![](/images/Student%20Development/Education%20and%20Career%20Guidance/Roadshow.jpg)|
+||
+|-
+|![](/images/Student%20Development/Education%20and%20Career%20Guidance/ECG3a.jpg)|
 
-<figcaption>Students exploring different education and career pathways through interaction with PSEIs and industry partners
+<figcaption>Students exploring different education and career pathways through interaction with PSEIs and industry partners.
 	</figcaption>
 
 

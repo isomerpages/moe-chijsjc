@@ -53,11 +53,11 @@ Students have many opportunities to explore their interests, discover their stre
 
 <figcaption>Making edible spoons and cosplaying as part of the Experience ITE Programme. Exploring interests at WorldSkills ASEAN 2023</figcaption>
 
-||||
-|-|-|-|
-|![](/images/Student%20Development/Education%20and%20Career%20Guidance/Fun_with_AI_Robot.jpg)|![](/images/Student%20Development/Education%20and%20Career%20Guidance/leather_product.jpeg)|![](/images/Student%20Development/Education%20and%20Career%20Guidance/Build_Your_Own_Glider_2.jpg)
+||
+|-|
+|![](/images/Student%20Development/Education%20and%20Career%20Guidance/ECG2a.jpg)|
 
-<figcaption>The Applied Learning Modules provide students a platform for the practical application of knowledge through experiences such as designing and making a leather product, making a glider, or making a robot.
+<figcaption>The Applied Learning Modules provide students a platform for the practical application of knowledge through experiences such as designing and making a leather product,making a robot, making a glider, or conducting chemistry experiments.
 	</figcaption>
 
 ||||

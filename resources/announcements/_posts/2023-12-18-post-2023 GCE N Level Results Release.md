@@ -7,4 +7,4 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Dear Parents and Students,</p><p>Please refer to the <a href="/files/Useful Links/Parents/2023_N_Level_Briefing_Slides_Upload.pdf" rel="noopener noreferrer nofollow" target="_blank">2023 N Level Briefing slides</a> for important information on applications and admissions.</p><p>Thank you and all the best.</p>
+<p>Dear Parents and Students,</p><p>Please refer to the slides for important information on applications and admissions.</p><ul data-tight="true" class="tight"><li><p><a href="/files/Useful Links/Parents/2023_N_Level_Briefing_Slides_Upload.pdf" rel="noopener noreferrer nofollow" target="_blank">2023 N Level Briefing Slides</a></p></li></ul><p>Thank you and all the best.</p>

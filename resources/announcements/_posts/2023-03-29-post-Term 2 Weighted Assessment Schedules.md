@@ -5,6 +5,7 @@ date: 2023-03-29
 layout: post
 description: ""
 image: ""
+variant: tiptap
 ---
 Dear SJCians and Parents,
 

@@ -16,14 +16,15 @@ sections:
           description: Check what's coming up
           url: /sjc-calendar
   - infopic:
-      title: E-Open House 2023
-      subtitle: For P6 students and parents
+      title: Secondary 1 Registration
+      subtitle: For Sec 1 2024 students
       id: infopic
-      description: Learn more about SJC online and visit us in person. Sign up for our
-        school tours here!
-      button: Explore
-      url: https://go.gov.sg/chijsjc-openhouse
-      image: /images/motd1-small.png
+      description: |-
+        Welcome to the SJC family! 
+        Here's all you need to know to get ready for school.
+      button: Start your journey
+      url: https://sites.google.com/moe.edu.sg/chij-sjc-2023/home
+      image: /images/Picture2.png
       alt: Image alt text
   - resources:
       title: News and Announcements

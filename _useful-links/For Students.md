@@ -2,6 +2,7 @@
 title: For Students
 permalink: /useful-links/students/
 description: ""
+variant: markdown
 ---
 #### **ACADEMIC MATTERS**
 
@@ -18,7 +19,7 @@ description: ""
 #### **ICT MATTERS**
 * **Student Accounts**
 > * [iCON Login](https://workspace.google.com/dashboard)
-> * [Request password / Reset for iCON or Windows Login](https://forms.moe.edu.sg/forms/J2zrwJ)
+> * [Request password / Reset for iCON or Windows Login](https://form.gov.sg/658cb72e34123000115fcb83)
 > * [MIMS Student Self Service Password Reset Guide](/files/Useful%20Links/Students/Students/mims%20student%20self%20service%20password%20reset%20guide.pdf)
 * **ICT Resources and Guides**
 > * [PDLP Resource Site for Students](https://sites.google.com/moe.edu.sg/chijsjcpdlp/for-student?authuser=0)

@@ -1,0 +1,15 @@
+collections:
+  the-sjc-experience:
+    output: true
+    order:
+      - Our CCAs/.keep
+      - Our CCAs/CCA Overview.md
+      - Our CCAs/Clubs and Societies.md
+      - Our CCAs/Performing Arts.md
+      - Our CCAs/Physical Sports.md
+      - Our CCAs/Uniformed Groups.md
+      - Applied Learning Programme.md
+      - Learning for Life Programme.md
+      - Student Leadership Development.md
+      - Level Programmes.md
+      - Journeying Together.md

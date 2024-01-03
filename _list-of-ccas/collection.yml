@@ -1,0 +1,24 @@
+collections:
+  list-of-ccas:
+    output: true
+    order:
+      - Angklung and Kulintang Ensemble.md
+      - Badminton.md
+      - CentreStage (Drama & Debates).md
+      - CHIJ Youth Mission.md
+      - Choir.md
+      - Concert Band.md
+      - Culinary Arts Club.md
+      - Fencing.md
+      - Girl Guides.md
+      - Guitar Ensemble.md
+      - Handbell Ensemble.md
+      - Modern Dance.md
+      - National Police Cadet Corps (NPCC).md
+      - Netball.md
+      - Pixel Playhouse.md
+      - Shooting.md
+      - Sports Club.md
+      - St John Brigade.md
+      - Table Tennis.md
+      - Volleyball.md

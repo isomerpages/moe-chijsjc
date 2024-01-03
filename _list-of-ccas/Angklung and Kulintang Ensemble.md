@@ -1,0 +1,43 @@
+---
+title: Angklung and Kulintang Ensemble
+permalink: /angklung/
+description: ""
+variant: markdown
+---
+![](/images/CCA/2023/Angklung%20and%20Kulintang/angklung%20and%20kulintang%20ensemble.jpg)
+
+#### **About**
+The CHIJ SJC Angklung &amp; Kulintang Ensemble “Plays Together, Shakes as One”.&nbsp; The CCA is made up of a team of young and talented individuals who play a range of instruments, including several angklungs on a rack at the same time, to create harmonic musical pieces.
+
+Members are expected to uphold the standards established to produce high quality music during practice sessions &amp; performances. These experiences emphasise the development of discipline, commitment, confidence, teamwork and care for each other.&nbsp; Together, the Angklung family strives to give our best to every performance as we work hard and cultivate a passion for the CCA.
+
+#### **Objectives**
+*   To nurture in members an appreciation for the performing arts through the development and application of skills of angklung and kulintang as a musical instrument.
+
+*   To develop students’ leadership potential, discipline, confidence, resilience and team spirit through training sessions and performances.
+
+#### **Activities**
+* Competitions (e.g. Singapore Youth Festival Arts Presentation)
+* Performing for Internal and External Events
+* Developing musicianship of each performer
+* Team Building Games
+* Circle Sessions for Reflection
+
+#### **CCA Information**
+**Schedule**        
+<br>Monday: 3:45 pm – 6:00pm 
+<br>Thursday: 3:45 pm – 6:15 pm<br>
+
+**Teachers-in-charge**
+<br>Ms Nurul Ain Sakina Bte Soonaan
+<br>Ms Hafifah Binte Mohd Hafiz Tan<br>
+
+
+#### **Achievements**
+
+| Year |   Name of Competition | Division/Category | Achievement |
+| ---------- | ---------- | ---------- | ---------- |
+| 2023    | Singapore Youth Festival Arts Presentation     | Angklung &amp; Kulintang     | Certificate of Accomplishment |
+| 2021    | Singapore Youth Festival Arts Presentation     | Angklung &amp; Kulintang     | Certificate of Distinction |
+
+![](/images/CCA/2023/Angklung%20and%20Kulintang/picture1.jpg)

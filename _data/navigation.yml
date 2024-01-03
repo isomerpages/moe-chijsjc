@@ -1,0 +1,12 @@
+logo: /images/Homepage/CHIJ Crest 2014_clear background_PNG format_2014.png
+links:
+  - title: About us
+    collection: about-us
+  - title: The SJC Experience
+    collection: the-sjc-experience
+  - title: Academic Development
+    collection: academic-development
+  - title: Student Development
+    collection: student-development
+  - title: Useful Links & Resources
+    collection: useful-links

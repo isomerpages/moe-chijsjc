@@ -1,0 +1,24 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Our IJ Heritage/.keep
+      - Our IJ Heritage/Our Founder & Patron.md
+      - Our IJ Heritage/IJ Board of Management.md
+      - Our IJ Heritage/School Crest & Mission.md
+      - SJC Identity/.keep
+      - SJC Identity/School Vision and Values.md
+      - SJC Identity/School History.md
+      - SJC Identity/School Flag and Song.md
+      - Our People/.keep
+      - Our People/School Management Team.md
+      - Our People/Teaching Staff.md
+      - Our People/Non Teaching Staff.md
+      - Our Community/.keep
+      - Our Community/SJC Parent Support Group (PSG).md
+      - Our Community/PSG Activities and Events.md
+      - Our Community/SJC Alumnae (SJCA).md
+      - School Achievements/.keep
+      - School Achievements/Organisational Achievements.md
+      - School Achievements/Student Awards.md
+      - Contact Us.md

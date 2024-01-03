@@ -3,49 +3,6 @@ title: Non Teaching Staff
 permalink: /about-us/Our-People/Non-Teaching-Staff/
 description: ""
 third_nav_title: Our People
+variant: tiptap
 ---
-#### **Administration**
-
-|                   Name                   |           Designation          |
-|:----------------------------------------:|:------------------------------:|
-| Ms Yin Zhenwei Joyce                     | Administration Manager  |
-| Ms Lee Janice                            |  Administration Executive      |
-| Ms Stacy Ong Bee Lay                     | Corporate Support Officer      |
-| Ms Azuliana Bte Mohamad                  | Corporate Support Officer      |
-| Mdm Irene Low Tuan Kheng                 | Operations Support Officer     |
-| Mdm Zahrah Bte Abdul Rahman              | Operations Support Officer     |
-| Miss Eu Ai Ling                          | Technical Support Officer      |
-| Mdm Diana Lim Chor Sim                   | Technical Support Officer      |
-| Mr Anuwar Bin Kamis                      | Technical Support Officer      |
-| Ms Koh Suat Hoon | ICT Manager                  |
-| Mr Muhammad Khairulhafiz bin Abdul Karim                         | ICT Associate                    |
-| Miss Dania Darwisyah Binte Mohamed Aslam | Receptionist                   |
-
-#### **Operations**
-
-|            Name           |         Designation        |
-|:-------------------------:|:--------------------------:|
-| Ms Shepherdson Theresa    | Operations Manager         |
-| Mr Soon Chai Loong        | Operations Manager         |
-| Mdm Lim Sai Gek           | Operations Support Officer |
-| Mr Yeo Boon Seng          | Operations Support Officer |
-| Mdm R Thavamani D/O Raman | Operations Support Officer |
-| Mdm Kalimuthu Asothamma   | Operations Support Officer |
-
-#### **Allied Educators (AED) and Education Support**
-
-|           Name          |                  Designation                  |
-|:-----------------------:|:---------------------------------------------:|
-| Mrs Dolly Khemani | Senior School Counsellor               |
-| Mdm Trudy Lau Chao Keng    | Flexi-Adjunct School Counsellor                      |
-|Ms Dhivyaa V Loganathan | Flexi-Adjunct School Counsellor |
-| Mrs Chloe Chua          | Student Welfare Officer (SWO)                 |
-| Ms Pan Miao Hua         |  Education & Career Guidance (ECG) Counsellor |
-| Ms How Fang Qi          | SEN Officer                                   |
-
-#### **Other Support Staff**
-
-|           Name          |                  Designation                 |
-|:-----------------------:|:--------------------------------------------:|
-| Mr Muhammad Hafiz Bin Jelani |    Desktop Engineer       |
-| Mdm Rosmawati Binte Salim      | OSO|
+<h4><strong>Administration</strong></h4><table><tbody><tr><th rowspan="1" colspan="1"><p>Name</p></th><th rowspan="1" colspan="1"><p>Designation</p></th></tr><tr><td rowspan="1" colspan="1"><p>Ms Yin Zhenwei Joyce</p></td><td rowspan="1" colspan="1"><p>Administration Manager</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Lee Janice</p></td><td rowspan="1" colspan="1"><p>Administration Executive</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Stacy Ong Bee Lay</p></td><td rowspan="1" colspan="1"><p>Corporate Support Officer</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Azuliana Bte Mohamad</p></td><td rowspan="1" colspan="1"><p>Corporate Support Officer</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Irene Low Tuan Kheng</p></td><td rowspan="1" colspan="1"><p>Operations Support Officer</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Zahrah Bte Abdul Rahman</p></td><td rowspan="1" colspan="1"><p>Operations Support Officer</p></td></tr><tr><td rowspan="1" colspan="1"><p>Miss Eu Ai Ling</p></td><td rowspan="1" colspan="1"><p>Technical Support Officer</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Diana Lim Chor Sim</p></td><td rowspan="1" colspan="1"><p>Technical Support Officer</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Anuwar Bin Kamis</p></td><td rowspan="1" colspan="1"><p>Technical Support Officer</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Koh Suat Hoon</p></td><td rowspan="1" colspan="1"><p>ICT Manager</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Muhammad Khairulhafiz bin Abdul Karim</p></td><td rowspan="1" colspan="1"><p>ICT Associate</p></td></tr><tr><td rowspan="1" colspan="1"><p>Miss Dania Darwisyah Binte Mohamed Aslam</p></td><td rowspan="1" colspan="1"><p>Receptionist</p></td></tr></tbody></table><h4><strong>Operations</strong></h4><table><tbody><tr><th rowspan="1" colspan="1"><p>Name</p></th><th rowspan="1" colspan="1"><p>Designation</p></th></tr><tr><td rowspan="1" colspan="1"><p>Ms Shepherdson Theresa</p></td><td rowspan="1" colspan="1"><p>Operations Manager</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Soon Chai Loong</p></td><td rowspan="1" colspan="1"><p>Operations Manager</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Lim Sai Gek</p></td><td rowspan="1" colspan="1"><p>Operations Support Officer</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Yeo Boon Seng</p></td><td rowspan="1" colspan="1"><p>Operations Support Officer</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm R Thavamani D/O Raman</p></td><td rowspan="1" colspan="1"><p>Operations Support Officer</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Kalimuthu Asothamma</p></td><td rowspan="1" colspan="1"><p>Operations Support Officer</p></td></tr></tbody></table><h4><strong>Allied Educators (AED) and Education Support</strong></h4><table><tbody><tr><th rowspan="1" colspan="1"><p>Name</p></th><th rowspan="1" colspan="1"><p>Designation</p></th></tr><tr><td rowspan="1" colspan="1"><p>Mrs Dolly Khemani</p></td><td rowspan="1" colspan="1"><p>Senior School Counsellor</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Trudy Lau Chao Keng</p></td><td rowspan="1" colspan="1"><p>Flexi-Adjunct School Counsellor</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Dhivyaa V Loganathan</p></td><td rowspan="1" colspan="1"><p>Flexi-Adjunct School Counsellor</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms Pan Miao Hua</p></td><td rowspan="1" colspan="1"><p>Education &amp; Career Guidance (ECG) Counsellor</p></td></tr><tr><td rowspan="1" colspan="1"><p>Ms How Fang Qi</p></td><td rowspan="1" colspan="1"><p>SEN Officer</p></td></tr></tbody></table><h4><strong>Other Support Staff</strong></h4><table><tbody><tr><th rowspan="1" colspan="1"><p>Name</p></th><th rowspan="1" colspan="1"><p>Designation</p></th></tr><tr><td rowspan="1" colspan="1"><p>Mr Muhammad Hafiz Bin Jelani</p></td><td rowspan="1" colspan="1"><p>Desktop Engineer</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mr Muhammad Johan Bin Osman</p></td><td rowspan="1" colspan="1"><p>Desktop Engineer</p></td></tr><tr><td rowspan="1" colspan="1"><p>Mdm Rosmawati Binte Salim</p></td><td rowspan="1" colspan="1"><p>OSO</p></td></tr></tbody></table><p></p>

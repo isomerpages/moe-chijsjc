@@ -9,7 +9,7 @@ variant: markdown
 In SJC, we develop every student to bring the L.I.G.H.T. into the communities that they are in through the VIA and Student Leadership programmes.
 
 #### **OUR APPROACH**
-SJC has adopted the Community Problem Solving (CmPS) strategy, a component of The Future Problem Solving Model developed by Paul Torrance as the approach for our LLP which is implemented through Values-in-Action (VIA) experiences for all students. We have also adopted the 5 Practices of Exemplary Leadership as an approach for student leadership. The 5 Practices of Exemplary Leadership are cascaded down to each level.
+SJC uses the Learn-Act-Reflect cycle as the approach for our LLP which is implemented through Values in Action (VIA) and Student Leadership experiences for all students. We have also adopted the 5 Practices of Exemplary Leadership to equip all students with personal mastery commitment statements. The 5 Practices of Exemplary Leadership are cascaded down to each level.
 
 
 #### **OUR PROGRAMME**

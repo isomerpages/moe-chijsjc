@@ -1,5 +1,5 @@
 title: CHIJ St. Joseph's Convent
-url: https://www.open.gov.sg
+url: https://chijstjosephsconvent.moe.edu.sg
 favicon: /images/Homepage/CHIJ Crest 2014_clear background_PNG format_2014.png
 colors:
   primary-color: "#0a3885"
@@ -57,3 +57,4 @@ facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
 resources_name: resources
+google_analytics_ga4: ""

@@ -2,5 +2,6 @@
 title: School Calendar
 permalink: /sjc-calendar/
 description: ""
+variant: markdown
 ---
-![](/images/School%20Calendar/school%20calendar%20for%20the%20month%20of%20august.jpg)
+[](/files/school_calendar_for_the_month_of_Term_1_2024.pdf)

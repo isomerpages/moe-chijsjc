@@ -7,4 +7,4 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Dear SJCians,</p><p></p><p>The Weighted Assessment 1 schedule can be found <a href="https://www.chijstjosephsconvent.moe.edu.sg/useful-links/students/" rel="noopener noreferrer nofollow" target="_blank">here.</a></p>
+<p>Dear SJCians and Parents,</p><p></p><p>The WA schedules for Term 1 have been posted. You may refer to schedule for each level <a href="https://www.chijstjosephsconvent.moe.edu.sg/useful-links/students/" rel="noopener noreferrer nofollow" target="_blank">Useful Links and Resources &gt; Students.</a></p>

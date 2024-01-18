@@ -7,4 +7,4 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Dear SJCians,</p><p></p><p>The Weighted Assessment 1 schedule can be found <a href="chijstjosephsconvent.moe.edu.sg/useful-links/students/" rel="noopener noreferrer nofollow" target="_blank">here.</a></p>
+<p>Dear SJCians,</p><p></p><p>The Weighted Assessment 1 schedule can be found <a href="https://www.chijstjosephsconvent.moe.edu.sg/useful-links/students/" rel="noopener noreferrer nofollow" target="_blank">here.</a></p>

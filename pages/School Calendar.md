@@ -6,7 +6,7 @@ variant: markdown
 ---
 Dear SJCians,
 
-You may refer to Semester 1 Calendar below:
+You may refer to Term 1 Calendar below:
 
 
 

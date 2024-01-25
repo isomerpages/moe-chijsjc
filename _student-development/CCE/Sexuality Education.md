@@ -97,9 +97,8 @@ variant: tiptap
 <p>13. Parents can contact the school at chijsjcs@moe.edu.sg for discussion
     or to seek clarification about the school’s Sexuality Education programme.</p>
 <p></p>
-<p><a href="/files/Sexuality Education/2024 sed.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
+<p><a href="https://www.chijstjosephsconvent.moe.edu.sg/files/2024_sed.pdf" rel="noopener noreferrer nofollow" target="_blank">here goes</a>
 </p>
-<p><a href="files/Sexuality_Education/2024_sed.pdf" rel="noopener noreferrer nofollow" target="_blank">you can do this</a>
-</p>
+<p></p>
 <p></p>
 <p></p>

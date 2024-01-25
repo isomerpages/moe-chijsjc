@@ -100,7 +100,13 @@ variant: tiptap
 <p><a href="https://www.chijstjosephsconvent.moe.edu.sg/files/Sexuality%20Education/2024%20sed.pdf" rel="noopener noreferrer nofollow" target="_blank">test</a>
 </p>
 <p></p>
-<p><a href="/files/Sexuality Education/2024 sed.pdf" rel="noopener noreferrer nofollow" target="_blank">HERE</a>
+<p><a href="https://cms.isomer.gov.sg/files/Sexuality_Education/2024_sed.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
+<p><a href="https://www.chijstjosephsconvent.moe.edu.sg/files/Sexuality_Education/2024_sed.pdf" rel="noopener noreferrer nofollow" target="_blank">there</a>
+</p>
+<p><a href="https://cms.isomer.gov.sg/sites/moe-chijsjc/files/Sexuality_Education/2024_sed.pdf" rel="noopener noreferrer nofollow" target="_blank">pls work</a>
+</p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>

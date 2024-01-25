@@ -58,7 +58,7 @@ Teens programme is that students are empowered to make wise, informed and sensib
 #### **Information for Parents**
 10\.	Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers. 
 
-11\.Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](files/Sexuality%20Education/2024%opt%out%form.pdf) . The completed form is to be submitted by Mon 5 Feb 2025. 
+11\.Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](https://www.chijstjosephsconvent.moe.edu.sg/files/Sexuality%20Education/2024%opt%out%form.pdf) . The completed form is to be submitted by Mon 5 Feb 2025. 
 
 12\.	Parents who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here]((files/Sexuality%20Education/2024%eteens%opt%out%form.pdf))
 The completed form is to be submitted by Mon 5 Feb 2025.

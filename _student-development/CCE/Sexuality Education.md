@@ -37,14 +37,15 @@ variant: tiptap
     ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
     more information on MOE Sexuality Education.</p>
-<h4><strong>Overview of CHIJ St. Joseph's Convent's Sexuality Education Programme for 2023</strong></h4>
+<h4><strong>Overview of CHIJ St. Joseph's Convent's Sexuality Education Programme for 2024</strong></h4>
 <p>4. Sexuality Education is delivered in a holistic manner through the school
     curriculum. The content for Sexuality Education is grouped into five main
     themes: Human Development, Interpersonal Relationships, Sexual Health,
     Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> for
     more information on the scope of Sexuality Education in the school curriculum.</p>
-<p>5. The subjects that incorporate topics on sexuality include: a. Science
-    b. Character and Citizenship Education (CCE)</p>
+<p>5. The subjects that incorporate topics on sexuality include:</p>
+<p>a. Science</p>
+<p>b. Character and Citizenship Education (CCE)</p>
 <h5><strong>Sexuality Education Lessons:</strong></h5>
 <p>6. The values and attitudes of our youth towards sexuality are increasingly
     shaped by their peers, exposure to the media, popular culture and the internet.

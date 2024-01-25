@@ -99,6 +99,7 @@ variant: tiptap
 <p></p>
 <p><a href="/files/Sexuality Education/2024 sed.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
-<p></p>
+<p><a href="files/Sexuality_Education/2024_sed.pdf" rel="noopener noreferrer nofollow" target="_blank">you can do this</a>
+</p>
 <p></p>
 <p></p>

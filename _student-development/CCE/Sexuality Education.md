@@ -65,7 +65,7 @@ variant: tiptap
     the opportunity to develop a positive self-esteem, develop their character,
     and expand their understanding and repertoire of skills to deal with various
     issues related to sexuality, which are of prime concern at this age.</p>
-<h5><strong>Please click </strong><a href="https://cms.isomer.gov.sg/sites/moe-chijsjc/files/Sexuality%20Education/2024%20sed.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a><strong> for Sexuality Education lessons that will be taught at CHIJ St. Joseph's Convent in 2024.</strong></h5>
+<h5><strong>Please click </strong><a href="/files/Sexuality Education/2024 sed.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a><strong> for Sexuality Education lessons that will be taught at CHIJ St. Joseph's Convent in 2024.</strong></h5>
 <h4><strong>eTeens Programme</strong></h4>
 <p>8. eTeens is a programme developed by Health Promotion Board, in collaboration
     with the Ministry of Education, to provide Secondary 3 students with accurate
@@ -97,6 +97,3 @@ variant: tiptap
     The completed form is to be submitted by Mon 5 Feb 2025.</p>
 <p>13. Parents can contact the school at chijsjcs@moe.edu.sg for discussion
     or to seek clarification about the school’s Sexuality Education programme.</p>
-<p><a href="/files/Sexuality Education/2024 sed.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>
-</p>
-<p></p>

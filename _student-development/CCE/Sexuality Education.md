@@ -65,7 +65,8 @@ consequences of sexual behaviour.</p>
 the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
-<h5><strong>Please click </strong><a href="/files/Sexuality Education/2024 sed.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a><strong> for Sexuality Education lessons that will be taught at CHIJ St. Joseph's Convent in 2024. </strong></h5>
+<h5><strong>Please click </strong><a href="/files/Sexuality Education/2024 SEd.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a><strong> for Sexuality Education lessons that will be taught at CHIJ St. Joseph's Convent in 2024.</strong></h5>
+<p></p>
 <h4><strong>eTeens Programme</strong></h4>
 <p>8. eTeens is a programme developed by Health Promotion Board, in collaboration
 with the Ministry of Education, to provide Secondary 3 students with accurate

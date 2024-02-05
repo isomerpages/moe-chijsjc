@@ -45,7 +45,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="files/Useful Links/Students/Weighted Assessments/Sec 2 WA1 Schedule 5 feb.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>
+<p><a href="files/Useful Links/Students/Weighted Assessments/sec 2 wa1 schedule 5 feb.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>
 </p>
 </li>
 <li>

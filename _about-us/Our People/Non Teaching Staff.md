@@ -66,14 +66,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Eu Ai Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Technical Support Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Diana Lim Chor Sim</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -86,6 +78,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Technical Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ridhwan bin Rahim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Manager</p>
 </td>
 </tr>
 <tr>

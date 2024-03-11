@@ -23,10 +23,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Useful Links/Students/Timetables/Sec_2_8_mar.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Timetable</a>
-</p>
-</li>
-<li>
 <p><a href="/files/Useful Links/Students/Timetables/Sec_3_8_mar.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Timetable</a>
 </p>
 </li>

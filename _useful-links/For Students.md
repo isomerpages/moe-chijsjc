@@ -41,20 +41,21 @@ variant: tiptap
 <blockquote>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Useful Links/Students/Weighted Assessments/wa1 sec1.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>
+<p><a href="/files/Useful Links/Students/Weighted Assessments/Sec_1_2024_WA2_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Useful Links/Students/Weighted Assessments/sec 2 wa1 schedule 5 feb.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>
+<p><a href="/files/Useful Links/Students/Weighted Assessments/Sec_2_2024_WA2_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Useful Links/Students/Weighted Assessments/wa1 sec3.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3</a>
+<p><a href="/files/Useful Links/Students/Weighted Assessments/Sec_3_2024_WA2_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Useful Links/Students/Weighted Assessments/Sec_4___5_WA1_Schedule_2024__9_Feb_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 &amp; 5</a>
+<p><a href="/files/Useful Links/Students/Weighted Assessments/Sec_4_and_5_2024_WA2_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 &amp; 5</a>
 </p>
+<p></p>
 </li>
 </ul>
 </blockquote>

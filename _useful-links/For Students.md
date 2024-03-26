@@ -34,7 +34,7 @@ variant: tiptap
 </blockquote>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Weighted Assessment 1 Schedule</strong>
+<p><strong>Weighted Assessment 2 Schedule</strong>
 </p>
 </li>
 </ul>

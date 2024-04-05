@@ -15,19 +15,19 @@ variant: tiptap
 <blockquote>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Useful Links/Students/Timetables/Sec_1_8_mar.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Timetable</a>
+<p><a href="/files/Useful Links/Students/Timetables/sec_1_tt.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Timetable</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Useful Links/Students/Timetables/Sec_2_8_mar.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Timetable</a>
+<p><a href="/files/Useful Links/Students/Timetables/sec_2_tt.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Timetable</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Useful Links/Students/Timetables/Sec_3_8_mar.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Timetable</a>
+<p><a href="/files/Useful Links/Students/Timetables/sec_3_tt.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Timetable</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Useful Links/Students/Timetables/Sec_4___5_8_mar.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 &amp; 5 Timetable</a>
+<p><a href="/files/Useful Links/Students/Timetables/sec_4___5_tt.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 &amp; 5 Timetable</a>
 </p>
 </li>
 </ul>

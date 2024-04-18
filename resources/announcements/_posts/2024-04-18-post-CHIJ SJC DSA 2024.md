@@ -1,0 +1,18 @@
+---
+title: CHIJ SJC DSA 2024
+permalink: /resources/announcements/chij-sjc-dsa-2024/
+date: 2024-04-18
+layout: post
+description: ""
+image: ""
+variant: tiptap
+---
+Dear P6 Students and Parents,
+
+Please refer to the file below for the latest information for DSA into CHIJ St. Joseph's Convent Secondary 1 cohort of 2024.
+
+[CHIJ SJC DSA Exercise 2023](/files/Useful%20Links/Students/Students/chij%20sjc%20dsa%20exercise%202023.pdf)
+
+You may reach out to us at chijsjcs@moe.edu.sg if you have any questions on the DSA process.
+
+Thank you

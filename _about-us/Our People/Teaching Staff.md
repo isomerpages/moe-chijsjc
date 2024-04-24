@@ -10,13 +10,13 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>Year Head Lower Sec</strong>
-<br><strong>Mr Peh Wei Qin</strong>
+<p><strong>Year Head Lower Sec</strong> 
+<br><strong>Mr Peh Wei Qin</strong> 
 <br><a href="mailto:peh_wei_qin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">peh_wei_qin@moe.edu.sg</a>
 </p>
 <p></p>
-<p><strong>Assistant Year Head Secondary 1</strong>
-<br><strong>Ms Wong Li Qin</strong>
+<p><strong>Assistant Year Head Secondary 1</strong> 
+<br><strong>Ms Wong Li Qin</strong> 
 <br><a href="mailto:wong_li_qin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_li_qin@moe.edu.sg</a>
 </p>
 <p></p>
@@ -165,13 +165,13 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>Year Head Lower Sec</strong>
-<br><strong>Mr Peh Wei Qin</strong>
+<p><strong>Year Head Lower Sec</strong> 
+<br><strong>Mr Peh Wei Qin</strong> 
 <br><a href="mailto:peh_wei_qin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">peh_wei_qin@moe.edu.sg</a>
 </p>
 <p></p>
-<p><strong>Assistant Year Head Secondary 2</strong>
-<br><strong>Ms Wong Peidi</strong>
+<p><strong>Assistant Year Head Secondary 2</strong> 
+<br><strong>Ms Wong Peidi</strong> 
 <br><a href="mailto:wang_peidi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_peidi@moe.edu.sg</a>
 </p>
 <p></p>
@@ -242,7 +242,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Law Gin Lieng
-<br><a href="mailto:law_gin_lieng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">law_gin_lieng@moe.edu.sg</a>
+<br><a href="mailto:law_gin_lieng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">law_gin_lieng@moe.edu.sg</a> 
 <br>
 </p>
 </td>
@@ -317,13 +317,13 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>Year Head Upper Secondary</strong>
-<br><strong>Ms Daphne Teo</strong>
+<p><strong>Year Head Upper Secondary</strong> 
+<br><strong>Ms Daphne Teo</strong> 
 <br><a href="mailto:teo_siew_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_siew_ling@moe.edu.sg</a>
 </p>
 <p></p>
-<p><strong>Assistant Year Head Secondary 3</strong>
-<br><strong>Ms Fiona Choo</strong>
+<p><strong>Assistant Year Head Secondary 3</strong> 
+<br><strong>Ms Fiona Choo</strong> 
 <br><a href="mailto:choo_li_ting_fiona@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choo_li_ting_fiona@moe.edu.sg</a>
 </p>
 <p></p>
@@ -468,13 +468,13 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>Year Head Upper Secondary</strong>
-<br><strong>Ms Daphne Teo</strong>
+<p><strong>Year Head Upper Secondary</strong> 
+<br><strong>Ms Daphne Teo</strong> 
 <br><a href="mailto:teo_siew_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_siew_ling@moe.edu.sg</a>
 </p>
 <p></p>
-<p><strong>Assistant Year Head Secondary 4 and 5</strong>
-<br><strong>Ms Nurul Adilah</strong>
+<p><strong>Assistant Year Head Secondary 4 and 5</strong> 
+<br><strong>Ms Nurul Adilah</strong> 
 <br><a href="mailto:nurul_adilah_mohamad_ayub@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_adilah_mohamad_ayub@moe.edu.sg</a>
 </p>
 <p></p>

@@ -234,6 +234,12 @@ variant: tiptap
 <p>Mr Tan Shen Yong Samuel
 <br><a href="mailto:tan_shen_yong_samuel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_shen_yong_samuel@moe.edu.sg</a>
 </p>
+<p></p>
+<p>Mdm Crystal Quek Hein Luan</p>
+<p><a href="mailto:crystal_quek_hein_luan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">crystal_quek_hein_luan@moe.edu.sg</a>
+</p>
+<p></p>
+<p></p>
 </td>
 </tr>
 <tr>

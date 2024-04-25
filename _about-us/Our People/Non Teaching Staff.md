@@ -50,10 +50,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Irene Low Tuan Kheng</p>
+<p>Ms Priya</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
+<p>STEM Instructor</p>
 </td>
 </tr>
 <tr>
@@ -152,6 +152,14 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm R Thavamani D/O Raman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Jason Chong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>

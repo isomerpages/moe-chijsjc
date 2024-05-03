@@ -21,9 +21,8 @@ variant: tiptap
 </li>
 </ul>
 <p></p>
-<p>The selection criteria and process for the talent areas will be updated
-from early-May. For more information on DSA-Sec, please refer to the MOE
-website at <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>.</p>
+<p>The selection criteria and process can be found in the attached <a href="/files/Resources/Announcements/To_be_Uploaded_on_Sch_Website_DSA_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">document</a>.
+For more information on DSA-Sec, please refer to the MOE website at <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/dsa-sec</a>.</p>
 <p>You may reach out to us at <a rel="noopener noreferrer nofollow" target="_blank">chijsjcs@moe.edu.sg</a> if
 you have any questions on the DSA process.</p>
 <p>Thank you</p>

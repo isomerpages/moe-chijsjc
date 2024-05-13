@@ -6,7 +6,12 @@ third_nav_title: Our People
 variant: tiptap
 ---
 <h4><strong>Secondary 1 Form Teachers</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
@@ -161,7 +166,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Secondary 2 Form Teachers</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
@@ -319,7 +329,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Secondary 3 Form Teachers</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
@@ -470,7 +485,12 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Secondary 4 and 5 Form Teachers</strong></h4>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
@@ -561,7 +581,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Joanna Hwee
-<br><a href="mailto:joanna_gwendoline_sim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">joanna_gwendoline_sim@moe.edu.sg</a>
+<br><a href="mailto:joanna_gwendoline_sim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">joanna_gwendolin_sim@moe.edu.sg</a>
 </p>
 </td>
 </tr>

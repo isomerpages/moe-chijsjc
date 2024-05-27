@@ -34,28 +34,23 @@ variant: tiptap
 </blockquote>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Weighted Assessment 2 Schedule</strong>
+<p><strong>Secondary 4 and 5 Preliminary Examination Schedule</strong>
 </p>
 </li>
 </ul>
 <blockquote>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Useful Links/Students/Weighted Assessments/Sec_1_2024_WA2_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a>
+<p><a href="/files/Useful Links/Students/Examinations/2024_Secondary_4NT_Preliminary_Examination_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">4NT Preliminary Examination Timetable</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Useful Links/Students/Weighted Assessments/Sec_2_2024_WA2_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a>
+<p><a href="/files/Useful Links/Students/Examinations/2024_Secondary_4NA_Preliminary_Examination_Timetable__Part_1_and_2_.pdf" rel="noopener noreferrer nofollow" target="_blank">4NA Preliminary Examination Timetable</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Useful Links/Students/Weighted Assessments/Sec_3_2024_WA2_Schedule__1_April_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3</a>
+<p><a href="/files/Useful Links/Students/Examinations/2024_Secondary_4EXP_Preliminary_Examination_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">4EXP Preliminary Examination Timetable</a>
 </p>
-</li>
-<li>
-<p><a href="/files/Useful Links/Students/Weighted Assessments/Sec_4_and_5_2024_WA2_schedule__1_April_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 &amp; 5</a>
-</p>
-<p></p>
 </li>
 </ul>
 </blockquote>

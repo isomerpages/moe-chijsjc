@@ -49,7 +49,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Useful Links/Students/Examinations/2024_Secondary_4EXP_Preliminary_Examination_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">4EXP Preliminary Examination Timetable</a>
+<p><a href="/files/Useful Links/Students/Examinations/2024_Secondary_4EXP_Preliminary_Examination_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">4EXP &amp; 5NA Preliminary Examination Timetable</a>
 </p>
 </li>
 </ul>

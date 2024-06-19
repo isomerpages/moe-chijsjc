@@ -2,6 +2,7 @@
 title: For Parents
 permalink: /useful-links/parents/
 description: ""
+variant: markdown
 ---
 #### **SCHOOL HOME PARTNERSHIP**
 * [SJC Parent Engagement ](https://sites.google.com/moe.edu.sg/parent-engagement-program/home?authuser=0)
@@ -10,6 +11,9 @@ description: ""
 * [MOE Schoolbag](https://www.schoolbag.edu.sg/)
 * [MOE Parent Kits](https://www.moe.gov.sg/parentkit)
 
+#### **PDLP Matters**
+
+* [CHIJ SJC PDLP RESOURCE SITE](https://sites.google.com/moe.edu.sg/chijsjcpdlp/home)
 
 #### **PARENT GATEWAY**
 Parents Gateway is an initiative by MOE to enable parents to interact with schools more conveniently on administrative and financial matters. Parents will also be able to use this mobile application to stay updated on school’s programme and activities.

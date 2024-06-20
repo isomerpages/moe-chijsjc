@@ -8,7 +8,7 @@ variant: tiptap
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Timetable for Sem 1, 2024</strong>
+<p><strong>Timetable for Sem 2, 2024</strong>
 </p>
 </li>
 </ul>

@@ -8,7 +8,7 @@ image: ""
 variant: tiptap
 ---
 <p>Dear SJCians,</p>
-<p>You may refer to your 2024 Semester 1 timetable below:</p>
+<p>You may refer to your 2024 Semester 2 timetable below:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://drive.google.com/file/d/1utm2Jb0Dwi7hBI72lhr36u6XTX6N20jm/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 Timetable</a>

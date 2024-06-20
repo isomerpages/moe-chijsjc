@@ -8,26 +8,26 @@ variant: tiptap
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Timetable for Sem 1, 2024</strong>
+<p><strong>Timetable for Sem 2, 2024</strong>
 </p>
 </li>
 </ul>
 <blockquote>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Useful Links/Students/Timetables/sec_1_tt.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Timetable</a>
+<p><a href="https://drive.google.com/file/d/1utm2Jb0Dwi7hBI72lhr36u6XTX6N20jm/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 Timetable</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Useful Links/Students/Timetables/sec_2_tt.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Timetable</a>
+<p><a href="https://drive.google.com/file/d/1IXYgBxCjLlxTr36syDZ4TlSQwP0x4F5-/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 Timetable</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Useful Links/Students/Timetables/sec_3_tt.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Timetable</a>
+<p><a href="https://drive.google.com/file/d/12G9P5xVNUTAGKeev2QW2l_e0OfdcIRo1/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Secondary 3 Timetable</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Useful Links/Students/Timetables/sec_4___5_tt.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 &amp; 5 Timetable</a>
+<p><a href="https://drive.google.com/file/d/14xcCdAlY7ZIIbJTc_cXI5VuSId1NLPVb/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 &amp; 5 Timetable</a>
 </p>
 </li>
 </ul>

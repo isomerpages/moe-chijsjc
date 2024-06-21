@@ -19,7 +19,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1IXYgBxCjLlxTr36syDZ4TlSQwP0x4F5-/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 Timetable</a>
+<p><a href="https://drive.google.com/file/d/1OY_PQZZiZTHdhYFz4s2AoQHgNwx8-J0C/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 Timetable</a>
 </p>
 </li>
 <li>

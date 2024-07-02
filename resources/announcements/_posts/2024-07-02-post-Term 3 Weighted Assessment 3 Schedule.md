@@ -7,3 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>Dear SJCians and Parents,</p>
+<p>The WA schedules for Term 3 have been updated. You may refer to the schedule
+for each level under&nbsp;<a href="https://www.chijstjosephsconvent.moe.edu.sg/useful-links/students/" rel="noopener noreferrer nofollow" target="_blank">Useful Links and Resources &gt; Students</a>.</p>
+<p>Thank you.</p>

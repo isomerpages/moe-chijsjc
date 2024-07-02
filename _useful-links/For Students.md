@@ -56,11 +56,33 @@ variant: tiptap
 </blockquote>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Learning Portals</strong>
+<p><strong>Term 3 WA3 Schedules</strong>
 </p>
 </li>
 </ul>
 <blockquote>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Useful Links/Students/Weighted Assessments/2024_WA3_S1_Schedule_2_Jul.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 WA3 Schedule</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Useful Links/Students/Weighted Assessments/2024_WA3_S2_Schedule_2_Jul.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 WA3 Schedule</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Useful Links/Students/Weighted Assessments/2024_WA3_S3_Schedule_2_Jul.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3 WA3 Schedule</a>
+</p>
+</li>
+</ul>
+</blockquote>
+<blockquote>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Learning Portals</strong>
+</p>
+</li>
+</ul>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (SLS)</a>

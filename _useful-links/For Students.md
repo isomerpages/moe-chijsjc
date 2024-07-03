@@ -71,7 +71,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Useful Links/Students/Weighted Assessments/2024_WA3_S3_Schedule_2_Jul.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3 WA3 Schedule</a>
+<p><a href="/files/Useful Links/Students/Weighted Assessments/2024_wa3_s3_schedule_3_jul.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3 WA3 Schedule</a>
 </p>
 </li>
 </ul>

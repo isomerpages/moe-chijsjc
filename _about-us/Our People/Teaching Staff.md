@@ -111,9 +111,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Amelia Huang Xin Lei
-<br><a href="mailto:huang_xinlei_amelia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">huang_xinlei_amelia@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -236,13 +234,13 @@ variant: tiptap
 <p>2C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nurul ‘Ain Sakina Bte Soonann
-<br><a href="mailto:nurul_ain_sakina_soonann@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_ain_sakina_soonann@moe.edu.sg</a>
+<p>Mr Tan Shen Yong Samuel
+<br><a href="mailto:tan_shen_yong_samuel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_shen_yong_samuel@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Shen Yong Samuel
-<br><a href="mailto:tan_shen_yong_samuel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_shen_yong_samuel@moe.edu.sg</a>
+<p>Mdm Shazwani Bte Awi
+<br><a href="mailto:shazwani_awi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shazwani_awi@moe.edu.sg</a>
 </p>
 <p></p>
 <p>Mrs Crystal Tang</p>
@@ -464,7 +462,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Veerappan Parimaleswaran
+<br><a href="mailto:veerapan_parismaleswaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">veerapan_parismaleswaran@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -477,8 +477,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Melissa Neo
-<br><a href="mailto:neo_hui_ning@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">neo_hui_ning@moe.edu.sg</a>
+<p>Ms Hawa
+<br><a href="mailto:siti_hawa_abdul_adi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_hawa_abdul_adi@moe.edu.sg</a>
 </p>
 </td>
 </tr>

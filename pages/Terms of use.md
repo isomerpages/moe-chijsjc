@@ -6,11 +6,10 @@ description: ""
 ---
 <p><strong>Terms of Use</strong>
 </p>
-<p>Thank you for visiting CHIJ St. Joseph’s Convent’s school Web Site (
-<a rel="noopener noreferrer nofollow" target="_blank">https://www.chijstjosephsconvent.moe.edu.sg/</a>). By accessing and using
-this Web Site, you shall be deemed to have accepted to be legally bound
-by these Terms of Use. If you do not agree to these Terms of Use, please
-do not use this Web Site.</p>
+<p>Thank you for visiting CHIJ St. Joseph’s Convent’s Web Site. By accessing
+and using this Web Site, you shall be deemed to have accepted to be legally
+bound by these Terms of Use. If you do not agree to these Terms of Use,
+please do not use this Web Site.</p>
 <p><strong>General</strong>
 </p>
 <p>2. These Terms of Use may be changed from time to time. Changes will be

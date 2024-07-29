@@ -255,15 +255,13 @@ variant: tiptap
 <p>2D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Law Gin Lieng
-<br><a href="mailto:law_gin_lieng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">law_gin_lieng@moe.edu.sg</a> 
+<p>Ms Victor Anne Marguerite
+<br><a href="mailto:victor_anne_marguerite@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">victor_anne_marguerite@moe.edu.sg</a>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Victor Anne Marguerite
-<br><a href="mailto:victor_anne_marguerite@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">victor_anne_marguerite@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -478,7 +476,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Hawa
-<br><a href="mailto:siti_hawa_abdul_adi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_hawa_abdul_adi@moe.edu.sg</a>
+<br><a href="mailto:siti_hawa_abdul_adi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_hawa_abdul_hadi@moe.edu.sg</a>
 </p>
 </td>
 </tr>

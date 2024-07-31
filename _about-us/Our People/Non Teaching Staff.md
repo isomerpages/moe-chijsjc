@@ -6,7 +6,11 @@ third_nav_title: Our People
 variant: tiptap
 ---
 <h4><strong>Administration</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -90,14 +94,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Khairulhafiz bin Abdul Karim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ICT Associate</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Miss Dania Darwisyah Binte Mohamed Aslam</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -107,7 +103,11 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Operations</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -168,7 +168,11 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Allied Educators (AED) and Education Support</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -229,7 +233,11 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Other Support Staff</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">

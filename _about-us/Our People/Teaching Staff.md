@@ -235,19 +235,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Shen Yong Samuel
-<br><a href="mailto:tan_shen_yong_samuel@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_shen_yong_samuel@moe.edu.sg</a>
+<br><a href="mailto:phoon_lai_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_shen_yeong_samuel@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Shazwani Bte Awi
-<br><a href="mailto:shazwani_awi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shazwani_awi@moe.edu.sg</a>
+<p>Ms Crystal Tang
+<br><a href="mailto:nur_izzati_binte_jasni@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">crystal_quek_hein_luan@moe.edu.sg</a>
 </p>
-<p></p>
-<p>Mrs Crystal Tang</p>
-<p><a href="mailto:crystal_quek_hein_luan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">crystal_quek_hein_luan@moe.edu.sg</a>
-</p>
-<p></p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -558,11 +552,6 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tay Yea Bih
-<br><a href="mailto:tay_yea_bih@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_yea_bih@moe.edu.sg</a>
-</p>
-<p></p>
-<p></p>
 <p>Mdm Gangka D/O Periasamy
 <br><a href="mailto:gangka_periasamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gangka_periasamy@moe.edu.sg</a>
 </p>

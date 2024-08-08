@@ -152,7 +152,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Useful Links/Students/Students/Step_by_step_Guide_to_Backup_Your_Files_on_the_Chromebook.pdf" rel="noopener noreferrer nofollow" target="_blank">Chromebook Backup Guide</a>
+<p><a href="/files/Useful Links/Students/Students/Step_by_step_Guide_to_Backup_Your_Files_on_the_Chromebook.pdf" rel="noopener noreferrer nofollow" target="_blank">Step by step Guide to Backup Your Files on the Chromebook</a>
 </p>
 </li>
 </ul>

@@ -16,9 +16,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="3">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/About us/Our People/School Management Team/school_leaders_1.jpg">
-</div>
 </td>
 </tr>
 <tr>

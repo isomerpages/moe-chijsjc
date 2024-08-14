@@ -19,5 +19,3 @@ for the Subject Allocation Exercise.</p>
 to find out more.</p>
 <p>Thank you.</p>
 <p></p>
-<p></p>
-<p></p>

@@ -57,7 +57,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Useful Links/Students/Examinations/2024_Secondary_3E_EYE_Timetable.pdf" rel="noopener nofollow" target="_blank">Secondary 3EFGH Timetable</a>
+<p><a href="/files/Useful Links/Students/Examinations/2024_Secondary_3E_EYE_Timetable.pdf" rel="noopener nofollow" target="_blank">Secondary 3DEFGH Timetable</a>
 </p>
 </li>
 </ul>
@@ -87,7 +87,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Useful Links/Students/Examinations/2024_End_of_Year_Examination_Topics_and_Format_Sec_3Exp.pdf" rel="noopener nofollow" target="_blank">Secondary 3EFGH Topics and Format</a>
+<p><a href="/files/Useful Links/Students/Examinations/2024_End_of_Year_Examination_Topics_and_Format_Sec_3Exp.pdf" rel="noopener nofollow" target="_blank">Secondary 3DEFGH Topics and Format</a>
 </p>
 </li>
 </ul>

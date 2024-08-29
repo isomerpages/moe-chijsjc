@@ -118,7 +118,7 @@ variant: tiptap
 </blockquote>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>End Of Year Examinations</strong>
+<p><strong>2024 End Of Year Examinations</strong>
 </p>
 </li>
 </ul>
@@ -153,7 +153,16 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p></p>
+<p><a href="/files/Useful Links/Students/Examinations/2024_Secondary_3E_EYE_Timetable.pdf" rel="noopener nofollow" target="_blank">2024 EOY Examination Timetable For Sec 3EXP</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Useful Links/Students/Examinations/2024_Secondary_3NA_EYE_Timetable.pdf" rel="noopener nofollow" target="_blank">2024 EOY Examination Timetable For Sec 3NA</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Useful Links/Students/Examinations/2024_Secondary_3T_EYE_Timetable.pdf" rel="noopener nofollow" target="_blank">2024 EOY Examination Timetable For Sec 3NT</a>
+</p>
 </li>
 </ul>
 </blockquote>

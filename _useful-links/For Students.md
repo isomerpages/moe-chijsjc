@@ -34,6 +34,66 @@ variant: tiptap
 </blockquote>
 <ul data-tight="true" class="tight">
 <li>
+<p><strong>2024 End of Year Examination Schedule</strong>
+</p>
+</li>
+</ul>
+<blockquote>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Useful Links/Students/Examinations/2024_Secondary_1_EYE_Timetable.pdf" rel="noopener nofollow" target="_blank">Secondary 1 EOY Timetable</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Useful Links/Students/Examinations/2024_Secondary_2_EYE_Timetable.pdf" rel="noopener nofollow" target="_blank">Secondary 2 EOY Timetable</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Useful Links/Students/Examinations/2024_Secondary_3T_EYE_Timetable.pdf" rel="noopener nofollow" target="_blank">Secondary 3A EOY Timetable</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Useful Links/Students/Examinations/2024_Secondary_3NA_EYE_Timetable.pdf" rel="noopener nofollow" target="_blank">Secondary 3BC EOY Timetable</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Useful Links/Students/Examinations/2024_Secondary_3E_EYE_Timetable.pdf" rel="noopener nofollow" target="_blank">Secondary 3DEFGH Timetable</a>
+</p>
+</li>
+</ul>
+</blockquote>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>2024 End of Year Examination Topics and Format</strong>
+</p>
+</li>
+</ul>
+<blockquote>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Useful Links/Students/Examinations/2024_End_of_Year_Examination_Topics_and_Format_Sec_1.pdf" rel="noopener nofollow" target="_blank">Secondary 1 EOY Topics and Format</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Useful Links/Students/Examinations/2024_End_of_Year_Examination_Topics_and_Format_Sec_2.pdf" rel="noopener nofollow" target="_blank">Secondary 2 EOY Topics and Format</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Useful Links/Students/Examinations/2024_End_of_Year_Examination_Topics_and_Format_Sec_3NT.pdf" rel="noopener nofollow" target="_blank">Secondary 3A EOY Topics and Format</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Useful Links/Students/Examinations/2024_End_of_Year_Examination_Topics_and_Format_Sec_3NA.pdf" rel="noopener nofollow" target="_blank">Secondary 3BC EOY Topics and Format</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Useful Links/Students/Examinations/2024_End_of_Year_Examination_Topics_and_Format_Sec_3Exp.pdf" rel="noopener nofollow" target="_blank">Secondary 3DEFGH Topics and Format</a>
+</p>
+</li>
+</ul>
+</blockquote>
+<ul data-tight="true" class="tight">
+<li>
 <p><strong>Secondary 4 and 5 Preliminary Examination Schedule</strong>
 </p>
 </li>

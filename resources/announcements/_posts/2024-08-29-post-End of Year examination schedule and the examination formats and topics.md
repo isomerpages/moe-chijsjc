@@ -50,7 +50,8 @@ examination formats and topics.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Useful Links/Students/Examinations/2024_End_of_Year_Examination_Topics_and_Format_Sec_2.pdf" rel="noopener nofollow" target="_blank">Secondary 2 EOY Topics and Format</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -58,10 +59,25 @@ examination formats and topics.</p>
 <p>Secondary 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>[Link to schedule]</p>
+<p><a href="/files/Useful Links/Students/Examinations/2024_Secondary_3T_EYE_Timetable.pdf" rel="noopener nofollow" target="_blank">Secondary 3A EOY Timetable</a>
+</p>
+<p></p>
+<p><a href="/files/Useful Links/Students/Examinations/2024_Secondary_3NA_EYE_Timetable.pdf" rel="noopener nofollow" target="_blank">Secondary 3BC EOY Timetable</a>
+</p>
+<p></p>
+<p><a href="/files/Useful Links/Students/Examinations/2024_Secondary_3E_EYE_Timetable.pdf" rel="noopener nofollow" target="_blank">Secondary 3DEFGH EOY Timetable</a>
+</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>[Link to schedule]</p>
+<p><a href="/files/Useful Links/Students/Examinations/2024_End_of_Year_Examination_Topics_and_Format_Sec_3NT.pdf" rel="noopener nofollow" target="_blank">Secondary 3A EOY Topics and Format</a>
+</p>
+<p></p>
+<p><a href="/files/Useful Links/Students/Examinations/2024_End_of_Year_Examination_Topics_and_Format_Sec_3NA.pdf" rel="noopener nofollow" target="_blank">Secondary 3BC EOY Topics and Format</a>
+</p>
+<p></p>
+<p><a href="/files/Useful Links/Students/Examinations/2024_End_of_Year_Examination_Topics_and_Format_Sec_3Exp.pdf" rel="noopener nofollow" target="_blank">Secondary 3DEFGH EOY Topics and Format</a>
+</p>
 </td>
 </tr>
 </tbody>

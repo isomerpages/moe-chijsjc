@@ -116,6 +116,47 @@ variant: tiptap
 </li>
 </ul>
 </blockquote>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>End Of Year Examinations</strong>
+</p>
+</li>
+</ul>
+<blockquote>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Useful Links/Students/Examinations/2024_End_of_Year_Examination_Topics_and_Format_Sec_1.pdf" rel="noopener nofollow" target="_blank">2024 EOY Examination Topics and Format For Sec 1</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Useful Links/Students/Examinations/2024_End_of_Year_Examination_Topics_and_Format_Sec_2.pdf" rel="noopener nofollow" target="_blank">2024 EOY Examination Topics and Format For Sec 2</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Useful Links/Students/Examinations/2024_End_of_Year_Examination_Topics_and_Format_Sec_3Exp.pdf" rel="noopener nofollow" target="_blank">2024 EOY Examination Topics and Format For Sec 3EXP</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Useful Links/Students/Examinations/2024_End_of_Year_Examination_Topics_and_Format_Sec_3NA.pdf" rel="noopener nofollow" target="_blank">2024 EOY Examination Topics and Format For Sec 3NA</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Useful Links/Students/Examinations/2024_End_of_Year_Examination_Topics_and_Format_Sec_3NT.pdf" rel="noopener nofollow" target="_blank">2024 EOY Examination Topics and Format For Sec 3NT</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Useful Links/Students/Examinations/2024_Secondary_1_EYE_Timetable.pdf" rel="noopener nofollow" target="_blank">2024 EOY Examination Timetable For Sec 1</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Useful Links/Students/Examinations/2024_Secondary_2_EYE_Timetable.pdf" rel="noopener nofollow" target="_blank">2024 EOY Examination Timetable For Sec 2</a>
+</p>
+</li>
+<li>
+<p></p>
+</li>
+</ul>
+</blockquote>
 <h4><strong>ICT MATTERS</strong></h4>
 <ul data-tight="true" class="tight">
 <li>

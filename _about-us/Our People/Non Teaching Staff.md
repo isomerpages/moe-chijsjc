@@ -94,6 +94,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Muhammad Hafiz Bin Jelani</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Associate</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Miss Dania Darwisyah Binte Mohamed Aslam</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -249,7 +257,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Hafiz Bin Jelani</p>
+<p>Loi Teck San</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer</p>
@@ -257,7 +265,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Johan Bin Osman</p>
+<p>Mr Sankar Rao Bartimalu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer</p>

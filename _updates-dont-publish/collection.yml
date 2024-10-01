@@ -1,0 +1,4 @@
+collections:
+  updates-dont-publish:
+    output: true
+    order: []

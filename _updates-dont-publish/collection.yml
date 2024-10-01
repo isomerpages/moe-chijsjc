@@ -1,4 +1,5 @@
 collections:
   updates-dont-publish:
     output: true
-    order: []
+    order:
+      - summary.md

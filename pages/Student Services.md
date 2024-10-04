@@ -28,7 +28,7 @@ Our school bookshop supplier is **Casco Educational Supply Pte Ltd**.
 Mode of Payment for online purchase via Credit Card & Paynow (Home Delivery / Self Collection)
 
 **School Bookshop**
-* Ms Josephine
+* Ms Veron
 * Tel: 6343 3101
 * Email address: info@cascoedusupply.com.sg
 

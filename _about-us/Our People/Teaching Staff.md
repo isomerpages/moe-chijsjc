@@ -470,7 +470,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Hawa
-<br><a href="mailto:siti_hawa_abdul_adi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_hawa_abdul_hadi@moe.edu.sg</a>
+<br><a href="mailto:siti_hawa_abdul_hadi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_hawa_abdul_hadi@moe.edu.sg</a>
 </p>
 </td>
 </tr>

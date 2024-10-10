@@ -200,15 +200,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Trudy Lau Chao Keng</p>
+<p>Ms Jasmine Phua Seok Ming</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Flexi-Adjunct School Counsellor</p>
+<p>School Counsellor</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Dhivyaa V Loganathan</p>
+<p>Mdm Trudy Lau Choe Keng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Flexi-Adjunct School Counsellor</p>

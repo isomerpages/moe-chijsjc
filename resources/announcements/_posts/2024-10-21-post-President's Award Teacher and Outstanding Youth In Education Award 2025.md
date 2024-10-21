@@ -41,5 +41,4 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <p>Thank you.</p>

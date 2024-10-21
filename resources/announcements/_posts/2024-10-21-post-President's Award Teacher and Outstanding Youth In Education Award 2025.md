@@ -34,10 +34,10 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/News and Events/Announcements/oyea_2025.jpg">
 </div>
+<p></p>
 </td>
 </tr>
 </tbody>

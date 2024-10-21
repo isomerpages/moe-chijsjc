@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h5>President's Award for Teachers and Outstanding Youth Education Award 2024 - Nominations are now open!</h5>
+<h5>President's Award for Teachers and Outstanding Youth Education Award 2025 - Nominations are now open!</h5>
 <p>Dear parents and SJCians,</p>
 <p>Do support your teachers in these prestigious national awards.</p>
 <p>Do note the closing date for both awards is on 10 January 2025.</p>

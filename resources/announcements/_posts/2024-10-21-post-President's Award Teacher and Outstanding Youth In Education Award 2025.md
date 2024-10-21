@@ -11,7 +11,6 @@ variant: tiptap
 <p>Dear parents and SJCians,</p>
 <p>Do support your teachers in these prestigious national awards.</p>
 <p>Do note the closing date for both awards is on 10 January 2025.</p>
-<p>&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -42,4 +41,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p>&nbsp;</p>
 <p>Thank you.</p>

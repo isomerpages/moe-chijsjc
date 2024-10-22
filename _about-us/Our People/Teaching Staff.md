@@ -292,7 +292,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Susie Lee (ST/ History)
-<br><a href="lim_susie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_susie@moe.edu.sg</a>
+<br><a href="mailto:lim_susie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_susie@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -420,7 +420,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Noor Ashiqin Bte Hamis
-<br><a href="noor_ashiqin_hamis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">noor_ashiqin_hamis@moe.edu.sg</a>
+<br><a href="mailto:noor_ashiqin_hamis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">noor_ashiqin_hamis@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -523,7 +523,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Albaniah Zakila
-<br><a href="albaniah_zakila_aman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">albaniah_zakila_aman@moe.edu.sg</a>
+<br><a href="mailto:albaniah_zakila_aman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">albaniah_zakila_aman@moe.edu.sg</a>
 </p>
 </td>
 </tr>

@@ -15,9 +15,6 @@ sections:
         - title: School Calendar
           description: Check what's coming up
           url: /sjc-calendar
-  - resources:
-      title: News and Announcements
-      button: Read More
   - infopic:
       title: Open House
       subtitle: Join us on 9 November
@@ -27,4 +24,7 @@ sections:
       url: https://chijstjosephsconvent.moe.edu.sg/sjc-open-house-2024/
       image: /images/Homepage/Website_banner.png
       alt: Image alt text
+  - resources:
+      title: News and Announcements
+      button: Read More
 ---

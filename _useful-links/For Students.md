@@ -282,31 +282,31 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Useful%20Links/Student%20Services/Booklist/3e%20pure%20sci%20textbook%20list%202024.pdf" rel="noopener noreferrer nofollow" target="_blank">3 Express Textbook List (Pure Science)</a>
+<p><a href="/files/Useful Links/Students/Students/2025_SEC_3_EXPRESS_PURE_SCIENCE.pdf" rel="noopener nofollow" target="_blank">3 Express Textbook List (Pure Science)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Useful%20Links/Student%20Services/Booklist/3e%20combined%20sci%20textbook%20list%202024.pdf" rel="noopener noreferrer nofollow" target="_blank">3 Express Textbook List (Combined Science)</a>
+<p><a href="/files/Useful Links/Students/Students/2025_SEC_3_EXPRESS_COMBINED_SCIENCE.pdf" rel="noopener nofollow" target="_blank">3 Express Textbook List (Combined Science)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Useful%20Links/Student%20Services/Booklist/3na%20textbook%20list%202024.pdf" rel="noopener noreferrer nofollow" target="_blank">3 NA Textbook List</a>
+<p><a href="/files/Useful Links/Students/Students/2025_SEC_3_NA.pdf" rel="noopener nofollow" target="_blank">3 NA Textbook List</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Useful%20Links/Student%20Services/Booklist/3nt%20textbook%20list%202024.pdf" rel="noopener noreferrer nofollow" target="_blank">3 NT Textbook List</a>
+<p><a href="/files/Useful Links/Students/Students/2025_SEC_3_NT.pdf" rel="noopener nofollow" target="_blank">3 NT Textbook List</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Useful%20Links/Student%20Services/Booklist/4e%20textbook%20list%202024.pdf" rel="noopener noreferrer nofollow" target="_blank">4 Express Textbook List</a>
+<p><a href="/files/Useful Links/Students/Students/2025_SEC_4_EXPRESS.pdf" rel="noopener nofollow" target="_blank">4 Express Textbook List</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Useful%20Links/Student%20Services/Booklist/4na%20textbook%20list%202024.pdf" rel="noopener noreferrer nofollow" target="_blank">4 NA Textbook List</a>
+<p><a href="/files/Useful Links/Students/Students/2025_SEC_4_NA.pdf" rel="noopener nofollow" target="_blank">4 NA Textbook List</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Useful%20Links/Student%20Services/Booklist/4nt%20textbook%20list%202024.pdf" rel="noopener noreferrer nofollow" target="_blank">4 NT Textbook List</a>
+<p><a href="/files/Useful Links/Students/Students/2025_SEC_4_NT.pdf" rel="noopener nofollow" target="_blank">4 NT Textbook List</a>
 </p>
 </li>
 <li>

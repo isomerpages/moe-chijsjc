@@ -270,15 +270,7 @@ variant: tiptap
 <blockquote>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Useful%20Links/Student%20Services/Booklist/2e%20textbook%20list%202024.pdf" rel="noopener noreferrer nofollow" target="_blank">2 Express Textbook List</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Useful%20Links/Student%20Services/Booklist/2na%20textbook%20list%202024.pdf" rel="noopener noreferrer nofollow" target="_blank">2 NA Textbook List</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Useful%20Links/Student%20Services/Booklist/2nt%20textbook%20list%202024.pdf" rel="noopener noreferrer nofollow" target="_blank">2 NT Textbook List</a>
+<p><a href="/files/Useful Links/Students/Students/2025_SEC_2_G1_G2_G3.pdf" rel="noopener nofollow" target="_blank">2 G1/G2/G3 Textbook List</a>
 </p>
 </li>
 <li>

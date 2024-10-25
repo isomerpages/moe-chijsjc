@@ -263,7 +263,7 @@ variant: tiptap
 </blockquote>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>2024 Textbook List</strong>
+<p><strong>2025 Textbook List</strong>
 </p>
 </li>
 </ul>

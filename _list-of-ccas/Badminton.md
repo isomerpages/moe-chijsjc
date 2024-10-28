@@ -59,9 +59,9 @@ players from different levels to better know one another</p>
 <br>
 </p>
 <p><strong>Teachers-in-charge</strong> 
-<br>Mr Ong Sze Kiat (IC)
 <br>Ms Albaniah Zakila Bte Aman
-<br>Ms Nurul Adilah
+<br>Mr Veerapan Parimaleswaran
+<br>
 <br>
 </p>
 <p>*<em>Additional sessions during peak season/ for school team players.</em>

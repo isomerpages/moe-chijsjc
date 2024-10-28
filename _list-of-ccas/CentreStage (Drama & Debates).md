@@ -4,10 +4,10 @@ permalink: /centrestage/
 description: ""
 variant: tiptap
 ---
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2024 CCA Banners/Centrestage.jpg">
 </div>
+<p></p>
 <h4><strong>About</strong></h4>
 <p>CentreStage is a fun-filled CCA where students are provided with a platform
 to express themselves eloquently, articulately and persuasively. During

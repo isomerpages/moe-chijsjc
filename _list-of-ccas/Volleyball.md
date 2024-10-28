@@ -5,8 +5,9 @@ description: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2023/Volleyball/volleyball.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2024 CCA Banners/Volleyball.jpg">
 </div>
+<p></p>
 <h4><strong>About</strong></h4>
 <p>In SJC Volleyball, the players’ commitment to the rigorous training strengthen
 their bond as a team. Team building activities, training camps and sports

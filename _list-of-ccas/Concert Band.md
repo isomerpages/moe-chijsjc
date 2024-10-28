@@ -5,8 +5,9 @@ description: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2023/Concert%20Band/concert%20band.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2024 CCA Banners/Concert_Band.jpg">
 </div>
+<p></p>
 <h4><strong>About</strong></h4>
 <p>Welcome to the CHIJ SJC Concert Band, a group of skilled and passionate
 musicians dedicated to creating beautiful music. Our band is comprised

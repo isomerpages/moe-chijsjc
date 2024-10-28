@@ -51,13 +51,14 @@ and team spirit through training sessions and performances.</p>
 </ul>
 <h4><strong>CCA Information</strong></h4>
 <p><strong>Schedule</strong>       
-<br>Monday: 3.45 pm – 6.00 pm
-<br>Thursday: 3.45 pm – 6.15 pm
+<br>Monday: 4.45 pm – 6.00 pm
+<br>Thursday: 3.00 pm – 6.00 pm
 <br>
 </p>
 <p><strong>Teachers-in-charge</strong> 
 <br>Ms Nurul 'Ain Sakina Bte Soonaan (IC)
 <br>Ms Hafifah Binte Mohd Hafiz Tan
+<br>Mr Jeremiah Ho Jing Yew
 <br>
 </p>
 <h4><strong>Achievements</strong></h4>

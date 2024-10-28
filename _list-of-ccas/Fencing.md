@@ -7,8 +7,9 @@ variant: tiptap
 <p><strong>Please note that this CCA will not be taking in Sec 1 students from 2023</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2023/Fencing/fencing.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2024 CCA Banners/Fencing.jpg">
 </div>
+<p></p>
 <h4><strong>About</strong></h4>
 <p>The art of fencing provides a rigorous physical and mental workout. Fencing
 boosts both cardiovascular strength and concentration levels, and is an

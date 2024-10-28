@@ -5,8 +5,9 @@ description: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2023/Handbell%20ensemble/handbell%20ensemble.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2024 CCA Banners/Handbell___Hand_Chime_Ensemble.jpg">
 </div>
+<p></p>
 <h4><strong>About</strong></h4>
 <p>The SJC Handbell Ensemble has been ringing with joy and gratitude since
 2006 when it was first formed with a small group of 22 students. Since

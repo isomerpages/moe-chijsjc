@@ -5,8 +5,9 @@ description: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2023/Netball/netball.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2024 CCA Banners/Netball.jpg">
 </div>
+<p></p>
 <h4><strong>About</strong></h4>
 <p>SJC Netball has a long and rich tradition in the school. The team is blessed
 with generations of SJC netballers who were and are closely linked to the

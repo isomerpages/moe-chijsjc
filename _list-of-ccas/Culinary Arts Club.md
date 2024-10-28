@@ -5,8 +5,9 @@ description: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2023/Culinary%20Arts/culinary%20arts.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2024 CCA Banners/Culinary_Arts.jpg">
 </div>
+<p></p>
 <h4><strong>About</strong></h4>
 <p>The Culinary Arts Club is a platform where students experience hands-on
 sessions on the art of food preparation, cooking, presentation and serving.

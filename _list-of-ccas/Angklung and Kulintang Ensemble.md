@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2023/Angklung and Kulintang/angklung and kulintang ensemble.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2024 CCA Banners/Angklung_and_Kulintang_Ensemble.jpg">
 </div>
 <h4></h4>
 <h4><strong>About</strong></h4>

@@ -53,10 +53,9 @@ CCA camps.</p>
 <br>
 </p>
 <p><strong>Teachers-in-charge</strong> 
-<br>Ms Neo Hui Ning Melissa (IC)
-<br>Ms Jean Lim
+<br>Ms Juliet Yeo (IC)
 <br>Ms Afroza Begum Bte Kamal
-<br>Ms Juliet Yeo (OIC Sem 2)
+<br>Ms Jean Lim
 <br>
 </p>
 <h4><strong>Achievements</strong></h4>

@@ -5,8 +5,9 @@ description: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2023/Table%20Tennis/table%20tennis.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2024 CCA Banners/Table_Tennis.jpg">
 </div>
+<p></p>
 <h4><strong>About</strong></h4>
 <p>Table Tennis is a sport that requires dexterity and focus. The speed,
 spin and placement of the ball are crucial in table tennis. Due to the

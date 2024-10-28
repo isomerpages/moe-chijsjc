@@ -69,6 +69,9 @@ and promote student motivation.</p>
 <p>Recipient of the Gold Award at the AGM 2023</p>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Craft and Technology/Computer Applications/CPA___Gabrielle_AGM_2024.jpg">
+</div>
 <p>Recipient of the Bronze Award at the AGM 2024</p>
 <p>“This experience introduced me to a new, efficient approach to animation—coding.
 Unlike traditional frame-by-frame drawing, coding allows for simple commands

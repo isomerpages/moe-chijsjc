@@ -77,18 +77,40 @@ Google Classroom and SLS.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Craft%20and%20Technology/Nutrition%20&amp;%20Food%20Science/N2.png">
 </div>
-<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Craft and Technology/Nutrition &amp; Food Science/Baking_Workshop_1.jpg">
 </div>
 <p></p>
+</th>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Craft and Technology/Nutrition &amp; Food Science/Baking_Workshop_3.jpg">
+</div>
+<p></p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Craft and Technology/Nutrition &amp; Food Science/Baking_Workshop_2.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Craft and Technology/Nutrition &amp; Food Science/Baking_Workshop_3.jpg">
-</div>
+</th>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>
 <p>"Today, we learned how to make a fruit compote using the reduction method,
 bake a chocolate cake using the creaming method, and prepare a light, delicious

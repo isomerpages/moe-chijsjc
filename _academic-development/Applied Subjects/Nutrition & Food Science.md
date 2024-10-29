@@ -110,18 +110,6 @@ Google Classroom and SLS.</p>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>caption ehre</p>
-</th>
-</tr>
-</tbody>
-</table>
 <p></p>
 <p></p>
 <p>"Today, we learned how to make a fruit compote using the reduction method,

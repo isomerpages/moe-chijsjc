@@ -120,34 +120,6 @@ the CCA.</p>
 <p>Certificate of Accomplishment</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Art Presentation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Instrumental Ensemble</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Distinction</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>London College of Music (Assessment)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Instrumental Ensemble</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Distinction</p>
-</td>
-</tr>
 </tbody>
 </table>
 <div class="isomer-image-wrapper">

@@ -123,42 +123,6 @@ the hearts of all who listen.</p>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Arts Presentation 2017
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Concert Band
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Accomplishment
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <div class="isomer-image-wrapper">

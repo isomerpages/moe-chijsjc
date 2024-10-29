@@ -80,7 +80,7 @@ Learning this technique was both challenging and rewarding, and I truly
 enjoyed every step of the journey. Receiving this award was an unexpected
 and exciting recognition of my work, and it inspires me to continue exploring
 creative possibilities in animation”</p>
-<p>Klassen Gabrielle Theresse, Sec 2A (2024)</p>
+<p>Klassen Gabrielle Theresse, Sec 2D (2024)</p>
 <p><strong>Our Accolades</strong>&nbsp;</p>
 <p><strong>Animation and Game Making (AGM) Competition 2024</strong>
 </p>

@@ -106,26 +106,6 @@ Volleyball Championship for ‘B’ and ‘C’ Division girls teams</p>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2019
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>National School Games North Zone Schools Volleyball Championship 2019
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>B Division, Girls
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4th Position</p>
-</td>
-</tr>
 </tbody>
 </table>
 <div class="isomer-image-wrapper">

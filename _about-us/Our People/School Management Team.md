@@ -277,7 +277,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Fiona Choo
-<br><a href="mailto: choo_li_ting_fiona@moe.edu.sg" rel="noopener nofollow" target="_blank">choo_li_ting_fiona@moe.edu.sg</a>
+<br><a href="mailto:choo_li_ting_fiona@moe.edu.sg" rel="noopener nofollow" target="_blank">choo_li_ting_fiona@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">

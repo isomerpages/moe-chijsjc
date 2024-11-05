@@ -12,15 +12,10 @@ variant: markdown
 *   Best Practice Award for Character and Citizenship (2014 - 2020)
 *   Best Practice Award for Teaching and Learning (2014 - 2020)
 
-  
-
 **Environmental Awards**
 
 *    Silver Award at the National Youth Upcycling Movement (2023)
-*    Gold Award at the Sustainability Advocacy Challenge (2024)
-*   kuan ting ntu research thing?
-
-  
+*    Gold Award at the Sustainability Advocacy Challenge (2024)  
 
 **Other Awards**
 

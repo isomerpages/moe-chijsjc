@@ -3,8 +3,8 @@ title: Organisational Achievements
 permalink: /about-us/Accolades/Organisational-Achievements/
 description: ""
 third_nav_title: School Achievements
+variant: markdown
 ---
-
 **School Awards**
 
 *   Lee Hsien Loong Innovation in Normal Course Award (2015 - 2021)
@@ -16,7 +16,8 @@ third_nav_title: School Achievements
 
 **Environmental Awards**
 
-*   Lotus Award by the Singapore Environmental Council (2015)
+*   ching hui eco steward
+*   kuan ting ntu research thing?
 
   
 

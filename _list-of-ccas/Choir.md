@@ -89,6 +89,17 @@ Day, IllumiNite)</p>
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Asia Arts Festival</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Singapore Youth Festival Arts Presentation</p>
 </td>
 <td rowspan="1" colspan="1">

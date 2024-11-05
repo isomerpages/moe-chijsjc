@@ -107,6 +107,20 @@ by Singapore Discovery Centre</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>N.E.mation! 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Student</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 10 Finalist, Special Mention</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">

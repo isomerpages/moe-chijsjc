@@ -16,7 +16,8 @@ variant: markdown
 
 **Environmental Awards**
 
-*   ching hui eco steward
+*    Silver Award at the National Youth Upcycling Movement (2023)
+*    Gold Award at the Sustainability Advocacy Challenge (2024)
 *   kuan ting ntu research thing?
 
   

@@ -385,6 +385,9 @@ ankle bands, chains, rings, friendship bands, etc.) are not allowed.</p>
 </li>
 </ul>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Code of Conduct/Code_of_Conduct_Attire_and_Grooming_Picture_2025.png">
+</div>
 <h4><strong>5. USE OF ELECTRONIC DEVICES</strong></h4>
 <ul data-tight="true" class="tight">
 <li>

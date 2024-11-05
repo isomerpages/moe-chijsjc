@@ -31,6 +31,28 @@ stronger friendship amongst students, teachers and coaches.</p>
 <p>To instill discipline and build confidence in all choir members.</p>
 </li>
 </ul>
+<h4><strong>Activities</strong></h4>
+<ul>
+<li>
+<p>Weekly training sessions and sectionals</p>
+</li>
+<li>
+<p>CCA bonding sessions</p>
+</li>
+<li>
+<p>Secondary 4 Farewell Party</p>
+</li>
+<li>
+<p>Participation in concerts/performances for school events (eg National
+Day, IllumiNite)</p>
+</li>
+<li>
+<p>Exchanges/Bootcamps with other schools and external choirs</p>
+</li>
+<li>
+<p>Choral Masterclasses and Workshops</p>
+</li>
+</ul>
 <h4><strong>CCA Information</strong></h4>
 <p><strong>Schedule</strong>       
 <br>Wednesday: 3.45 pm to 6.15 pm

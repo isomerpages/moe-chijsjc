@@ -61,6 +61,10 @@ Day, IllumiNite)</p>
 <li>
 <p>Exchange with Voice of Singapore (2024)</p>
 </li>
+<li>
+<p>Bootcamp with Bedok View Secondary, Pei Hwa Secondary and Unity Secondary
+(2024)</p>
+</li>
 </ul>
 <h4><strong>CCA Information</strong></h4>
 <p><strong>Schedule</strong>       
@@ -134,4 +138,5 @@ Day, IllumiNite)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2023/Choir/picture1.jpg">
 </div>
+<p></p>
 <p></p>

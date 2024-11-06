@@ -52,19 +52,6 @@ Day, IllumiNite)</p>
 <li>
 <p>Choral Masterclasses and Workshops</p>
 </li>
-<li>
-<p>CHIJ 170th Anniversary Mass (2024)</p>
-</li>
-<li>
-<p>Combined VPA Concert "IllumiNite" held at Victoria Concert Theatre (2024)</p>
-</li>
-<li>
-<p>Exchange with Voice of Singapore (2024)</p>
-</li>
-<li>
-<p>Bootcamp with Bedok View Secondary, Pei Hwa Secondary and Unity Secondary
-(2024)</p>
-</li>
 </ul>
 <h4><strong>CCA Information</strong></h4>
 <p><strong>Schedule</strong>       

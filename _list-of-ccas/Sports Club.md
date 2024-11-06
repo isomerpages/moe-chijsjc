@@ -59,7 +59,61 @@ will continue to lead a healthy and active lifestyle beyond secondary education.
 <br><strong>Teachers-in-charge</strong>
 <br>Mr Muhammad Taufiq (IC)
 <br>Ms Soh Bee Pheng
-<br>Mr Lyndon Lee
+<br>Mr Lyndon Lee</p>
+<h4><strong>Achievements</strong></h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name of Competition</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Division/Category</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd ActiveSG-TBAS Inter-Schools Tchoukball Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B &amp; C Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st ActiveSG-TBAS Inter-Schools Tchoukball Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B &amp; C Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
 <br>
 </p>
 <div class="isomer-image-wrapper">

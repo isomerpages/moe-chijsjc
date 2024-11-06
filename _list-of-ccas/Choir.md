@@ -31,6 +31,28 @@ stronger friendship amongst students, teachers and coaches.</p>
 <p>To instill discipline and build confidence in all choir members.</p>
 </li>
 </ul>
+<h4><strong>Activities</strong></h4>
+<ul>
+<li>
+<p>Weekly training sessions and sectionals</p>
+</li>
+<li>
+<p>CCA bonding sessions</p>
+</li>
+<li>
+<p>Secondary 4 Farewell Party</p>
+</li>
+<li>
+<p>Participation in concerts/performances for school events (eg National
+Day, IllumiNite)</p>
+</li>
+<li>
+<p>Exchanges/Bootcamps with other schools and external choirs</p>
+</li>
+<li>
+<p>Choral Masterclasses and Workshops</p>
+</li>
+</ul>
 <h4><strong>CCA Information</strong></h4>
 <p><strong>Schedule</strong>       
 <br>Wednesday: 3.45 pm to 6.15 pm
@@ -67,6 +89,17 @@ stronger friendship amongst students, teachers and coaches.</p>
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Asia Arts Festival</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Singapore Youth Festival Arts Presentation</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -92,4 +125,5 @@ stronger friendship amongst students, teachers and coaches.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2023/Choir/picture1.jpg">
 </div>
+<p></p>
 <p></p>

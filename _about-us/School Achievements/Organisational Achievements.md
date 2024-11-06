@@ -20,3 +20,4 @@ variant: markdown
 **Other Awards**
 
 *   People Developer Award by Spring Singapore (2017 – 2023)
+*   Certificate of Merit on Empowering STEM Education Professionals Programme (23/24)

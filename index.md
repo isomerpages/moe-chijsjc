@@ -16,10 +16,11 @@ sections:
           description: Check what's coming up
           url: /sjc-calendar
   - infopic:
-      title: Open House
-      subtitle: Join us on 9 November
+      title: E-Open House
+      subtitle: EXPLORE SJC
       id: infopic
-      description: Find out more about what SJC has to offer from our students and staff.
+      description: Thank you for visiting us! Explore our E-Open House site to find
+        out more about the SJC experience.
       button: Details here
       url: https://chijstjosephsconvent.moe.edu.sg/sjc-open-house-2024/
       image: /images/Homepage/Website_banner.png

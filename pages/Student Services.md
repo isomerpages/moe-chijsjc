@@ -16,7 +16,7 @@ Our school uniform supplier is **KH Uniform Pte Ltd**.
 **Online Purchase of Uniform**
 
 *   Sale of school uniform is available online at [**www.khuniform.com**](http://www.khuniform.com/)
-*   Please refer to [SJC School Uniform Info Sheet](/files/Useful%20Links/Student%20Services/Uniform%20Supplier/sjc%20school%20uniform%20info%20sheet.pdf) for details.
+*   Please refer to [SJC School Uniform Info Sheet ](/files/Useful%20Links/Student%20Services/Uniform%20Supplier/2_SJC_All_Levels.pdf) for details.
 
 #### **BOOKSHOP**
 Our school bookshop supplier is **Casco Educational Supply Pte Ltd**.

@@ -215,6 +215,10 @@ variant: tiptap
 <p><a href="/files/Useful Links/Students/Students/Step_by_step_Guide_to_Backup_Your_Files_on_the_Chromebook.pdf" rel="noopener noreferrer nofollow" target="_blank">Step by step Guide to Backup Your Files on the Chromebook</a>
 </p>
 </li>
+<li>
+<p><a href="/files/Useful Links/Students/Students/pdlp chromebook service centre.pdf" rel="noopener nofollow" target="_blank">PDLP Chromebook Service Centre Information</a>
+</p>
+</li>
 </ul>
 </blockquote>
 <h4><strong>CCE MATTERS</strong></h4>

@@ -32,7 +32,7 @@ figcaption {
 
 *    Nurture the passion for Humanities through various experiential learning opportunities such as learning journeys (e.g. visit to Old Ford Factory Museum and LTA Gallery) and enrichment programmes (e.g. Historical Scene Investigation Challenge by NLB and NUS Geography Challenge).
 
-*    Make learning of Humanities meaningful by deepening students’ disciplinary understanding and engaging students in discussion of real-world issues associated with the Humanities.
+Make learning of Humanities meaningful by deepening students’ disciplinary understanding and engaging students in discussion of real-world issues associated with the Humanities.
   
 
 #### **PROGRAMMES**
@@ -40,35 +40,36 @@ figcaption {
 ##### **Geography**
 
 * NUS Geography Challenge (annual participation)
-* Fieldwork (Annual): Coastal Fieldwork @ East Coast Park (Pure Geography students), Tourism Fieldwork @ Chinatown/ Little India/ Merlion Park (Sec 3 Express /Normal Academic)
-* Learning Journeys (2023): URA and LTA Gallery (Sec 2)
-
-![](/images/Curriculum/Humanities/H1.png)
+* Fieldwork (Annual): Tourism Fieldwork @ Chinatown/ Little India/ Merlion Park
+* Learning Journeys: URA and LTA Gallery
 
 ![](/images/Curriculum/Humanities/2023human1.jpg)
 
+![](/images/Curriculum/Humanities/cap2024geog.png)
+
+![](/images/Curriculum/Humanities/cap2024tourism.png)
+
 ##### **History**
 
-* Civic District Trail (Sec 1s)
-* Learning Journey to Old Ford Factory Museum (Sec 2s)
+* Inter-disciplinary Civic District Trail (Sec 1s)
+* Art-History Trail at National Gallery (Sec 2s)
 * Historical Investigation - Stories of Nazi Germany (Sec 3s)
 
 ![](/images/Curriculum/Humanities/2023human2.jpg)
 
-![](/images/Curriculum/Humanities/2023human3.jpg)
+![](/images/Curriculum/Humanities/cap2024ngs.png)
 
 ![](/images/Curriculum/Humanities/2023human4.jpg)
   
-##### **Social Studies**
+##### **Social Studies and Global Awareness Programmes**
   
 * Current Affairs Quiz (Monthly) for all levels
-* Global Classroom Experience (Virtual Learning Journey to countries in ASEAN) for Sec 1-3 students
-* CPF Game On! Programme and Workshop for all Sec 3NA/ 3Exp students
-* Sec 3Exp/3NA Issues Investigation: What does citizenship mean to students?
-* S.U.R.E Programme- Combating Fake News by NLB (Assembly Programme)
+* Global Classroom Experience (Virtual Learning Journey to countries in ASEAN) for Sec 1 students
+* Sec 3Exp/3NA Issues Investigation: To what extent do Singaporeans welcome foreigners?
+* External competitions e.g. Model United Nations and Model Parliament conferences for selected students
 
-![](/images/Curriculum/Humanities/H5.png)
+![](/images/Curriculum/Humanities/cap2024parliament.png)
 
-![](/images/Curriculum/Humanities/H6.png)
+![](/images/Curriculum/Humanities/cap2024gc.png)
 
-![](/images/Curriculum/Humanities/2023human5.jpg)
+![](/images/Curriculum/Humanities/cap2024melaka.png)

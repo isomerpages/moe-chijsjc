@@ -91,6 +91,22 @@ values and moral ethics.</p>
 <p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>National School Games (Pool)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>'C' Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 4</p>
+<p>(Advanced to League 1)</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>National School Games (Zonal)</p>
 </td>
 <td rowspan="1" colspan="1">

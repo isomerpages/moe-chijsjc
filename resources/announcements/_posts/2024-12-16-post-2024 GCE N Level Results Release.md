@@ -17,4 +17,3 @@ admissions.</p>
 </li>
 </ul>
 <p>Thank you and all the best.</p>
-<p></p>

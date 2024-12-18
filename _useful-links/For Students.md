@@ -274,39 +274,39 @@ variant: tiptap
 <blockquote>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Useful Links/Students/Students/2025_SEC_2_G1_G2_G3.pdf" rel="noopener nofollow" target="_blank">2 G1/G2/G3 Textbook List</a>
+<p><a href="/files/Useful Links/Student Services/Booklist/2025_SEC_2_G1_G2_G3.pdf" rel="noopener nofollow" target="_blank">2 G1/G2/G3 Textbook List</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Useful Links/Students/Students/2025_SEC_3_EXPRESS_PURE_SCIENCE.pdf" rel="noopener nofollow" target="_blank">3 Express Textbook List (Pure Science)</a>
+<p><a href="/files/Useful Links/Student Services/Booklist/2025_SEC_3_EXPRESS_PURE_SCIENCE.pdf" rel="noopener nofollow" target="_blank">3 Express Textbook List (Pure Science)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Useful Links/Students/Students/2025_SEC_3_EXPRESS_COMBINED_SCIENCE.pdf" rel="noopener nofollow" target="_blank">3 Express Textbook List (Combined Science)</a>
+<p><a href="/files/Useful Links/Student Services/Booklist/2025_SEC_3_EXPRESS_COMBINED_SCIENCE.pdf" rel="noopener nofollow" target="_blank">3 Express Textbook List (Combined Science)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Useful Links/Students/Students/2025_SEC_3_NA.pdf" rel="noopener nofollow" target="_blank">3 NA Textbook List</a>
+<p><a href="/files/Useful Links/Student Services/Booklist/2025_SEC_3_NA.pdf" rel="noopener nofollow" target="_blank">3 NA Textbook List</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Useful Links/Students/Students/2025_SEC_3_NT.pdf" rel="noopener nofollow" target="_blank">3 NT Textbook List</a>
+<p><a href="/files/Useful Links/Student Services/Booklist/2025_SEC_3_NT.pdf" rel="noopener nofollow" target="_blank">3 NT Textbook List</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Useful Links/Students/Students/2025_SEC_4_EXPRESS.pdf" rel="noopener nofollow" target="_blank">4 Express Textbook List</a>
+<p><a href="/files/Useful Links/Student Services/Booklist/2025_SEC_4_EXPRESS.pdf" rel="noopener nofollow" target="_blank">4 Express Textbook List</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Useful Links/Students/Students/2025_SEC_4_NA.pdf" rel="noopener nofollow" target="_blank">4 NA Textbook List</a>
+<p><a href="/files/Useful Links/Student Services/Booklist/2025_SEC_4_NA.pdf" rel="noopener nofollow" target="_blank">4 NA Textbook List</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Useful Links/Students/Students/2025_SEC_4_NT.pdf" rel="noopener nofollow" target="_blank">4 NT Textbook List</a>
+<p><a href="/files/Useful Links/Student Services/Booklist/2025_SEC_4_NT.pdf" rel="noopener nofollow" target="_blank">4 NT Textbook List</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Useful%20Links/Student%20Services/Booklist/5na%20textbook%20list%202024.pdf" rel="noopener noreferrer nofollow" target="_blank">5 NA Textbook List</a>
+<p><a href="/files/Useful Links/Student Services/Booklist/2025_SEC_5NA.pdf" rel="noopener nofollow" target="_blank">5 NA Textbook List</a>
 </p>
 </li>
 </ul>

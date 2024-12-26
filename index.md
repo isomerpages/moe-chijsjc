@@ -25,6 +25,17 @@ sections:
       url: https://sites.google.com/moe.edu.sg/chijsjc2024/home
       image: /images/Homepage/Sec_1_Registration.png
       alt: Image alt text
+  - infopic:
+      title: SJC 2024 Yearbook
+      subtitle: EXPLORE SJC
+      id: infopic
+      description: We’re excited to announce the release of the SJC Yearbook 2024!
+        Congratulations to everyone for contributing to this wonderful
+        collection of memories.
+      button: 2024 Yearbook
+      url: https://online.fliphtml5.com/obrr/figw/
+      image: /images/Homepage/2024_Yearbook_Banner.jpg
+      alt: Image alt text
   - resources:
       title: News and Announcements
       button: Read More

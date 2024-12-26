@@ -4,7 +4,7 @@ permalink: /sjc-2024-yearbook/
 variant: tiptap
 description: ""
 ---
-<h1>CHIJ SJC 2024 Yearbook</h1>
+<h1>SJC 2024 Yearbook</h1>
 <p>We’re excited to announce the release of the SJC Yearbook 2024!</p>
 <p>Congratulations to everyone for contributing to this wonderful collection
 of memories.</p>

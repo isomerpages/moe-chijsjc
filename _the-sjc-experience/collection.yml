@@ -2,6 +2,7 @@ collections:
   the-sjc-experience:
     output: true
     order:
+      - SJC 2024 Yearbook.md
       - Our CCAs/.keep
       - Our CCAs/CCA Overview.md
       - Our CCAs/Clubs and Societies.md

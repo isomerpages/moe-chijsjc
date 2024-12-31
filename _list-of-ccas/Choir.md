@@ -56,7 +56,7 @@ Day, IllumiNite)</p>
 <h4><strong>CCA Information</strong></h4>
 <p><strong>Schedule</strong>       
 <br>Wednesday: 3.45 pm to 6.15 pm
-<br>Friday: 3.45 pm – 6.00 pm
+<br>Friday: 3.45 pm – 6.15 pm
 <br>
 </p>
 <p><strong>Teachers-in-charge</strong> 

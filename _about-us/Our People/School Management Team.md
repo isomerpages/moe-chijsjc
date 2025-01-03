@@ -62,7 +62,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/ English</p>
+<p>HOD/ English &amp; Literature</p>
 </td>
 </tr>
 <tr>
@@ -272,7 +272,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/ SM</p>
+<p>SH/ Student Management</p>
 </td>
 </tr>
 <tr>
@@ -322,7 +322,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AYH / Sec 4/5</p>
+<p>AYH / Sec 4 &amp; 5</p>
 </td>
 </tr>
 </tbody>

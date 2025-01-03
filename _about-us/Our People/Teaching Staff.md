@@ -263,7 +263,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Cheak Ching Hui
+<p>Ms Cheak Ching Hui
 <br><a href="mailto:cheak_ching_hui@moe.edu.sg" rel="noopener nofollow" target="_blank">cheak_ching_hui@moe.edu.sg</a>
 </p>
 </td>
@@ -412,7 +412,7 @@ variant: tiptap
 <p>3D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Gemma Pereira Lee
+<p>Ms Gemma Lee Pereira
 <br><a href="mailto:pereira_gemma_lee@moe.edu.sg" rel="noopener nofollow" target="_blank">pereira_gemma_lee@moe.edu.sg</a>
 </p>
 </td>
@@ -440,7 +440,7 @@ variant: tiptap
 <p>3F</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ong Suat King
+<p>Ms Ong Suat King
 <br><a href="mailto:ong_suat_king@moe.edu.sg" rel="noopener nofollow" target="_blank">ong_suat_king@moe.edu.sg</a>
 </p>
 </td>
@@ -567,7 +567,7 @@ variant: tiptap
 <p>4D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yeo Li-Yen Juliet
+<p>Mdm Yeo Li-Yen Juliet
 <br><a href="mailto:yeo_li-yen_juliet@moe.edu.sg" rel="noopener nofollow" target="_blank">yeo_li-yen_juliet@moe.edu.sg</a>
 </p>
 </td>

@@ -168,7 +168,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Yang Peishan
+<p>Ms Yang Peishan
 <br><a href="mailto:yang_peishan@moe.edu.sg" rel="noopener nofollow" target="_blank">yang_peishan@moe.edu.sg</a>
 </p>
 </td>

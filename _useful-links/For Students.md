@@ -8,26 +8,26 @@ variant: tiptap
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Timetable for Sem 2, 2024</strong>
+<p><strong>Timetable for Sem 1, 2025</strong>
 </p>
 </li>
 </ul>
 <blockquote>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://drive.google.com/file/d/1utm2Jb0Dwi7hBI72lhr36u6XTX6N20jm/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 Timetable</a>
+<p><a href="/files/Useful Links/Students/Timetables/2025_SEM_1___Sec_1_TT.pdf" rel="noopener nofollow" target="_blank">Secondary 1 Timetable</a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1OY_PQZZiZTHdhYFz4s2AoQHgNwx8-J0C/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 Timetable</a>
+<p><a href="/files/Useful Links/Students/Timetables/2025_SEM_1___Sec_2_TT.pdf" rel="noopener nofollow" target="_blank">Secondary 2 Timetable</a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/12G9P5xVNUTAGKeev2QW2l_e0OfdcIRo1/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Secondary 3 Timetable</a>
+<p><a href="/files/Useful Links/Students/Timetables/2025_SEM_1___Sec_3_TT.pdf" rel="noopener nofollow" target="_blank">Secondary 3 Timetable</a>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/14xcCdAlY7ZIIbJTc_cXI5VuSId1NLPVb/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 &amp; 5 Timetable</a>
+<p><a href="/files/Useful Links/Students/Timetables/2025_SEM_1___Sec_4_5_TT.pdf" rel="noopener nofollow" target="_blank">Secondary 4 &amp; 5 Timetable</a>
 </p>
 </li>
 </ul>

@@ -314,7 +314,7 @@ variant: tiptap
 <p>2H</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Peh Peck Hoon
+<p>Mrs Ng Peck Hoon
 <br><a href="mailto:peh_peck_hoon@moe.edu.sg" rel="noopener nofollow" target="_blank">peh_peck_hoon@moe.edu.sg</a>
 </p>
 </td>

@@ -54,6 +54,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Shazana bte Abdul Majid</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Darirah</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -105,7 +113,15 @@ variant: tiptap
 <p>Miss Dania Darwisyah Binte Mohamed Aslam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Receptionist</p>
+<p>Admin Support</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ong Xin Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Management Support</p>
 </td>
 </tr>
 </tbody>
@@ -192,14 +208,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Dolly Khemani</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior School Counsellor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Jasmine Phua Seok Ming</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -216,7 +224,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Pan Miaohua</p>
+<p>Ms Lim Theng, Joelle</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Education &amp; Career Guidance (ECG) Counsellor</p>

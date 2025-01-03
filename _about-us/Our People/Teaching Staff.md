@@ -397,7 +397,7 @@ variant: tiptap
 <p>3C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lim Susie
+<p>Mrs Lim Susie (ST History)
 <br><a href="mailto:lim_susie@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_susie@moe.edu.sg</a>
 </p>
 </td>
@@ -441,7 +441,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ong Suat King
-<br><a href="mailto:ong_suat_king@moe.edu.sg" rel="noopener nofollow" target="_blank">ong_suat_king@moe.edu.sg</a> 
+<br><a href="mailto:ong_suat_king@moe.edu.sg" rel="noopener nofollow" target="_blank">ong_suat_king@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -602,7 +602,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Cindy Soon
+<p>Mrs Cindy Soon (ST Geography<strong>)</strong>
 <br><a href="mailto:cindy_soon@moe.edu.sg" rel="noopener nofollow" target="_blank">cindy_soon@moe.edu.sg</a>
 </p>
 </td>

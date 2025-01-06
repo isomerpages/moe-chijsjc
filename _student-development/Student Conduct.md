@@ -37,8 +37,9 @@ for CCA and any&nbsp;activity organised by the school.</p>
 </li>
 <li>
 <p>SJCians should submit to their Form Teacher, upon return to school, a
-valid Medical&nbsp;Certificate or Letter of Excuse (not more than 4 per
-term) from parents or guardians.</p>
+valid Medical&nbsp;Certificate or Letter of Excuse (not more than 10 per
+year) from parents or guardians. Each letter should cover no more than
+2 days of absences.&nbsp;</p>
 </li>
 <li>
 <p>Absence from school without valid reason is considered as truancy.</p>

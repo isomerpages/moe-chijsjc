@@ -31,7 +31,7 @@ refer to <a href="https://go.gov.sg/selresforparents" rel="noopener nofollow" ta
 </p>
 <p><strong>Attachments:</strong>
 </p>
-<ul data-tight="true" class="tight">
+<ol data-tight="true" class="tight">
 <li>
 <p><a href="/files/1__2024_O_Level_Briefing_Slides_for_Students.pdf" rel="noopener nofollow" target="_blank">Slides shared at results release</a>
 </p>
@@ -52,5 +52,5 @@ refer to <a href="https://go.gov.sg/selresforparents" rel="noopener nofollow" ta
 <p><a href="/files/5__2024_PFP_Briefing_Slides.pdf" rel="noopener nofollow" target="_blank">2024 PFP Briefing Slides</a>
 </p>
 </li>
-</ul>
+</ol>
 <p>Thank you for your continued support and partnership.</p>

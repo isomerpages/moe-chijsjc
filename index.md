@@ -16,16 +16,6 @@ sections:
           description: Check what's coming up
           url: /sjc-calendar
   - infopic:
-      title: Sec 1 (2025) E-Registration
-      subtitle: EXPLORE SJC
-      id: infopic
-      description: Welcome to CHIJ SJC! Congratulations to your daughter for
-        completing a significant milestone in her education journey.
-      button: Details Here
-      url: https://sites.google.com/moe.edu.sg/chijsjc2024/home
-      image: /images/Homepage/Sec_1_Registration.png
-      alt: Image alt text
-  - infopic:
       title: SJC 2024 Yearbook
       subtitle: EXPLORE SJC
       id: infopic

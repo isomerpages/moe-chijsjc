@@ -413,7 +413,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Gemma Lee Pereira
-<br><a href="mailto:pereira_gemma_lee@moe.edu.sg" rel="noopener nofollow" target="_blank">pereira_gemma_lee@moe.edu.sg</a>
+<br><a href="mailto:gemma_lee_pereira@moe.edu.sg" rel="noopener nofollow" target="_blank">gemma_lee_pereira@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -552,7 +552,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Sim Peck Swan, Joanna Gwendoline
-<br><a href="mailto:sim_peck_swan_joanna@moe.edu.sg" rel="noopener nofollow" target="_blank">sim_peck_swan_joanna@moe.edu.sg</a>
+<br><a href="mailto:joanna_gwendolin_sim@moe.edu.sg" rel="noopener nofollow" target="_blank">joanna_gwendolin_sim@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">

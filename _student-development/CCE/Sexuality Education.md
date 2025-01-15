@@ -64,7 +64,40 @@ consequences of sexual behaviour.</p>
 the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
-<h5><strong>Please click </strong><a href="/files/Sexuality Education/2024_SEd.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a><strong> for Sexuality Education lessons that will be taught at CHIJ St. Joseph's Convent in 2025.</strong></h5>
+<h5><strong>At CHIJ St. Joseph's Convent, the following Sexuality Education lessons will be taught in 2025:</strong></h5>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Sex Ed/2025_Info_on_SEd___1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Sex Ed/2025_Info_on_SEd___2.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Sex Ed/2025_Info_on_SEd___3.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Sex Ed/2025_Info_on_SEd___4.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Sex Ed/2025_Info_on_SEd___5.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Sex Ed/2025_Info_on_SEd___6.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Sex Ed/2025_Info_on_SEd___7.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Sex Ed/2025_Info_on_SEd___8.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Sex Ed/2025_Info_on_SEd___9.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Sex Ed/2025_Info_on_SEd___10.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Sex Ed/2025_Info_on_SEd___11.png">
+</div>
 <h4><strong>eTeens Programme</strong></h4>
 <p>8. eTeens is a programme developed by Health Promotion Board, in collaboration
 with the Ministry of Education, to provide Secondary 3 students with accurate
@@ -76,24 +109,23 @@ are empowered to make wise, informed and sensible decisions.</p>
 negotiation to say “no” to sex and negative peer pressure. They also learn
 that the impact of STIs/HIV extends beyond themselves and involves their
 family, and the importance of responsible decision-making and seeking help.
-Abstinence and upholding family values are the key messages. Teens programme
-is that students are empowered to make wise, informed and sensible decisions.</p>
-<h4><strong>At CHIJ St. Joseph’s Convent, the eTeens programme will be implemented as follows in 2024:</strong></h4>
+Abstinence and upholding family values are the key messages.</p>
+<h4><strong>At CHIJ St. Joseph’s Convent, the eTeens programme will be implemented as follows in 2025:</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student%20Development/Sex%20Ed/SEd2024.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Sex Ed/eTeens_Programme.png">
 </div>
 <h4><strong>Information for Parents</strong></h4>
 <p>10. Parents may opt their children out of the Sexuality Education lessons,
 eTeens and/or supplementary sexuality education programmes by MOE-approved
 external providers.</p>
-<p>11.Parents who wish to opt their children out of the Sexuality Education
-lessons need to complete an opt-out form. This form will be communicated
-to parents at the start of the year and is also downloadable <a href="/files/Sexuality Education/2024 sed opt out form.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-The completed form is to be submitted by Mon 5 Feb 2025.</p>
-<p>12. Parents who wish to opt their children out of the eTeens programme
-need to complete an opt-out form. This form will be communicated to parents
-at the start of the year and is also downloadable <a href="/files/Sexuality Education/2024 eteens opt out form.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-The completed form is to be submitted by Mon 5 Feb 2025.</p>
-<p>13. Parents can contact the school at chijsjcs@moe.edu.sg for discussion
+<p>11.Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
+to complete an opt-out form. This form will be communicated to parents
+at the start of the year and is also downloadable <a href="/files/Sexuality Education/SexED 2025/ANNEX_A_SEd_opt_out_form__for_website_.pdf" rel="noopener nofollow" target="_blank">here</a>.
+The completed form is to be submitted by 22/01/2025, Wednesday.</p>
+<p>12. Parents who wish to opt their children out of the <strong>eTeens programme</strong> need
+to complete an opt-out form. This form will be communicated to parents
+at the start of the year and is also downloadable <a href="/files/Sexuality Education/SexED 2025/ANNEX_B_2025_eTeens_opt_out_form__for_PG_and_website_.pdf" rel="noopener nofollow" target="_blank">file</a>.
+The completed form is to be submitted by 22/01/2025, Wednesday.</p>
+<p>13. Parents can contact the school at <a href="mailto:chijsjcs@moe.edu.sg" rel="noopener nofollow" target="_blank">chijsjcs@moe.edu.sg</a> for discussion
 or to seek clarification about the school’s Sexuality Education programme.</p>
 <p></p>

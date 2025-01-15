@@ -16,8 +16,8 @@ marriages and stable nuclear family units with extended family support.
 The teaching and learning of SEd is based on respect for the values and
 beliefs of the different ethnic and religious communities in Singapore
 on sexuality issues.</p>
-<p><strong>2. The&nbsp;Goals&nbsp;of Sexuality Education are to:</strong>
-</p>
+<p>2.<strong> </strong>The&nbsp;<strong>Goals</strong>&nbsp;of Sexuality
+Education are to:</p>
 <p>(a) Support students in managing their physiological, social and emotional
 changes as they grow up and develop safe and healthy relationships.</p>
 <p>(b) Guide students to make wise, informed and responsible decisions on
@@ -25,8 +25,7 @@ sexuality matters.</p>
 <p>(c) Help students develop a moral compass and respect for themselves and
 others by having positive mainstream values and attitudes about sexuality
 that are premised on the family as the basic unit of society.</p>
-<p><strong>3. The Key Messages of Sexuality Education are:</strong>
-</p>
+<p>3. The <strong>Key Messages</strong> of Sexuality Education are:</p>
 <p>(a) Love and respect yourself as you love and respect others;</p>
 <p>(b) Build positive relationships based on love and respect (which are
 the foundation for strong families);</p>
@@ -37,7 +36,7 @@ and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
-<h4><strong>Overview of CHIJ St. Joseph's Convent's Sexuality Education Programme for 2024</strong></h4>
+<h4><strong>Overview of CHIJ St. Joseph's Convent's Sexuality Education Programme for 2025</strong></h4>
 <p>4. Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
@@ -65,7 +64,7 @@ consequences of sexual behaviour.</p>
 the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
-<h5><strong>Please click </strong><a href="/files/Sexuality Education/2024_SEd.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a><strong> for Sexuality Education lessons that will be taught at CHIJ St. Joseph's Convent in 2024.</strong></h5>
+<h5><strong>Please click </strong><a href="/files/Sexuality Education/2024_SEd.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a><strong> for Sexuality Education lessons that will be taught at CHIJ St. Joseph's Convent in 2025.</strong></h5>
 <h4><strong>eTeens Programme</strong></h4>
 <p>8. eTeens is a programme developed by Health Promotion Board, in collaboration
 with the Ministry of Education, to provide Secondary 3 students with accurate

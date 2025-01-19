@@ -54,14 +54,14 @@ players from different levels to better know one another</p>
 <h4><strong>CCA Information</strong></h4>
 <p><strong>Schedule</strong>       
 <br>Monday: 3.45 pm – 6.15 pm
-<br>*Wednesday: 3.45 pm – 6.00 pm
+<br>*Wednesday: 3.45 pm – 6.15 pm
 <br>Friday: 3.45 pm – 6.15 pm
 <br>
 </p>
 <p><strong>Teachers-in-charge</strong> 
-<br>Ms Albaniah Zakila Bte Aman
+<br>Ms Albaniah Zakila Bte Aman (IC)
 <br>Mr Veerapan Parimaleswaran
-<br>
+<br>Ms. Woon Lee Yoon, Tina
 <br>
 </p>
 <p>*<em>Additional sessions during peak season/ for school team players.</em>

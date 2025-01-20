@@ -92,15 +92,15 @@ School Games Table Tennis Finals, World Thinking Day Celebrations, etc.)</p>
 </ul>
 <h4><strong>CCA Information</strong></h4>
 <p><strong>Schedule</strong>       
-<br>Wednesday &amp; Friday: 3.45 pm – 6.00 pm
-<br>*Friday (Semester 1): 3.45 pm – 6.00 pm
+<br>Thursday: 3.45 pm – 6.15 pm
+<br>
 <br>
 </p>
 <p>*Additional session during peak season/competition only.</p>
 <p><strong>Teachers-in-charge</strong> 
-<br>Ms Nur Farizan Bte Abubakar (IC)
-<br>Ms Patrine Chua Chee Huang
-<br>Ms Lee Yu Xian
+<br>Ms. Nur Farizan Bte Abubakar (IC)
+<br>Ms. Lee Yu Xian
+<br>Ms. Sonam Vijaykumar
 <br>
 </p>
 <h4><strong>Achievements</strong></h4>

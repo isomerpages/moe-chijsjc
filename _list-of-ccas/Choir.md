@@ -60,9 +60,9 @@ Day, IllumiNite)</p>
 <br>
 </p>
 <p><strong>Teachers-in-charge</strong> 
-<br>Ms Kathleen Ang (IC)
-<br>Ms Nur Izzati Bte Jasni
-<br>Mr Hu Chong'En
+<br>Ms. Ang Su-En Kathleen (IC)
+<br>Ms. Nur Izzati Binte Jasni
+<br>Mr. Hu Chong'en, Bryan
 <br>
 </p>
 <h4><strong>Achievements</strong></h4>

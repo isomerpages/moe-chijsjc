@@ -54,12 +54,13 @@ values and moral ethics.</p>
 <p><strong>Schedule</strong>       
 <br>Monday: 3.45 pm – 6.00 pm
 <br>Wednesday: 3.45 pm – 6.15 pm
-<br>Friday: 3.30 pm – 6.15 pm
+<br>Friday: 3.45 pm – 6.15 pm
 <br>
 </p>
 <p><strong>Teachers-in-charge</strong> 
-<br>Ms Rachel Ang (IC))
-<br>Ms Crystal Quek
+<br>Ms. Crystal Quek (IC))
+<br>Mr. Ho Jing Yew, Jeremiah
+<br>Mr. Yee Boon Wei
 <br>
 <br>
 </p>

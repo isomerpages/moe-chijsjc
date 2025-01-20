@@ -44,12 +44,13 @@ Volleyball Championship for ‘B’ and ‘C’ Division girls teams</p>
 <p><strong>Schedule</strong> 
 <br>Monday: 3.45 pm - 6.15 pm
 <br>Wednesday: 3.45 pm - 6.00pm
-<br>Thursday: 3.45 pm - 6.15pm
+<br>Thursday: 3.45 pm - 6.00pm
 <br>
 </p>
 <p><strong>Teachers-in-charge</strong>&nbsp;
-<br>Mr Dino Soh
-<br>Mrs Susie Lee
+<br>Mr. Lee Lisheng, Lyndon (IC)
+<br>Ms. Trishta Gill Kaur
+<br>Mr. Foo Seng Hong
 <br>
 </p>
 <p><strong>Achievements</strong>

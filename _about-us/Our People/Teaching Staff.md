@@ -654,4 +654,35 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<h4><strong>Other Teaching Staff</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tifanny Wee
+<br><a href="mailto: tiffany_wee_yan_lyn@moe.edu.sg" rel="noopener nofollow" target="_blank">tiffany_wee_yan_lyn@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Kathleen Ang
+<br><a href="mailto: ang_su_en_kathleen@moe.edu.sg" rel="noopener nofollow" target="_blank">ang_su_en_kathleen@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Yau Ming Chin
+<br><a href="mailto: yau_ming_chin@moe.edu.sg" rel="noopener nofollow" target="_blank">yau_ming_chin@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>

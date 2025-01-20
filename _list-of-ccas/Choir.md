@@ -56,13 +56,13 @@ Day, IllumiNite)</p>
 <h4><strong>CCA Information</strong></h4>
 <p><strong>Schedule</strong>       
 <br>Wednesday: 3.45 pm to 6.15 pm
-<br>Friday: 3.45 pm – 6.15 pm
+<br>Thursday: 3.45 pm – 6.15 pm
 <br>
 </p>
 <p><strong>Teachers-in-charge</strong> 
-<br>Ms Kathleen Ang (IC)
-<br>Ms Nur Izzati Bte Jasni
-<br>Mr Hu Chong'En
+<br>Ms. Ang Su-En Kathleen (IC)
+<br>Ms. Nur Izzati Binte Jasni
+<br>Mr. Hu Chong'en, Bryan
 <br>
 </p>
 <h4><strong>Achievements</strong></h4>

@@ -54,8 +54,8 @@ shooting</p>
 <br>Friday: 3.45 pm - 6.15 pm</p>
 <p>
 <br><strong>Teacher-in-charge</strong>
-<br>Mr Lim Shian Ruenn (IC)
-<br>Ms Noor Ashiqin</p>
+<br>Mr. Lim Shian Ruenn (IC)
+<br>Ms. Noor Ashiqin Binte Hamis</p>
 <h4><strong>Achievements</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>

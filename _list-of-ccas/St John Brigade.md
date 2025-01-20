@@ -64,13 +64,13 @@ to perform basic first aid and life-saving skills.</p>
 </ul>
 <h4><strong>CCA Information</strong></h4>
 <p><strong>Schedule</strong>
-<br>Friday: 3.45pm - 6.15pm
+<br>Thursday: 3.45pm - 6.15pm
 <br>
 </p>
 <p><strong>Teachers-in-charge</strong> 
-<br>Mr Teo Wee Seng (IC)
-<br>Ms Raabiyathul
-<br>Mdm Phoon Lai Ling
+<br>Mr. Teo Wee Seng (IC)
+<br>Ms. Raabiyathul Basariah
+<br>Mdm. Phoon Lai Ling
 <br>
 </p>
 <h4><strong>Achievements</strong></h4>

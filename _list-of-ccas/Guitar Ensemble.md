@@ -62,8 +62,8 @@ in all that they do.</p>
 <br>
 </p>
 <p><strong>Teachers-in-charge</strong> 
-<br>Ms Yeap Wen Qi Clarissa (IC)
-<br>Ms Madeline Lee
+<br>Ms. Teh Yean Yean Iris (IC)
+<br>Ms. Madeline Lee Cui Ying
 <br>
 </p>
 <h4><strong>Achievements</strong></h4>

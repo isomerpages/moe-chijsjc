@@ -40,14 +40,15 @@ with the world. Together, we create beautiful melodies that resonate in
 the hearts of all who listen.</p>
 <h4><strong>CCA Information</strong></h4>
 <p><strong>Schedule</strong>       
-<br>Monday: 3.45 pm – 6.15 pm
+<br>Monday: 3.45 pm – 6.00 pm
 <br>Wednesday: 3.45 pm – 6.00 pm
 <br>
 </p>
 <p><strong>Teachers-in-charge</strong> 
-<br>Ms Ng Seow Lin Adeline (IC)
-<br>Mr Samuel Tan
-<br>Ms Gangka D/O Periasamy
+<br>Ms. Ng Seow Lin Adeline (IC)
+<br>Mr. Tan Shen Yong, Samuel
+<br>Mdm. Norhani Bte Sawi
+<br>Mdm. Singarajan Geetha
 <br>
 <br>
 </p>

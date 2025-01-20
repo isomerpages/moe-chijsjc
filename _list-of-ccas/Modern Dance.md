@@ -50,9 +50,8 @@ Party</p>
 <br>
 </p>
 <p><strong>Teachers-in-charge</strong> 
-<br>Mr Tan Kuan Ting (IC)
-<br>Mrs Singarajan Geetha
-<br>Ms Chan Lian Yin
+<br>Mr. Tan Kuan Ting (IC)
+<br>Ms. Yeap Wen Qi Clarissa
 <br>
 </p>
 <h4><strong>Achievements</strong></h4>

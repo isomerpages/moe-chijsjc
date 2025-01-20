@@ -76,8 +76,8 @@ by Singapore Discovery Centre</p>
 <br>
 </p>
 <p><strong>Teachers-in-charge</strong> 
-<br>Ms Tiffany Wee (IC)
-<br>Mr Mark Chan Chee Keong
+<br>Mr. Mark Chan Chee Keong (IC)
+<br>Mrs. Goh Boon Hong
 <br>
 </p>
 <p>*<em>Additional sessions during competition season.</em>

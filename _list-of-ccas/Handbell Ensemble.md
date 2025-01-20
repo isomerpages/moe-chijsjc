@@ -59,14 +59,13 @@ the CCA.</p>
 </ul>
 <h4><strong>CCA Information</strong></h4>
 <p><strong>Schedule</strong>       
-<br>Monday: 3.45 pm – 6.15pm
-<br>Friday: 3.45 pm – 6.00pm
+<br>Monday: 3.45 pm – 6.15 pm
+<br>Friday: 3.45 pm – 6.15 pm
 <br>
 </p>
 <p><strong>Teachers-in-charge</strong> 
-<br>Mrs Ng Peck Hoon (IC)
-<br>Ms Tharshini Vijayan
-<br>Ms Siti Hawa
+<br>Mrs. Ng Peck Hoon (IC)
+<br>Ms. Siti Hawa Binte Abdul Hadi
 <br>
 </p>
 <h4><strong>Achievements</strong></h4>

@@ -55,8 +55,8 @@ are confident and artistic.</p>
 <br>
 </p>
 <p><strong>Teachers-in-charge</strong> 
-<br>Mrs Cindy Soon (IC)
-<br>Mdm Ng Ai Khim
+<br>Mrs. Cindy Soon (IC)
+<br>Ms. Afroza Begum Binte Kamal
 <br>
 </p>
 <div class="isomer-image-wrapper">

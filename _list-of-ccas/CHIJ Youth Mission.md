@@ -52,8 +52,8 @@ any way possible, both within and outside the CCA.</p>
 <br>
 </p>
 <p><strong>Teachers-in-charge</strong> 
-<br>Ms Gan Yee Hwee (IC)
-<br>Ms Victor Anne
+<br>Ms. Victor Anne Marguerite (IC)
+<br>Mrs. Susie Lee
 <br>
 </p>
 <h4><strong>Achievement</strong></h4>

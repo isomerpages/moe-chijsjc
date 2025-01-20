@@ -49,13 +49,14 @@ CCA camps.</p>
 <p><strong>Schedule</strong>       
 <br>Monday: 3.45 pm – 6.15pm
 <br>Wednesday: 3.45 pm – 6.15 pm
-<br>* Friday: 3.45 pm – 5.45 pm (During competition season)
+<br>
 <br>
 </p>
 <p><strong>Teachers-in-charge</strong> 
-<br>Ms Juliet Yeo (IC)
-<br>Ms Afroza Begum Bte Kamal
-<br>Ms Jean Lim
+<br>Ms. Yeo Li-Yen Juliet (IC)
+<br>Ms. Gemma Pereira Lee
+<br>Ms Jean Lim Le Hui
+<br>Mr. Teo Say Chong, Andrew
 <br>
 </p>
 <h4><strong>Achievements</strong></h4>

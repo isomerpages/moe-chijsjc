@@ -214,14 +214,14 @@ achievements</p>
 </ul>
 <h4><strong>CCA Information</strong></h4>
 <p><strong>Schedule</strong>       
-<br>Friday: 3:45 pm – 6:15 pm
+<br>Thursday: 3:45 pm – 6:15 pm
 <br>
 </p>
 <p><strong>Teachers-in-charge</strong> 
-<br>Ms Ong Suat King (IC)
-<br>Ms Joanna Goh
-<br>Ms Iris Teh
-<br>Mr Loh Chu Ken
+<br>Ms. Ong Suat King (IC)
+<br>Ms. Joanna Goh
+<br>Mr. Aw Siu Lun
+<br>Mr. Loh Chu Ken
 <br>
 </p>
 <h4><strong>Achievements</strong></h4>

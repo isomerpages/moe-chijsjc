@@ -47,7 +47,7 @@ schools in a sports CCA that not many schools have.</p>
 </p>
 <p><strong>Teachers-in-charge</strong> 
 <br>Mr Daniel Chew Ju Ern (IC)
-<br>Mrs Goh Boon Hong
+<br>
 <br>
 </p>
 <h4><strong>Achievements</strong></h4>

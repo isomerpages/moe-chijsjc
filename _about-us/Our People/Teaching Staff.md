@@ -654,7 +654,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4>Other Teaching Staff</h4>
+<h4><strong>Other Teaching Staff</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>

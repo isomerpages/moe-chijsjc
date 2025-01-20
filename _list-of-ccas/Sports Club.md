@@ -53,13 +53,13 @@ will continue to lead a healthy and active lifestyle beyond secondary education.
 </ul>
 <h4><strong>CCA Information</strong></h4>
 <p><strong>Schedule</strong>
-<br>Monday: 3.45 pm - 5.45 pm
+<br>Monday: 3.45 pm - 6.15 pm
 <br>Thursday: 3.45 pm - 6.15 pm</p>
 <p>
 <br><strong>Teachers-in-charge</strong>
-<br>Mr Muhammad Taufiq (IC)
-<br>Ms Soh Bee Pheng
-<br>Mr Lyndon Lee</p>
+<br>Mr. Muhammad Taufiq Bin Najmuddeen (IC)
+<br>Ms. Gan Yee Hwee
+<br>Mdm. Ng Ai Khim</p>
 <h4><strong>Achievements</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>

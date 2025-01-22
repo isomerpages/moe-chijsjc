@@ -67,7 +67,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Veerappan Parimaleswaran
-<br><a href="mailto:veerappan_parismaleswaran@moe.edu.sg" rel="noopener nofollow" target="_blank">veerappan_parismaleswaran@moe.edu.sg</a>
+<br><a href="mailto: veerappan_parimaleswaran@moe.edu.sg" rel="noopener nofollow" target="_blank">veerappan_parimaleswaran@moe.edu.sg</a>
 </p>
 </td>
 </tr>

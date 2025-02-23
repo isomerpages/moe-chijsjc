@@ -131,7 +131,7 @@ are also invited to join in the discussion with their child so that they
 can support their child in making a more informed decision about their
 future pathways.</p>
 <p>Keen to have a chat with an ECG Counsellor? Make an appointment with the
-MOE ECG Centre <a href="https://go.gov.sg/moe-ecg-centre" rel="noopener nofollow" target="_blank">here</a>.</p>
+MOE ECG Centre <a href="https://go.gov.sg/sjcecg" rel="noopener nofollow" target="_blank">here</a>.</p>
 <h5><strong>ECG RESOURCES</strong></h5>
 <p>Visit this page (<a href="https://linktr.ee/sjcecg" rel="noopener noreferrer nofollow" target="_blank">https://linktr.ee/sjcecg</a>) for useful
 links and resources.</p>

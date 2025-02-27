@@ -3,6 +3,7 @@ title: SJC Alumnae (SJCA)
 permalink: /community/Alumni-SJC-Alumnae/About-Us/
 description: ""
 third_nav_title: Our Community
+variant: markdown
 ---
 **St. Joseph's Convent Alumnae (SJCA)** was registered in March 1973 by a group of past students including the late Miss Angela Wee (Class of 1955 & ex-teacher in CHIJ SJC from 1956 to 1996).
 
@@ -29,7 +30,7 @@ The SJCA Council is made up of:
 
 Read the message from SJCA President Aruna Johnson here: [Message from SJCA President](/files/Our%20Community%20(PSG%20&%20SJCA)/Message%20From%20SJCA%20President.pdf)
 
-![](/images/About%20us/Our%20Community/SJC%20Alumnae/Alumnae%20Committee.png)
+![](/images/About%20us/Our%20Community/SJC%20Alumnae/Alumnae_2025.jpg)
 
 ### Join the Alumnae!
 

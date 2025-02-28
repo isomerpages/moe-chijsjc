@@ -2,10 +2,10 @@
 title: Contact Us
 permalink: /about-us/Contact-Us/
 description: ""
+variant: markdown
 ---
 #### **Reach us at**
 **Telephone:**&nbsp;64897580  
-**Fax:**&nbsp;64897589  
 **Email:**&nbsp;[chijsjcs@moe.edu.sg](mailto:chijsjcs@moe.edu.sg)  
 
 #### **Address**

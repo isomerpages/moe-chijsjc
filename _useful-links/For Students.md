@@ -34,26 +34,26 @@ variant: tiptap
 </blockquote>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Term 1 WA1 Schedules</strong>
+<p><strong>Term 2 WA2 Schedules</strong>
 </p>
 </li>
 </ul>
 <blockquote>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Useful Links/Students/Weighted Assessments/2025_WA1__Schedule___T1_Sec_1.pdf" rel="noopener nofollow" target="_blank">Secondary 1 WA1 Schedule</a>
+<p><a href="/files/Useful Links/Students/Weighted Assessments/2025_Sec_1_WA2_Schedule.pdf" rel="noopener nofollow" target="_blank">Secondary 1 WA2 Schedule</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Useful Links/Students/Weighted Assessments/2025_WA1__Schedule___T1_Sec_2.pdf" rel="noopener nofollow" target="_blank">Secondary 2 WA1 Schedule</a>
+<p><a href="/files/Useful Links/Students/Weighted Assessments/2025_Sec_2_WA2_Schedule.pdf" rel="noopener nofollow" target="_blank">Secondary 2 WA2 Schedule</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Useful Links/Students/Weighted Assessments/2025_WA1__Schedule___T1_Sec_3.pdf" rel="noopener nofollow" target="_blank">Secondary 3 WA1 Schedule</a>
+<p><a href="/files/Useful Links/Students/Weighted Assessments/2025_Sec_3_WA2_Schedule.pdf" rel="noopener nofollow" target="_blank">Secondary 3 WA2 Schedule</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Useful Links/Students/Weighted Assessments/2025_WA1__Schedule___T1_Sec_4__5.pdf" rel="noopener nofollow" target="_blank">Secondary 4 &amp; 5 WA1 Schedule</a>
+<p><a href="/files/Useful Links/Students/Weighted Assessments/2025_Sec_4_5_WA2_Schedule.pdf" rel="noopener nofollow" target="_blank">Secondary 4 &amp; 5 WA2 Schedule</a>
 </p>
 </li>
 </ul>

@@ -41,7 +41,7 @@ variant: tiptap
 <blockquote>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Useful Links/Students/Weighted Assessments/2025_Sec_1_WA2_Schedule.pdf" rel="noopener nofollow" target="_blank">Secondary 1 WA2 Schedule</a>
+<p><a href="/files/Useful Links/Students/Weighted Assessments/2025_Sec_2_WA2_Schedule.pdf" rel="noopener nofollow" target="_blank">Secondary 1 WA2 Schedule</a>
 </p>
 </li>
 <li>
@@ -56,19 +56,29 @@ variant: tiptap
 <p><a href="/files/Useful Links/Students/Weighted Assessments/2025_Sec_4_5_WA2_Schedule.pdf" rel="noopener nofollow" target="_blank">Secondary 4 &amp; 5 WA2 Schedule</a>
 </p>
 </li>
+</ul>
+</blockquote>
+<ul data-tight="true" class="tight">
 <li>
-<p><a href="https://docs.google.com/spreadsheets/d/1Qe6uzxKnJi-Ns-3Ze1dH5zXU8Y_K_-uunf0LMiSvYyY/edit?gid=2093478648#gid=2093478648" rel="noopener nofollow" target="_blank">Internal English Oral Examinations</a>
+<p><strong>Internal English Oral Examinations</strong>
+</p>
+</li>
+</ul>
+<blockquote>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://docs.google.com/spreadsheets/d/1Qe6uzxKnJi-Ns-3Ze1dH5zXU8Y_K_-uunf0LMiSvYyY/edit?gid=2093478648#gid=2093478648" rel="noopener nofollow" target="_blank">Sec 3 &amp; 4/5 English Oral Examinations</a>
 </p>
 </li>
 </ul>
 </blockquote>
-<blockquote>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Learning Portals</strong>
 </p>
 </li>
 </ul>
+<blockquote>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space (SLS)</a>
@@ -102,6 +112,7 @@ variant: tiptap
 </li>
 </ul>
 </blockquote>
+<p></p>
 <h4><strong>ICT MATTERS</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -147,6 +158,7 @@ variant: tiptap
 </li>
 </ul>
 </blockquote>
+<p></p>
 <h4><strong>CCE MATTERS</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -162,6 +174,7 @@ variant: tiptap
 </li>
 </ul>
 </blockquote>
+<p></p>
 <h4><strong>STUDENT SERVICES</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -237,6 +250,7 @@ variant: tiptap
 </li>
 </ul>
 </blockquote>
+<p></p>
 <h4><strong>SCHOOL CANTEEN</strong></h4>
 <ul data-tight="true" class="tight">
 <li>

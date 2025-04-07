@@ -56,6 +56,10 @@ variant: tiptap
 <p><a href="/files/Useful Links/Students/Weighted Assessments/2025_Sec_4_5_WA2_Schedule.pdf" rel="noopener nofollow" target="_blank">Secondary 4 &amp; 5 WA2 Schedule</a>
 </p>
 </li>
+<li>
+<p><a href="https://docs.google.com/spreadsheets/d/1Qe6uzxKnJi-Ns-3Ze1dH5zXU8Y_K_-uunf0LMiSvYyY/edit?gid=2093478648#gid=2093478648" rel="noopener nofollow" target="_blank">Internal English Oral Examinations</a>
+</p>
+</li>
 </ul>
 </blockquote>
 <blockquote>

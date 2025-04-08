@@ -41,11 +41,11 @@ variant: tiptap
 <blockquote>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Useful Links/Students/Weighted Assessments/2025_Sec_2_WA2_Schedule.pdf" rel="noopener nofollow" target="_blank">Secondary 1 WA2 Schedule</a>
+<p><a href="/files/Useful Links/Students/Weighted Assessments/2025_Sec_1_WA2_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 WA2 Schedule</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Useful Links/Students/Weighted Assessments/2025_Sec_2_WA2_Schedule.pdf" rel="noopener nofollow" target="_blank">Secondary 2 WA2 Schedule</a>
+<p><a href="/files/Useful Links/Students/Weighted Assessments/2025_Sec_2_WA2_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 WA2 Schedule</a>
 </p>
 </li>
 <li>

@@ -49,11 +49,11 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/Useful Links/Students/Weighted Assessments/2025_Sec_3_WA2_Schedule.pdf" rel="noopener nofollow" target="_blank">Secondary 3 WA2 Schedule</a>
+<p><a href="/files/Useful Links/Students/Weighted Assessments/2025_WA2_Schedule__Updated___T2_Sec_3.pdf" rel="noopener nofollow" target="_blank">Secondary 3 WA2 Schedule</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Useful Links/Students/Weighted Assessments/2025_Sec_4_5_WA2_Schedule.pdf" rel="noopener nofollow" target="_blank">Secondary 4 &amp; 5 WA2 Schedule</a>
+<p><a href="/files/Useful Links/Students/Weighted Assessments/2025_WA2_Schedule_Updated___T2_Sec_4___5.pdf" rel="noopener nofollow" target="_blank">Secondary 4 &amp; 5 WA2 Schedule</a>
 </p>
 </li>
 </ul>

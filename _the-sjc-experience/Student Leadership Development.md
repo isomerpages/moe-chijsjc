@@ -67,7 +67,7 @@ in class, or as junior leaders in CCAs.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Class Monitors and Peer Support Leaders and Eco-Stewards comprise ‘Class
+<p>Class Monitors, Peer Support Leaders and Eco-Stewards comprise ‘Class
 Leaders’ who help manage the overall environment of the class, well-being
 of their peers, advocate sustainable living among their peers and help
 organise certain activities for the class. Junior CCA leaders are lower

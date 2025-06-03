@@ -16,6 +16,14 @@ sections:
           description: Check what's coming up
           url: /sjc-calendar
   - infopic:
+      title: CHIJ SJC Award Ceremony 2025
+      subtitle: Explore SJC
+      id: infopic
+      description: Infopic description
+      button: 2025 Award Ceremony Gallery
+      url: https://chijstjosephsconvent.pixieset.com
+      alt: Image alt text
+  - infopic:
       title: SJC 2024 Yearbook
       subtitle: EXPLORE SJC
       id: infopic

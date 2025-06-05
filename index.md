@@ -16,6 +16,14 @@ sections:
           description: Check what's coming up
           url: /sjc-calendar
   - infopic:
+      title: Semester 1 Bulletin
+      subtitle: Explore SJC
+      id: infopic
+      description: Enjoy our Semester 1 Bulletin, a snapshot of the semester’s
+        highlights and achievements!
+      button: Button Text
+      alt: Image alt text
+  - infopic:
       title: CHIJ SJC Awards Ceremony 2025
       subtitle: Explore SJC
       id: infopic

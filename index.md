@@ -21,8 +21,10 @@ sections:
       id: infopic
       description: Enjoy our Semester 1 Bulletin, a snapshot of the semester’s
         highlights and achievements!
-      button: Button Text
+      button: SJC SEMESTER 1 BULLENTIN
       alt: Image alt text
+      url: https://drive.google.com/file/d/1haO0neh0RKYDfYkQ3SfUo2K2zly7UU3b/view?usp=sharing
+      image: /images/Homepage/Semester_1_Bulletin__2025___1_.jpg
   - infopic:
       title: CHIJ SJC Awards Ceremony 2025
       subtitle: Explore SJC

@@ -23,7 +23,7 @@ sections:
         highlights and achievements!
       button: SJC SEMESTER 1 BULLENTIN
       url: https://drive.google.com/file/d/1haO0neh0RKYDfYkQ3SfUo2K2zly7UU3b/view?usp=sharing
-      image: /images/Homepage/Semester_1_Bulletin__2025___1_.jpg
+      image: /images/Homepage/Semester_1_Bulletin_2025_cropped.jpg
       alt: Image alt text
   - infopic:
       title: CHIJ SJC Awards Ceremony 2025

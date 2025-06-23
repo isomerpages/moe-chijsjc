@@ -154,6 +154,7 @@ development. Students will be recognised with levels of attainment in four
 domains: Participation, Achievement, Leadership and Service.</p>
 <p>Find out more here: <a href="/files/LEAPS%202/LEAPS%2020%20(Public%20Version).pdf" rel="noopener noreferrer nofollow" target="_blank">LEAPS 2.0</a>
 </p>
+<p>CCA Schedule for 2025 Semester 2</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/CCA_2025___1.jpg">
 </div>

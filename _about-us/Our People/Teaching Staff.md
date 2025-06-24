@@ -445,7 +445,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Au Siu Lun
+<br><a href="mailto:au_siu_lun@moe.edu.sg" rel="noopener nofollow" target="_blank">au_siu_lun@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>

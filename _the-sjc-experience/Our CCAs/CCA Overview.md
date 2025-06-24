@@ -155,6 +155,4 @@ domains: Participation, Achievement, Leadership and Service.</p>
 <p>Find out more here: <a href="/files/LEAPS%202/LEAPS%2020%20(Public%20Version).pdf" rel="noopener noreferrer nofollow" target="_blank">LEAPS 2.0</a>
 </p>
 <p><a href="/files/Students Schedules/cca s2_25.pdf" rel="noopener nofollow" target="_blank">CCA Schedule S2 2025</a>
-<a href="/files/LEAPS%202/LEAPS%2020%20(Public%20Version).pdf" rel="noopener noreferrer nofollow" target="_blank">2</a>
 </p>
-<p></p>

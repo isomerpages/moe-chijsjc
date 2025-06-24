@@ -47,6 +47,6 @@ sections:
       image: /images/Homepage/2024_Yearbook_Banner.jpg
       alt: Image alt text
   - resources:
-      title: News and Announcements
+      title: Latest Announcements and Schedules
       button: Read More
 ---

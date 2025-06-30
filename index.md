@@ -26,16 +26,6 @@ sections:
       image: /images/Homepage/beacon.jpg
       alt: Image alt text
   - infopic:
-      title: CHIJ SJC Awards Ceremony 2025
-      subtitle: Explore SJC
-      id: infopic
-      description: Relive the proud moments of the CHIJ SJC Awards Ceremony 2025
-        through our photo gallery here.
-      button: 2025 Awards Ceremony Gallery
-      url: https://chijstjosephsconvent.pixieset.com
-      alt: Image alt text
-      image: /images/Homepage/ac 2025.jpg
-  - infopic:
       title: SJC 2024 Yearbook
       subtitle: EXPLORE SJC
       id: infopic

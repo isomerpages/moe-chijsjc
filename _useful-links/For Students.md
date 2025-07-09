@@ -34,26 +34,34 @@ variant: tiptap
 </blockquote>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Term 2 WA2 Schedules</strong>
+<p><strong>Term 3 WA3 &amp; Preliminary Examinations Schedules</strong>
 </p>
 </li>
 </ul>
 <blockquote>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Useful Links/Students/Weighted Assessments/2025_Sec_1_WA2_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 WA2 Schedule</a>
+<p><a href="/files/Useful Links/Students/Weighted Assessments/2025_WA3__Sec_1_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 WA3 schedule</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Useful Links/Students/Weighted Assessments/2025_Sec_2_WA2_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 WA2 Schedule</a>
+<p><a href="/files/Useful Links/Students/Weighted Assessments/2025_WA3__Sec_2_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 WA3 schedule</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Useful Links/Students/Weighted Assessments/2025_WA2_Schedule__Updated___T2_Sec_3.pdf" rel="noopener nofollow" target="_blank">Secondary 3 WA2 Schedule</a>
+<p><a href="/files/Useful Links/Students/Weighted Assessments/2025_WA3__Sec_3__edited.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3 WA3 schedule</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Useful Links/Students/Weighted Assessments/2025_WA2_Schedule_Updated___T2_Sec_4___5.pdf" rel="noopener nofollow" target="_blank">Secondary 4 &amp; 5 WA2 Schedule</a>
+<p><a href="/files/Useful Links/Students/Weighted Assessments/2025_4N_Part_1_Prelim___FINAL_26_JUNE.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4N Prelim schedule (Part 1)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Useful Links/Students/Weighted Assessments/Released_Version___2025_4N_Part_2_Prelim.pdf" rel="noopener nofollow" target="_blank">Secondary 4N Prelim schedule (Part 2)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Useful Links/Students/Weighted Assessments/Released_Version___2025_4E5N_Prelim.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4E5N Prelim schedule</a>
 </p>
 </li>
 </ul>

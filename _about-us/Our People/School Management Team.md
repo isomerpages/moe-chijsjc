@@ -153,7 +153,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/ ICT</p>
+<p>HOD/ Educational Technology</p>
 </td>
 </tr>
 <tr>

@@ -322,7 +322,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AYH / Sec 4 &amp; 5y</p>
+<p>AYH / Sec 4 &amp; 5</p>
 </td>
 </tr>
 </tbody>

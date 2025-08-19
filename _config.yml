@@ -8,13 +8,13 @@ colors:
     - title: media-color-one
       color: "#9e186a"
     - title: media-color-two
-      color: "#4a90e2"
+      color: "#383bb5"
     - title: media-color-three
-      color: "#7ed321"
+      color: "#c0038c"
     - title: media-color-four
-      color: "#d0021b"
+      color: "#5e7eba"
     - title: media-color-five
-      color: "#f97f6e"
+      color: "#359a83"
 description: Welcome to the official website of CHIJ St. Joseph's Convent.
 permalink: none
 baseurl: ""

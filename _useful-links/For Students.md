@@ -34,22 +34,30 @@ variant: tiptap
 </blockquote>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Term 3 WA3 &amp; Preliminary Examinations Schedules</strong>
+<p><strong>End of Year &amp; Preliminary Examinations Schedules</strong>
 </p>
 </li>
 </ul>
 <blockquote>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Useful Links/Students/Weighted Assessments/2025_WA3__Sec_1_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 WA3 schedule</a>
+<p><a href="/files/Useful Links/Students/Examinations/2025_Sec_1_EOY_Timetable.pdf" rel="noopener nofollow" target="_blank">Secondary 1 EOY Examination Schedule</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Useful Links/Students/Weighted Assessments/2025_WA3__Sec_2_.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 WA3 schedule</a>
+<p><a href="/files/Useful Links/Students/Examinations/2025_Sec_2_EOY_Timetable.pdf" rel="noopener nofollow" target="_blank">Secondary 2 EOY Examination Schedule</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Useful Links/Students/Weighted Assessments/2025_WA3__Sec_3__edited.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3 WA3 schedule</a>
+<p><a href="/files/Useful Links/Students/Examinations/2025_Sec_3EXP_EOY_Timetable.pdf" rel="noopener nofollow" target="_blank">Secondary 3EXP EOY Examination Schedule</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Useful Links/Students/Examinations/2025_Sec_3NA_EOY_Timetable.pdf" rel="noopener nofollow" target="_blank">Secondary 3NA EOY Examination Schedule</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Useful Links/Students/Examinations/2025_Sec_3NT_EOY_Timetable.pdf" rel="noopener nofollow" target="_blank">Secondary 3NT EOY Examination Schedule</a>
 </p>
 </li>
 <li>

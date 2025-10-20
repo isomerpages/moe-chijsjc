@@ -14,7 +14,8 @@ variant: tiptap
 </li>
 </ul>
 <h4><strong>Our Approach</strong></h4>
-<p>Mathematics is the study of the&nbsp;<strong><em>properties</em></strong>,&nbsp;<strong><em>relationships</em></strong>,&nbsp;<strong><em>operations</em></strong>,&nbsp;<strong><em>algorithms</em></strong>,
+<p>Mathematics is the study of
+<br>the&nbsp;<strong><em>properties</em></strong>,&nbsp;<strong><em>relationships</em></strong>,&nbsp;<strong><em>operations</em></strong>,&nbsp;<strong><em>algorithms</em></strong>,
 and&nbsp;<strong><em>applications</em></strong>&nbsp;of numbers and spaces
 at the very basic levels, and of&nbsp;<strong><em>abstract objects and concepts</em></strong>&nbsp;at
 the more advanced levels.</p>
@@ -47,16 +48,21 @@ in the real world. These activities also aim to cultivate in students an
 interest and passion for Mathematics.</p>
 </li>
 <li>
-<p>Our lower secondary students participate in the annual Mathematics Trail
-designed and executed by our Maths teachers. Students work in teams to
-explore interesting and challenging mathematical concepts as they learn
-to apply problem solving skills on real-world tasks. These trails encourage
-our students to put on their critical thinking caps to make analytical
-decisions while allowing them to seek a deeper understanding and passion
-in the subject. Technology is incorporated in the trails, allowing for
-greater collaborative learning experiences. In 2024, an interdisciplinary
-trail was carried out where students were given the opportunity to see
-the application of different subjects (including Math) in the real world.</p>
+<p>One of them is the Mathematics Trails, which are designed and executed
+by our Math teachers.&nbsp;&nbsp; Students work in teams to explore interesting
+and challenging mathematical concepts as they learn to apply problem solving
+skills on real-world tasks. These trails encourage our students to put
+on their critical thinking caps to make analytical decisions while allowing
+them to seek a deeper understanding and passion in the subject. Technology
+is incorporated in the trails, allowing for greater collaborative learning
+experiences.</p>
+</li>
+<li>
+<p>Another initiative is the STEM Enrichment Programme, which provides students
+with simple yet meaningful opportunities to connect classroom learning
+with real-world applications. Through short, hands-on activities, students
+apply mathematical concepts in practical ways, fostering curiosity, teamwork,
+and problem-solving skills.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
@@ -99,9 +105,8 @@ problems. The exposure and experience also help students to develop critical
 thinking and problem solving skills. Some of the competitions that our
 students have participated in are:</p>
 <p>(a) Singapore Mathematics Olympiad (SMO)</p>
-<p>(b) International Mathematical Modelling Challenge (IMMC)</p>
-<p>(c) All Singapore Secondary Mathematics Competition for Normal Course
-Students</p>
+<p>(b) Ngee Ann Polytechnic Math Challenge</p>
+<p>(c) NIE Math Challenge</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Mathematics/SMO_2023.jpeg">
 </div>

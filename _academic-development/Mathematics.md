@@ -30,39 +30,36 @@ curriculum consists of a set of&nbsp;<strong>connected syllabuses</strong>&nbsp;
 cater to the different needs and abilities of our students.</p>
 <h4><strong>Our Programmes</strong></h4>
 <h5><strong>Core Curriculum</strong></h5>
-<p>For the lower secondary level, some students are offered Maths at More
-Demanding Level (MDL) where they have the opportunity to stretch themselves
+<p>At the lower secondary level, some students are offered Mathematics at
+More Demanding Level (MDL) where they have the opportunity to stretch themselves
 in learning Mathematics at a higher rigour.</p>
 <p>At the upper secondary level, Additional Mathematics is offered to students
 who have an aptitude and interest in Mathematics to acquire mathematical
 concepts and skills for higher studies in Mathematics and to support learning
 in the other subjects, in particular, the sciences.</p>
 <h5><strong>Enrichment Programme</strong></h5>
-<ul>
-<li>
 <p>To complement the content of Mathematics taught in the classroom, enrichment
 activities are organised for our students to help them discover new things
 about their communities, sharpen their mathematical thinking and provide
 a platform for them to apply their mathematical skills to solving problems
 in the real world. These activities also aim to cultivate in students an
 interest and passion for Mathematics.</p>
+<ul>
+<li>
+<p><strong>Mathematics Trails</strong> are designed and executed by our Math
+teachers.&nbsp;Students work in teams to explore interesting and challenging
+mathematical concepts as they learn to apply problem solving skills on
+real-world tasks. These trails encourage our students to put on their critical
+thinking caps to make analytical decisions while allowing them to seek
+a deeper understanding and passion in the subject. Technology is incorporated
+in the trails, allowing for greater collaborative learning experiences.</p>
 </li>
 <li>
-<p>One of them is the Mathematics Trails, which are designed and executed
-by our Math teachers.&nbsp;&nbsp; Students work in teams to explore interesting
-and challenging mathematical concepts as they learn to apply problem solving
-skills on real-world tasks. These trails encourage our students to put
-on their critical thinking caps to make analytical decisions while allowing
-them to seek a deeper understanding and passion in the subject. Technology
-is incorporated in the trails, allowing for greater collaborative learning
-experiences.</p>
-</li>
-<li>
-<p>Another initiative is the STEM Enrichment Programme, which provides students
-with simple yet meaningful opportunities to connect classroom learning
-with real-world applications. Through short, hands-on activities, students
-apply mathematical concepts in practical ways, fostering curiosity, teamwork,
-and problem-solving skills.</p>
+<p>The <strong>STEM Enrichment Programme</strong> provides students with simple
+yet meaningful opportunities to connect classroom learning with real-world
+applications. Through short, hands-on activities, students apply mathematical
+concepts in practical ways, fostering curiosity, teamwork, and problem-solving
+skills.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">

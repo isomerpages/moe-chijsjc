@@ -84,6 +84,146 @@ CCA camps.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English Drama</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Eunoia Debating Championships 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Debate Circle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Preliminary</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Secondary Schools Debating Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Debate Circle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Preliminary</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver Cup U14 Debate 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Debate Circle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Preliminary</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mid Year Debate 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Debate Circle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Preliminary</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>illumiNite 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>English Drama</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>@ Victoria Theatre</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Eunoia Debating Championships 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Debate Circle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Preliminary</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Secondary Schools Debating Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Debate Circle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Preliminary</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Raffles Institution U-14 Debating Championship 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Debate Circle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Preliminary</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dialogic Academy Debating Championships 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Debate Circle</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Preliminary</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -150,76 +290,6 @@ CCA camps.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Preliminary</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Singapore Secondary Schools Debating Championships</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Debate Circle</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Preliminary</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Oldham Cup</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Debate Circle</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Preliminary</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Raffles Debate Academy Under-14s Debate Championship 2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Debate Circle</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Champion for Silver Division</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2021</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Arts Presentation</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>English Drama</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate Of Distinction</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2021</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Raffles Debate Academy Under-14s Debate Championship 2021</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Raffles Debate (Silver Division)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Silver Division (Runner-Up)</p>
 </td>
 </tr>
 </tbody>

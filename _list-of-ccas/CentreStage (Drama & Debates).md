@@ -295,3 +295,15 @@ CCA camps.</p>
 </tbody>
 </table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual &amp; Performing Arts/CentreStage (Drama &amp; Debates)/Screenshot_2025_10_22_124749.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual &amp; Performing Arts/CentreStage (Drama &amp; Debates)/Debates_participation_winners.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual &amp; Performing Arts/CentreStage (Drama &amp; Debates)/Gateway_to_Batam_2025.jpg">
+</div>
+<p></p>

@@ -222,46 +222,50 @@ variant: tiptap
 </blockquote>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>2025 Textbook List</strong>
+<p><strong>2026 Textbook List</strong>
 </p>
 </li>
 </ul>
 <blockquote>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Useful Links/Student Services/Booklist/2025_SEC_2_G1_G2_G3.pdf" rel="noopener nofollow" target="_blank">2 G1/G2/G3 Textbook List</a>
+<p><a href="/files/Useful Links/Student Services/Booklist/S1___G1G2G3_2026.pdf" rel="noopener nofollow" target="_blank">1 G1/G2/G3 Textbook List</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Useful Links/Student Services/Booklist/2025_SEC_3_EXPRESS_PURE_SCIENCE.pdf" rel="noopener nofollow" target="_blank">3 Express Textbook List (Pure Science)</a>
+<p><a href="/files/Useful Links/Student Services/Booklist/S2___G1G2G3_2026.pdf" rel="noopener nofollow" target="_blank">2 G1/G2/G3 Textbook List</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Useful Links/Student Services/Booklist/2025_SEC_3_EXPRESS_COMBINED_SCIENCE.pdf" rel="noopener nofollow" target="_blank">3 Express Textbook List (Combined Science)</a>
+<p><a href="/files/Useful Links/Student Services/Booklist/S3___G3_Combined_Science_2026.pdf" rel="noopener nofollow" target="_blank">3 G3 Textbook List (Combined Science)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Useful Links/Student Services/Booklist/2025_SEC_3_NA.pdf" rel="noopener nofollow" target="_blank">3 NA Textbook List</a>
+<p><a href="/files/Useful Links/Student Services/Booklist/S3___G3_Pure_Science_2026.pdf" rel="noopener nofollow" target="_blank">3 G3 Textbook List (Pure Science)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Useful Links/Student Services/Booklist/2025_SEC_3_NT.pdf" rel="noopener nofollow" target="_blank">3 NT Textbook List</a>
+<p><a href="/files/Useful Links/Student Services/Booklist/S3___G2_2026.pdf" rel="noopener nofollow" target="_blank">3 G2 Textbook List</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Useful Links/Student Services/Booklist/2025_SEC_4_EXPRESS.pdf" rel="noopener nofollow" target="_blank">4 Express Textbook List</a>
+<p><a href="/files/Useful Links/Student Services/Booklist/S3___G1_2026.pdf" rel="noopener nofollow" target="_blank">3 G1 Textbook List</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Useful Links/Student Services/Booklist/2025_SEC_4_NA.pdf" rel="noopener nofollow" target="_blank">4 NA Textbook List</a>
+<p><a href="/files/Useful Links/Student Services/Booklist/4EXP_2026.pdf" rel="noopener nofollow" target="_blank">4 EXP Textbook List</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Useful Links/Student Services/Booklist/2025_SEC_4_NT.pdf" rel="noopener nofollow" target="_blank">4 NT Textbook List</a>
+<p><a href="/files/Useful Links/Student Services/Booklist/4NA_2026.pdf" rel="noopener nofollow" target="_blank">4 NA Textbook List</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Useful Links/Student Services/Booklist/2025_SEC_5NA.pdf" rel="noopener nofollow" target="_blank">5 NA Textbook List</a>
+<p><a href="/files/Useful Links/Student Services/Booklist/4NT_2026.pdf" rel="noopener nofollow" target="_blank">4 NT Textbook List</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Useful Links/Student Services/Booklist/S5_2026.pdf" rel="noopener nofollow" target="_blank">5 NA Textbook List</a>
 </p>
 </li>
 </ul>

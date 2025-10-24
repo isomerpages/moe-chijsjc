@@ -36,18 +36,14 @@ required for the sport.</p>
 <h4><strong>Activities</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>National School Games North Zone Inter-Schools Badminton Tournament</p>
+<p>National School Games Inter-Schools Badminton Tournament.</p>
 </li>
 <li>
-<p>CHIJ SJC Badminton Tournament – exposure to competitive badminton, application
-of tactics and techniques</p>
+<p>Friendly matches with other schools – honing of skills and tactics for
+competitive matches.</p>
 </li>
 <li>
-<p>Annual Badminton Training Camp – honing of skills and tactics for competitive
-matches, discussions on healthy lifestyle habits as an athlete</p>
-</li>
-<li>
-<p>Inter-Level Mini-League Competition – promote team spirit and let the
+<p>Annual Badminton Camp – team bonding to promote team spirit and let the
 players from different levels to better know one another</p>
 </li>
 </ul>
@@ -64,9 +60,44 @@ players from different levels to better know one another</p>
 <br>Ms. Woon Lee Yoon, Tina
 <br>
 </p>
-<p>*<em>Additional sessions during peak season/ for school team players.</em>
+<p><em>*Replacement sessions in case of holidays on Mondays/Fridays<br></em>*<em>Additional sessions during peak season/ for school team players</em>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Physical%20Sports/Badminton/B2.png">
-</div>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name of Competition</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Division/Category</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NSG League 5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>'C' Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champion</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>

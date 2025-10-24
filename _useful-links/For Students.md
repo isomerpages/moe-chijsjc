@@ -201,7 +201,9 @@ variant: tiptap
 <blockquote>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Useful Links/Financial Assistance/MOE_FAS_Application_Form_2025.pdf" rel="noopener nofollow" target="_blank">FAS Application Form</a>
+<p><a href="https://form.gov.sg/68b7e92465cd36be287889c6" rel="noopener nofollow" target="_blank">MOE Financial Assistance Application Form for 2026 [GGAS]</a>
+</p>
+<p>For more information: <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener nofollow" target="_blank">Financial Assistance MOE</a>
 </p>
 </li>
 </ul>

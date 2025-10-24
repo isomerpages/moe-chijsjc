@@ -101,3 +101,11 @@ players from different levels to better know one another</p>
 </tbody>
 </table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Physical Sports/Badminton/2025 farewell and c div.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Physical Sports/Badminton/2025_B_Div.jpg">
+</div>
+<p></p>

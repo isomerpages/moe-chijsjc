@@ -79,7 +79,7 @@ Glam</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Humanities/cap2024tourism.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Humanities/2025_Humanities_5.png">
 </div>
 <h5><strong>History</strong></h5>
 <ul data-tight="true" class="tight">
@@ -133,7 +133,7 @@ for selected students</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Humanities/cap2024gc.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Humanities/2025_Humanities_6.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">

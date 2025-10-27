@@ -96,7 +96,13 @@ Glam</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Humanities/2025_Humanities_4.png">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Humanities/cap2024ngs.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Humanities/2025_Humanities_3.png">
 </div>
 <h5><strong>Social Studies and Global Awareness Programmes</strong></h5>
 <ul data-tight="true" class="tight">
@@ -120,9 +126,16 @@ for selected students</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Humanities/2025_Humanities_2.png">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Humanities/cap2024gc.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Humanities/cap2024melaka.png">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Humanities/2025_Humanities_1.png">
+</div>
+<p></p>
 <p></p>

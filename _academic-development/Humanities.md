@@ -137,7 +137,7 @@ for selected students</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Humanities/cap2024melaka.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Humanities/2025_Humanities_7.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">

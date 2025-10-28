@@ -87,6 +87,20 @@ Volleyball Championship for ‘B’ and ‘C’ Division girls teams</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>C Division, Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>League 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2020
 <br>
 </p>
@@ -109,10 +123,4 @@ Volleyball Championship for ‘B’ and ‘C’ Division girls teams</p>
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2023/Volleyball/picture2.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2023/Volleyball/picture1.jpg">
-</div>
 <p></p>

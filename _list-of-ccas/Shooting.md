@@ -143,3 +143,29 @@ of skill, teamwork, and friendship for all involved.</p>
 </tbody>
 </table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Physical Sports/Shooting/2025_Shooting___6.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Physical Sports/Shooting/2025_Shooting___5.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Physical Sports/Shooting/2025_Shooting___4.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Physical Sports/Shooting/2025_Shooting___3.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Physical Sports/Shooting/2025_Shooting___2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Physical Sports/Shooting/2025_Shooting___1.png">
+</div>
+<p></p>
+<p></p>
+<p></p>

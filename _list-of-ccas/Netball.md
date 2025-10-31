@@ -9,30 +9,32 @@ variant: tiptap
 </div>
 <p></p>
 <h4><strong>About</strong></h4>
-<p>SJC Netball has a long and rich tradition in the school. The team is blessed
-with generations of SJC netballers who were and are closely linked to the
-CCA, coming back often to contribute to the school and reconnect with the
-school through friendly games. The CCA has come a long way to establish
-itself as a reputable and worthy opponent in the National School Games.</p>
-<p>At SJC, through a comprehensive values-driven Netball Programme, team
-members learn what it means to be a committed and responsible team player
-who communicates effectively and takes ownership of the sport. With the
-fervent support of the school and coach, our players have demonstrated
-the capacity to develop into well-rounded student-athletes who excel both
-on the court and in the classroom. The team remains close-knit today and
-sees one another as one SJC Netball Family.</p>
+<p>SJC Netball boasts a proud and enduring tradition, built on generations
+of passionate players who remain deeply connected to the CCA, often returning
+to give back through mentorship and friendly matches. Over the years, the
+team has grown from strength to strength, establishing itself as a respected
+and formidable presence in the National School Games.</p>
+<p>At SJC, our values-driven Netball Programme goes beyond the game. Players
+are nurtured to be committed, responsible team members who communicate
+with confidence, show resilience, and take ownership of their growth. With
+the unwavering support of the school and dedicated coaches, our netballers
+blossom into well-rounded student-athletes who excel both on court and
+in the classroom. More than just teammates, they share a strong bond as
+one SJC Netball Family, where lifelong friendships and a spirit of camaraderie
+continue to thrive.</p>
 <h4><strong>Objectives</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Cultivating resilience, tenacity and grit through training sessions and
-competitions.</p>
+<p><strong>Inspire resilience, tenacity, and grit</strong>, empowering every
+player to rise above challenges and thrive both on and off the court.</p>
 </li>
 <li>
-<p>Fostering responsible and disciplined student-athletes who embody strong
-values and moral ethics.</p>
+<p><strong>Shape principled and disciplined student-athletes</strong> who
+lead with integrity, responsibility, and strong moral values.</p>
 </li>
 <li>
-<p>Preserving the rich history and high standard of performance in SJC Netball</p>
+<p><strong>Celebrate and uphold SJC Netball’s proud legacy</strong>, while
+continuously striving for excellence and setting new benchmarks in performance.</p>
 </li>
 </ul>
 <h4><strong>Activities</strong></h4>
@@ -86,6 +88,34 @@ values and moral ethics.</p>
 <th rowspan="1" colspan="1">
 <p>Achievement</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games (Pool)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>'C' Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 8</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NETOPS Carnival</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>U14</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champion</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -203,10 +233,13 @@ values and moral ethics.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2023/Netball/picture1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Physical Sports/Netball/2025_Netball___1.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2023/Netball/picture2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Physical Sports/Netball/2025_Netball___2.png">
 </div>
+<p></p>
 <p></p>

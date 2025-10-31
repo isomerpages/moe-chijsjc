@@ -209,10 +209,6 @@ to perform basic first aid and life-saving skills.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniformed Groups/St John Brigade/SJB_2025___5.png">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniformed Groups/St John Brigade/SJB_2025___6.png">
 </div>
 <p></p>

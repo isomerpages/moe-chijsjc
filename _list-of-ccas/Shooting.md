@@ -48,6 +48,16 @@ shooting</p>
 <p>Training at Safra Yishun Country Club Indoor Rifle Range</p>
 </li>
 </ul>
+<h4>Highlights</h4>
+<p>The Shooting Team had an exciting year filled with achievements and camaraderie.
+Students participated in the NTU and NUS Invitational Shoots, with the
+B Division Air Pistol Women securing 2nd place at the NTU Shoot, and Eunice
+Khoo earning first place individually. Our shooters then competed fiercely
+in the National School Games for both B and C Divisions, where Eunice advanced
+to the B Division final round. During the June holidays, the team enjoyed
+a friendly exchange with Raffles Girls Shooting Team at their shooting
+range, fostering strong bonds and mutual learning. It was a memorable year
+of skill, teamwork, and friendship for all involved.</p>
 <h4><strong>CCA Information</strong></h4>
 <p><strong>Schedule</strong> 
 <br>Monday: 3.45 pm - 6.15 pm
@@ -56,6 +66,14 @@ shooting</p>
 <br><strong>Teacher-in-charge</strong>
 <br>Mr. Lim Shian Ruenn (IC)
 <br>Ms. Noor Ashiqin Binte Hamis</p>
+<p><strong>Captain of CCA:</strong>
+<br>Amelie Ku Wen Xin (3D)</p>
+<p><strong>Vice-Captain:</strong>
+<br>Tong Ke Qi Naomie (3E)</p>
+<p><strong>Upper Secondary CCA EXCO Members:</strong>
+<br>Chee Ying Na Javelcia (3F)
+<br>Sara Erina Binte Elfin (3G)</p>
+<p></p>
 <h4><strong>Achievements</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
@@ -124,10 +142,4 @@ shooting</p>
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2023/Shooting/picture1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2023/Shooting/picture2.jpg">
-</div>
 <p></p>

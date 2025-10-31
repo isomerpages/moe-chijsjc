@@ -74,9 +74,8 @@ to perform basic first aid and life-saving skills.</p>
 <br>
 </p>
 <h4><strong>Achievements</strong></h4>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -94,11 +93,6 @@ to perform basic first aid and life-saving skills.</p>
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Division/Category
-<br>
-</p>
-</th>
-<th rowspan="1" colspan="1">
 <p>Achievement
 <br>
 </p>
@@ -106,13 +100,45 @@ to perform basic first aid and life-saving skills.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chief Commissioner's Badge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>14 of our Secondary 4 cadets received this</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Northeast District First Aid Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Runner-Up in Nursing Adult category</p>
+<p></p>
+<p>Best in Nursing in the Nursing Adult category</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corps Achievement Award (CAA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chief Commissioner’s Badge</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>20 of our Secondary 4 cadets received this</p>
@@ -126,9 +152,6 @@ to perform basic first aid and life-saving skills.</p>
 <p>Corps Achievement Award (CAA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Gold Award</p>
 </td>
 </tr>
@@ -140,9 +163,6 @@ to perform basic first aid and life-saving skills.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chief Commissioner's Badge</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>10 of our Secondary 4 cadets received this
@@ -162,9 +182,6 @@ to perform basic first aid and life-saving skills.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>GOLD Award
 <br>
 </p>
@@ -172,9 +189,9 @@ to perform basic first aid and life-saving skills.</p>
 </tr>
 </tbody>
 </table>
-<p>The Corps Achievement Award was suspended in 2020 and 2021 due to the
-ongoing Covid-19 pandemic.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2023/SJAB/picture1.jpg">
-</div>
+<p>*<em>The Corps Achievement Award was suspended in 2020 and 2021 due to the ongoing Covid-19 pandemic.</em>
+</p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>

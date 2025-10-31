@@ -9,10 +9,21 @@ variant: tiptap
 </div>
 <p></p>
 <h4><strong>About</strong></h4>
-<p>The sport of Shooting is primarily a mental sport where concentration
-levels are sharpened and expanded. This is a healthy and enjoyable sport,
-which can help build many physical disciplines such as increased strength,
-improved stamina, elevated hand-eye coordination and fine motor skills.</p>
+<p>In Shooting, members develop self-discipline and focus through a structured
+and engaging sport. Before engaging in dry firing and live firing at the
+school range, students undergo physical training to build strength and
+endurance, essential for maintaining steady aim and control.</p>
+<p>Additionally, they learn and apply sports psychological skills such as
+relaxation techniques, which help them stay calm and composed under pressure,
+and visualization techniques, which enable them to mentally rehearse and
+perfect their performance. This combination of physical preparation and
+mental conditioning makes shooting an excellent activity for fostering
+a disciplined and focused mindset in students.</p>
+<p>Some of our student athletes have demonstrated remarkable skill and tenacity,
+culminating in their advancement to the Finals in the recent National Shooting
+Games Championships. Through consistent effort and unwavering focus, these
+students have excelled in their respective categories, showcasing their
+talent and commitment on a national platform.&nbsp;</p>
 <h4><strong>Objectives</strong></h4>
 <p>Started in 2004, the Shooting CCA aims to</p>
 <ul data-tight="true" class="tight">
@@ -39,12 +50,6 @@ shooting</p>
 <p>Team-bonding activities</p>
 </li>
 <li>
-<p>Internal trials cum progress check</p>
-</li>
-<li>
-<p>Graduating cohort farewell activity</p>
-</li>
-<li>
 <p>Training at Safra Yishun Country Club Indoor Rifle Range</p>
 </li>
 </ul>
@@ -66,13 +71,6 @@ of skill, teamwork, and friendship for all involved.</p>
 <br><strong>Teacher-in-charge</strong>
 <br>Mr. Lim Shian Ruenn (IC)
 <br>Ms. Noor Ashiqin Binte Hamis</p>
-<p><strong>Captain of CCA:</strong>
-<br>Amelie Ku Wen Xin (3D)</p>
-<p><strong>Vice-Captain:</strong>
-<br>Tong Ke Qi Naomie (3E)</p>
-<p><strong>Upper Secondary CCA EXCO Members:</strong>
-<br>Chee Ying Na Javelcia (3F)
-<br>Sara Erina Binte Elfin (3G)</p>
 <p></p>
 <h4><strong>Achievements</strong></h4>
 <table style="minWidth: 100px">
@@ -106,38 +104,73 @@ of skill, teamwork, and friendship for all involved.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
-<p>2019
-<br>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Schools Games Shooting Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Division 10m Air Pistol Women Individual (Finals)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7th position:<em> Khoo Ji San Eunice</em>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Nanyang Technological University Invitational Shoot
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>B Division Air Rifle Women Individual
-<br>C Division Air Pistol Women Individual</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>6th position
-<br>14th position</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Olympic Festivals (SYOF)
-<br>
-</p>
+<p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>B Division Air Rifle Women Individual</p>
+<p>National Schools Games Shooting Championships</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4th position
-<br>
+<p>B Division 10m Air Pistol Women Individual</p>
+<p>B Division 10m Air Pistol Women Team</p>
+<p>B Division 10m Air Pistol Women Team (North Zone)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1<sup>st</sup> position:<em> Khoo Ji San Eunice</em>
 </p>
+<p>2nd position</p>
+<p>&nbsp;</p>
+<p>3rd position</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Schools Games Shooting ChampionshipsNational Schools Games Shooting
+Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>C Division 10m Air Pistol Women Individual (Finals)</p>
+<p>B Division 10m Air Pistol Women Individual (Finals)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1<sup>st</sup> position: <em>Khoo Ji San Eunice</em>
+</p>
+<p>23rd position: <em>Valerie Eden Thomas</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Schools Games Shooting Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Division 10m Air Rifle Women Individual (Finals)</p>
+<p>B Division 10m Air Pistol Women Individual (Finals)</p>
+<p>C Division 10m Air Rifle Women Individual (Finals)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>22<sup>nd</sup> position</p>
 </td>
 </tr>
 </tbody>

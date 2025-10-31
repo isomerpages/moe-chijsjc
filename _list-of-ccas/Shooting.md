@@ -162,7 +162,6 @@ of skill, teamwork, and friendship for all involved.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Physical Sports/Shooting/2025_Shooting___2.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Physical Sports/Shooting/2025_Shooting___1.png">
 </div>

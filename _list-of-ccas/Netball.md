@@ -233,10 +233,13 @@ continuously striving for excellence and setting new benchmarks in performance.<
 </tr>
 </tbody>
 </table>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2023/Netball/picture1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Physical Sports/Netball/2025_Netball___1.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2023/Netball/picture2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Physical Sports/Netball/2025_Netball___2.png">
 </div>
+<p></p>
 <p></p>

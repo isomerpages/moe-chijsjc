@@ -89,6 +89,20 @@ empathetic, and resilient individuals who take ownership of their well-being
 and inspire others to live well and stay active, embodying what it means
 to lead with both health and heart.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Physical Education/2025_PE___1.png">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Physical Education/2025_PE___2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Physical Education/2025_PE___3.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Physical Education/2025_PE___4.png">
+</div>
 <p></p>
 <p></p>

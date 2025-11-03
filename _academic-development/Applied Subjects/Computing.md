@@ -79,9 +79,43 @@ to control movement, making the animation process smoother and faster.
 Learning this technique was both challenging and rewarding, and I truly
 enjoyed every step of the journey. Receiving this award was an unexpected
 and exciting recognition of my work, and it inspires me to continue exploring
-creative possibilities in animation”</p>
-<p>Klassen Gabrielle Theresse, Sec 2D (2024)</p>
-<p><strong>Our Accolades</strong>&nbsp;</p>
+creative possibilities in animation”
+<br>Klassen Gabrielle Theresse, Sec 2D (2024)</p>
+<p></p>
+<h4><strong>Our Accolades</strong></h4>
+<p><strong>Animation and Game Making (AGM) Competition 2025</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Category</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Student</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Award</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Game</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Klassen Gabrielle Theresse</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Participation</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>Animation and Game Making (AGM) Competition 2024</strong>
 </p>
 <table style="minWidth: 75px">
@@ -203,4 +237,31 @@ creative possibilities in animation”</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<h4>Code for Fun Programme in SJC</h4>
+<p><strong>Our Students Exploring the Digital Frontier through <em>Code for Fun</em></strong>
+</p>
+<p>In today’s digital age, it is vital for SJCians to grow into curious,
+confident and creative users of technology — ready to thrive in a fast-changing
+world. The <em>Code for Fun</em> programme, offered jointly by IMDA and the
+Ministry of Education (MOE), provides students with exciting opportunities
+to develop these essential skills.</p>
+<p>In SJC, the programme takes on an interdisciplinary approach with Design
+and Technology (D&amp;T). Students integrate a microcontroller with various
+input and output devices in a prototype designed and built during their
+D&amp;T lessons. Through this process, they apply coding skills to bring
+their designs to life — for example, automating movement, lighting, or
+sensing functions within their creations.</p>
+<p>Beyond learning to code, students also develop computational thinking,
+inventive problem-solving and an appreciation of how digital and physical
+technologies intersect. Equally important, they learn to use technology
+responsibly and reflect on its impact, ensuring that humans and humanity
+remain central to innovation.</p>
+<p>By participating in <em>Code for Fun</em>, our students are not only building
+technical and creative confidence, but also developing the ethical awareness
+and collaborative spirit needed to shape a digital future that benefits
+all.</p>
+<p>We are proud of our students for embracing this opportunity to explore,
+innovate and imagine what’s possible through technology!</p>
+<h4></h4>
 <p></p>

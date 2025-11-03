@@ -107,7 +107,11 @@ training.&nbsp;</p>
 <p>Monitors</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Inter-Class challenge activities</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -115,7 +119,14 @@ training.&nbsp;</p>
 <p>Peer Support Leaders</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Class Peer Bonding activities, Cyberwellness and Mental Wellbeing Ambassadors</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Class Peer Bonding activities</p>
+</li>
+<li>
+<p>Cyberwellness and Mental Wellbeing Ambassadors</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -123,8 +134,15 @@ training.&nbsp;</p>
 <p>Eco-Stewards</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sustainability initiatives in school, Inter-school sustainability competitions
-and sharing at class and school levels.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Sustainability initiatives in school</p>
+</li>
+<li>
+<p>Inter-school sustainability competitions and sharing at class and school
+levels.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -132,8 +150,20 @@ and sharing at class and school levels.</p>
 <p>CCA Leaders</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CCA Orientation Experience, CCA Competitions, CCA Camps, leading CCA training,
-CCA VIA, CCA welcome &amp; farewell, etc.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>CCA Orientation Experience</p>
+</li>
+<li>
+<p>CCA Competitions</p>
+</li>
+<li>
+<p>CCA Camps</p>
+</li>
+<li>
+<p>Leading CCA training, CCA VIA, CCA welcome &amp; farewell, etc.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -141,8 +171,36 @@ CCA VIA, CCA welcome &amp; farewell, etc.</p>
 <p>Sports Leaders</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CCA Experience, Sports Day, X-Country, Inter-House Sports Competitions,
-International Sports Fiestas, Sports Enrichment workshops</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>CCA Experience</p>
+</li>
+<li>
+<p>Sports Day</p>
+</li>
+<li>
+<p>X-Country</p>
+</li>
+<li>
+<p>Inter-House Sports Competitions</p>
+</li>
+<li>
+<p>International Sports Fiestas</p>
+</li>
+<li>
+<p>Sports Enrichment workshops</p>
+</li>
+<li>
+<p>Health and Wellness initiatives in school</p>
+</li>
+<li>
+<p>Annual school-wide sports events such as the Sports Carnival and Urban
+Run</p>
+</li>
+<li>
+<p>S1-3 Inter-Class Games</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -150,8 +208,26 @@ International Sports Fiestas, Sports Enrichment workshops</p>
 <p>Student Councillors</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sec 1 Orientation Programme, Awards Ceremony, Student Council Investiture,
-Teachers' Day, Student Voices, Morning duties</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Sec 1 Orientation Programme</p>
+</li>
+<li>
+<p>Awards Ceremony</p>
+</li>
+<li>
+<p>Student Council Investiture</p>
+</li>
+<li>
+<p>Teachers' Day</p>
+</li>
+<li>
+<p>Student Voices</p>
+</li>
+<li>
+<p>Morning duties</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>

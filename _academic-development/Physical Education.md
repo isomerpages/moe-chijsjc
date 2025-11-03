@@ -2,83 +2,107 @@
 title: Physical Education
 permalink: /academic/pe/
 description: ""
+variant: tiptap
 ---
-
-#### **Our Objective**
-
-
-To nurture a love for life-long, healthy active living.  
-
-#### **Our Approach**
-
-
-_‘Head, Hands, Heart’_ \- Equip our students with basic knowledge (Head), skills (Hands) and attitudes / desire (Heart) to be physically active through participation in sports and games and outdoor pursuits to cultivate a life-long, healthy lifestyle.  
-
-#### **Our Programme**
-
-
-In line with the PE curriculum and CCE 2021 guidelines, we teach Sports & Games (Physical Activities), Outdoor Education (OE) and Physical Health & Fitness (PHF) during PE lessons.  These modules are taught across Sec 1 to 4/5 to provide a wide variety of experiences for our students. The fitness, knowledge & skills culminates in larger scale events to provide higher level challenges (i.e. Sports Competitions &/or Outdoor Camps, etc).  
-
-  
-
-This table provides a summary of our SJC PE Programme:
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-gm9x{background-color:#D9E2F3;text-align:left;vertical-align:top}
-.tg .tg-q2zg{background-color:#C7E6A4;text-align:left;vertical-align:top}
-.tg .tg-bcfl{background-color:#E7E6E6;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-76ve{background-color:#FAF9D4;text-align:left;vertical-align:top}
-.tg .tg-ffwg{background-color:#FFC9DB;text-align:left;vertical-align:top}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-bcfl">Level<br></th>
-    <th class="tg-bcfl">Physical Activities (PAs)<br></th>
-    <th class="tg-bcfl">Outdoor Education (OE)<br></th>
-    <th class="tg-bcfl">Events - Student Developmental Experience (SDEs)@<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-76ve"><span style="background-color:#FAF9D4">Sec 1</span><br></td>
-    <td class="tg-76ve"><span style="background-color:initial">Netball &amp; Volleyball</span><br><span style="background-color:initial">Athletics^</span></td>
-    <td class="tg-76ve"><span style="background-color:#FAF9D4">Basic Navigation, Camp Craft, RAMS, Outdoor Cooking, Basic First Aid</span><br></td>
-    <td class="tg-76ve"><span style="background-color:initial">Sec 1 Cohort Camp (3D/2N)~</span><br><span style="background-color:initial">Sports Day / X-Country^</span><br><span style="background-color:initial">Inter-Class / Inter-House Games</span></td>
-  </tr>
-  <tr>
-    <td class="tg-gm9x"><span style="background-color:#D9E2F3">Sec 2*</span><br></td>
-    <td class="tg-gm9x"><span style="background-color:initial">Badminton</span><br><span style="background-color:initial">Athletics^ - NAPFA</span></td>
-    <td class="tg-gm9x"></td>
-    <td class="tg-gm9x"><span style="background-color:initial">Sports Day / X-Country^</span><br>Inter-Class / Inter-House Games</td>
-  </tr>
-  <tr>
-    <td class="tg-ffwg"><span style="background-color:#FFC9DB">Sec 3</span><br></td>
-    <td class="tg-ffwg"><span style="background-color:initial">Softball &amp; Floorball</span><br><span style="background-color:initial">Athletics^</span></td>
-    <td class="tg-ffwg"><span style="background-color:#FFC9DB">Compass Navigation, Camp Craft, Outdoor Cooking, Basic First Aid</span><br></td>
-    <td class="tg-ffwg"><span style="background-color:initial">Sec 3 Cohort Camp (3D/2N)*</span><br><span style="background-color:initial">Sports Day / X-Country^</span><br>Inter-Class / Inter-House Games</td>
-  </tr>
-  <tr>
-    <td class="tg-q2zg"><span style="background-color:#C7E6A4">Sec 4/5*</span><br></td>
-    <td class="tg-q2zg"><span style="background-color:initial">Elective Games#</span><br><span style="background-color:initial">Athletics^ - NAPFA</span></td>
-    <td class="tg-q2zg"></td>
-    <td class="tg-q2zg"><span style="background-color:#C7E6A4">Sports Day / X-Country^</span><br></td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi" colspan="4"><span style="background-color:initial">^ Progressive Fitness &amp; Conditioning in Semester 1 leads to NAPFA Test for Sec 2 and 4/5, and school Sports Day (Track &amp; Field) or X-Country / Orienteering (which alternating each year).</span><br><span style="background-color:initial">*Cohort OAL Camps will be 3D/2N in 2023 (from 2024 to resume the 'steady state' of 4D/3N for Sec 1s 5D/4N for Sec 3s in line with National Outdoor Adventure Education (NAOE) Masterplan)</span><br><span style="background-color:initial">#Elective Games include Frisbee, Soccer, Touch Rugby, Tchoukball, Mini-Tennis, Dodgeball, etc</span><br><span style="background-color:initial">All mass activities are subject to prevailing Covid-19 Safe Management Measures</span></td>
-  </tr>
-</tbody>
-</table>
-  
-	
-![](/images/Curriculum/Physical%20Education/P1.png)
-
-![](/images/Curriculum/Physical%20Education/P2.png)
-
-![](/images/Curriculum/Physical%20Education/P3.png)
+<h4><strong>Our Objective</strong></h4>
+<p>To nurture in every SJCian a love for lifelong, healthy and active living.</p>
+<p>The PE Department strives to develop students holistically, equipping
+them with the knowledge, skills, and values to lead active, purposeful
+lives. Through varied and meaningful learning experiences, every student
+learns to move with confidence, think reflectively, and care for others
+through the joy of physical activity.</p>
+<h4><strong>Our Approach</strong></h4>
+<p>Anchored in the national Physical Education (PE) syllabus, our curriculum
+provides purposeful and progressive learning experiences that help students
+think, move, and live actively.</p>
+<p>We adopt a concept-based and game-centered approach, enabling learning
+to be transferable across different games and contexts. Lessons are intentionally
+designed to strengthen teamwork, resilience, and sportsmanship, shaping
+both skill and character.</p>
+<p>Our programmes also integrate Outdoor Education (OE) and Physical Health
+&amp; Safety (PHS) to build students’ confidence, adaptability, and well-being.
+Students learn how to eat well, sleep well, stay active, and care for themselves
+and others, developing lifelong habits of health and safety in physical
+activity and daily living.</p>
+<h4><strong>Our Programme</strong></h4>
+<p>In line with the national PE syllabus, our curriculum comprises three
+key learning areas taught across all levels:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Sports &amp; Games (Physical Activities)</strong>
+<br>Students experience a range of sports such as frisbee, netball, floorball,
+pickleball, badminton, and handball. Lessons focus on developing movement
+competence and game understanding while nurturing collaboration, resilience,
+and sportsmanship.</p>
+</li>
+</ol>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p><strong>Outdoor Education (OE)</strong>
+<br>Students acquire skills such as orienteering, outdoor cooking, and shelter
+building, applying them during the Secondary 1 and 3 Outdoor Adventure
+Learning (OAL) Camps. These authentic experiences foster confidence, adaptability,
+and appreciation for nature, while cultivating responsibility for self,
+others, and the environment.</p>
+</li>
+</ol>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p><strong>Physical Health &amp; Safety (PHS)</strong>
+<br>Students learn to plan and monitor their own fitness routines, understand
+the importance of balanced nutrition, adequate rest, and safe participation
+in physical activities. This promotes self-directedness and ownership of
+personal well-being.</p>
+</li>
+</ol>
+<p>To broaden students’ exposure and deepen their appreciation of active
+living, the department also offers enrichment experiences through the Sports
+Education Programme (SEP) and the ActiveSG School Sports Partnership (SSP).
+These initiatives provide opportunities for students to participate in
+accessible and engaging activities beyond the regular curriculum. Through
+SEP, students are introduced to sports such as rope skipping, archery,
+and inline skating, encouraging them to explore new interests and pursue
+active lifestyles beyond school. Under the SSP, students take part in street
+dance enrichment, which helps them develop body awareness, rhythm, and
+self-confidence through creative movement. Together, these programmes complement
+the PE curriculum by nurturing active, confident, and well-rounded individuals.</p>
+<p>Department- and school-wide events such as the Skill-Fit Challenge, Inter-Class
+Games, Sports Carnival, and Urban Run further extend learning beyond the
+classroom. These events provide authentic opportunities for students to
+apply what they have learnt, celebrate active living, and build a shared
+culture of health and well-being within the school community.
+<br>
+</p>
+<h4><strong>Growing Student Leaders</strong></h4>
+<p>The Sports Leaders form an integral part of the department’s student leadership
+development. As Health and Wellness Ambassadors, they work closely with
+the PE Department to champion active living and strengthen the sporting
+culture within the school.</p>
+<p>Through structured training and hands-on experiences, Sports Leaders help
+plan and lead in various health and wellness initiatives, support events
+such as the Urban Run and Inter-Class Games, and serve as positive role
+models among their peers. These authentic leadership opportunities empower
+students to exercise voice, choice, and ownership in shaping a healthier
+and more active school community.</p>
+<p>In nurturing these leaders, the department aims to develop confident,
+empathetic, and resilient individuals who take ownership of their well-being
+and inspire others to live well and stay active, embodying what it means
+to lead with both health and heart.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Physical Education/2025_PE___1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Physical Education/2025_PE___2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Physical Education/2025_PE___3.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Physical Education/2025_PE___4.png">
+</div>
+<p></p>
+<p></p>

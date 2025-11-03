@@ -140,4 +140,16 @@ Day, IllumiNite)</p>
 </tbody>
 </table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual &amp; Performing Arts/Choir/2025_Choir___3.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual &amp; Performing Arts/Choir/2025_Choir___1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual &amp; Performing Arts/Choir/2025_Choir___2.jpg">
+</div>
+<p></p>
 <p></p>

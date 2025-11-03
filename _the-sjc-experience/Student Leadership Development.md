@@ -107,7 +107,11 @@ training.&nbsp;</p>
 <p>Monitors</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Inter-Class challenge activities</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -115,7 +119,14 @@ training.&nbsp;</p>
 <p>Peer Support Leaders</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Class Peer Bonding activities, Cyberwellness and Mental Wellbeing Ambassadors</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Class Peer Bonding activities</p>
+</li>
+<li>
+<p>Cyberwellness and Mental Wellbeing Ambassadors</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -123,8 +134,15 @@ training.&nbsp;</p>
 <p>Eco-Stewards</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sustainability initiatives in school, Inter-school sustainability competitions
-and sharing at class and school levels.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Sustainability initiatives in school</p>
+</li>
+<li>
+<p>Inter-school sustainability competitions and sharing at class and school
+levels.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -132,8 +150,20 @@ and sharing at class and school levels.</p>
 <p>CCA Leaders</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CCA Orientation Experience, CCA Competitions, CCA Camps, leading CCA training,
-CCA VIA, CCA welcome &amp; farewell, etc.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>CCA Orientation Experience</p>
+</li>
+<li>
+<p>CCA Competitions</p>
+</li>
+<li>
+<p>CCA Camps</p>
+</li>
+<li>
+<p>Leading CCA training, CCA VIA, CCA welcome &amp; farewell, etc.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>

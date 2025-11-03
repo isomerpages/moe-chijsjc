@@ -60,7 +60,7 @@ continuously striving for excellence and setting new benchmarks in performance.<
 <br>
 </p>
 <p><strong>Teachers-in-charge</strong> 
-<br>Ms. Crystal Quek (IC))
+<br>Mrs. Crystal Tang (IC))
 <br>Mr. Ho Jing Yew, Jeremiah
 <br>Mr. Yee Boon Wei
 <br>

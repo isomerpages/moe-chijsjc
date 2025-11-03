@@ -48,7 +48,7 @@ others, and the environment.</p>
 </ol>
 <ol start="3" data-tight="true" class="tight">
 <li>
-<p><strong> Physical Health &amp; Safety (PHS)</strong>
+<p><strong>Physical Health &amp; Safety (PHS)</strong>
 <br>Students learn to plan and monitor their own fitness routines, understand
 the importance of balanced nutrition, adequate rest, and safe participation
 in physical activities. This promotes self-directedness and ownership of

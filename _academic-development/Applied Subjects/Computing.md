@@ -47,32 +47,35 @@ Approach to develop our students as self-directed and collaborative learners.</p
 <p>Our school’s CPA lessons are designed with the Computing Curriculum Framework
 in mind.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Craft%20and%20Technology/Computer%20Applications/C1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Craft and Technology/Computing/C1.png">
 </div>
 <p>Students will also learn more about the following computer application
 softwares:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Craft%20and%20Technology/Computer%20Applications/C2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Craft and Technology/Computing/C2.png">
 </div>
 <p>The use of gamification as a pedagogy helps to promote active learning
 and promote student motivation.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Craft%20and%20Technology/Computer%20Applications/C3.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Craft%20and%20Technology/Computer%20Applications/C4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Craft and Technology/Computing/C3.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Craft%20and%20Technology/Computer%20Applications/3A_Jermain___AGM_Gold_Award_2023.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Craft and Technology/Computing/C4.png">
 </div>
-<p>Recipient of the Gold Award at the AGM 2023</p>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Craft and Technology/Computer Applications/CPA___Gabrielle_AGM_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Craft and Technology/Computing/3A_Jermain___AGM_Gold_Award_2023.jpeg">
 </div>
-<p>Recipient of the Bronze Award at the AGM 2024</p>
+<p><strong><em>Recipient of the Gold Award at the AGM 2023</em></strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Craft and Technology/Computing/CPA___Gabrielle_AGM_2024.jpg">
+</div>
+<p><strong><em>Recipient of the Bronze Award at the AGM 2024</em></strong>
+<br>
+</p>
 <p>“This experience introduced me to a new, efficient approach to animation—coding.
 Unlike traditional frame-by-frame drawing, coding allows for simple commands
 to control movement, making the animation process smoother and faster.
@@ -81,6 +84,10 @@ enjoyed every step of the journey. Receiving this award was an unexpected
 and exciting recognition of my work, and it inspires me to continue exploring
 creative possibilities in animation”
 <br>Klassen Gabrielle Theresse, Sec 2D (2024)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Craft and Technology/Computing/AGM_2025.jpg">
+</div>
 <p></p>
 <h4><strong>Our Accolades</strong></h4>
 <p><strong>Animation and Game Making (AGM) Competition 2025</strong>
@@ -263,5 +270,12 @@ and collaborative spirit needed to shape a digital future that benefits
 all.</p>
 <p>We are proud of our students for embracing this opportunity to explore,
 innovate and imagine what’s possible through technology!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Craft and Technology/Computing/Computing_2025___1.png">
+</div>
 <h4></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Craft and Technology/Computing/Computing_2025___2.png">
+</div>
+<p></p>
 <p></p>

@@ -43,8 +43,8 @@ Volleyball Championship for ‘B’ and ‘C’ Division girls teams</p>
 <h4><strong>CCA Information</strong></h4>
 <p><strong>Schedule</strong> 
 <br>Monday: 3.45 pm - 6.15 pm
-<br>Wednesday: 3.45 pm - 6.00pm
-<br>Thursday: 3.45 pm - 6.00pm
+<br>Wednesday: 3.45 pm - 6.15pm
+<br>Thursday: 3.45 pm - 6.15pm
 <br>
 </p>
 <p><strong>Teachers-in-charge</strong>&nbsp;

@@ -135,7 +135,8 @@ the CCA.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual%20&amp;%20Performing%20Arts/Handbell%20Ensemble/H2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual &amp; Performing Arts/Handbell Ensemble/2025___Handbell_1.jpg">
 </div>
 <p></p>

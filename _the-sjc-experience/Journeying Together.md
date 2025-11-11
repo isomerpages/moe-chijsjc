@@ -67,7 +67,7 @@ and encourage all members in the class to work together for a common goal.</p>
 </li>
 <li>
 <p>Student of the Term Award: This award seeks to affirm students with exemplary
-behaviour in alignment to L.I.G.H.T values on a termly basis.</p>
+behavior in alignment to L.I.G.H.T values on a termly basis.</p>
 </li>
 <li>
 <p>Nominees for each class should fulfil the following:</p>

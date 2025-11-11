@@ -10,8 +10,9 @@ becomes critical for our students to feel safe and motivated to learn.</p>
 <p>Therefore, a strong bond with peers and teachers is important to deliver
 desirable outcomes, such the ability to work in teams, embrace diversity
 and feel confident in the face of challenges.</p>
-<p><em>photo</em>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The SJC Experience/Journeying Together/2025___Journey_Together_1.png">
+</div>
 <h4><strong>Our Objectives</strong></h4>
 <p>To help our students build positive relationships with both peers and
 teachers and to equip them with effective relationship management skills.</p>
@@ -22,14 +23,15 @@ their connection via class activities and Heart=to-Heart Talks. Students
 also strengthen their relationship by taking various inter-class challenges
 which are led by the class leaders such as the Class Monitors and Peer
 Support Leaders (PSLs).</p>
-<p><em>photo</em>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The SJC Experience/Journeying Together/2025___Journey_Together_2.png">
+</div>
 <h5><strong>Peer Support</strong></h5>
 <p>Class Leaders are equipped with skills such as peer influencing and promote
 positive peer behaviour. They are also equipped with resources to promote
 peer bonding during FT Time.</p>
 <p>The PSLs, guided by the Student Leadership Committee, are also involved
-in organising activities to increase awareness for issues pertaining the
+in organizing activities to increase awareness for issues pertaining the
 wellbeing of students.</p>
 <h5><strong>Student Recognition</strong></h5>
 <p>There are various platforms in school and MOE to affirm SJCians who demonstrate
@@ -87,6 +89,7 @@ behavior in alignment to L.I.G.H.T values on a termly basis.</p>
 </ul>
 </li>
 </ul>
-<p><em>photo</em>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The SJC Experience/Journeying Together/2025___Journey_Together_3.png">
+</div>
 <p></p>

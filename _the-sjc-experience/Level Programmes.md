@@ -92,11 +92,13 @@ to develop their resilience and confidence.</p>
 <p>Our Sec 2 students honed their teamwork and creativity through a series
 of hands-on challenges both on land and water over three days filled with
 fun and laughter.</p>
-<p><em>photo</em>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The SJC Experience/Level Programmes/2025___Level_Programmes_3.png">
+</div>
 <p><em>As the Sec 3 students move into new classes in Upper Secondary, the Sec 3 camp focused on creating a strong class spirit through an exciting 3D2N adventure with their Form teachers and friends.</em>
 </p>
-<p><em>photo</em>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The SJC Experience/Level Programmes/2025___Level_Programmes_4.png">
+</div>
 <p><em>Our Sec 4/5 girls prepare for their next steps after SJC by applying the skills learnt in their earlier years in actual environments such as the CBD and an Active Aging Centre. &nbsp;</em>
 </p>

@@ -101,6 +101,5 @@ adventure with their Form teachers and friends.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/The SJC Experience/Level Programmes/2025___Level_Programmes_4.png">
 </div>
-<p>Our Sec 4/5 girls prepare for their next steps after SJC by applying the
-skills learnt in their earlier years in actual environments such as the
-CBD and an Active Aging Centre. &nbsp;</p>
+<p>Our Sec 4/5 girls prepare for their next steps after SJC by applying what
+they learnt to tackle different challenges in the community.</p>

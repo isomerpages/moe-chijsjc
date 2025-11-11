@@ -63,8 +63,8 @@ achievements through various awards at our annual Awards Ceremony.</p>
 </li>
 <li>
 <p>The STAR Class Award: “Success through Positive Attitude and Resilience”
-is an award that recognises collective class efforts in attendance, punctuality,
-participation in school events and class pride. It endeavours to motivate
+is an award that recognizes collective class efforts in attendance, punctuality,
+participation in school events and class pride. It endeavors to motivate
 and encourage all members in the class to work together for a common goal.</p>
 </li>
 <li>

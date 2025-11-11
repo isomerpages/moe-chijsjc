@@ -79,17 +79,19 @@ they journey with CHIJ SJC:</p>
 outside the classroom to learn with their peers and take part in different
 challenges to develop their confidence, resilience and self-awareness.</p>
 <p>Here are some snapshots from the 2025 level camps:</p>
-<p><em>photo</em>
-</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The SJC Experience/Level Programmes/2025___Level_Programmes_1.png">
+</div>
 <p>Our Sec 1 girls traded their classrooms for three days of adventure and
 fun in the great outdoors. From building sandcastles, hiking to outdoor
 cooking, these activities helped our girls step out of their comfort zone
 to develop their resilience and confidence.</p>
-<p><em>photo</em>
-</p>
-<p><em>Our Sec 2 students honed their teamwork and creativity through a series of hands-on challenges both on land and water over three days filled with fun and laughter.</em>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The SJC Experience/Level Programmes/2025___Level_Programmes_2.png">
+</div>
+<p>Our Sec 2 students honed their teamwork and creativity through a series
+of hands-on challenges both on land and water over three days filled with
+fun and laughter.</p>
 <p><em>photo</em>
 </p>
 <p><em>As the Sec 3 students move into new classes in Upper Secondary, the Sec 3 camp focused on creating a strong class spirit through an exciting 3D2N adventure with their Form teachers and friends.</em>

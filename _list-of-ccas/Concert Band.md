@@ -141,9 +141,6 @@ the hearts of all who listen.</p>
 </tbody>
 </table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2023/Concert%20Band/picture1.jpg">
-</div>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2023/Concert%20Band/picture2.jpg">
 </div>
 <p></p>

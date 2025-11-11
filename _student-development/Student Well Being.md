@@ -14,8 +14,10 @@ are there to guide and offer support for students in need.</p>
 Needs Officer (SENO), Student Welfare Officer (SWO) and Education and the
 Career Guidance (ECG) Counsellor. They work together with teachers to provide
 support required for our students to strive and thrive.</p>
-<p><em>photo</em>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Student Well being/2025___Student_Wellbeing_1.png">
+</div>
 <h4><strong>The Circle Room</strong></h4>
 <p>The Circle Room is a dedicated space for students to self-regulate when
 necessary. There are drawing materials, games and books for students’ use

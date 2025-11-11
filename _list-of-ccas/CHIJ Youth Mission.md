@@ -77,6 +77,28 @@ any way possible, both within and outside the CCA.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHIJ Youth Mission Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHIJ Youth Mission Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -106,28 +128,6 @@ any way possible, both within and outside the CCA.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Distinction Award</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2021</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CHIJ Youth Mission Inter-School Sharing</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>N.A. (No grading)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2020</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CHIJ Youth Mission Inter-School Sharing</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>N.A. (No grading)</p>
 </td>
 </tr>
 </tbody>

@@ -133,5 +133,15 @@ any way possible, both within and outside the CCA.</p>
 </tbody>
 </table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs and Societies/CHIJ Youth Mission/2025___IJYM_2.png">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs and Societies/CHIJ Youth Mission/2025___IJYM_1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs and Societies/CHIJ Youth Mission/2025___IJYM_3.jpg">
+</div>
 <p></p>

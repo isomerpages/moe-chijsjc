@@ -82,10 +82,8 @@ challenges to develop their confidence, resilience and self-awareness.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/The SJC Experience/Level Programmes/2025___Level_Programmes_1.png">
 </div>
-<p>Our Sec 1 girls traded their classrooms for three days of adventure and
-fun in the great outdoors. From building sandcastles, hiking to outdoor
-cooking, these activities helped our girls step out of their comfort zone
-to develop their resilience and confidence.</p>
+<p><em><sub>Our Sec 1 girls traded their classrooms for three days of adventure and fun in the great outdoors. From building sandcastles, hiking to outdoor cooking, these activities helped our girls step out of their comfort zone to develop their resilience and confidence.</sub></em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/The SJC Experience/Level Programmes/2025___Level_Programmes_2.png">
 </div>

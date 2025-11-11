@@ -17,10 +17,11 @@ sections:
           url: /sjc-calendar
   - infopic:
       title: Open House 2025
-      subtitle: All are welcome!
+      subtitle: Thank you for visiting!
       id: infopic
-      description: Visit our school and hear from our students and staff!
-      button: Find out more here
+      description: Our Open House may be over, but you can still explore our microsite
+        to find out more!
+      button: Explore SJC online
       url: https://go.gov.sg/chijsjc-openhouse
       image: /images/Homepage/Website_cover__148_x_105_mm_.png
       alt: Image alt text

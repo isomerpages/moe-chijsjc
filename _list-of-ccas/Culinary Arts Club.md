@@ -43,7 +43,7 @@ are confident and artistic.</p>
 <p>Learning Journeys</p>
 </li>
 <li>
-<p>Annual day camp</p>
+<p>Thematic-based Projects</p>
 </li>
 <li>
 <p>Values-in-Action initiatives</p>
@@ -60,6 +60,6 @@ are confident and artistic.</p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs%20and%20Societies/Culinary%20Arts%20Club/C2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs and Societies/Culinary Arts Club/2025___Culinary_Arts_1.png">
 </div>
 <p></p>

@@ -93,6 +93,7 @@ by Singapore Discovery Centre</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<p></p>
 <p>Year</p>
 </th>
 <th rowspan="1" colspan="1">
@@ -191,10 +192,13 @@ by Singapore Discovery Centre</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2023/Pixel%20Playhouse/picture2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs and Societies/Pixel Playhouse/2025___Pixel_Playhouse_1.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2023/Pixel%20Playhouse/picture1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs and Societies/Pixel Playhouse/2025___Pixel_Playhouse_2.png">
 </div>
+<p></p>
 <p></p>

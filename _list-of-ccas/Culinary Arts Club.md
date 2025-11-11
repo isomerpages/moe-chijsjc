@@ -59,4 +59,7 @@ are confident and artistic.</p>
 <br>Ms. Afroza Begum Binte Kamal
 <br>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs and Societies/Culinary Arts Club/2025___Culinary_Arts_1.png">
+</div>
 <p></p>

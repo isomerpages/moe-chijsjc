@@ -19,8 +19,8 @@ sections:
       title: Open House 2025
       subtitle: Thank you for visiting!
       id: infopic
-      description: Our Open House may be over, but you can still explore our microsite
-        to find out more!
+      description: Our Open House may be over, but you can still explore our school
+        culture and programmes through our E-Open House site!
       button: Explore SJC online
       url: https://go.gov.sg/chijsjc-openhouse
       image: /images/Homepage/Website_cover__148_x_105_mm_.png

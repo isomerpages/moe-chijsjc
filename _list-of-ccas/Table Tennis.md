@@ -138,3 +138,15 @@ organisations; e.g. Singapore Table Tennis Association</p>
 </table>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Physical Sports/Table Tennis/2025___Table_Tennis_1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Physical Sports/Table Tennis/2025___Table_Tennis_2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Physical Sports/Table Tennis/2025___Table_Tennis_3.png">
+</div>
+<p></p>

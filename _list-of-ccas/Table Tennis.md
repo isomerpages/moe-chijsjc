@@ -77,6 +77,20 @@ organisations; e.g. Singapore Table Tennis Association</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games League 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>C Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd Position</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -97,12 +111,10 @@ organisations; e.g. Singapore Table Tennis Association</p>
 <p>OTH Youth Table Tennis Team Challenge 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>C &amp; B Division</strong>
-</p>
+<p>C &amp; B Division</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>2nd &amp; 4th position</strong>
-</p>
+<p>2nd &amp; 4th position</p>
 </td>
 </tr>
 <tr>
@@ -113,22 +125,28 @@ organisations; e.g. Singapore Table Tennis Association</p>
 <p>NBSS Table Tennis Shipshape Cup&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>B Division</strong>
-</p>
-<p><strong>C Division</strong>
-</p>
+<p>B Division</p>
+<p>C Division</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>3rd position</strong>
-</p>
-<p><strong>3rd position</strong>
-</p>
+<p>3rd position</p>
+<p>3rd position</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Physical%20Sports/Table%20Tennis/T2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Physical Sports/Table Tennis/2025___Table_Tennis_1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Physical Sports/Table Tennis/2025___Table_Tennis_2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Physical Sports/Table Tennis/2025___Table_Tennis_3.png">
 </div>
 <p></p>

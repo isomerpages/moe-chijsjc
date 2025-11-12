@@ -14,11 +14,24 @@ group CCAs in the former school site in Hillside Drive and functioned until
 the mid-1980s before the CCA was closed. The unit was re-started in 1999.
 It has since grown in strength in membership and in our quality of programmes,
 achieving excellent results as a unit and in numerous areas.</p>
-<p>The unit has consistently done well to attain the annual Unit Overall
-Proficiency Award since its eligibility in 2003 – Silver (2003 to 2005
-&amp; 2013 – 2014) and Gold (2006 – 2012, 2015 – 2017).&nbsp; In addition,
-at least 1 outstanding cadet also attained the SPF NPCC Award, the pinnacle
-award for NPCC cadets.</p>
+<p>The unit has consistently done well and has continued to sustain the Distinction
+Award for the 2024 Unit Overall Proficiency Award . In addition, recognition
+for outstanding contribution to the unit has been awarded to the following
+cadets:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Singapore Police Force Award (2025)</strong> - Sivaraj Rohita (Unit
+chairperson)</p>
+</li>
+<li>
+<p><strong>Best Unit Cadet Award (2025)</strong> - Jeanelle Lim En Ru and
+Rajesh Vaishnavi</p>
+</li>
+<li>
+<p><strong>Station Inspector (2025)</strong> - Afsana Nihar Binte Jahir Hussain
+and Pandit Shravni Snehal</p>
+</li>
+</ul>
 <p>Our NPCC’s four-year programme offers a wide range of activities such
 as drills, weapons training, self-defence tactics, outdoor camps, crime
 scene investigation training as well as community involvement projects.
@@ -26,10 +39,12 @@ The unit works hand in hand with the Singapore Police Force to promote
 a safe and secure Singapore through workshops and programmes such as Police
 Youth Ambassador. Cadets are also provided with opportunities to represent
 the unit to take part in various inter-unit competitions to bring glory
-to the unit. Activities such as local education visits and Values-in-Action
-(ViA) activities are also organised annually to develop our cadets holistically
-to be concerned citizens. Leadership development opportunities abound within
-the CCA and at HQ level to develop our cadets further.</p>
+to the unit. Activities such as local education visits and outdoor activities
+such as Unit hike and Dragonboat orientation programme are also organised
+annually to develop our cadets holistically. Opportunities such as the
+VIA Sentosa Outreach in collaboration with Bukit Merah NPC as well as the
+Police Youth Ambassador Project in collaboration with the Seng Kang NPC,
+allows our cadets’ to collaborate with the community at large.</p>
 <p>The tradition to pursue excellence runs through all aspects of SJC NPCC
 training, inculcating in our cadets a strong sense of discipline, integrity,
 resourcefulness and confidence as we develop them into responsible individuals
@@ -175,37 +190,48 @@ up to challenges.</p>
 <p>Unit and Cadet Leader camps [NCO]</p>
 </li>
 <li>
-<p>Enrichment courses such as air pistol, forensic science and first aid</p>
+<p>Enrichment courses such as Basic Dragonboat Orientation programme, CPR-AED
+course</p>
 </li>
 <li>
 <p>CCA Experience for Secondary One Orientation programme</p>
 </li>
 <li>
-<p>Values in Action (VIA) through service learning projects such as Befriending
-@ All Saints Home and coastal cleaning</p>
+<p>Values in Action (VIA) through collaboration with Neighbourhood Police
+Centres:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Bukit Merah NPC - VIA Sentosa Outreach</p>
 </li>
 <li>
-<p>Outdoor field trips such as Treetop Walk, Hike at Southern Ridges</p>
+<p>Seng Kang NPC - Police Youth Ambassador Project</p>
+</li>
+</ul>
 </li>
 <li>
-<p>Community Projects/Collaboration with Sengkang Neighbourhood Police Centre
-(NPC)</p>
+<p>Unit Hike for unit bonding - Seng Kang Floating Wetland and Tanjong Rhu
+Lookout/ Geylang River vicinity hike</p>
 </li>
 <li>
-<p>Opportunities to be selected for various parades – Annual Parade, NDP,
-SYF</p>
+<p>Student Outreach Awareness projects (CSSP) - in collaboration with Seng
+Kang NPC</p>
+</li>
+<li>
+<p>Opportunities to be selected for various parades – NPCC Annual Parade,
+NDP, PDP</p>
 </li>
 <li>
 <p>NPCC HQ activities / programmes / competitions (.22 Revolver Shooting,
 Police Heritage Visit, Civil Defence Course, SANA course, Law and Enforcement,
-Crime Scene Investigation (CSI) / Sec 2 ATC/ Sec 3 STC @ Pulau Ubin / Inter-Unit
-.22 Revolver Shooting , Campcraft or Drill Competitions</p>
+Crime Scene Investigation (CSI) / Sec 2 ATC @ Pulau Ubin / Inter-Unit .22
+Revolver Shooting , Campcraft or Drill Competitions</p>
 </li>
 <li>
-<p>Area 7 Games Day</p>
+<p>Area 4 Games Day together with 7 other schools</p>
 </li>
 <li>
-<p>Farewell Night for graduating cadets</p>
+<p>Annual Unit Camp - for cadet leaders to plan and spearhead experiential
+camp for the Sec 1 - 3 cadets</p>
 </li>
 <li>
 <p>Welfare celebrations – birthday celebration and cadet’s academic/ non-academic
@@ -219,7 +245,7 @@ achievements</p>
 </p>
 <p><strong>Teachers-in-charge</strong> 
 <br>Ms. Ong Suat King (IC)
-<br>Ms. Joanna Goh
+<br>Ms. Joanna Goh (Deputy IC)
 <br>Mr. Aw Siu Lun
 <br>Mr. Loh Chu Ken
 <br>
@@ -277,10 +303,4 @@ achievements</p>
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2023/NPCC/picture1.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2023/NPCC/picture2.jpg">
-</div>
 <p></p>

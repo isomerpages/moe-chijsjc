@@ -9,14 +9,14 @@ variant: tiptap
 </div>
 <p></p>
 <h4><strong>About</strong></h4>
-<p>In Sports Club, we believe in promoting values through sports.&nbsp;&nbsp;
-Through the Sports Club experience, members learn to play a variety of
-sports, such as Tchoukball, Floorball and Frisbee. Student Leaders in Sports
-Club are given opportunities to plan and lead training sessions for the
-junior members, which help them to hone their leadership skills.&nbsp;
-Our members also have opportunities to represent the school in competitions
-such as the National Inter-School Tchoukball Competitions and National
-Orienteering Competition.</p>
+<p>The Sports Club nurtures students’ joy and interest in sports, encouraging
+active and healthy lifestyles beyond school. Through activities such as
+Tchoukball, Football and Flying Disc, members build confidence, resilience
+and teamwork while fostering camaraderie and a strong sense of community.
+They also take on leadership roles in planning activities, represent the
+school in competitions like the National Inter-School Tchoukball Championship,
+and promote inclusivity, friendship and giving back through their passion
+for sports.</p>
 <h4><strong>Objectives</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -36,30 +36,24 @@ will continue to lead a healthy and active lifestyle beyond secondary education.
 <p>National Inter-School Tchoukball Competition</p>
 </li>
 <li>
-<p>Sports Club Camp</p>
+<p>Community service with ActiveSG</p>
 </li>
 <li>
-<p>Community service with ActiveSG</p>
+<p>Sports Modules</p>
 </li>
 <li>
 <p>National Orienteering competition</p>
 </li>
-<li>
-<p>Sports Leaders Programme</p>
-</li>
-<li>
-<p>Sports Club Camp</p>
-</li>
 </ul>
 <h4><strong>CCA Information</strong></h4>
-<p><strong>Schedule</strong>
-<br>Monday: 3.45 pm - 6.15 pm
+<p><strong>Schedule</strong> 
 <br>Thursday: 3.45 pm - 6.15 pm</p>
 <p>
 <br><strong>Teachers-in-charge</strong>
 <br>Mr. Muhammad Taufiq Bin Najmuddeen (IC)
 <br>Ms. Gan Yee Hwee
-<br>Mdm. Ng Ai Khim</p>
+<br>Mdm. Ng Ai Khim
+<br>Mr. Daniel Chew Ju Ern</p>
 <h4><strong>Achievements</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
@@ -82,6 +76,20 @@ will continue to lead a healthy and active lifestyle beyond secondary education.
 <th rowspan="1" colspan="1">
 <p>Achievement</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd ActiveSG-TBAS Inter-Schools Tchoukball Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B &amp; C Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -116,7 +124,4 @@ will continue to lead a healthy and active lifestyle beyond secondary education.
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2023/Sports%20club/picture2.jpg">
-</div>
 <p></p>

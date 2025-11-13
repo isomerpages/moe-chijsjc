@@ -121,7 +121,22 @@ will continue to lead a healthy and active lifestyle beyond secondary education.
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Physical Sports/Sports Club/2025___1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Physical Sports/Sports Club/2025___2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Physical Sports/Sports Club/2025___3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Physical Sports/Sports Club/2025___4.jpg">
+</div>
+<p></p>
+<p></p>
 <p></p>

@@ -43,21 +43,22 @@ in all that they do.</p>
 <p>Weekly sectionals and ensemble practice sessions</p>
 </li>
 <li>
-<p>Combined VPA Arts Fiesta Concert in 2022</p>
+<p>CCA Bonding sessions, Sec 1 welcome party, and Sec 4 Farewell party</p>
 </li>
 <li>
-<p>Participation in performances for school events</p>
+<p>Participation in concerts/performances in school events (Awards Ceremony/IllumiNite)</p>
 </li>
 <li>
-<p>Exchange Programme with NUS Guitar Ensemble</p>
+<p>Participation in Guitar Ensemble Festival and Singapore Youth Festival
+Arts Presentation.</p>
 </li>
 <li>
-<p>Student initiated activities eg, VIA for Gear Up Programme</p>
+<p>Exchange programme with other schools</p>
 </li>
 </ul>
 <h4><strong>CCA Information</strong></h4>
 <p><strong>Schedule</strong>       
-<br>Monday: 3.45 pm – 6.00pm
+<br>Monday: 3.45 pm – 6.15pm
 <br>Thursday: 3.45 pm – 6.15 pm
 <br>
 </p>
@@ -99,6 +100,34 @@ in all that they do.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Guitar Ensemble Festival 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Instrumental Ensemble</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -116,32 +145,14 @@ in all that they do.</p>
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2021
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Arts Presentation
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Instrumental Ensemble</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Certificate of Accomplishment
-<br>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2023/Guitar%20ensemble/picture1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual &amp; Performing Arts/Guitar Ensemble/2025___Guitar_1.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/2023/Guitar%20ensemble/picture2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual &amp; Performing Arts/Guitar Ensemble/2025___Guitar_2.png">
 </div>
 <p></p>

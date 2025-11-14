@@ -35,7 +35,7 @@ citizens</p>
 <h4><strong>Activities</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Proficiency badges (eg. Artist, Craft, Entertainer, Knotter, Language
+<p>Proficiency badges (e.g. Artist, Craft, Entertainer, Knotter, Language
 of the Deaf)</p>
 </li>
 <li>
@@ -78,8 +78,8 @@ of the Deaf)</p>
 <p>Biennial Wee Kim Wee Outdoor Cooking Challenge</p>
 </li>
 <li>
-<p>Yeoman service for school and HQ events (eg. Chinese New Year, Urban Run,
-CCA Carnival, National Day Parade Segment, World Thinking Day Celebrations,
+<p>Yeoman service for school and HQ events (e.g. Chinese New Year, Urban
+Run, CCA Carnival, National Day Parade Segment, World Thinking Day Celebrations,
 etc.)</p>
 </li>
 </ul>

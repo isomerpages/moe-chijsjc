@@ -85,10 +85,6 @@ and exciting recognition of my work, and it inspires me to continue exploring
 creative possibilities in animation”
 <br>Klassen Gabrielle Theresse, Sec 2D (2024)</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Craft and Technology/Computing/AGM_2025.jpg">
-</div>
-<p></p>
 <h4><strong>Our Accolades</strong></h4>
 <p><strong>Animation and Game Making (AGM) Competition 2025</strong>
 </p>

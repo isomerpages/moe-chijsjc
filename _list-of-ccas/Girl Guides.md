@@ -9,23 +9,16 @@ variant: tiptap
 </div>
 <p></p>
 <h4><strong>About</strong></h4>
-<p>Guiding is an educational youth movement open to all girls without distinction
-of creed, race, nationality or any other circumstance. It is a life skills
-education that will encourage each girl to be responsible through a game
-of exploration, observation, knowledge and ideas.</p>
-<p>Started in 2003, the SJC Girl Guides are a close-knit family of sisters.
-The girls are trained to be resilient and resourceful individuals through
-both indoor and outdoor activities such as camping, hiking, outdoor cooking,
-tent-pitching, foot drill, leadership development opportunities and community
-service. These events allow the Guides to forge friendships and strong
-ties with their fellow sister Guides as they support one another and grow.</p>
-<p>Our 5-point programme – Personal and Social Development, Home, Community,
-Outdoor and International – helps the Girl Guide to understand herself,
-her community and the world through exposure to a myriad of experiences
-and programmes designed to incorporate character development, values inculcation,
-citizenship education, leadership skills and 21st century core competencies.
-The CCA inculcates the values of selflessness and respect in our girls
-and also teaches them important life skills.</p>
+<p>Guiding is a global movement aimed at empowering girls and women of all
+ages, and from all walks of life. The Girl Guide movement has its roots
+in Scouting, and thus similarly aims to develop Guides into responsible
+role models that strive to make a difference in their communities, nations
+and even the world.</p>
+<p>SJC Girl Guides began in 2003, and has since grown in numbers and leadership
+competencies, becoming a success story of a student-led CCA. During our
+CCA sessions, through our Five Point Programme and Proficiency Badges,
+we holistically develop Guides’ personal skills so that they are well-equipped
+to lend a helping hand at home, in their community and abroad.</p>
 <h4><strong>Objectives</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
@@ -42,7 +35,8 @@ citizens</p>
 <h4><strong>Activities</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>Proficiency badge work preparation</p>
+<p>Proficiency badges (eg. Artist, Craft, Entertainer, Knotter, Language
+of the Deaf)</p>
 </li>
 <li>
 <p>Basic First Aid Training</p>
@@ -51,52 +45,48 @@ citizens</p>
 <p>Foot drills</p>
 </li>
 <li>
-<p>Outdoor cooking, Camp craft &amp; Tent-pitching</p>
+<p>Outdoor cooking</p>
 </li>
 <li>
-<p>Service Learning (Sri Narayanan Home)</p>
+<p>Camp craft &amp; gadget making</p>
 </li>
 <li>
-<p>Annual cookies sale</p>
+<p>Pitching of 6-man canvas tent</p>
 </li>
 <li>
-<p>One-Star Kayaking course</p>
+<p>VIA Partnership with Sree Narayana Mission</p>
+</li>
+<li>
+<p>Sale of Girl Guide cookies</p>
 </li>
 <li>
 <p>Total Defence Badges (Gold, Silver, Bronze)</p>
 </li>
 <li>
-<p>Fun activities (bowling, fencing, dragon-boating, etc.)</p>
-</li>
-<li>
-<p>Overnight camps in school and Camp Christine, Campfires, Community Singing</p>
-</li>
-<li>
-<p>Patrol Leaders’ Training Camp</p>
+<p>Annual overnight camp and campfire in Camp Christine</p>
 </li>
 <li>
 <p>Annual World Thinking Day Celebrations</p>
 </li>
 <li>
-<p>North Division Day Competitions (cheerleading, poetry writing, scrapbook
-making, snack making, dance, poster making, gadget making, etc.)</p>
+<p>Annual North Division Day Fest</p>
 </li>
 <li>
-<p>Biannual Girl Guides Jamboree</p>
+<p>Biennial Outdoor Challenge</p>
 </li>
 <li>
-<p>Yeoman service for school and HQ events (Sports Day, Cross Country, Awards
-Ceremony, Sec One CCA Experience, National Day Parade Segment, National
-School Games Table Tennis Finals, World Thinking Day Celebrations, etc.)</p>
+<p>Biennial Wee Kim Wee Outdoor Cooking Challenge</p>
+</li>
+<li>
+<p>Yeoman service for school and HQ events (eg. Chinese New Year, Urban Run,
+CCA Carnival, National Day Parade Segment, World Thinking Day Celebrations,
+etc.)</p>
 </li>
 </ul>
 <h4><strong>CCA Information</strong></h4>
 <p><strong>Schedule</strong>       
 <br>Thursday: 3.45 pm – 6.15 pm
-<br>
-<br>
-</p>
-<p>*Additional session during peak season/competition only.</p>
+<br>*Additional Wednesday session for leaders in Semester 1 only.</p>
 <p><strong>Teachers-in-charge</strong> 
 <br>Ms. Nur Farizan Bte Abubakar (IC)
 <br>Ms. Lee Yu Xian
@@ -124,32 +114,10 @@ School Games Table Tennis Finals, World Thinking Day Celebrations, etc.)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2023</p>
+<p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Puan Noor Aishah Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Gold Award</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Puan Noor Aishah Award</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Gold Award</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>North Division Outdoor Challenge – Tent Pitching</p>
+<p>North Division Fest – Telematch</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2nd Place</p>
@@ -157,10 +125,21 @@ School Games Table Tennis Finals, World Thinking Day Celebrations, etc.)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2022</p>
+<p>2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>North Division Day – Let's Get Moving</p>
+<p>North Division Fest – Cooking Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd Place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>North Division Fest – Wide Game</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Merit Award</p>
@@ -168,51 +147,18 @@ School Games Table Tennis Finals, World Thinking Day Celebrations, etc.)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>North Division Day – Wide Games</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2nd Place</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2021</p>
+<p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Puan Noor Aishah Award</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Silver Award</p>
+<p>Gold Award</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2021</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>#GGSWTD2021 Social Action Video Contest #1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bronze Award</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2021</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>GGSSCS Smoke Free Ambassador</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bronze Award</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2020</p>
+<p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Puan Noor Aishah Award</p>
@@ -223,7 +169,4 @@ School Games Table Tennis Finals, World Thinking Day Celebrations, etc.)</p>
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniformed%20Groups/Girl%20Guides/G2.png">
-</div>
 <p></p>

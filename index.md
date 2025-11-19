@@ -16,16 +16,6 @@ sections:
           description: Check what's coming up
           url: /sjc-calendar
   - infopic:
-      title: Semester 2 Bulletin
-      subtitle: CHIJ SJC
-      id: infopic
-      description: Enjoy our Semester 2 Bulletin, a snapshot of the semester’s
-        highlights and achievements!
-      button: Click Here
-      url: https://drive.google.com/file/d/1ApFezhnT6CZjvHg5fgHnMQMsuof_mFtc/view?usp=sharing
-      image: /images/Homepage/The_Beacon___News__1_.png
-      alt: Image alt text
-  - infopic:
       title: Open House 2025
       subtitle: Thank you for visiting!
       id: infopic
@@ -34,6 +24,16 @@ sections:
       button: Explore SJC online
       url: https://go.gov.sg/chijsjc-openhouse
       image: /images/Homepage/Website_cover__148_x_105_mm_.png
+      alt: Image alt text
+  - infopic:
+      title: Semester 2 Bulletin
+      subtitle: CHIJ SJC
+      id: infopic
+      description: Enjoy our Semester 2 Bulletin, a snapshot of the semester’s
+        highlights and achievements!
+      button: Click Here
+      url: https://drive.google.com/file/d/1ApFezhnT6CZjvHg5fgHnMQMsuof_mFtc/view?usp=sharing
+      image: /images/Homepage/The_Beacon___News__1_.png
       alt: Image alt text
   - resources:
       title: Latest Announcements and Schedules

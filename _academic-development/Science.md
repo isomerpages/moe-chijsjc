@@ -63,5 +63,3 @@ science workshops.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Science/2025___Science_Fast_Fashion.png">
 </div>
 <p></p>
-<p></p>
-<p></p>

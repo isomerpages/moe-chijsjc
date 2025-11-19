@@ -16,13 +16,14 @@ sections:
           description: Check what's coming up
           url: /sjc-calendar
   - infopic:
-      title: CHIJ SJC - Semester 2 Bulletin
+      title: Semester 2 Bulletin
       subtitle: CHIJ SJC
       id: infopic
-      description: The Beacon - News From SJC (Semester 2 2025)
+      description: Enjoy our Semester 2 Bulletin, a snapshot of the semester’s
+        highlights and achievements!
       button: Click Here
       url: https://drive.google.com/file/d/1ApFezhnT6CZjvHg5fgHnMQMsuof_mFtc/view?usp=sharing
-      image: /images/Homepage/beacon_semester_2.png
+      image: /images/Homepage/The_Beacon___News__1_.png
       alt: Image alt text
   - infopic:
       title: Open House 2025

@@ -46,17 +46,8 @@ debates</p>
 <p>Through all the above programmes, students will learn to use the English
 Language with impact, effect and affect.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Eng Language and Literature/2025_English_3.png">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Eng Language and Literature/2025_English_5.png">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Eng Language and Literature/2025_English_4.png">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Eng%20Language%20and%20Literature/ellsix.jpg">

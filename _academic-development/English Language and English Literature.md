@@ -46,8 +46,9 @@ debates</p>
 <p>Through all the above programmes, students will learn to use the English
 Language with impact, effect and affect.</p>
 <p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Eng Language and Literature/2025___English_3.png">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Eng%20Language%20and%20Literature/ellsix.jpg">
@@ -64,5 +65,6 @@ Language with impact, effect and affect.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Eng Language and Literature/2025_English_2.png">
 </div>
+<p></p>
 <p>Our department’s work is tied closely to our school’s&nbsp;<strong>Applied Learning Programme in Theatre and Debates.</strong>&nbsp;Find
 out more <a href="/sjcexperience/alp/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>

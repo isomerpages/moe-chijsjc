@@ -43,5 +43,25 @@ our SJC Science Research Programme, Chemistry, Biology and Physics Junior
 Olympiads, STEM-infused learning experiences, learning journeys, and hands-on
 science workshops.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Science/2025___Science_Youth_STEM_Programme.png">
+</div>
 <p></p>
-<p>(2023).</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Science/2025___Science_AStar_and_Singapore_Science_Fair.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Science/2025___Science_VJC_Fair.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Science/2025___Science_STEM_Lesson.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Science/2025___Science_Fast_Fashion.png">
+</div>
+<p></p>
+<p></p>
+<p></p>

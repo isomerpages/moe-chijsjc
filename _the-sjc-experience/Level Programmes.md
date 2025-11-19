@@ -92,6 +92,7 @@ to develop their resilience and confidence.</p>
 <p>Our Sec 2 students honed their teamwork and creativity through a series
 of hands-on challenges both on land and water over three days filled with
 fun and laughter.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/The SJC Experience/Level Programmes/2025___Level_Programmes_3.png">
 </div>

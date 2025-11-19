@@ -2,47 +2,46 @@
 title: Science
 permalink: /academic/science/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<style type="text/css">
-figcaption 
-{
-text-align:center;
-font-style: italic;
-}
-</style>
-
-#### **Our Objectives**
-
-
-*   At SJC, we aim to excite our students in the learning of Science, with alignment to the MOE Science Curriculum Framework; and
-*   To enthuse our students in the pursuit of Scientific Knowledge and for them to be able to apply their knowledge and skills in daily problem solving and to contribute to the society
-
-![](/images/Curriculum/Science/S1.png)
-
-![](/images/Curriculum/Science/S2.png)
-
-
-#### **Our Approach**
-
-
-*   Our key focus is for students to gain a deeper appreciation for Science through experiential learning, with links to real-life scenarios and applications in STEM context.
-*   Varied teaching methods and thinking routines, which are catered to our students’ learning needs, are used to engage them during daily lessons.
-
-#### **Our Programmes**
-
-
-The Science Enrichment Programme provides learning opportunities beyond the syllabus to expand the students’ perspectives and experiences. This includes the Chemistry, Biology and Physics Junior Olympiads, ignITE Skills Challenge, Learning Journeys and Science Workshops.  
-
-![](/images/Curriculum/Science/S3.png)
-
-![](/images/Curriculum/Science/S4.png)
-
-|  |  |
-| -------- | -------- |
-| ![](/images/Curriculum/Science/8599a867-001b-432c-aabc-f374a2f78d2e.JPG)     | ![](/images/Curriculum/Science/4e3dd5a9-ed4c-4a48-9ae5-49bd7d5684e6%202.JPG)     |
-
-
-
-<figcaption> Our Secondary 2 students clinched the People's Choice Award in the final round of the Singapore Science Buskers Competition (2023).
-	</figcaption>
+<h4><strong>Our Objectives</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>At SJC, we aim to excite our students in the learning of Science, with
+alignment to the MOE Science Curriculum Framework; and</p>
+</li>
+<li>
+<p>To enthuse our students in the pursuit of Scientific Knowledge and for
+them to be able to apply their knowledge and skills in daily problem solving
+and to contribute to the society</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Science/S1.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Science/S2.png">
+</div>
+<h4><strong>Our Approach</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Our key focus is for students to gain a deeper appreciation for Science
+through experiential learning, with links to real-life scenarios and applications
+in STEM context.</p>
+</li>
+<li>
+<p>Varied teaching methods and thinking routines, which are catered to our
+students’ learning needs, are used to engage them during daily lessons.</p>
+</li>
+</ul>
+<h4><strong>Our Programmes</strong></h4>
+<p>The SJC Science Enrichment Programme (<strong>S</strong>park–<strong>J</strong>ourney–<strong>C</strong>ultivate)
+aims to nurture curious and innovative learners who use science to make
+a positive impact in the world. We provide learning opportunities beyond
+the syllabus to broaden students’ perspectives and experiences. These include
+our SJC Science Research Programme, Chemistry, Biology and Physics Junior
+Olympiads, STEM-infused learning experiences, learning journeys, and hands-on
+science workshops.</p>
+<p></p>
+<p></p>
+<p>(2023).</p>

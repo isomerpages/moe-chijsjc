@@ -92,6 +92,7 @@ to develop their resilience and confidence.</p>
 <p>Our Sec 2 students honed their teamwork and creativity through a series
 of hands-on challenges both on land and water over three days filled with
 fun and laughter.</p>
+<p></p>
 <p>As the Sec 3 students move into new classes in Upper Secondary, the Sec
 3 camp focused on creating a strong class spirit through an exciting 3D2N
 adventure with their Form teachers and friends.</p>

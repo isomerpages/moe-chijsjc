@@ -3,66 +3,127 @@ title: Design & Technology
 permalink: /academic/applied/dnt/
 description: ""
 third_nav_title: Applied Subjects
-variant: markdown
+variant: tiptap
 ---
-<style type="text/css">
-figcaption 
-{
-text-align:center;
-font-style: italic;
-}
-</style>
-
-#### **Our Objectives**
-
-
-D&amp;T prepares students for living and working in an ever-changing world by helping them recognise the need for new or modified products/systems. It gives students the capacity and confidence to design, make and evaluate the products/systems independently. 
-
-The objectives of the D&amp;T curriculum are as follow:
-
-*   To engage the creative and inquisitive instinct of students by using design in problem-solving,
-*   To develop basic design thinking and communication skills,
-*   To allow students to realise their design through prototype making and
-*   To develop autonomous decision-makers.
-
-#### **Our Approach**
-
-
-The students embark on their design journey through projects during the two- year course. Students advance their knowledge and skills by working side by side with their teachers who facilitate the process of designing solutions to a challenge or problem.  
-
-#### **Our Achievement**
-
-
-In SJC, Lower Secondary students learn Design and Technology over the course of one semester in each year. They embark on the following projects over two years:  
-
-  
-
-| Year | Semester | Projects |
-| -------- | -------- | -------- |
-| Sec 1     |     2    |                                                       1. Design Journals <br>2. Toy Car (use of an electrical circuit)                                                      |
-| Sec 2 |     1    |  1. Design Journals  <br>2. Pull Toy (use of linkages) <br> 3. Automata (use of mechanisms)  <br>4. Participation in Engineering Challenge (Automata Category) organised by the Singapore Polytechnic |
- 
-![](/images/Curriculum/Craft%20and%20Technology/Design%20&amp;%20Technology/D1.png)
-
-  
-
-#### **Our Achievement**
-
-
-Interested Secondary 2 students are selected to take part in the Toy Design Competition organised by the Mechanical and Aeronautical Engineering Department of the Singapore Polytechnic. This provides them an opportunity to explore and apply their learning.
-
-In 2022, a team of Sec 2 students clinched the 1st Prize in the Automata Category.
-
-  
-![](/images/Curriculum/Craft%20and%20Technology/Design%20&amp;%20Technology/D2.png)
-
-
-In 2023, another team of Sec 2 students clinched the 1st Prize in the Automata Category with their unique ideas in Urban Farming!
-
-|  |  | 
-| -------- | -------- | 
-|![](/images/Curriculum/Craft%20and%20Technology/Design%20&amp;%20Technology/dnt%20automata%201.jpeg)     | ![](/images/Curriculum/Craft%20and%20Technology/Design%20&amp;%20Technology/dnt%20automata%202.jpeg)     | 
-
- 
-<figcaption>The winning entry featuring the Automata in Urban Farming!
-</figcaption>
+<h4><strong>Our Objectives</strong></h4>
+<p>D&amp;T prepares students for living and working in an ever-changing world
+by helping them recognise the need for new or modified products/systems.
+It gives students the capacity and confidence to design, make and evaluate
+the products/systems independently.</p>
+<p>The objectives of the D&amp;T curriculum are as follow:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>To engage the creative and inquisitive instinct of students by using design
+in problem-solving,</p>
+</li>
+<li>
+<p>To develop basic design thinking and communication skills,</p>
+</li>
+<li>
+<p>To allow students to realise their design through prototype making and</p>
+</li>
+<li>
+<p>To develop autonomous decision-makers.</p>
+</li>
+</ul>
+<h4><strong>Our Approach</strong></h4>
+<p>The students embark on their design journey through projects during the
+two- year course. Students advance their knowledge and skills by working
+side by side with their teachers who facilitate the process of designing
+solutions to a challenge or problem.</p>
+<h4><strong>Our Achievement</strong></h4>
+<p>In SJC, Lower Secondary students learn Design and Technology over the
+course of one semester in each year. They embark on the following projects
+over two years:</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Semester</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Projects</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1. Design Journals
+<br>2. Toy Car (use of an electrical circuit)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sec 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1. Design Journals
+<br>2. Pull Toy (use of linkages)
+<br>3. Automata (use of mechanisms)
+<br>4. Participation in Engineering Challenge (Automata Category) organised
+by the Singapore Polytechnic</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Craft%20and%20Technology/Design%20&amp;%20Technology/D1.png">
+</div>
+<h4><strong>Our Achievement</strong></h4>
+<p>Interested Secondary 2 students are selected to take part in design and
+engineering competitions, giving them an opportunity to explore and apply
+their learning.</p>
+<p>In 2023, a team of Secondary 2 students clinched the 1st Prize in the
+Automata Category in the Toy Design Competition organised by the Mechanical
+and Aeronautical Engineering Department of the Singapore Polytechnic with
+their unique ideas on Urban Farming!</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Craft%20and%20Technology/Design%20&amp;%20Technology/dnt%20automata%201.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Craft%20and%20Technology/Design%20&amp;%20Technology/dnt%20automata%202.jpeg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>In 2025, a group of Secondary students transformed their VIA idea to award-winning
+innovation! Their self-sustaining watering system clinched first prize
+in the <em>Design Category</em> at Singapore Polytechnic’s Engineering Challenge
+Competition.</p>
+<p></p>
+<p>The winning entry featuring the Automata in Urban Farming!</p>

@@ -140,5 +140,12 @@ their unique ideas on Urban Farming!</p>
 innovation! Their self-sustaining watering system clinched first prize
 in the <em>Design Category</em> at Singapore Polytechnic’s Engineering Challenge
 Competition.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Craft and Technology/Design &amp; Technology/2025___DnT_3.png">
+</div>
+<p>Our Secondary 2 team continued to win the 1st Prize in the Automata Category
+at Singapore Polytechnic in 2025, turning learning into practical innovation
+through creativity and teamwork.</p>
+<p></p>
 <p></p>
 <p></p>

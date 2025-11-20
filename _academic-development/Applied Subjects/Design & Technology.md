@@ -35,9 +35,8 @@ solutions to a challenge or problem.</p>
 <p>In SJC, Lower Secondary students learn Design and Technology over the
 course of one semester in each year. They embark on the following projects
 over two years:</p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -45,9 +44,6 @@ over two years:</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p>Year</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Semester</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Projects</p>
@@ -58,11 +54,20 @@ over two years:</p>
 <p>Sec 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1. Design Journals
-<br>2. Toy Car (use of an electrical circuit)</p>
+<ol>
+<li>
+<p>Designed and prototyped a Pencil Holder incorporating 3D printing and
+principles of sustainability.</p>
+</li>
+<li>
+<p>Developed and prototyped a Toy Car integrating an electrical circuit,
+sensor, and coding.</p>
+</li>
+<li>
+<p>Participated in the Engineering Challenge (Design Category) organized
+by Singapore Polytechnic.</p>
+</li>
+</ol>
 </td>
 </tr>
 <tr>
@@ -70,19 +75,30 @@ over two years:</p>
 <p>Sec 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1. Design Journals
-<br>2. Pull Toy (use of linkages)
-<br>3. Automata (use of mechanisms)
-<br>4. Participation in Engineering Challenge (Automata Category) organised
-by the Singapore Polytechnic</p>
+<ol>
+<li>
+<p>Conceptualized and developed a Tealight Holder using Design Thinking approach</p>
+</li>
+<li>
+<p>Designed and built a Pull Toy with functional mechanical linkage through
+Inquiry based learning approach</p>
+</li>
+<li>
+<p>Participated in the Engineering Challenge (Automata Category) organized
+by Singapore Polytechnic.</p>
+</li>
+</ol>
 </td>
 </tr>
 </tbody>
 </table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Craft and Technology/Design &amp; Technology/2025___DnT_1.png">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Craft and Technology/Design &amp; Technology/2025___DnT_2.png">
+</div>
 <p></p>
 <h4><strong>Our Achievement</strong></h4>
 <p>Interested Secondary 2 students are selected to take part in design and

@@ -141,4 +141,4 @@ innovation! Their self-sustaining watering system clinched first prize
 in the <em>Design Category</em> at Singapore Polytechnic’s Engineering Challenge
 Competition.</p>
 <p></p>
-<p>The winning entry featuring the Automata in Urban Farming!</p>
+<p></p>

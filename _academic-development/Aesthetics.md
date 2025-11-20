@@ -60,13 +60,28 @@ on the process of art learning rather than the finished product.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Aesthetics/Art/A2.png">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Aesthetics/2025___Aesthetics_1.png">
+</div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Aesthetics/Art/A3.png">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Aesthetics/2025___Aesthetics_2.png">
+</div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Aesthetics/2023aesthetics1.jpg">
 </div>
 <p>Art-making as a cohort activity during Learning Week 2023</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Aesthetics/2025___aesthetics_3.png">
+</div>
+<p></p>
 <h3><strong>MUSIC</strong></h3>
 <h4><strong>Our Objectives:</strong></h4>
 <ul data-tight="true" class="tight">

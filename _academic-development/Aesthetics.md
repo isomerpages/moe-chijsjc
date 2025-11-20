@@ -137,11 +137,13 @@ exploration and creative music making in the following programmes:</p>
 / skills</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Aesthetics/Music/M2.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Aesthetics/2023aesthetics2.jpg">
-</div>
-<p>The Music Alive! Showcase allowed students to perform with their friends
-(left) and learn from the experiences of Singapore’s music talents (right).</p>
+<p>Students with the passion for music are given the chance to perform both
+in and out of school. A highlight this year was the Singapore Youth Station,
+where young musicians compose and produce original works under mentorship,
+culminating in a showcase of their creativity.&nbsp;</p>
+<p>We are proud to share that three SJCians received recognition awards for
+their original compositions. Their dedication and talent have brought pride
+to SJC and exemplify our vibrant school arts culture.</p>
+<p></p>
+<p></p>
+<p></p>

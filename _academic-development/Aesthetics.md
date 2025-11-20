@@ -144,6 +144,14 @@ culminating in a showcase of their creativity.&nbsp;</p>
 <p>We are proud to share that three SJCians received recognition awards for
 their original compositions. Their dedication and talent have brought pride
 to SJC and exemplify our vibrant school arts culture.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Aesthetics/Music/2025___Music_1.png">
+</div>
+<p>Students can also look forward to exciting performances by professional
+musicians for greater exposure to the arts scene in Singapore.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Aesthetics/Music/2025___Music_2.png">
+</div>
 <p></p>
 <p></p>
 <p></p>

@@ -82,9 +82,8 @@ by the Singapore Polytechnic</p>
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Curriculum/Craft%20and%20Technology/Design%20&amp;%20Technology/D1.png">
-</div>
+<p></p>
+<p></p>
 <h4><strong>Our Achievement</strong></h4>
 <p>Interested Secondary 2 students are selected to take part in design and
 engineering competitions, giving them an opportunity to explore and apply

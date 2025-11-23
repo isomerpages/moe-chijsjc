@@ -216,6 +216,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Vishantini Raj Raju Manikam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Trudy Lau Choe Keng</p>
 </td>
 <td rowspan="1" colspan="1">

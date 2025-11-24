@@ -22,4 +22,4 @@ to make a difference. To extend their influence, selected groups present
 their projects and learning in the annual Passion Ignite and VIA showcase
 to their peers during Learning Week.</p>
 <h4><strong>Student Leadership Learning Experiences</strong></h4>
-<p>faceExperience for Student Development.</p>
+<p></p>

@@ -2,26 +2,60 @@
 title: Learning for Life Programme
 permalink: /sjcexperience/llp/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-### **Bringing L.I.G.H.T. To The Community**
-
-In SJC, we develop every student to bring the L.I.G.H.T. into the communities that they are in through the VIA and Student Leadership programmes.
-
-#### **OUR APPROACH**
-SJC uses the Learn-Act-Reflect cycle as the approach for our LLP which is implemented through Values in Action (VIA) and Student Leadership experiences for all students. We have also adopted the 5 Practices of Exemplary Leadership to equip all students with personal mastery commitment statements. The 5 Practices of Exemplary Leadership are cascaded down to each level.
-
-
-#### **OUR PROGRAMME**
-
-In lower secondary, through class VIA projects, students are exposed through a combination of lectures, workshops, newspaper article readings to social issues such as sustainability, Singapore’s ageing population and the challenges that youths face. Students then identify issues that they would like to address. Guided by their form teachers, they brainstorm and subsequently work through mini-solutions using the Learn-Act-Reflect approach. This process of identification, analysis, selection and proposal of solutions introduces students to basic project management and collaborative work as the process takes close to half a year.
-
-In upper secondary, students are provided with their second platform for community work as a class via their Secondary Three Camp Metamorphosis Level Camp when classes work with TOUCH community agencies. Some CCAs have also come on board over the years and set aside the time to work on community outreach as well. The graduating students also initiate and implement their own community projects.
-
-Since the inception of the LLP in 2014, issues that students have chosen to work on include environmental sustainability, care and respect for animals, youth addiction to social media and social isolation. Organisations that SJCians have partnered regularly include NParks, PUB, NLB, St Luke’s Elder Care, as well as kindergartens and primary schools in the Sengkang and Punggol community.
-
-![](/images/Special%20Programmes/Learning%20for%20Life%20Programme/L1.png)
-
-![](/images/Special%20Programmes/Learning%20for%20Life%20Programme/L2.png)
-
-You may click [here](/student-development/Values-In-Action/) to read more of our Values-in-Action Experience for Student Development.
+<h3><strong>Bringing L.I.G.H.T. to the Community</strong></h3>
+<h4><strong>Desired Outcomes</strong></h4>
+<p>SJC’s LLP aims to empower students to bring L.I.G.H.T. into the community.
+L.I.G.H.T. stands for the SJC school values of Love, Integrity, Gratitude,
+Humility and Tenacity. Our LLP leverages Values In Action and Student Leadership
+programmes to guide students to lead with confidence, serve with humility
+and relate with empathy. Through the 4-year programme, students also develop
+adaptive thinking and communication skills, growing into confident youth
+leaders who spark positive change to the community around them.</p>
+<h4><strong>VIA Learning Experiences</strong></h4>
+<p>The 4-year programme includes broad themes for students to explore and
+work on projects ranging from Sustainability (Sec 1), School (Sec 2), and
+the Elderly (Upper Secondary). Our close partnership with external organisations,
+including social enterprises and Senior Activity Centres in the Sengkang
+and Punggol area allow students authentic and meaningful opportunities
+to make a difference. To extend their influence, selected groups present
+their projects and learning in the annual Passion Ignite and VIA showcase
+to their peers during Learning Week.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The SJC Experience/Learning for Life/2025___LLP_1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The SJC Experience/Learning for Life/2025___LLP_2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The SJC Experience/Learning for Life/2025___LLP_3.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The SJC Experience/Learning for Life/2025___LLP_4.png">
+</div>
+<p></p>
+<h4><strong>Student Leadership Learning Experiences</strong></h4>
+<p>Students are empowered to take up leadership opportunities at various
+levels in schools and we believe all students can be and should be developed
+as a leader of self to become women of influence. The four main groups
+of student leaders are Student Council, Sports Leaders, Class Leaders,
+and CCA leaders. They lead in various school events and engage their classmates
+in various initiatives, such as enhancing peer support in class to sustainability
+efforts.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The SJC Experience/Learning for Life/2025___LLP_5.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The SJC Experience/Learning for Life/2025___LLP_6.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/The SJC Experience/Learning for Life/2025___LLP_7.png">
+</div>
+<p></p>
+<p></p>

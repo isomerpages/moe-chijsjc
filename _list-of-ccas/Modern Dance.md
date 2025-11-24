@@ -37,10 +37,14 @@ partner work, and learning choreography</p>
 Party</p>
 </li>
 <li>
-<p>School performances (E.g. Teachers’ Day, Open House)</p>
+<p>School performances (E.g. Award Ceremony, National Day celebration, Open
+House)</p>
 </li>
 <li>
 <p>Biennial Singapore Youth Festival Arts Presentation</p>
+</li>
+<li>
+<p>Public performances (E.g. Sengkang North SG60 National Day Celebrations)</p>
 </li>
 </ul>
 <h4><strong>CCA Information</strong></h4>
@@ -72,24 +76,34 @@ Party</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year
-<br>
+<p><strong>Year <br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Name of Competition
-<br>
+<p><strong>Name of Competition <br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Division/Category
-<br>
+<p><strong>Division/Category <br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Achievement
-<br>
+<p><strong>Achievement <br></strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Modern Dance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
 </td>
 </tr>
 <tr>
@@ -152,4 +166,13 @@ Party</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual &amp; Performing Arts/Modern Dance &amp; Indian Dance/2025___MDance_1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Visual &amp; Performing Arts/Modern Dance &amp; Indian Dance/2025___MDance_2.png">
+</div>
+<p></p>
 <p></p>

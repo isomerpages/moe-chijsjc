@@ -4,8 +4,8 @@ permalink: /sjcexperience/llp/
 description: ""
 variant: tiptap
 ---
-<h2>Learning for Life Programme 2025</h2>
-<h3><strong>Desired Outcomes</strong></h3>
+<h3><strong>Bringing L.I.G.H.T. to the Community</strong></h3>
+<h4><strong>Desired Outcomes</strong></h4>
 <p>SJC’s LLP aims to empower students to bring L.I.G.H.T. into the community.
 L.I.G.H.T. stands for the SJC school values of Love, Integrity, Gratitude,
 Humility and Tenacity. Our LLP leverages Values In Action and Student Leadership
@@ -41,9 +41,9 @@ to their peers during Learning Week.</p>
 <h4><strong>Student Leadership Learning Experiences</strong></h4>
 <p>Students are empowered to take up leadership opportunities at various
 levels in schools and we believe all students can be and should be developed
-as a leader of self to become women of influence. The 4 main groups of
-student leaders are Student Council, Sports Leaders, Class Leaders, and
-CCA leaders. They lead in various school events and engage their classmates
+as a leader of self to become women of influence. The four main groups
+of student leaders are Student Council, Sports Leaders, Class Leaders,
+and CCA leaders. They lead in various school events and engage their classmates
 in various initiatives, such as enhancing peer support in class to sustainability
 efforts.</p>
 <div class="isomer-image-wrapper">

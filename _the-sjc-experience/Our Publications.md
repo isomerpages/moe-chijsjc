@@ -4,7 +4,7 @@ permalink: /our-publications/
 variant: tiptap
 description: ""
 ---
-<h4>The Beacon - Our SJC Bulletin</h4>
+<h4><strong>The Beacon - Our SJC Bulletin</strong></h4>
 <p>This biannual newsletter captures our favourite memories and highlights
 from each semester. Enjoy!</p>
 <ul data-tight="true" class="tight">
@@ -18,7 +18,7 @@ from each semester. Enjoy!</p>
 </li>
 </ul>
 <p></p>
-<h4>Illuminate - Our School Annual</h4>
+<h4><strong>Illuminate - Our School Annual</strong></h4>
 <p>Our digital yearbook details the people, events and rich experiences that
 make each year so special. SJC staff, students and parents may access the
 yearbook with the password sent to your MOE mail or Parents Gateway.</p>

@@ -233,15 +233,24 @@ Run</p>
 </tbody>
 </table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student%20Development/Student%20Leadership%20Development/S1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Student Leadership Development/L1.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student%20Development/Student%20Leadership%20Development/S2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Student Leadership Development/L2.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student%20Development/Student%20Leadership%20Development/S3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Student Leadership Development/L3.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student%20Development/Student%20Leadership%20Development/S4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Student Leadership Development/L4.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Student Leadership Development/L5.jpg">
+</div>
+<p></p>
+<p></p>
 <p></p>

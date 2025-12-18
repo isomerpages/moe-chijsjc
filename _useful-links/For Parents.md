@@ -25,7 +25,7 @@ variant: tiptap
 <h4><strong>ICT Matters For Parents</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://sites.google.com/moe.edu.sg/chij-sjc-ict/for-parentsguardians" rel="noopener nofollow" target="_blank">ICT Resource for Parents</a>
+<p><a href="https://sites.google.com/moe.edu.sg/chij-sjc-ict/for-parentsguardians" rel="noopener nofollow" target="_blank">ICT Resource Site for Parents</a>
 </p>
 </li>
 </ul>

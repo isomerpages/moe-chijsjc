@@ -161,7 +161,7 @@ variant: tiptap
 <blockquote>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://sites.google.com/moe.edu.sg/chijsjcpdlp/for-student?authuser=0" rel="noopener noreferrer nofollow" target="_blank">PDLP Resource Site for Students</a>
+<p><a href="https://sites.google.com/moe.edu.sg/chij-sjc-ict/for-students" rel="noopener nofollow" target="_blank">ICT Resource Site for Students</a>
 </p>
 </li>
 <li>

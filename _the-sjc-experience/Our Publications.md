@@ -24,6 +24,10 @@ make each year so special. SJC staff, students and parents may access the
 yearbook with the password sent to your MOE mail or Parents Gateway.</p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="https://online.fliphtml5.com/obrr/CHIJSJC_2025/" rel="noopener nofollow" target="_blank">Illuminate (2025)</a>
+</p>
+</li>
+<li>
 <p><a href="https://online.fliphtml5.com/obrr/figw/" rel="noopener nofollow" target="_blank">Illuminate (2024)</a>
 </p>
 </li>

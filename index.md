@@ -26,14 +26,14 @@ sections:
       image: /images/Homepage/2026_Sec_1_Registration_min.png
       alt: Image alt text
   - infopic:
-      title: Open House 2025
-      subtitle: Thank you for visiting!
+      title: Our 2025 Year Book
+      subtitle: A Year of Memories
       id: infopic
-      description: Our Open House may be over, but you can still explore our school
-        culture and programmes through our E-Open House site!
-      button: Explore SJC online
-      url: https://go.gov.sg/chijsjc-openhouse
-      image: /images/Homepage/Website_cover__148_x_105_mm_.png
+      description: SJCians and parents may access the yearbook using the password sent
+        to your MOE email and Parents Gateway. Enjoy!
+      button: 2025 Year Book
+      url: https://online.fliphtml5.com/obrr/CHIJSJC_2025/
+      image: /images/CHIJ_SJC_Year_Book_2025.png
       alt: Image alt text
   - infopic:
       title: Semester 2 Bulletin

@@ -21,7 +21,7 @@ Rigorous Training Activities; and</p>
 <p>Developing passion and showcasing talents</p>
 </li>
 </ul>
-<p>With 19 CCAs to choose from, SJCians enjoy many opportunities to perform,
+<p>With 20 CCAs to choose from, SJCians enjoy many opportunities to perform,
 compete and grow in their respective fields.</p>
 <table style="minWidth: 100px">
 <colgroup>

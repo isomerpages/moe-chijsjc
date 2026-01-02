@@ -55,9 +55,8 @@ House)</p>
 </p>
 <p><strong>Teachers-in-charge</strong> 
 <br>Mr. Tan Kuan Ting (IC)
-<br>Ms. Yeap Wen Qi Clarissa
-<br>
-</p>
+<br>Mdm. Singarajan Geetha
+<br>Ms. Siti Hawa Binte Abdul Hadi</p>
 <h4><strong>Achievements</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>

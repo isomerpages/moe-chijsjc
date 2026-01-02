@@ -49,7 +49,7 @@ Volleyball Championship for ‘B’ and ‘C’ Division girls teams</p>
 </p>
 <p><strong>Teachers-in-charge</strong>&nbsp;
 <br>Mr. Lee Lisheng, Lyndon (IC)
-<br>Ms. Trishta Gill Kaur
+<br>Ms. Lim Si Ying
 <br>Mr. Foo Seng Hong
 <br>
 </p>

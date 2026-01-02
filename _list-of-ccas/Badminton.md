@@ -56,8 +56,9 @@ players from different levels to better know one another</p>
 </p>
 <p><strong>Teachers-in-charge</strong> 
 <br>Ms Albaniah Zakila Bte Aman (IC)
-<br>Mr Veerapan Parimaleswaran
+<br>Ms. Yong Jia Ying, Brianna
 <br>Ms. Woon Lee Yoon, Tina
+<br>Mr. Tan Shen Yong, Samuel
 <br>
 </p>
 <p><em>*Replacement sessions in case of holidays on Mondays/Fridays<br></em>*<em>Additional sessions during peak season/ for school team players</em>

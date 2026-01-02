@@ -61,9 +61,9 @@ continuously striving for excellence and setting new benchmarks in performance.<
 </p>
 <p><strong>Teachers-in-charge</strong> 
 <br>Mrs. Crystal Tang (IC))
-<br>Mr. Ho Jing Yew, Jeremiah
+<br>Ms. Amirah Binte Ahmad Khalis
 <br>Mr. Yee Boon Wei
-<br>
+<br>Mdm. Ng Ai Khim
 <br>
 </p>
 <h4><strong>Achievements</strong></h4>

@@ -46,9 +46,9 @@ the hearts of all who listen.</p>
 </p>
 <p><strong>Teachers-in-charge</strong> 
 <br>Ms. Ng Seow Lin Adeline (IC)
-<br>Mr. Tan Shen Yong, Samuel
+<br>Mr. Loh Chu Ken
 <br>Mdm. Norhani Bte Sawi
-<br>Mdm. Singarajan Geetha
+<br>Ms. Jasmine Law-Spain
 <br>
 <br>
 </p>

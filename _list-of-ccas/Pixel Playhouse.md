@@ -76,8 +76,8 @@ by Singapore Discovery Centre</p>
 <br>
 </p>
 <p><strong>Teachers-in-charge</strong> 
-<br>Mr. Mark Chan Chee Keong (IC)
-<br>Mrs. Goh Boon Hong
+<br>Mrs. Goh Boon Hong (IC)
+<br>Mrs Liau Maria
 <br>
 </p>
 <p>*<em>Additional sessions during competition season.</em>

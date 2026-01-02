@@ -90,8 +90,8 @@ etc.)</p>
 <p><strong>Teachers-in-charge</strong> 
 <br>Ms. Nur Farizan Bte Abubakar (IC)
 <br>Ms. Lee Yu Xian
-<br>Ms. Sonam Vijaykumar
-<br>
+<br>Ms. Nurul Adilah Aizet Bte Mohd Ayub
+<br>Mdm. Rathi Muniandy <em>(Term 2 onwards)</em>
 </p>
 <h4><strong>Achievements</strong></h4>
 <table style="minWidth: 75px">

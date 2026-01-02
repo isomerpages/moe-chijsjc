@@ -50,10 +50,11 @@ will continue to lead a healthy and active lifestyle beyond secondary education.
 <br>Thursday: 3.45 pm - 6.15 pm</p>
 <p>
 <br><strong>Teachers-in-charge</strong>
-<br>Mr. Muhammad Taufiq Bin Najmuddeen (IC)
-<br>Ms. Gan Yee Hwee
-<br>Mdm. Ng Ai Khim
-<br>Mr. Daniel Chew Ju Ern</p>
+<br>Ms. Gan Yee Hwee (IC)
+<br>Ms. Wang Peidi
+<br>Ms. Vivienne Tseng Wee Yun
+<br>
+</p>
 <h4><strong>Achievements</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>

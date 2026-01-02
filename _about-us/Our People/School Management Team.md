@@ -108,8 +108,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Dorathy Lye
-<br><a href="mailto:lye_li_miang_dorathy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lye_li_miang_dorathy@moe.edu.sg</a>
+<p>Ms Tan Ee Sin
+<br><a href="mailto:tan_ee_sin@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_ee_sin@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -183,7 +183,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (Sec 1 &amp; Sec 4)</p>
+<p>Year Head (Sec 1 &amp; Sec 2)</p>
 </td>
 </tr>
 <tr>
@@ -193,7 +193,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (Sec 2 &amp; Sec 3)</p>
+<p>Year Head (Sec 3 &amp; Sec 4)</p>
 </td>
 </tr>
 </tbody>
@@ -287,8 +287,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nurul Adilah
-<br><a href="mailto:nurul_adilah_mohamad_ayub@moe.edu.sg" rel="noopener nofollow" target="_blank">nurul_adilah_mohamad_ayub@moe.edu.sg</a>
+<p>Ms Lynn Quan
+<br><a href="mailto:quan_liqin@moe.edu.sg" rel="noopener nofollow" target="_blank">quan_liqin@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -297,8 +297,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Wong Li Qin
-<br><a href="mailto:wong_li_qin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_li_qin@moe.edu.sg</a>
+<p>Ms Nurul Adilah
+<br><a href="mailto:nurul_adilah_mohamad_ayub@moe.edu.sg" rel="noopener nofollow" target="_blank">nurul_adilah_mohamad_ayub@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">

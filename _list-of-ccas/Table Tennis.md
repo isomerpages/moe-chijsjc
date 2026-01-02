@@ -47,7 +47,7 @@ organisations; e.g. Singapore Table Tennis Association</p>
 <br>Wednesday: 3.45 pm to 6.00 pm
 <br>Friday: 3.45 pm to 6.15 pm</p>
 <p><strong>Teachers-in-charge</strong>
-<br>Ms. Lim Siew Chun (IC)
+<br>Mr. Chew Ju Ern Daniel (IC)
 <br>Mr. Yau Ming Chin
 <br>Ms. Tiffany Wee Yan Lyn</p>
 <p>*Additional session during peak season/ for school team players only.</p>

@@ -134,7 +134,8 @@ variant: tiptap
 <p>1G</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Jasmine Law-Spain <a href="mailto: jasmine_law-spain@moe.edu.sg" rel="noopener nofollow" target="_blank">jasmine_law-spain@moe.edu.sg</a>
+<p>Mrs Jasmine Law-Spain
+<br><a href="mailto: jasmine_law-spain@moe.edu.sg" rel="noopener nofollow" target="_blank">jasmine_law-spain@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">

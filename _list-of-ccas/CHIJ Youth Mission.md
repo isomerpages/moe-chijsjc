@@ -52,8 +52,8 @@ any way possible, both within and outside the CCA.</p>
 <br>
 </p>
 <p><strong>Teachers-in-charge</strong> 
-<br>Ms. Victor Anne Marguerite (IC)
-<br>Mrs. Susie Lee
+<br>Mrs. Susie Lee (IC)
+<br>Ms. Victor Anne Marguerite
 <br>
 </p>
 <h4><strong>Achievement</strong></h4>

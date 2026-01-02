@@ -124,8 +124,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Vivienne Tseng Wee Yun</p>
-<p><a href="mailto:vivienne_tseng_wee_yun@moe.edu.sg" rel="noopener nofollow" target="_blank">vivienne_tseng_wee_yun@moe.edu.sg</a>
+<p>Ms Vivienne Tseng Wee Yun
+<br><a href="mailto:vivienne_tseng_wee_yun@moe.edu.sg" rel="noopener nofollow" target="_blank">vivienne_tseng_wee_yun@moe.edu.sg</a>
 </p>
 </td>
 </tr>

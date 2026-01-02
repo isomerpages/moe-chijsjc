@@ -6,18 +6,12 @@ third_nav_title: Our People
 variant: tiptap
 ---
 <h4><strong>SCHOOL LEADERS</strong></h4>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
-<tr>
-<td rowspan="1" colspan="3">
-<p></p>
-</td>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>MRS VALERIE PINTO<br><em>Principal</em></strong>
@@ -25,14 +19,22 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><strong>MISS MICHELLE TAN<br><em>Vice-Principal</em></strong>
+<br><a href="mailto:tan_lai_yee_michelle@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_lai_yee_michelle@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>MISS HO WEI LING</strong>
 <br><strong><em>Vice-Principal</em></strong>
 <br><a href="mailto:ho_wei_ling_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ho_wei_ling_a@schools.gov.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>MISS MICHELLE TAN<br><em>Vice-Principal</em></strong>
-<br><a href="mailto:tan_lai_yee_michelle@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_lai_yee_michelle@schools.gov.sg</a>
+<p><strong>MR VICTOR ONG</strong>
+<br><strong><em>Vice-Principal</em></strong>
+<br><a href="mailto:victor_ong@moe.edu.sg" rel="noopener nofollow" target="_blank">victor_ong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -73,6 +75,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/ Mother Tongue Languages (Covering)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Yeo Ghee
+<br><a href="mailto:yeo_ghee@moe.edu.sg" rel="noopener nofollow" target="_blank">yeo_ghee@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/ Mathematics <em>(Away from Jan to Jul 2026)</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -213,16 +226,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>Designation</strong>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Soh Ming Kiat
-<br><a href="mailto:lim_ming_kiat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_ming_kiat@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH / Mathematics</p>
 </td>
 </tr>
 <tr>

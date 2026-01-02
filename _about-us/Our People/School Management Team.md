@@ -250,22 +250,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Andrew Teo
-<br><a href="mailto:teo_say_chong_andrew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_say_chong_andrew@moe.edu.sg</a>
+<p>Ms Fiona Choo
+<br><a href="mailto:choo_li_ting_fiona@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choo_li_ting_fiona@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH / Partnerships</p>
+<p>SH / Humanities</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Cheak Ching Hui
-<br><a href="mailto:cheak_ching_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheak_ching_hui@moe.edu.sg</a>
+<p>Mr Choy Wai Wan
+<br><a href="mailto:choy_wai_wan@moe.edu.sg" rel="noopener nofollow" target="_blank">choy_wai_wan@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH / Character &amp; Citizenship Education</p>
+<p>SH / Literature</p>
 </td>
 </tr>
 <tr>
@@ -290,12 +290,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Choy Wai Wan
-<br><a href="mailto:choy_wai_wan@moe.edu.sg" rel="noopener nofollow" target="_blank">choy_wai_wan@moe.edu.sg</a>
+<p>Ms Cheak Ching Hui
+<br><a href="mailto:cheak_ching_hui@moe.edu.sg" rel="noopener nofollow" target="_blank">cheak_ching_hui@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/ Literature</p>
+<p>SH/ Character and Citizenship Education (CCE)</p>
 </td>
 </tr>
 <tr>
@@ -310,12 +310,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Fiona Choo
-<br><a href="mailto:choo_li_ting_fiona@moe.edu.sg" rel="noopener nofollow" target="_blank">choo_li_ting_fiona@moe.edu.sg</a>
+<p>Mr Andrew Teo
+<br><a href="mailto:teo_say_chong_andrew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_say_chong_andrew@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/ Humanities</p>
+<p>SH/ Partnerships</p>
 </td>
 </tr>
 <tr>

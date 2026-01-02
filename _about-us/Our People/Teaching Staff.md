@@ -304,7 +304,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Yong Jia Ying, Brianna
-<br>
+<br><a href="mailto:yong_jia_ying_brianna@moe.edu.sg" rel="noopener nofollow" target="_blank">yong_jia_ying_brianna@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -440,7 +440,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lim Si Ying
-<br>
+<br><a href="mailto:lim_si_ying@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_si_ying@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -454,7 +454,7 @@ variant: tiptap
 <p>3G</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Thiah Sheue Shya Maria
+<p>Mdm Thiah Sheue Shya Maria <a href="mailto:thiah_sheue_shya_maria@moe.edu.sg" rel="noopener nofollow" target="_blank">thiah_sheue_shya_maria@moe.edu.sg</a>
 <br>
 </p>
 </td>
@@ -582,8 +582,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Cindy Soon (ST Geography<strong>)</strong>
-</p>
-<p><a href="mailto:cindy_soon@moe.edu.sg" rel="noopener nofollow" target="_blank">cindy_soon@moe.edu.sg</a>
+<br><a href="mailto:cindy_soon@moe.edu.sg" rel="noopener nofollow" target="_blank">cindy_soon@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">

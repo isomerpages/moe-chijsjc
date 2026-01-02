@@ -396,13 +396,13 @@ variant: tiptap
 <p>3C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Susie Lee (ST History)
-<br><a href="mailto:lim_susie@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_susie@moe.edu.sg</a>
+<p>Mr Loh Chu Ken
+<br><a href="mailto:loh_chu_ken@moe.edu.sg" rel="noopener nofollow" target="_blank">loh_chu_ken@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Izzati Binte Jasni
-<br><a href="mailto:nur_izzati_binte_jasni@moe.edu.sg" rel="noopener nofollow" target="_blank">nur_izzati_binte_jasni@moe.edu.sg</a>
+<p>Ms Fiona Choo
+<br><a href="mailto:choo_li_ting_fiona@moe.edu.sg" rel="noopener nofollow" target="_blank">choo_li_ting_fiona@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -411,14 +411,12 @@ variant: tiptap
 <p>3D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Gemma Lee Pereira
-<br><a href="mailto:gemma_lee_pereira@moe.edu.sg" rel="noopener nofollow" target="_blank">gemma_lee_pereira@moe.edu.sg</a>
+<p>Mr Chew Ju Ern Daniel
+<br><a href="mailto:chew_ju_ern_daniel@moe.edu.sg" rel="noopener nofollow" target="_blank">chew_ju_ern_daniel@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Afroza Begum Binte Kamal
-<br><a href="mailto:afroza_begum_kamal@moe.edu.sg" rel="noopener nofollow" target="_blank">afroza_begum_kamal@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -426,12 +424,14 @@ variant: tiptap
 <p>3E</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Gim Chuan
-<br><a href="mailto:tan_gim_chuan@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_gim_chuan@moe.edu.sg</a>
+<p>Mdm Yeo Li-Yen Juliet
+<br><a href="mailto:yeo_li-yen_juliet@moe.edu.sg" rel="noopener nofollow" target="_blank">yeo_li-yen_juliet@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Yee Boon Wei
+<br><a href="mailto:boon_wei_yee@moe.edu.sg" rel="noopener nofollow" target="_blank">boon_wei_yee@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>

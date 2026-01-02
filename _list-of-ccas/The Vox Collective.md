@@ -186,6 +186,8 @@ to bond and practice essential life skills.</p>
 </tbody>
 </table>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/The Vox Collective/The_Vox_Collective___1.png">
+</div>
 <p></p>
 <p></p>

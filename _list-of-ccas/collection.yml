@@ -2,6 +2,7 @@ collections:
   list-of-ccas:
     output: true
     order:
+      - The Vox Collective.md
       - Angklung and Kulintang Ensemble.md
       - Badminton.md
       - CentreStage (Drama & Debates).md
@@ -9,7 +10,6 @@ collections:
       - Choir.md
       - Concert Band.md
       - Culinary Arts Club.md
-      - Fencing.md
       - Girl Guides.md
       - Guitar Ensemble.md
       - Handbell Ensemble.md

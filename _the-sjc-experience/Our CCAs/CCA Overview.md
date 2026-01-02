@@ -21,7 +21,7 @@ Rigorous Training Activities; and</p>
 <p>Developing passion and showcasing talents</p>
 </li>
 </ul>
-<p>With 19 CCAs to choose from, SJCians enjoy many opportunities to perform,
+<p>With 20 CCAs to choose from, SJCians enjoy many opportunities to perform,
 compete and grow in their respective fields.</p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -71,7 +71,7 @@ compete and grow in their respective fields.</p>
 <p>CentreStage (Drama &amp; Debates)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fencing</p>
+<p>Table Tennis</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>National Police Cadet Corps (NPCC)</p>
@@ -93,7 +93,7 @@ compete and grow in their respective fields.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Sports Club</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Concert Band</p>
@@ -107,13 +107,13 @@ compete and grow in their respective fields.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>The Vox Collective</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Guitar Ensemble</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sports Club</p>
+<p>Volleyball</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -127,7 +127,7 @@ compete and grow in their respective fields.</p>
 <p>Handbell Ensemble</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Table Tennis</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -141,7 +141,7 @@ compete and grow in their respective fields.</p>
 <p>Modern Dance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Volleyball</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -154,5 +154,5 @@ development. Students will be recognised with levels of attainment in four
 domains: Participation, Achievement, Leadership and Service.</p>
 <p>Find out more here: <a href="/files/LEAPS%202/LEAPS%2020%20(Public%20Version).pdf" rel="noopener noreferrer nofollow" target="_blank">LEAPS 2.0</a>
 </p>
-<p><a href="/files/Students Schedules/cca s2_25.pdf" rel="noopener nofollow" target="_blank">CCA Schedule S2 2025</a>
+<p><a href="/files/Students Schedules/CCA_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">CCA Schedule 2026</a>
 </p>

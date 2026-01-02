@@ -8,26 +8,26 @@ variant: tiptap
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Timetable for Sem 2, 2025</strong>
+<p><strong>Timetable for Sem 1, 2026</strong>
 </p>
 </li>
 </ul>
 <blockquote>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Useful Links/Students/Timetables/Sec_1_Timetables_Sem_2.pdf" rel="noopener nofollow" target="_blank">Secondary 1 Timetables (Sem 2)</a>
+<p><a href="/files/Useful Links/Students/Timetables/2026_Secondary_1_Timetables__Sem_1_.pdf" rel="noopener nofollow" target="_blank">Secondary 1 Timetables (Sem 1)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Useful Links/Students/Timetables/Sec_2_Timetables_Sem2.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 Timetables (Sem 2)</a>
+<p><a href="/files/Useful Links/Students/Timetables/2026_Secondary_2_Timetables__Sem_1_.pdf" rel="noopener nofollow" target="_blank">Secondary 2 Timetables (Sem 1)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Useful Links/Students/Timetables/Sec_3_Timetables_Sem2.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3 Timetables (Sem 2)</a>
+<p><a href="/files/Useful Links/Students/Timetables/2026_Secondary_3_Timetables__Sem_1_.pdf" rel="noopener nofollow" target="_blank">Secondary 3 Timetables (Sem 1)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Useful Links/Students/Timetables/Sec_4_5_Timetables_Sem2.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4/5 Timetables (Sem 2)</a>
+<p><a href="/files/Useful Links/Students/Timetables/2026_Secondary_4_and_5_Timetables__Sem_1_.pdf" rel="noopener nofollow" target="_blank">Secondary 4/5 Timetables (Sem 1)</a>
 </p>
 </li>
 </ul>

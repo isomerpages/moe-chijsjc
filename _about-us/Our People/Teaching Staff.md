@@ -15,7 +15,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>Year Head Lower Sec</strong> 
+<p><strong>Year Head Lower Secondary</strong> 
 <br><strong>Ms Ng Lee Hua</strong>
 <br><a href="mailto:ng_lee_hua@moe.edu.sg" rel="noopener nofollow" target="_blank">ng_lee_hua@moe.edu.sg</a>
 </p>
@@ -167,7 +167,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
-<p><strong>Year Head Lower Sec</strong> 
+<p><strong>Year Head Lower Secondary</strong> 
 <br><strong>Ms Ng Lee Hua</strong>
 <br><a href="mailto:ng_lee_hua@moe.edu.sg" rel="noopener nofollow" target="_blank">ng_lee_hua@moe.edu.sg</a>
 </p>

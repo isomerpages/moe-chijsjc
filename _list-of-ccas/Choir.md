@@ -61,8 +61,7 @@ Day, IllumiNite)</p>
 <br>Ms. Ang Su-En Kathleen (IC)
 <br>Ms. Nur Izzati Binte Jasni
 <br>Mr. Hu Chong'en, Bryan
-<br>
-</p>
+<br>Ms. Wong Li Qin</p>
 <h4><strong>Achievements</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>

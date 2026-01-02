@@ -2,7 +2,6 @@ collections:
   list-of-ccas:
     output: true
     order:
-      - The Vox Collective.md
       - Angklung and Kulintang Ensemble.md
       - Badminton.md
       - CentreStage (Drama & Debates).md
@@ -21,4 +20,5 @@ collections:
       - Sports Club.md
       - St John Brigade.md
       - Table Tennis.md
+      - The Vox Collective.md
       - Volleyball.md

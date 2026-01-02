@@ -65,7 +65,7 @@ the CCA.</p>
 </p>
 <p><strong>Teachers-in-charge</strong> 
 <br>Mrs. Ng Peck Hoon (IC)
-<br>Ms. Siti Hawa Binte Abdul Hadi
+<br>Ms. Quan Liqin Lynn
 <br>
 </p>
 <h4><strong>Achievements</strong></h4>

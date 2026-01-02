@@ -71,7 +71,7 @@ compete and grow in their respective fields.</p>
 <p>CentreStage (Drama &amp; Debates)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fencing</p>
+<p>Table Tennis</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>National Police Cadet Corps (NPCC)</p>
@@ -93,7 +93,7 @@ compete and grow in their respective fields.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Sports Club</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Concert Band</p>
@@ -107,13 +107,13 @@ compete and grow in their respective fields.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>The Vox Collective</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Guitar Ensemble</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sports Club</p>
+<p>Volleyball</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -127,7 +127,7 @@ compete and grow in their respective fields.</p>
 <p>Handbell Ensemble</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Table Tennis</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -141,7 +141,7 @@ compete and grow in their respective fields.</p>
 <p>Modern Dance</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Volleyball</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

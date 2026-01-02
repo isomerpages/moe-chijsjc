@@ -282,7 +282,35 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/ CCA</p>
+<p>SH/ Education Technology</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Choy Wai Wan
+<br><a href="mailto:choy_wai_wan@moe.edu.sg" rel="noopener nofollow" target="_blank">choy_wai_wan@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/ Literature</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Majella Woo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/ Student Leadership</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Fiona Choo
+<br><a href="mailto:choo_li_ting_fiona@moe.edu.sg" rel="noopener nofollow" target="_blank">choo_li_ting_fiona@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/ Humanities</p>
 </td>
 </tr>
 <tr>
@@ -307,8 +335,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Wong Peidi
-<br><a href="mailto:wang_peidi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_peidi@moe.edu.sg</a>
+<p>Ms Wong Li Qin
+<br><a href="mailto:wong_li_qin@moe.edu.sg" rel="noopener nofollow" target="_blank">wong_li_qin@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -317,8 +345,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Fiona Choo
-<br><a href="mailto:choo_li_ting_fiona@moe.edu.sg" rel="noopener nofollow" target="_blank">choo_li_ting_fiona@moe.edu.sg</a>
+<p>Mrs Wong Peidi
+<br><a href="mailto:wang_peidi@moe.edu.sg" rel="noopener nofollow" target="_blank">wang_peidi@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">

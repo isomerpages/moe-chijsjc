@@ -77,12 +77,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Yeo Ghee
-<br><a href="mailto:yeo_ghee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_ghee@moe.edu.sg</a>
+<p>Mrs Dawn Soh Ming Kiat
+<br><a href="mailto:lim_ming_kiat@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_ming_kiat@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/ Mathematics</p>
+<p>HOD/ Mathematics (Covering)</p>
 </td>
 </tr>
 <tr>
@@ -297,7 +297,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Majella Woo</p>
+<p>Ms Majella Woo
+<br><a href="mailto:woo_wenhui_majella@moe.edu.sg" rel="noopener nofollow" target="_blank">woo_wenhui_majella@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/ Student Leadership</p>

@@ -8,82 +8,26 @@ variant: tiptap
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Timetable for Sem 2, 2025</strong>
+<p><strong>Timetable for Sem 1, 2026</strong>
 </p>
 </li>
 </ul>
 <blockquote>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Useful Links/Students/Timetables/Sec_1_Timetables_Sem_2.pdf" rel="noopener nofollow" target="_blank">Secondary 1 Timetables (Sem 2)</a>
+<p><a href="/files/Useful Links/Students/Timetables/2026_Secondary_1_Timetables__Sem_1_.pdf" rel="noopener nofollow" target="_blank">Secondary 1 Timetables (Sem 1)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Useful Links/Students/Timetables/Sec_2_Timetables_Sem2.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 Timetables (Sem 2)</a>
+<p><a href="/files/Useful Links/Students/Timetables/2026_Secondary_2_Timetables__Sem_1_.pdf" rel="noopener nofollow" target="_blank">Secondary 2 Timetables (Sem 1)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Useful Links/Students/Timetables/Sec_3_Timetables_Sem2.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3 Timetables (Sem 2)</a>
+<p><a href="/files/Useful Links/Students/Timetables/2026_Secondary_3_Timetables__Sem_1_.pdf" rel="noopener nofollow" target="_blank">Secondary 3 Timetables (Sem 1)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Useful Links/Students/Timetables/Sec_4_5_Timetables_Sem2.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4/5 Timetables (Sem 2)</a>
-</p>
-</li>
-</ul>
-</blockquote>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>End of Year &amp; Preliminary Examinations Schedules</strong>
-</p>
-</li>
-</ul>
-<blockquote>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="/files/Useful Links/Students/Examinations/2025_Sec_1_EOY_Timetable.pdf" rel="noopener nofollow" target="_blank">Secondary 1 EOY Examination Schedule</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Useful Links/Students/Examinations/2025_Sec_2_EOY_Timetable.pdf" rel="noopener nofollow" target="_blank">Secondary 2 EOY Examination Schedule</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Useful Links/Students/Examinations/2025_Sec_3EXP_EOY_Timetable.pdf" rel="noopener nofollow" target="_blank">Secondary 3EXP EOY Examination Schedule</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Useful Links/Students/Examinations/2025_Sec_3NA_EOY_Timetable.pdf" rel="noopener nofollow" target="_blank">Secondary 3NA EOY Examination Schedule</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Useful Links/Students/Examinations/2025_Sec_3NT_EOY_Timetable.pdf" rel="noopener nofollow" target="_blank">Secondary 3NT EOY Examination Schedule</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Useful Links/Students/Weighted Assessments/2025_4N_Part_1_Prelim___FINAL_26_JUNE.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4N Prelim schedule (Part 1)</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Useful Links/Students/Weighted Assessments/Released_Version___2025_4N_Part_2_Prelim.pdf" rel="noopener nofollow" target="_blank">Secondary 4N Prelim schedule (Part 2)</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Useful Links/Students/Weighted Assessments/Released_Version___2025_4E5N_Prelim.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4E5N Prelim schedule</a>
-</p>
-</li>
-</ul>
-</blockquote>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Internal English Oral Examinations</strong>
-</p>
-</li>
-</ul>
-<blockquote>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://docs.google.com/spreadsheets/d/1Qe6uzxKnJi-Ns-3Ze1dH5zXU8Y_K_-uunf0LMiSvYyY/edit?gid=2093478648#gid=2093478648" rel="noopener nofollow" target="_blank">Sec 3 &amp; 4/5 English Oral Examinations</a>
+<p><a href="/files/Useful Links/Students/Timetables/2026_Secondary_4_and_5_Timetables__Sem_1_.pdf" rel="noopener nofollow" target="_blank">Secondary 4/5 Timetables (Sem 1)</a>
 </p>
 </li>
 </ul>

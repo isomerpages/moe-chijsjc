@@ -439,13 +439,13 @@ variant: tiptap
 <p>3F</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ong Suat King
-<br><a href="mailto:ong_suat_king@moe.edu.sg" rel="noopener nofollow" target="_blank">ong_suat_king@moe.edu.sg</a>
+<p>Ms Lim Si Ying
+<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Au Siu Lun
-<br><a href="mailto:au_siu_lun@moe.edu.sg" rel="noopener nofollow" target="_blank">au_siu_lun@moe.edu.sg</a>
+<p>Ms Cheak Ching Hui
+<br><a href="mailto:cheak_ching_hui@moe.edu.sg" rel="noopener nofollow" target="_blank">cheak_ching_hui@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -454,13 +454,13 @@ variant: tiptap
 <p>3G</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Foo Seng Hong
-<br><a href="mailto:foo_seng_hong@moe.edu.sg" rel="noopener nofollow" target="_blank">foo_seng_hong@moe.edu.sg</a>
+<p>Mdm Thiah Sheue Shya Maria
+<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Chan Lian Yin
-<br><a href="mailto:chan_lian_yin@moe.edu.sg" rel="noopener nofollow" target="_blank">chan_lian_yin@moe.edu.sg</a>
+<p>Mr Tan Kuan Ting
+<br><a href="mailto:tan_kuan_ting@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_kuan_ting@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -469,14 +469,12 @@ variant: tiptap
 <p>3H</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Raabiyathul Basariah
-<br><a href="mailto:raabiyathul_basariah@moe.edu.sg" rel="noopener nofollow" target="_blank">raabiyathul_basariah@moe.edu.sg</a>
+<p>Mr Tan Gim Chuan
+<br><a href="mailto:tan_gim_chuan@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_gim_chuan@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ho Jing Yew, Jeremiah
-<br><a href="mailto:ho_jing_yew@moe.edu.sg" rel="noopener nofollow" target="_blank">ho_jing_yew@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>

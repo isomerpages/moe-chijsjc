@@ -167,8 +167,8 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="3">
 <p><strong>Year Head Lower Sec</strong> 
-<br><strong>Mr Peh Wei Qin</strong> 
-<br><a href="mailto:peh_wei_qin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">peh_wei_qin@moe.edu.sg</a>
+<br><strong>Ms Ng Lee Hua</strong>
+<br><a href="mailto:ng_lee_hua@moe.edu.sg" rel="noopener nofollow" target="_blank">ng_lee_hua@moe.edu.sg</a>
 </p>
 <p></p>
 <p><strong>Assistant Year Head Secondary 2</strong> 
@@ -197,13 +197,13 @@ variant: tiptap
 <p>2A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lim Siew Chun
-<br><a href="mailto:lim_siew_chun@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_siew_chun@moe.edu.sg</a>
+<p>Mr Lee Lisheng, Lyndon
+<br><a href="mailto:lyndon_lee@moe.edu.sg" rel="noopener nofollow" target="_blank">lyndon_lee@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Loh Chu Ken
-<br><a href="mailto:loh_chu_ken@moe.edu.sg" rel="noopener nofollow" target="_blank">loh_chu_ken@moe.edu.sg</a>
+<p>Ms Tharshini Vijayan
+<br><a href="mailto:tharshini_vijayan@moe.edu.sg" rel="noopener nofollow" target="_blank">tharshini_vijayan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -212,13 +212,13 @@ variant: tiptap
 <p>2B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Vera Yuen Xin En
-<br><a href="mailto:yuen_xin_en_vera@moe.edu.sg" rel="noopener nofollow" target="_blank">yuen_xin_en_vera@moe.edu.sg</a>
+<p>Mrs Joanna Goh
+<br><a href="mailto:lee_hui_ying_joanna@moe.edu.sg" rel="noopener nofollow" target="_blank">lee_hui_ying_joanna@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Singarajan Geetha
-<br><a href="mailto:singarajan_geetha@moe.edu.sg" rel="noopener nofollow" target="_blank">singarajan_geetha@moe.edu.sg</a>
+<p>Ms Rathi Muniandy
+<br>
 </p>
 </td>
 </tr>
@@ -227,13 +227,13 @@ variant: tiptap
 <p>2C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Woon Lee Yoon Tina
-<br><a href="mailto:woon_lee_yoon_tina@moe.edu.sg" rel="noopener nofollow" target="_blank">woon_lee_yoon_tina@moe.edu.sg</a>
+<p>Ms Trishta Gill Kaur
+<br><a href="mailto:trishta_kaur@moe.edu.sg" rel="noopener nofollow" target="_blank">trishta_kaur@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sujena D/O Sethuram
-<br><a href="mailto:sujena_sethuram@moe.edu.sg" rel="noopener nofollow" target="_blank">sujena_sethuram@moe.edu.sg</a>
+<p>Mr Tan Shen Yong Samuel
+<br><a href="mailto:tan_shen_yong_samuel@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_shen_yong_samuel@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -242,13 +242,13 @@ variant: tiptap
 <p>2D</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mark Chan Chee Keong
-<br><a href="mailto:mark_chan_chee_keong@moe.edu.sg" rel="noopener nofollow" target="_blank">mark_chan_chee_keong@moe.edu.sg</a>
+<p>Ms Sonam Vijaykumar
+<br><a href="mailto:sonam_vijaykumar_kusurkar@moe.edu.sg" rel="noopener nofollow" target="_blank">sonam_vijaykumar_kusurkar@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Cheak Ching Hui
-<br><a href="mailto:cheak_ching_hui@moe.edu.sg" rel="noopener nofollow" target="_blank">cheak_ching_hui@moe.edu.sg</a>
+<p>Ms Siti Hawa Binte Abdul Hadi
+<br><a href="mailto:siti_hawa_abdul_hadi@moe.edu.sg" rel="noopener nofollow" target="_blank">siti_hawa_abdul_hadi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -257,8 +257,23 @@ variant: tiptap
 <p>2E</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Teo Wee Seng
-<br><a href="mailto:teo_wee_seng@moe.edu.sg" rel="noopener nofollow" target="_blank">teo_wee_seng@moe.edu.sg</a>
+<p>Mrs Goh Boon Hong
+<br><a href="mailto:pey_boon_hong@moe.edu.sg" rel="noopener nofollow" target="_blank">pey_boon_hong@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Michelle Yin Siew Yi (LT Art)
+<br><a href="mailto:yin_siew_yi_michelle@moe.edu.sg" rel="noopener nofollow" target="_blank">yin_siew_yi_michelle@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2F</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Iris Teh
+<br><a href="mailto:teh_yean_yean_iris@moe.edu.sg" rel="noopener nofollow" target="_blank">teh_yean_yean_iris@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -267,26 +282,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2F</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Yee Boon Wei
-<br><a href="mailto:boon_wei_yee@moe.edu.sg" rel="noopener nofollow" target="_blank">boon_wei_yee@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Jean Lim Le Hui
-<br><a href="mailto:jean_lim_le_hui@moe.edu.sg" rel="noopener nofollow" target="_blank">jean_lim_le_hui@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>2G</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Jasmine Law-Spain
-<br><a href="mailto:jasmine_law-spain@moe.edu.sg" rel="noopener nofollow" target="_blank">jasmine_law-spain@moe.edu.sg</a>
+<p>Ms Albaniah Zakila
+<br><a href="mailto:albaniah_zakila_aman@moe.edu.sg" rel="noopener nofollow" target="_blank">albaniah_zakila_aman@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -298,13 +298,28 @@ variant: tiptap
 <p>2H</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Ng Peck Hoon
-<br><a href="mailto:peh_peck_hoon@moe.edu.sg" rel="noopener nofollow" target="_blank">peh_peck_hoon@moe.edu.sg</a>
+<p>Ms Crystal Tang
+<br><a href="mailto:crystal_quek_hein_luan@moe.edu.sg" rel="noopener nofollow" target="_blank">crystal_quek_hein_luan@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yeap Wen Qi Clarissa
-<br><a href="mailto:yeap_wen_qi_clarissa@moe.edu.sg" rel="noopener nofollow" target="_blank">yeap_wen_qi_clarissa@moe.edu.sg</a>
+<p>Ms Yong Jia Ying, Brianna
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2I</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Shian Ruenn
+<br><a href="mailto:lim_shian_ruenn@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_shian_ruenn@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Ng Peck Hoon
+<br><a href="mailto:peh_peck_hoon@moe.edu.sg" rel="noopener nofollow" target="_blank">peh_peck_hoon@moe.edu.sg</a>
 </p>
 </td>
 </tr>

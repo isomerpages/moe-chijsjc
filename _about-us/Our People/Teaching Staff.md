@@ -341,8 +341,8 @@ variant: tiptap
 </p>
 <p></p>
 <p><strong>Assistant Year Head Secondary 3</strong> 
-<br><strong>Ms Wang Peidi</strong>
-<br><a href="mailto:wang_peidi@moe.edu.sg" rel="noopener nofollow" target="_blank">wang_peidi@moe.edu.sg</a>
+<br><strong>Ms Wong Li Qin</strong>
+<br><a href="mailto:wong_li_qin@moe.edu.sg" rel="noopener nofollow" target="_blank">wong_li_qin@moe.edu.sg</a>
 </p>
 <p></p>
 </td>
@@ -366,13 +366,13 @@ variant: tiptap
 <p>3A</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Phoon Lai Ling
-<br><a href="mailto:phoon_lai_ling@moe.edu.sg" rel="noopener nofollow" target="_blank">phoon_lai_ling@moe.edu.sg</a>
+<p>Ms Nur Farizan Binte Abubakar
+<br><a href="mailto:nur_farizan_abubakar@moe.edu.sg" rel="noopener nofollow" target="_blank">nur_farizan_abubakar@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Madeline Lee Cui Ying
-<br><a href="mailto:madeline_lee_cui_ying@moe.edu.sg" rel="noopener nofollow" target="_blank">madeline_lee_cui_ying@moe.edu.sg</a>
+<p>Mr Toh Zhi Wen Alvin
+<br><a href="mailto:toh_zhi_wen_alvin@moe.edu.sg" rel="noopener nofollow" target="_blank">toh_zhi_wen_alvin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -381,13 +381,13 @@ variant: tiptap
 <p>3B</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Yu Xian
-<br><a href="mailto:lee_yu_xian@moe.edu.sg" rel="noopener nofollow" target="_blank">lee_yu_xian@moe.edu.sg</a>
+<p>Ms Hafifah Binte Mohd Hafiz Tan
+<br><a href="mailto:hafifah_mohd_hafiz_tan@moe.edu.sg" rel="noopener nofollow" target="_blank">hafifah_mohd_hafiz_tan@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Victor Anne Marguerite
-<br><a href="mailto:victor_anne_marguerite@moe.edu.sg" rel="noopener nofollow" target="_blank">victor_anne_marguerite@moe.edu.sg</a>
+<p>Mr Andrew Teo
+<br><a href="mailto:teo_say_chong_andrew@moe.edu.sg" rel="noopener nofollow" target="_blank">teo_say_chong_andrew@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -396,7 +396,7 @@ variant: tiptap
 <p>3C</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Lim Susie (ST History)
+<p>Mrs Susie Lee (ST History)
 <br><a href="mailto:lim_susie@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_susie@moe.edu.sg</a>
 </p>
 </td>

@@ -53,10 +53,10 @@ CCA camps.</p>
 <br>
 </p>
 <p><strong>Teachers-in-charge</strong> 
-<br>Ms. Yeo Li-Yen Juliet (IC)
-<br>Ms. Gemma Pereira Lee
-<br>Ms Jean Lim Le Hui
-<br>Mr. Teo Say Chong, Andrew
+<br>Mr. Choy Wai Wan (IC)
+<br>Ms. Yeo Li-Yen Juliet
+<br>Ms. Sonam Vijaykumar
+<br>
 <br>
 </p>
 <h4><strong>Achievements</strong></h4>

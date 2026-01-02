@@ -247,7 +247,7 @@ achievements</p>
 <br>Ms. Ong Suat King (IC)
 <br>Ms. Joanna Goh (Deputy IC)
 <br>Mr. Aw Siu Lun
-<br>Mr. Loh Chu Ken
+<br>
 <br>
 </p>
 <h4><strong>Achievements</strong></h4>

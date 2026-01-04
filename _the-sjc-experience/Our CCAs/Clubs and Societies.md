@@ -26,7 +26,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/the-vox-collective/" rel="noopener nofollow" target="_blank">The Vox Collective</a>
+<p><a href="/thevoxcollective" rel="noopener nofollow" target="_blank">The Vox Collective</a>
 </p>
 </li>
 </ul>

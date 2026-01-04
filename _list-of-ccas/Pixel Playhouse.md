@@ -76,7 +76,7 @@ by Singapore Discovery Centre</p>
 <br>
 </p>
 <p><strong>Teachers-in-charge</strong> 
-<br>Mrs. Goh Boon Hong (IC)
+<br>Ms Pey Boon Hong (IC)
 <br>Mrs Liau Maria
 <br>
 </p>

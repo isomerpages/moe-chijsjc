@@ -87,10 +87,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://form.gov.sg/658cb72e34123000115fcb83" rel="noopener noreferrer nofollow" target="_blank">Request password / Reset for iCON or Windows Login</a>
-</p>
-</li>
-<li>
 <p><a href="/files/Useful%20Links/Students/Students/mims%20student%20self%20service%20password%20reset%20guide.pdf" rel="noopener noreferrer nofollow" target="_blank">MIMS Student Self Service Password Reset Guide</a>
 </p>
 </li>

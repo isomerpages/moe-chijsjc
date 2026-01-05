@@ -25,5 +25,9 @@ variant: tiptap
 <p><a href="/sportsclub" rel="noopener nofollow" target="_blank">Sports Club</a>
 </p>
 </li>
+<li>
+<p><a href="/the-vox-collective" rel="noopener nofollow" target="_blank">The Vox Collective</a>
+</p>
+</li>
 </ul>
 <p></p>

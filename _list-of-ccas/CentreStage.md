@@ -1,5 +1,5 @@
 ---
-title: CentreStage (Drama & Debates)
+title: CentreStage
 permalink: /centrestage/
 description: ""
 variant: tiptap

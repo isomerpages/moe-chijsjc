@@ -1,6 +1,6 @@
 ---
-title: Student Conduct
-permalink: /student-development/student-conduct/
+title: Code of Conduct
+permalink: /student-development/code-of-conduct/
 description: ""
 variant: tiptap
 ---

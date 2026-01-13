@@ -9,47 +9,45 @@ variant: tiptap
 </div>
 <p></p>
 <h4><strong>About</strong></h4>
-<p>CentreStage is a fun-filled CCA where students are provided with a platform
-to express themselves eloquently, articulately and persuasively. During
-their weekly sessions, they are taught fundamental skills in drama and
-debates. In drama, they are trained to develop adaptive skills to improvise
-and be quick-witted. In debates, students are challenged to step out of
-their comfort zones and think out of the box in order to craft a convincing
-argument for their speeches. In both sessions, through both drama and debate,
-students engage in in-depth discussion about current affairs and social
-issues, allowing students to foster a deeper understanding of the world
-around them.</p>
-<p>By the end of their time in the CCA, students realise that drama and debates
-go beyond acting and debating. They also acquire soft skills that develop
-their time-management and communication abilities, while allowing their
-self-confidence to flourish. Most importantly, students learn to be open-minded
-and accept each other's differences, while having fun and bonding as a
-CCA.</p>
+<p>Centrestage is a fun-filled CCA where students are provided with a platform
+to express themselves eloquently, articulately and creatively through drama.
+During their weekly sessions, they are taught fundamental drama skills,
+including voice projection, movement, characterisation and improvisation.
+Through drama training, members develop adaptability, quick thinking and
+confidence as they learn to respond in a variety of performance situations.</p>
+<p>Students also engage in meaningful discussions and explorations of current
+affairs and social issues through dramatic expression, allowing them to
+gain a deeper understanding of the world around them while bringing stories
+and perspectives to life on stage.&nbsp;</p>
+<p>By the end of their time in the CCA, students realize that drama goes
+beyond acting. They acquire soft skills such as time management, communication,
+and collaboration, while building self-confidence. Most importantly, students
+learn to be open-minded, appreciate diverse perspectives and bond with
+one another, all while having fun in a supportive and creative environment.</p>
 <h4><strong>Objectives</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>To hone members' critical thinking skills and enable them to express their
-ideas confidently.</p>
+<p>To hone members' creative and critical thinking skills and enable them
+to express their ideas confidently through drama.</p>
 </li>
 <li>
-<p>To develop member's comprehensive understanding of drama and debate, and
-develop the relevant skills in both fields.</p>
+<p>To develop member's comprehensive understanding of drama and develop the
+relevant skills and dispositions.</p>
 </li>
 <li>
-<p>To develop member's understanding of the world and provide platforms for
-them to advocate for social issues.</p>
+<p>To deepen member's understanding of the world by using drama as a platform
+to explore and advocate for social issues.</p>
 </li>
 <li>
 <p>To provide opportunities for members to develop their leadership skills
-through platforms such as facilitating trainings, as well as organising
-CCA camps.</p>
+through facilitating training sessions and organizing CCA activities, such
+as camps.</p>
 </li>
 </ul>
 <h4><strong>CCA Information</strong></h4>
 <p><strong>Schedule</strong>       
 <br>Monday: 3.45 pm – 6.15pm
 <br>Wednesday: 3.45 pm – 6.15 pm
-<br>
 <br>
 </p>
 <p><strong>Teachers-in-charge</strong> 

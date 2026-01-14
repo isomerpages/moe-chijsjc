@@ -15,7 +15,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/centrestage" rel="noopener noreferrer nofollow" target="_blank">CentreStage</a>
+<p><a href="/centrestage" rel="noopener noreferrer nofollow" target="_blank">Centrestage</a>
 </p>
 </li>
 <li>

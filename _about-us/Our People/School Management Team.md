@@ -34,7 +34,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><strong>MR VICTOR ONG</strong>
 <br><strong><em>Vice-Principal</em></strong>
-<br><a href="mailto:victor_ong@moe.edu.sg" rel="noopener nofollow" target="_blank">victor_ong@moe.edu.sg</a>
+<br><a href="mailto:victor_ong@schools.gov.sg" rel="noopener nofollow" target="_blank">victor_ong@schools.gov.sg</a>
 </p>
 </td>
 </tr>

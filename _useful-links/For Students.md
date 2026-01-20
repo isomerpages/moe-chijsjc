@@ -45,22 +45,19 @@ variant: tiptap
 <blockquote>
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
-</li>
-<li>
-<p><a href="/files/Useful Links/Students/Timetables/Secondary_2_Timetables_Sem_1__2026_.pdf" rel="noopener nofollow" target="_blank">Secondary 2 Timetables (Sem 1)</a>
+<p><a href="/files/Useful Links/Students/Weighted Assessments/2026_WA1__Schedule___T1_Sec_1.pdf" rel="noopener nofollow" target="_blank">Secondary 1 WA1 (Term 1)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Useful Links/Students/Timetables/Secondary_3_Timetables_Sem_1__2026_.pdf" rel="noopener nofollow" target="_blank">Secondary 3 Timetables (Sem 1)</a>
+<p><a href="/files/Useful Links/Students/Weighted Assessments/2026_WA1__Schedule___T1_Sec_2.pdf" rel="noopener nofollow" target="_blank">Secondary 2 WA1 (Term 1)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Useful Links/Students/Timetables/Secondary_4_Timetables_Sem_1__2026_.pdf" rel="noopener nofollow" target="_blank">Secondary 4 Timetables (Sem 1)</a>
+<p><a href="/files/Useful Links/Students/Weighted Assessments/2026_WA1__Schedule___T1_Sec_3.pdf" rel="noopener nofollow" target="_blank">Secondary 3 WA1 (Term 1)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Useful Links/Students/Timetables/Secondary_5_Timetables_Sem_1__2026_.pdf" rel="noopener nofollow" target="_blank">Secondary 5 Timetables (Sem 1)</a>
+<p><a href="/files/Useful Links/Students/Weighted Assessments/2026_WA1__Schedule___T1_Sec_4__5.pdf" rel="noopener nofollow" target="_blank">Secondary 4 &amp; 5 WA1 (Term 1)</a>
 </p>
 </li>
 </ul>

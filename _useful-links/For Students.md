@@ -38,6 +38,35 @@ variant: tiptap
 </blockquote>
 <ul data-tight="true" class="tight">
 <li>
+<p><strong>WA1 Schedule for Term 1, 2026</strong>
+</p>
+</li>
+</ul>
+<blockquote>
+<ul data-tight="true" class="tight">
+<li>
+<p></p>
+</li>
+<li>
+<p><a href="/files/Useful Links/Students/Timetables/Secondary_2_Timetables_Sem_1__2026_.pdf" rel="noopener nofollow" target="_blank">Secondary 2 Timetables (Sem 1)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Useful Links/Students/Timetables/Secondary_3_Timetables_Sem_1__2026_.pdf" rel="noopener nofollow" target="_blank">Secondary 3 Timetables (Sem 1)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Useful Links/Students/Timetables/Secondary_4_Timetables_Sem_1__2026_.pdf" rel="noopener nofollow" target="_blank">Secondary 4 Timetables (Sem 1)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Useful Links/Students/Timetables/Secondary_5_Timetables_Sem_1__2026_.pdf" rel="noopener nofollow" target="_blank">Secondary 5 Timetables (Sem 1)</a>
+</p>
+</li>
+</ul>
+</blockquote>
+<ul data-tight="true" class="tight">
+<li>
 <p><strong>Learning Portals</strong>
 </p>
 </li>

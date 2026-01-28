@@ -36,7 +36,7 @@ and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
-<h4><strong>Overview of CHIJ St. Joseph's Convent's Sexuality Education Programme for 2025</strong></h4>
+<h4><strong>Overview of CHIJ St. Joseph's Convent's Sexuality Education Programme for 2026</strong></h4>
 <p>4. Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
@@ -64,7 +64,7 @@ consequences of sexual behaviour.</p>
 the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
-<h5><strong>At CHIJ St. Joseph's Convent, the following Sexuality Education lessons will be taught in 2025:</strong></h5>
+<h5><strong>At CHIJ St. Joseph's Convent, the following Sexuality Education lessons will be taught in 2026:</strong></h5>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Sex Ed/2025_Info_on_SEd___1.png">
 </div>

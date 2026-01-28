@@ -99,18 +99,22 @@ issues related to sexuality, which are of prime concern at this age.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Sex Ed/2025_Info_on_SEd___11.png">
 </div>
 <h4><strong>eTeens Programme</strong></h4>
-<p>8. eTeens is a programme developed by Health Promotion Board, in collaboration
-with the Ministry of Education, to provide Secondary 3 students with accurate
-information on STIs, HIV and protection from a health perspective. eTeens
-is conducted in two segments – a mass talk segment and a classroom-based
-programme. The desired outcome of the eTeens programme is that students
-are empowered to make wise, informed and sensible decisions.</p>
+<p>8. <em>eTeens</em> is a programme that was developed by Health Promotion
+Board, in collaboration with the Ministry of Education, to provide Secondary
+3 students with accurate information on STIs, HIV and protection from a
+health perspective. With the formation of the Communicable Diseases Agency
+(CDA) on 1 April 2025, the programme would now be managed by CDA’s Training
+and Education Division instead of HPB. <em>eTeens</em> is conducted in two
+segments – a mass talk segment and a classroom-based programme. The desired
+outcome of the <em>eTeens</em> programme is that students are empowered to
+make wise, informed and sensible decisions to protect themselves from sexually
+transmitted infectious diseases.</p>
 <p>9. Students are taught skills such as decision-making, assertiveness and
 negotiation to say “no” to sex and negative peer pressure. They also learn
 that the impact of STIs/HIV extends beyond themselves and involves their
 family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.</p>
-<h4><strong>At CHIJ St. Joseph’s Convent, the eTeens programme will be implemented as follows in 2025:</strong></h4>
+<h4><strong>At CHIJ St. Joseph’s Convent, the eTeens programme will be implemented as follows in 2026:</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Sex Ed/eTeens_Programme.png">
 </div>

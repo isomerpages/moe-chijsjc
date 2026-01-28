@@ -125,11 +125,11 @@ external providers.</p>
 <p>11.Parents who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
 to complete an opt-out form. This form will be communicated to parents
 at the start of the year and is also downloadable <a href="/files/Sexuality Education/SexED 2025/ANNEX_A_SEd_opt_out_form__for_website_.pdf" rel="noopener nofollow" target="_blank">here</a>.
-The completed form is to be submitted by 22/01/2025, Wednesday.</p>
+The completed form is to be submitted by 09/02/2026, Wednesday.</p>
 <p>12. Parents who wish to opt their children out of the <strong>eTeens programme</strong> need
 to complete an opt-out form. This form will be communicated to parents
 at the start of the year and is also downloadable <a href="/files/Sexuality Education/SexED 2025/ANNEX_B_2025_eTeens_opt_out_form__for_PG_and_website_.pdf" rel="noopener nofollow" target="_blank">file</a>.
-The completed form is to be submitted by 22/01/2025, Wednesday.</p>
+The completed form is to be submitted by 09/02/2026, Wednesday.</p>
 <p>13. Parents can contact the school at <a href="mailto:chijsjcs@moe.edu.sg" rel="noopener nofollow" target="_blank">chijsjcs@moe.edu.sg</a> for discussion
 or to seek clarification about the school’s Sexuality Education programme.</p>
 <p></p>

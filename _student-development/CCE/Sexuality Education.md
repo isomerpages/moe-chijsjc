@@ -65,10 +65,49 @@ the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
 <h5><strong>At CHIJ St. Joseph's Convent, the following Sexuality Education lessons will be taught in 2026:</strong></h5>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Sex Ed/2026___1.png">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Sex Ed/2026___2.png">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Sex Ed/2026___3.png">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Sex Ed/2026___4.png">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Sex Ed/2026___5.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Sex Ed/2026___6.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Sex Ed/2026___7.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Sex Ed/2026___8.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Sex Ed/2026___9.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Sex Ed/2026___10.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Sex Ed/2026___11.png">
+</div>
 <p></p>
 <h4><strong>eTeens Programme</strong></h4>
 <p>8. <em>eTeens</em> is a programme that was developed by Health Promotion
@@ -88,6 +127,9 @@ family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.</p>
 <h4><strong>At CHIJ St. Joseph’s Convent, the eTeens programme will be implemented as follows in 2026:</strong></h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Sex Ed/2026___eTeens.png">
+</div>
 <p></p>
 <h4><strong>Information for Parents</strong></h4>
 <p>10. Parents may opt their children out of the Sexuality Education lessons,

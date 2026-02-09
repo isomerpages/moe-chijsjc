@@ -60,6 +60,7 @@ the CCA.</p>
 <h4><strong>CCA Information</strong></h4>
 <p><strong>Schedule</strong>       
 <br>Monday: 3.45 pm – 6.15 pm
+<br>Wednesday: 3.45 pm – 6.15 pm
 <br>Friday: 3.45 pm – 6.15 pm
 <br>
 </p>

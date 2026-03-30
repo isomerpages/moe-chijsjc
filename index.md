@@ -16,16 +16,6 @@ sections:
           description: Check what's coming up
           url: /sjc-calendar
   - infopic:
-      title: Sec 1 (2026) E-Registration
-      subtitle: CHIJ SJC
-      id: infopic
-      description: Welcome to CHIJ SJC! Congratulations to your daughter for
-        completing a significant milestone in her education journey.
-      button: Sec 1 E-Registration Link
-      url: https://sites.google.com/moe.edu.sg/chijsjcsec12026microsite/home
-      image: /images/Homepage/2026_Sec_1_Registration_min.png
-      alt: Image alt text
-  - infopic:
       title: Our 2025 Year Book
       subtitle: A Year of Memories
       id: infopic

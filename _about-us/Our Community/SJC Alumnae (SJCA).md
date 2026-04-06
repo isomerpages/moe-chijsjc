@@ -28,7 +28,7 @@ The SJCA Council is made up of:
 *   Honorary Treasurer
 *   4 Committee Members
 
-Read the message from SJCA President Aruna Johnson here: [Message from SJCA President](/files/Our%20Community%20(PSG%20&%20SJCA)/Message%20From%20SJCA%20President.pdf)
+Read the message from SJCA President Monica Khoo here: [Message from SJCA President](/files/Our%20Community%20(PSG%20&%20SJCA)/2026_President_s_Message_Monica_Khoo.pdf)
 
 ![](/images/About%20us/Our%20Community/SJC%20Alumnae/Alumnae_2025.jpg)
 

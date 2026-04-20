@@ -24,8 +24,7 @@ sections:
       alt: Image alt text
       image: /images/Homepage/Illuminite_2.png
       description: "IllumiNite 2: Constellations brings the Visual and Performing Arts
-        CCAs of CHIJ St. Joseph's Convent together in a vibrant
-        showcase,featuring over 300 students."
+        CCAs of CHIJ St. Joseph's Convent together in a vibrant showcase."
   - infopic:
       title: Our 2025 Year Book
       subtitle: A Year of Memories

@@ -36,16 +36,6 @@ sections:
       url: https://online.fliphtml5.com/obrr/CHIJSJC_2025/
       image: /images/CHIJ_SJC_Year_Book_2025.png
       alt: Image alt text
-  - infopic:
-      title: Semester 2 Bulletin
-      subtitle: CHIJ SJC
-      id: infopic
-      description: Enjoy our Semester 2 Bulletin, a snapshot of the semester’s
-        highlights and achievements!
-      button: Click Here
-      url: https://drive.google.com/file/d/1ApFezhnT6CZjvHg5fgHnMQMsuof_mFtc/view?usp=sharing
-      image: /images/Homepage/The_Beacon___News__1_.png
-      alt: Image alt text
   - resources:
       title: Latest Announcements and Schedules
       button: Read More

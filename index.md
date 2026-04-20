@@ -16,6 +16,17 @@ sections:
           description: Check what's coming up
           url: /sjc-calendar
   - infopic:
+      title: Illuminite 2
+      subtitle: CHIJ SJC
+      id: infopic
+      button: Illuminite 2
+      url: https://online.fliphtml5.com/obrr/CHIJSJC-Illuminite2/
+      alt: Image alt text
+      image: /images/Homepage/Illuminite_2.png
+      description: "IllumiNite 2: Constellations brings the Visual and Performing Arts
+        CCAs of CHIJ St. Joseph's Convent together in a vibrant showcase
+        featuring over 300 students."
+  - infopic:
       title: Our 2025 Year Book
       subtitle: A Year of Memories
       id: infopic
@@ -24,16 +35,6 @@ sections:
       button: 2025 Year Book
       url: https://online.fliphtml5.com/obrr/CHIJSJC_2025/
       image: /images/CHIJ_SJC_Year_Book_2025.png
-      alt: Image alt text
-  - infopic:
-      title: Semester 2 Bulletin
-      subtitle: CHIJ SJC
-      id: infopic
-      description: Enjoy our Semester 2 Bulletin, a snapshot of the semester’s
-        highlights and achievements!
-      button: Click Here
-      url: https://drive.google.com/file/d/1ApFezhnT6CZjvHg5fgHnMQMsuof_mFtc/view?usp=sharing
-      image: /images/Homepage/The_Beacon___News__1_.png
       alt: Image alt text
   - resources:
       title: Latest Announcements and Schedules

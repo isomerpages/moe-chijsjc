@@ -16,6 +16,13 @@ sections:
           description: Check what's coming up
           url: /sjc-calendar
   - infopic:
+      title: Illuminite 2
+      subtitle: CHIJ SJC
+      id: infopic
+      button: Illuminite 2
+      url: https://online.fliphtml5.com/obrr/CHIJSJC-Illuminite2/
+      alt: Image alt text
+  - infopic:
       title: Our 2025 Year Book
       subtitle: A Year of Memories
       id: infopic

@@ -68,7 +68,7 @@ compete and grow in their respective fields.</p>
 <p>Culinary Arts Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CentreStage (Drama &amp; Debates)</p>
+<p>Centrestage</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Table Tennis</p>
@@ -156,5 +156,4 @@ domains: Participation, Achievement, Leadership and Service.</p>
 </p>
 <p><a href="/files/Students Schedules/CCA_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">CCA Schedule 2026</a>
 </p>
-<p></p>
-<p></p>
+<p>s</p>

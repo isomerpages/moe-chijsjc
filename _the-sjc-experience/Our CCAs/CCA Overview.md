@@ -68,7 +68,7 @@ compete and grow in their respective fields.</p>
 <p>Culinary Arts Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CentreStage (Drama &amp; Debates)</p>
+<p>Centrestage</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Table Tennis</p>

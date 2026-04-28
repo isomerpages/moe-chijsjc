@@ -96,62 +96,6 @@ as camps.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Eunoia Debating Championships 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Debate Circle</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Preliminary</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Singapore Secondary Schools Debating Championships</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Debate Circle</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Preliminary</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Silver Cup U14 Debate 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Debate Circle</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Preliminary</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mid Year Debate 2025</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Debate Circle</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Preliminary</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -166,62 +110,6 @@ as camps.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Eunoia Debating Championships 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Debate Circle</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Preliminary</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Singapore Secondary Schools Debating Championships</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Debate Circle</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Preliminary</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Raffles Institution U-14 Debating Championship 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Debate Circle</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Preliminary</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dialogic Academy Debating Championships 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Debate Circle</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Preliminary</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>2023</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -232,62 +120,6 @@ as camps.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Certificate of Accomplishment</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Singapore Secondary Schools Debating Championships</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Debate Circle</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Quarterfinals</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Debate Association Debating Championship</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Debate Circle</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Champion for Silver Division</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Raffles Debate Academy Under-14s Debate Championship 2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Debate Circle</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Preliminary</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Dunman High Debate Open</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Debate Circle</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Preliminary</p>
 </td>
 </tr>
 </tbody>

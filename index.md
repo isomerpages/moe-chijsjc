@@ -17,7 +17,7 @@ sections:
           url: /sjc-calendar
   - infopic:
       title: CHIJ SJC Awards Ceremony 2026
-      subtitle: Add an image and text
+      subtitle: CHIJ SJC AC 2026
       id: infopic
       description: Relive the proud moments of the CHIJ SJC Awards Ceremony 2026
         through the photo gallery here.

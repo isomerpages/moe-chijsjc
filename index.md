@@ -24,6 +24,7 @@ sections:
       button: CHIJ SJC Award Ceremony 2026
       url: https://chijstjosephsconvent.pixieset.com/chijsjcawardceremony2026/
       alt: Image alt text
+      image: /images/Homepage/CHIJ_SJC_AC_2026.png
   - infopic:
       title: Illuminite 2
       subtitle: CHIJ SJC

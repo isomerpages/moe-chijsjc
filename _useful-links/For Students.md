@@ -64,6 +64,28 @@ variant: tiptap
 </blockquote>
 <ul data-tight="true" class="tight">
 <li>
+<p><strong>Preliminary Exam Schedule for Secondary 4 &amp; 5 (2026)</strong>
+</p>
+</li>
+</ul>
+<blockquote>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Useful Links/Students/Examinations/4N__Part_1__Prelim_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">Secondary 4N Prelim Schedule (Part 1)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Useful Links/Students/Examinations/4N__Part_2__Prelim_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">Secondary 4N Prelim Schedule (Part 2)</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Useful Links/Students/Examinations/Released__4E5N_Prelim_Schedule_2026.pdf" rel="noopener nofollow" target="_blank">Secondary 4E &amp; Secondary 5N Prelim Schedule</a>
+</p>
+</li>
+</ul>
+</blockquote>
+<ul data-tight="true" class="tight">
+<li>
 <p><strong>Learning Portals</strong>
 </p>
 </li>

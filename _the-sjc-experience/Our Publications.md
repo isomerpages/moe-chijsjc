@@ -9,6 +9,10 @@ description: ""
 from each semester. Enjoy!</p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/Newsletters/2026 Newsletter/The_Beacon_News_from_SJC_Semester_1_Bulletin__2026_.pdf" rel="noopener nofollow" target="_blank">The Beacon, Semester 1 (2026)</a>
+</p>
+</li>
+<li>
 <p><a href="https://drive.google.com/file/d/1ApFezhnT6CZjvHg5fgHnMQMsuof_mFtc/view?usp=drive_link" rel="noopener nofollow" target="_blank">The Beacon, Semester 2 (2025)</a>
 </p>
 </li>

@@ -16,6 +16,16 @@ sections:
           description: Check what's coming up
           url: /sjc-calendar
   - infopic:
+      title: Semester 1 Newsletter (2026)
+      subtitle: CHIJ SJC
+      id: infopic
+      description: Enjoy our Semester 1 Newsletter, a snapshot of the semester’s
+        highlights and achievements!
+      button: The Beacon
+      url: https://drive.google.com/file/d/1haklaHEShZv5aLffExune_wJJfs45saV/view?usp=sharing
+      image: /images/Homepage/Main_Banner___The_Beacon.png
+      alt: Image alt text
+  - infopic:
       title: CHIJ SJC Awards Ceremony 2026
       subtitle: CHIJ SJC AC 2026
       id: infopic

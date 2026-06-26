@@ -15,23 +15,19 @@ variant: tiptap
 <blockquote>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Useful Links/Students/Timetables/Secondary_1_Timetables_Sem_1__2026_.pdf" rel="noopener nofollow" target="_blank">Secondary 1 Timetables (Sem 1)</a>
+<p><a href="/files/Useful Links/Students/Timetables/Secondary_1_Timetables__Sem_2_.pdf" rel="noopener nofollow" target="_blank">Secondary 1 Timetables (Sem 2)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Useful Links/Students/Timetables/Secondary_2_Timetables_Sem_1__2026_.pdf" rel="noopener nofollow" target="_blank">Secondary 2 Timetables (Sem 1)</a>
+<p><a href="/files/Useful Links/Students/Timetables/Secondary_2_Timetables__Sem_2_.pdf" rel="noopener nofollow" target="_blank">Secondary 2 Timetables (Sem 2)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Useful Links/Students/Timetables/Secondary_3_Timetables_Sem_1__2026_.pdf" rel="noopener nofollow" target="_blank">Secondary 3 Timetables (Sem 1)</a>
+<p><a href="/files/Useful Links/Students/Timetables/Secondary_3_Timetables__Sem_2_.pdf" rel="noopener nofollow" target="_blank">Secondary 3 Timetables (Sem 2)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Useful Links/Students/Timetables/Secondary_4_Timetables_Sem_1__2026_.pdf" rel="noopener nofollow" target="_blank">Secondary 4 Timetables (Sem 1)</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Useful Links/Students/Timetables/Secondary_5_Timetables_Sem_1__2026_.pdf" rel="noopener nofollow" target="_blank">Secondary 5 Timetables (Sem 1)</a>
+<p><a href="/files/Useful Links/Students/Timetables/Secondary_4_5_Timetables__Sem_2_.pdf" rel="noopener nofollow" target="_blank">Secondary 4 &amp; 5 Timetables (Sem 2)</a>
 </p>
 </li>
 </ul>

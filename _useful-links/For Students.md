@@ -34,26 +34,22 @@ variant: tiptap
 </blockquote>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>WA2 Schedule for Term 2, 2026</strong>
+<p><strong>WA3 Schedule for Term 3, 2026</strong>
 </p>
 </li>
 </ul>
 <blockquote>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Useful Links/Students/Weighted Assessments/2026_WA2_Schedule___T2_Sec_1.pdf" rel="noopener nofollow" target="_blank">Secondary 1 WA2 (Term 2)</a>
+<p><a href="/files/Useful Links/Students/Weighted Assessments/2026_WA3_Schedule___T3_Sec_1.pdf" rel="noopener nofollow" target="_blank">Secondary 1 WA3 (Term 3)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Useful Links/Students/Weighted Assessments/2026_WA2_Schedule___T2_Sec_2.pdf" rel="noopener nofollow" target="_blank">Secondary 2 WA2 (Term 2)</a>
+<p><a href="/files/Useful Links/Students/Weighted Assessments/2026_WA3_Schedule___T3_Sec_2.pdf" rel="noopener nofollow" target="_blank">Secondary 2 WA3 (Term 3)</a>
 </p>
 </li>
 <li>
-<p><a href="/files/Useful Links/Students/Weighted Assessments/2026_WA2_Schedule___T2_Sec_3.pdf" rel="noopener nofollow" target="_blank">Secondary 3 WA2 (Term 2)</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Useful Links/Students/Weighted Assessments/2026_WA2_Schedule___T2_Sec_4___5.pdf" rel="noopener nofollow" target="_blank">Secondary 4 &amp; 5 WA2 (Term 2)</a>
+<p><a href="/files/Useful Links/Students/Weighted Assessments/2026_WA3_Schedule___T3_Sec_3.pdf" rel="noopener nofollow" target="_blank">Secondary 3 WA3 (Term 3)</a>
 </p>
 </li>
 </ul>

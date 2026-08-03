@@ -888,6 +888,5 @@ intended to inflict harm or discomfort against a victim.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Development/Code of Conduct/Stop_bullying.jpg">
 </div>
-<p>Incident reporting form <a href="https://go.gov.sg/chijsjcrf" rel="noopener nofollow" target="_blank">here.</a>
-</p>
+<h4>Incident Reporting Form <a href="https://go.gov.sg/chijsjcrf" rel="noopener nofollow" target="_blank">here.</a></h4>
 <p></p>
